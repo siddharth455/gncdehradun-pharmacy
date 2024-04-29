@@ -1,0 +1,474 @@
+<?php require "common/header.php" ?>
+<!-- Slider area -->
+<section class="slider-area">
+    <div class="home-slider owl-carousel owl-theme">
+        <div class="single-slider single-slider-bg-1" style="background-image: url(assets/images/main-head-1.webp);">
+            <div class="d-table">
+                <div class="d-table-cell">
+                    <div class="container">
+                        <div class="row align-items-center">
+                            <div class="col-lg-12 text-center">
+                                <div class="slider-tittle one">
+                                    <h1>
+                                        We Focus on Your <span>Children’s Development</span>
+                                    </h1>
+                                    <p>
+                                        In addition to these core schools, students in a given country may also attend schools before and after primary elementary in the and secondary middle school in the us education. Kindergarten or preschool.
+                                    </p>
+                                </div>
+                                <div class="slider-btn bnt1 text-center">
+                                    <a href="#" class="box-btn">Admission</a>
+                                    <a href="#" class="border-btn">View Courses</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="single-slider single-slider-bg-2">
+            <div class="d-table">
+                <div class="d-table-cell">
+                    <div class="container">
+                        <div class="row align-items-center">
+                            <div class="col-lg-12 text-center">
+                                <div class="slider-tittle two">
+                                    <h1>
+                                        We Focus on Your <span>Children’s Development</span>
+                                    </h1>
+                                    <p>
+                                        In addition to these core schools, students in a given country may also attend schools before and after primary elementary in the and secondary middle school in the us education. Kindergarten or preschool.
+                                    </p>
+                                </div>
+                                <div class="slider-btn bnt2">
+                                    <a href="#" class="box-btn">Admission</a>
+                                    <a href="#" class="border-btn">View Courses</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<div class="shape-ellips">
+    <img src="assets/images/shape.png" alt="shape" />
+</div>
+
+<!-- Regular Course area  -->
+
+<section class="home-ragular-course pb-100 mt-5">
+    <div class="container">
+        <div class="section-tittle text-center">
+            <h2>Our Regular Courses</h2>
+            <p>
+                A college course is a class offered by a college or university. These courses are usually part of a program leading.
+            </p>
+        </div>
+
+        <div class="row">
+            <div class="col-lg-4 col-md-6">
+                <div class="single-ragular-course">
+                    <div class="course-img">
+                        <img src="assets/images/course-head-1.webp" alt="ragular" />
+                        <h2>Diploma of Pharmacy</h2>
+                    </div>
+                    <div class="course-content">
+                        <p>
+                            A classroom is a learning space, a room in which both children and adults learn.Parts of education.
+                        </p>
+                        <a href="d-pharmacy.php" class="border-btn">Read More</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6">
+                <div class="single-ragular-course">
+                    <div class="course-img">
+                        <img src="assets/images/course-head-2.webp" alt="ragular" />
+                        <h2>Bachelor of Pharmacy</h2>
+                    </div>
+                    <div class="course-content">
+                        <p>
+                            A classroom is a learning space, a room in which both children and adults learn.Parts of education.
+                        </p>
+                        <a href="b-pharmacy.php" class="border-btn">Read More</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6 sst-10">
+                <div class="single-ragular-course">
+                    <div class="course-img">
+                        <img src="assets/images/course-head-3.webp" alt="ragular" />
+                        <h2>Bachelor of Pharmacy (LE)</h2>
+                    </div>
+                    <div class="course-content">
+                        <p>
+                            A classroom is a learning space, a room in which both children and adults learn.Parts of education.
+                        </p>
+                        <a href="b-pharmacy-le.php" class="border-btn">Read More</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- End Regular Course area  -->
+
+<!-- Choose area  -->
+<section class="choose-area">
+    <div class="container-fluid">
+        <div class="row align-items-center">
+            <div class="col-lg-6 ps-0">
+                <div class="home-choose-img">
+                    <img src="assets/images/gncmh-scaled.webp" alt="choose" />
+                </div>
+            </div>
+
+            <div class="col-lg-6 home-choose">
+                <div class="home-choose-content">
+                    <div class="section-tittle">
+                        <h2>Why Choose GNC?</h2>
+                        <p>
+                            School choice theory assumes that parents are rational actors that can gather and consume information to find a school that matches their child's needs. Parents' desires and ability to choose quality schools.
+                        </p>
+                    </div>
+
+                    <div class="row">
+                        <div class="col-lg-4 col-sm-12 col-md-5">
+                            <ul class="list-unstyled p-0 list-icon-3 ps-4">
+                                <li>Top 10 Rated School</li>
+                                <li>Great Behaviour</li>
+                                <li>Helpful & Kindnesss</li>
+                                <li>Learning With Fun</li>
+                                <li>Children Safety</li>
+                            </ul>
+                        </div>
+                        <div class="col-lg-8 col-sm-12 col-md-7">
+                            <ul class="list-unstyled p-0 list-icon-3 ps-4">
+                                <li>Eco Freindly Environment</li>
+                                <li>Healthy Food & Water in Canteen</li>
+                                <li>Health Care With Certified Dorctors</li>
+                                <li>Huge Playground With Children Park</li>
+                                <li>Physically Fit Buses With Experienced Driver</li>
+                            </ul>
+                        </div>
+                        <a href="about.php" class="box-btn">Know More</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- End Choose area -->
+<!-- Admission Area -->
+<section class="home-admission">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="single-addmission">
+                    <div class="row">
+                        <div class="col-lg-4 col-md-5">
+                            <div class="admission-circle">
+                                <h2 style="text-align: center;">Admission Open for<span>2024-25</span></h2>
+
+                                <div class="admission-shape1">
+                                    <img src="assets/images/admission/shape1.png" alt="shape" />
+                                </div>
+                                <div class="admission-shape2">
+                                    <img src="assets/images/admission/shape2.png" alt="shape" />
+                                </div>
+                                <div class="admission-shape3">
+                                    <img src="assets/images/admission/shape3.png" alt="shape" />
+                                </div>
+                                <div class="admission-shape4">
+                                    <img src="assets/images/admission/shape4.png" alt="shape" />
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-8 col-md-7">
+                            <div class="admission-content">
+                                <h2>Spring Term 2021 Admission for All Standard</h2>
+                                <p>Admission will Close 30th March 2021. Time Remaining:</p>
+                                <ul class="admission-list">
+                                    <li>
+                                        <p id="days">100+</p>
+                                        <span>Companies visited <br>for Placements</span>
+                                    </li>
+                                    <li>
+                                        <p id="hours">300+</p>
+                                        <span>Successful Alumni <br>Worldwide</span>
+                                    </li>
+                                    <li>
+                                        <p id="minutes">1.01CR</p>
+                                        <span>Highest Package <br> offered</span>
+                                    </li>
+                                    <li>
+                                        <p id="seconds">14+</p>
+                                        <span>Year of<br>Excellence</span>
+                                    </li>
+                                </ul>
+                                <a href="admission.html" class="box-btn">Apply Now</a>
+                            </div>
+                        </div>
+                    </div>
+                    <span class="loon">
+                        <img src="assets/images/admission/shape5.png" alt="shape" />
+                    </span>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- End Admission Area -->
+<?php require "company-logo.php"?>
+<!-- Special Course -->
+<section class="home-special-course">
+    <div class="container-fluid">
+        <div class="section-tittle text-center">
+            <h2>Our Special Classes</h2>
+            <p>
+                A college course is a class offered by a college or university. These courses are usually part of a program leading.
+            </p>
+        </div>
+
+        <div class="home-course-slider owl-carousel owl-theme">
+            <div class="single-home-special-course">
+                <div class="course-img">
+                    <img src="assets/images/courses/img4.png" alt="course" />
+                    <div class="course-content">
+                        <h2>Painting Class</h2>
+                        <p>
+                            Paint lessons are a type of formal instruction in playing a musical instrument or singing.
+                        </p>
+                        <a href="single-class.html" class="box-btn">Read More</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="single-home-special-course">
+                <div class="course-img">
+                    <img src="assets/images/courses/img5.png" alt="course" />
+                    <div class="course-content">
+                        <h2>Science Lab</h2>
+                        <p>
+                            Science lessons are a type of formal instruction in playing a musical instrument or singing.
+                        </p>
+                        <a href="single-class.html" class="box-btn">Read More</a>
+
+                    </div>
+                </div>
+            </div>
+
+            <div class="single-home-special-course">
+                <div class="course-img">
+                    <img src="assets/images/courses/img6.png" alt="course" />
+                    <div class="course-content">
+                        <h2>Music Class</h2>
+                        <p>
+                            Science lessons are a type of formal instruction in playing a musical instrument or singing.
+                        </p>
+                        <a href="single-class.html" class="box-btn">Read More</a>
+
+                    </div>
+                </div>
+            </div>
+
+            <div class="single-home-special-course">
+                <div class="course-img">
+                    <img src="assets/images/courses/img7.png" alt="course" />
+                    <div class="course-content">
+                        <h2>Art Class</h2>
+                        <p>
+                            Science lessons are a type of formal instruction in playing a musical instrument or singing.
+                        </p>
+                        <a href="single-class.html" class="box-btn">Read More</a>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- End Special Course -->
+
+<span class="left-shape">
+    <img src="assets/images/left-shape.png" alt="shape" />
+</span>
+
+<!-- News Area -->
+<section class="home-news pb-4 pt-4">
+    <div class="container">
+        <div class="section-tittle text-center">
+            <h2>News &amp; Update</h2>
+            <p>
+                A college course is a class offered by a college or university. These courses are usually part of a program leading.
+            </p>
+        </div>
+
+        <div class="row">
+            <?php
+            // Read the JSON file
+            $news_data = file_get_contents('news-data.json');
+
+            // Decode JSON data into a PHP array
+            $news_array = json_decode($news_data, true);
+            ?>
+            <div class="slick-carousel">
+                <?php foreach ($news_array as $index => $news_item) { ?>
+                    <div class="col-lg-4 col-md-6">
+                        <div class="single-home-news">
+                            <a href="news-page.php?id=<?php echo $index; ?>">
+                                <img src="<?php echo $news_item['image']; ?>" alt="news" />
+                            </a>
+
+                            <div class="single-home-content">
+                                <h2><?php echo $news_item['title']; ?></h2>
+                                <p class="calender">
+                                    <i class="flaticon-calendar"></i> <?php echo $news_item['date']; ?>
+                                </p>
+                                <a href="news-page.php?id=<?php echo $index; ?>" class="line-bnt">Read More <i class="flaticon-next"></i></a> <!-- Pass news ID via URL -->
+                            </div>
+                        </div>
+                    </div>
+                <?php } ?>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- End News Area -->
+
+<!-- Teachers Area -->
+<section class="home-teachers-area mb-5">
+    <div class="container">
+        <div class="section-tittle text-center">
+            <h2>Honorable Teachers</h2>
+            <p>
+                A college course is a class offered by a college or university. These courses are usually part of a program leading.
+            </p>
+        </div>
+
+        <div class="row">
+            <div class="col-lg-3 col-sm-6">
+                <div class="single-home-teacher">
+                    <div class="teacher-img">
+                        <a href="single-teacher.html">
+                            <img src="assets/images/teachers/img9.png" alt="teacher" /></a>
+                    </div>
+                    <div class="teachers-content">
+                        <h2>John Doe</h2>
+                        <p>Assistant Teacher</p>
+                    </div>
+                    <div class="teacher-social">
+                        <ul>
+                            <li>
+                                <a href="#"><i class="flaticon-facebook"></i></a>
+                            </li>
+                            <li>
+                                <a href="#"><i class="flaticon-twitter"></i></a>
+                            </li>
+                            <li>
+                                <a href="#"><i class="flaticon-envelope"></i></a>
+                            </li>
+                            <li>
+                                <a href="#"><i class="flaticon-right-arrow"></i></a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-sm-6">
+                <div class="single-home-teacher">
+                    <div class="teacher-img">
+                        <a href="single-teacher.html">
+                            <img src="assets/images/teachers/img8.png" alt="teacher" /></a>
+                    </div>
+                    <div class="teachers-content">
+                        <h2>Evana Doe</h2>
+                        <p>Teacher</p>
+                    </div>
+                    <div class="teacher-social">
+                        <ul>
+                            <li>
+                                <a href="#"><i class="flaticon-facebook"></i></a>
+                            </li>
+                            <li>
+                                <a href="#"><i class="flaticon-twitter"></i></a>
+                            </li>
+                            <li>
+                                <a href="#"><i class="flaticon-envelope"></i></a>
+                            </li>
+                            <li>
+                                <a href="#"><i class="flaticon-right-arrow"></i></a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-sm-6">
+                <div class="single-home-teacher">
+                    <div class="teacher-img">
+                        <a href="single-teacher.html">
+                            <img src="assets/images/teachers/img3.png" alt="teacher" /></a>
+                    </div>
+                    <div class="teachers-content">
+                        <h2>Smith Doe</h2>
+                        <p>English Teacher</p>
+                    </div>
+                    <div class="teacher-social">
+                        <ul>
+                            <li>
+                                <a href="#"><i class="flaticon-facebook"></i></a>
+                            </li>
+                            <li>
+                                <a href="#"><i class="flaticon-twitter"></i></a>
+                            </li>
+                            <li>
+                                <a href="#"><i class="flaticon-envelope"></i></a>
+                            </li>
+                            <li>
+                                <a href="#"><i class="flaticon-right-arrow"></i></a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-sm-6">
+                <div class="single-home-teacher">
+                    <div class="teacher-img">
+                        <a href="single-teacher.html">
+                            <img src="assets/images/teachers/img12.png" alt="teacher" /></a>
+
+                    </div>
+                    <div class="teachers-content">
+                        <h2>Marida Doe</h2>
+                        <p>Cultuaral Advisor</p>
+                    </div>
+                    <div class="teacher-social">
+                        <ul>
+                            <li>
+                                <a href="#"><i class="flaticon-facebook"></i></a>
+                            </li>
+                            <li>
+                                <a href="#"><i class="flaticon-twitter"></i></a>
+                            </li>
+                            <li>
+                                <a href="#"><i class="flaticon-envelope"></i></a>
+                            </li>
+                            <li>
+                                <a href="#"><i class="flaticon-right-arrow"></i></a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- End Teachers Area -->
+<?php require "testimoni.php"?>
+<?php require "apllication-process.php"?>
+<?php require "common/footer.php" ?>
