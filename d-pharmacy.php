@@ -18,7 +18,7 @@
                     <div class="page-heading">
                         <h2>Diploma in Pharmacy College in India</h2>
                     </div>
-                    <p>The Diploma in Pharmacy (D.Pharma) is a comprehensive two-year course designed for students interested in entering the pharmaceutical sector. This program provides a foundational understanding of pharmaceutical sciences, covering key areas such as pharmacology, pharmaceutical chemistry, pharmacognosy, and pharmaceutics.</p>
+                    <p>The Diploma in Pharmacy (D.Pharm) is a comprehensive two-year course designed for students interested in entering the pharmaceutical sector. This program provides a foundational understanding of pharmaceutical sciences, covering key areas such as pharmacology, pharmaceutical chemistry, pharmacognosy, and pharmaceutics.</p>
 
                     <div class="page-sub-heading mt-5">
                         <h3>Career Prospects:</h3>
@@ -45,6 +45,12 @@
                 <p class="btn btn-sm btn-primary btn-shadow">
                     <a target="_blank" id="printButton" style="border:0px; color:#fff; background:none;text-decoration: none;">Download Fee Structure</a>
                 </p>
+                <p class="btn btn-sm btn-primary btn-shadow">
+                <a target="_blank" href="assets/images/D-Pharm-Syllabus.pdf" style="border:0px; color:#fff; background:none;text-decoration: none; margin-right: 20px;">Syllabus &amp; CO</a>
+                </p>
+                <!-- <p class="btn btn-sm btn-primary btn-shadow">
+                <a target="_blank" href="assets/images/PO-PSO.pdf" style="border:0px; color:#fff; background:none;text-decoration: none;">PO-PSO</a>
+                </p> -->
                 <div class="tabs-style mb-5">
                     <ul class="nav nav-tabs" id="myTab" role="tablist">
                         <li class="nav-item" role="presentation">

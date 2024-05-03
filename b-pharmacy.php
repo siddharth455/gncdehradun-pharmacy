@@ -1,5 +1,5 @@
 <?php require "common/header.php" ?>
-<div class="banner-area about"style="background-image: url(assets/images/d-2.webp);">
+<div class="banner-area about" style="background-image: url(assets/images/d-2.webp);">
     <div class="d-table">
         <div class="d-table-cell">
             <div class="container">
@@ -24,9 +24,8 @@
                         <h3>Career Prospects:</h3>
                     </div>
                     <p>After completing a Bachelor of Pharmacy (B.Pharm), graduates have diverse career paths available. They can work as pharmacists in retail or hospital pharmacies, advising on and dispensing medications. Opportunities also exist in the pharmaceutical industry, including roles in drug manufacturing, quality control, and marketing. B.Pharm graduates can engage in research and development, contributing to the creation of new drugs, or enter the academic field as educators and researchers. Regulatory roles in agencies like the FDA are another option, focusing on drug compliance and safety.</p>
-                   
-                    <a href="#" class="btn btn-lg btn-primary btn-shadow applyNow_button">Apply Now <i class="fa fa-long-arrow-right ms-1" aria-hidden="true"></i></a>
 
+                    <a href="#" class="btn btn-lg btn-primary btn-shadow applyNow_button">Apply Now </a>
                 </div>
             </div>
             <div class="col-lg-6">
@@ -43,8 +42,14 @@
         </div>
         <div class="row">
             <div class="col-lg-8">
-                <p class="btn btn-sm btn-primary btn-shadow applyNow_button">
-                    <a target="_blank" id="printButton" style="border:0px; color:#fff; background:none;text-decoration: none;">Download Fee Structure</a>
+                <p class="btn btn-sm btn-primary btn-shadow">
+                    <a target="_blank" id="printButton" style="border:0px; color:#fff; background:none;text-decoration: none; margin-right: 20px;">Download Fee Structure</a>
+                </p>
+                <p class="btn btn-sm btn-primary btn-shadow">
+                <a target="_blank" href="assets/images/Syllabus_B_Pharm.pdf" style="border:0px; color:#fff; background:none;text-decoration: none; margin-right: 20px;">Syllabus &amp; CO</a>
+                </p>
+                <p class="btn btn-sm btn-primary btn-shadow">
+                <a target="_blank" href="assets/images/PO-PSO.pdf" style="border:0px; color:#fff; background:none;text-decoration: none;">PO-PSO</a>
                 </p>
                 <div class="tabs-style mb-2">
                     <ul class="nav nav-tabs" id="myTab" role="tablist">
@@ -56,7 +61,7 @@
                         </li>
                     </ul>
                     <div id="printableArea">
-                    <div class="course-heading">
+                        <div class="course-heading">
                             <h2 style="text-align: center;">Bachelor in Pharmacy</h2>
                         </div>
                         <div class="tab-content mt-3" id="myTabContent">
@@ -194,7 +199,7 @@
                                             <tbody>
                                                 <tr>
                                                     <td>Starting From</td>
-                                                   <td colspan="4">48,000 (For the package seats)</td>
+                                                    <td colspan="4">48,000 (For the package seats)</td>
                                                 </tr>
                                                 <tr>
                                                     <td>Standard </td>
@@ -335,7 +340,7 @@
     </div>
 </section>
 <?php require "testimoni.php" ?>
-<?php require "apllication-process.php"?>
+<?php require "apllication-process.php" ?>
 <script>
     document.getElementById("printButton").addEventListener("click", function() {
         var printContent1 = document.getElementById("printableArea").innerHTML;

@@ -18,7 +18,7 @@
                     <div class="page-heading">
                         <h2>Lateral Entry in B. Pharm College in India</h2>
                     </div>
-                    <p>Lateral Entry into the Bachelor of Pharmacy (B.Pharm) program is a pathway designed for students who have already completed a Diploma in Pharmacy (D.Pharm) or a similar qualification. This entry method allows these students to directly join the B. Pharma program in the second year, effectively bypassing the first year of the standard curriculum.</p>
+                    <p>Lateral Entry into the Bachelor of Pharmacy (B.Pharm) program is a pathway designed for students who have already completed a Diploma in Pharmacy (D.Pharm) or a similar qualification. This entry method allows these students to directly join the B. Pharm program in the second year, effectively bypassing the first year of the standard curriculum.</p>
                     <p>The program's focus is on advanced pharmaceutical sciences, covering critical subjects like pharmacology, pharmaceutical chemistry, and pharmaceutics. It builds upon the foundational knowledge gained in diploma courses, deepening understanding in drug development, drug action, and regulatory aspects.</p>
 
 

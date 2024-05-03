@@ -68,9 +68,9 @@
                                     <li class="nav-item">
                                         <a href="b-pharmacy.php" class="nav-link">B.Pharm</a>
                                     </li>
-                                    <li class="nav-item">
+                                    <!-- <li class="nav-item">
                                         <a href="b-pharmacy-le.php" class="nav-link">B.Pharm (LE)</a>
-                                    </li>
+                                    </li> -->
                                 </ul>
                             </li>
 
