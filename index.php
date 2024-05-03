@@ -256,40 +256,26 @@
         <div class="home-course-slider owl-carousel owl-theme">
             <div class="single-home-special-course">
                 <div class="course-img">
-                    <img src="assets/images/courses/img4.png" alt="course" />
+                    <img src="assets/images/pharmacy-student.webp" alt="course" />
                     <div class="course-content">
-                        <h2>Painting Class</h2>
+                        <h2>Pharmacy Lab</h2>
                         <p>
-                            Paint lessons are a type of formal instruction in playing a musical instrument or singing.
+                        Explore our state-of-the-art pharmacy lab, equipped to nurture tomorrow's pharmaceutical experts.
                         </p>
-                        <a href="single-class.html" class="box-btn">Read More</a>
+                
                     </div>
                 </div>
             </div>
 
             <div class="single-home-special-course">
                 <div class="course-img">
-                    <img src="assets/images/courses/img5.png" alt="course" />
+                    <img src="assets/images/sport-student.webp" alt="course" />
                     <div class="course-content">
-                        <h2>Science Lab</h2>
+                        <h2>Sports</h2>
                         <p>
-                            Science lessons are a type of formal instruction in playing a musical instrument or singing.
+                        Explore the vibrant world of college sports, where passion meets athleticism and teamwork creates champions.
                         </p>
-                        <a href="single-class.html" class="box-btn">Read More</a>
-
-                    </div>
-                </div>
-            </div>
-
-            <div class="single-home-special-course">
-                <div class="course-img">
-                    <img src="assets/images/courses/img6.png" alt="course" />
-                    <div class="course-content">
-                        <h2>Music Class</h2>
-                        <p>
-                            Science lessons are a type of formal instruction in playing a musical instrument or singing.
-                        </p>
-                        <a href="single-class.html" class="box-btn">Read More</a>
+                       
 
                     </div>
                 </div>
@@ -297,11 +283,25 @@
 
             <div class="single-home-special-course">
                 <div class="course-img">
-                    <img src="assets/images/courses/img7.png" alt="course" />
+                    <img src="assets/images/music.webp" alt="course" />
                     <div class="course-content">
-                        <h2>Art Class</h2>
+                        <h2>Music</h2>
                         <p>
-                            Science lessons are a type of formal instruction in playing a musical instrument or singing.
+                        Discover the harmonious journey of music at our college's vibrant music classes, where passion meets melody.
+                        </p>
+                        <a href="single-class.html" class="box-btn">Read More</a>
+
+                    </div>
+                </div>
+            </div>
+
+            <div class="single-home-special-course">
+                <div class="course-img">
+                    <img src="assets/images/cultural-college.webp" alt="course" />
+                    <div class="course-content">
+                        <h2>Cultural Event</h2>
+                        <p>
+                        Experience the vibrant tapestry of our college's cultural heritage at our upcoming cultural event.
                         </p>
                         <a href="single-class.html" class="box-btn">Read More</a>
 
