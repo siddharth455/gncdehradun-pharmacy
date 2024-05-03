@@ -50,12 +50,11 @@
             <div class="col-lg-6 home-choose">
                 <div class="home-choose-content">
                     <div class="section-tittle">
-                        <h2>Why Choose Edvi?</h2>
-                        <p>
-                            School choice theory assumes that parents are rational actors that can gather and consume information to find a school that matches their child's needs. Parents' desires and ability to choose quality schools.
-                        </p>
+                        <h2>WHY STUDY HERE?</h2>
+                        <p>To facilitate hands-on learning, our campus boasts state-of-the-art laboratories and research facilities. These resources enable students to gain practical experience in pharmaceutical formulation, analysis, and research, allowing them to develop the skills necessary to excel in the industry.</p>
+                        <p>If you aspire to make a meaningful impact in the pharmaceutical field and are passionate about the science of pharmacy, our programs provide the education and training needed to excel in this dynamic and critical profession.</p>
                     </div>
-                    <div class="row">
+                    <!-- <div class="row">
                         <div class="col-lg-4 col-sm-12 col-md-5">
                             <ul class="choose-list-left">
                                 <li><i class="flaticon-check-mark"></i>Top 10 Rated School</li>
@@ -68,7 +67,7 @@
                         <div class="col-lg-8 col-sm-12 col-md-7">
                             <div class="choose-list-home">
                                 <ul>
-                                <li> <i class="flaticon-check-mark"></i>Eco Freindly Environment</li>
+                                    <li> <i class="flaticon-check-mark"></i>Eco Freindly Environment</li>
                                     <li> <i class="flaticon-check-mark"></i>Healthy Food & Water in Canteen</li>
                                     <li> <i class="flaticon-check-mark"></i>Health Care With Certified Dorctors</li>
                                     <li><i class="flaticon-check-mark"></i>Huge Playground With Children Park</li>
@@ -76,11 +75,8 @@
                                 </ul>
                             </div>
                         </div>
-                       <a href="about.php" class="box-btn">Know More</a>
-                    </div>
-=======
                         <a href class="box-btn">Know More</a>
-                    </div>
+                    </div> -->
                 </div>
             </div>
         </div>
