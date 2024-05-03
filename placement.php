@@ -17,7 +17,6 @@
                 <div class="programVideo">
                     <div class="gdlr-core-fluid-video-wrapper">
                         <iframe src="https://www.youtube.com/embed/7hk7G0SEhZ0?autoplay=1&amp;mute=1&amp;playlist=7hk7G0SEhZ0&amp;loop=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" id="gdlr-video-561164" width="560" height="315">
-                        <iframe src="https://www.youtube.com/embed/7hk7G0SEhZ0?autoplay=1&amp;mute=1&amp;playlist=7hk7G0SEhZ0&amp;loop=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" id="gdlr-video-561164" width="560" height="315">
                         </iframe>
                     </div>
                 </div>
@@ -90,17 +89,14 @@
                     <div class="row g-0">
                         <div class="col-xxl-4 col-sm-6">
                             <div class="card h-100 border-1">
-                            <div class="card h-100 border-1">
                                 <div class="card-body">
-                                    <h4>Internships and On-the-job Trainings</h4>
-                                    <p>During your course of studies, you will have ample opportunities to gain industry experience through internships and on-the-job training.</p>
                                     <h4>Internships and On-the-job Trainings</h4>
                                     <p>During your course of studies, you will have ample opportunities to gain industry experience through internships and on-the-job training.</p>
                                 </div>
                             </div>
                         </div>
                         <div class="col-xxl-4 col-sm-6">
-                            <div class="card h-100 border-0" style="background:#f5f5f500;">
+                            <div class="card h-100 border-1">
                                 <div class="card-body">
                                     <h4>Corporate Connect Program</h4>
                                     <p style="color: black;">We have established the Career Competency Program (CCP) at Guru Nanak College with the aim of boosting our graduates' job prospects and creating an environment that attracts a greater number of multinational corporations (MNCs).</p>
@@ -116,7 +112,7 @@
                             </div>
                         </div>
                         <div class="col-xxl-4 col-sm-6">
-                            <div class="card h-100 border-0" style="background:#f5f5f500;">
+                            <div class="card h-100 border-1">
                                 <div class="card-body">
                                     <h4>Accreditations &amp; Validations</h4>
                                     <p style="color: black;">Accreditations and validations stand as the foundational pillars of accuracy and trustworthiness, playing a pivotal role in attracting multinational corporations to our campus for recruitment purposes.</p>
@@ -132,7 +128,7 @@
                             </div>
                         </div>
                         <div class="col-xxl-4 col-sm-6">
-                            <div class="card h-100 border-0" style="background:#f5f5f500;">
+                            <div class="card h-100 border-1">
                                 <div class="card-body">
                                     <h4>Foreign Internships &amp; Semester Exchange</h4>
                                     <p style="color: black;">Participating in Global Internships and Semester Exchange programs enhances your marketability by providing you with a unique blend of international exposure, hands-on experience, and a wealth of knowledge and skills acquired on the job.</p>
