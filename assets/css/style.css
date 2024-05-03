@@ -5059,7 +5059,7 @@ ol {
 /* ----------------------Aplication Process-------------------------------------- */
 
 .apply-section {
-  background-color: #f4f4f4;
+  background-color: #ffffff00;
   padding: 40px 20px;
 }
 
@@ -5076,7 +5076,7 @@ ol {
 }
 
 .steps-container {
-  background: white;
+  background: #ffffff00;
   padding: 20px;
   border-radius: 8px;
   box-shadow: 0 2px 15px rgba(0, 0, 0, 0.1);
@@ -5256,3 +5256,15 @@ ol {
 .course-heading{
   display: none;
 }
+
+.row.approvals {
+  text-align: center;
+  padding: 20px;
+  background-color: #f7f7f7;
+}
+
+.row.approvals h3 {
+  text-align: left;
+  margin-bottom: 20px; 
+}
+

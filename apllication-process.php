@@ -4,7 +4,6 @@
             <div class="steps-container">
                 <h3 class="section-title">How to Apply?</h3>
                 <p class="section-description">To embark on your educational journey at GNC, follow these essential steps whether you're enrolling yourself or assisting an applicant.</p>
-
                 <!-- Step 1 -->
                 <div class="step-box">
                     <a href="#" class="step-link">
@@ -15,7 +14,6 @@
                         </div>
                     </a>
                 </div>
-
                 <!-- Step 2 -->
                 <div class="step-box">
                     <a href="#" class="step-link">
@@ -26,7 +24,6 @@
                         </div>
                     </a>
                 </div>
-
                 <!-- Step 3 -->
                 <div class="step-box">
                     <a href="#" class="step-link">
@@ -39,7 +36,6 @@
                 </div>
             </div>
         </div>
-
         <div class="col-lg-6 col-md-12">
             <div class="development-info" style="background-image: url('assets/images/apply-footer.webp');">
                 <div class="info-content">

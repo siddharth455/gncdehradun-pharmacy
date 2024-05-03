@@ -6,8 +6,8 @@
                 <div class="footer-left">
                     <a href="index.php" class="logo" style="max-width: 42%;"><img src="assets/images/logo.webp" alt="logo" /></a>
                     <p>Admission Office Jhajhra,<br>Chakrata Rd, Dehradun,<br>Uttarakhand 248007 </p>
-                    <p><b>Phone: </b>7300900900</p>
-                    <p><b>Gmail: </b>info@gncdehradun.com</p>
+                    <p><a href="tel:+917300900900" class="contact-link" style="color: white;"><b>Phone: </b>7300900900</a></p>
+                    <p><a href="mailto:info@gncdehradun.com" class="contact-link" style="color: white;"><b>Gmail: </b>info@gncdehradun.com</a></p>
                     <ul class="footer-social">
                         <li>
                             <a href="#"><i class="fab fa-facebook fa-4x" aria-hidden="true"></i></a>

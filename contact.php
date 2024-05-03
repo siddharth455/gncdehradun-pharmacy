@@ -21,13 +21,13 @@
             <div class="icon-container"><i class="fa fa-phone" aria-hidden="true"></i></div>
             <h4>Give us a Call</h4>
             <p>We're available from 9:00 AM to 5:00 PM, Monday to Saturday. Whether you have inquiries, require support, or need expert advice, our friendly staff is ready to assist you.</p>
-            <p><a href="tel:7300900900" class="contact-link">7300900900</a></p>
+            <p><a href="tel:+917300900900" class="contact-link">7300900900</a></p>
         </div>
         <div class="col-lg-4 col-md-4 col-sm-12 contact-item">
             <div class="icon-container"><i class="fa fa-envelope" aria-hidden="true"></i></div>
             <h4>Email Us</h4>
             <p>Our dedicated team is committed to providing you with timely and helpful responses. We aim to reply to all emails within 24 hours during business days.</p>
-            <p><a href="mailto:info@gnc.edu.in" class="contact-link">info@gncdehradun.com</a></p>
+            <p><a href="mailto:info@gncdehradun.com" class="contact-link">info@gncdehradun.com</a></p>
         </div>
         <div class="col-lg-4 col-md-4 col-sm-12 contact-item">
             <div class="icon-container"><i class="fa fa-map-marker" aria-hidden="true"></i></div>
