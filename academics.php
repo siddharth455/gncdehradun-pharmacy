@@ -233,7 +233,7 @@
         </div>
     </div>
 </section>
-<section class="academics-sec pt-8 pb-5" style="background: var(--bg-gray); padding-top: 150px; margin-top: -100px">
+<section class="academics-sec pt-8 pb-5" style="background: #f5f5f500; padding-top: 150px; margin-top: -100px">
     <div class="container">
         <div class="academics-sec__in" style="padding-left: 200px">
             <div class="row d-flex align-items-center">
@@ -271,7 +271,7 @@
         </div>
     </div>
 </section>
-<section class="academics-sec pt-5 pb-5" style="background: var(--bg-white)">
+<section class="academics-sec pt-5 pb-5" style="background: #f5f5f500">
     <div class="container">
         <div class="academics-sec__in" style="padding-right: 200px">
             <div class="row d-flex align-items-center">

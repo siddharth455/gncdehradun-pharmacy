@@ -1698,7 +1698,6 @@ a.scroll-top i {
 
 .course-slider-area .course-slider .course-slider-content p {
   color: #fff;
-  margin: 20px auto;
 }
 
 .course-slider-area .owl-nav {
@@ -5060,6 +5059,7 @@ ol {
 
 .apply-section {
   background-color: #ffffff00;
+  background-color: #ffffff00;
   padding: 40px 20px;
 }
 
@@ -5076,7 +5076,7 @@ ol {
 }
 
 .steps-container {
-  background: #ffffff00;
+  background: white;
   padding: 20px;
   border-radius: 8px;
   box-shadow: 0 2px 15px rgba(0, 0, 0, 0.1);
@@ -5257,4 +5257,20 @@ ol {
   display: none;
 }
 
+
+
+.course-slider-btn strong{
+  color: white;
+}
+
+.row.approvals {
+  text-align: center;
+  padding: 20px;
+  background-color: #f7f7f7;
+}
+
+.row.approvals h3 {
+  text-align: left;
+  margin-bottom: 20px; 
+}
 
