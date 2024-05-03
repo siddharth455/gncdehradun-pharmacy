@@ -96,7 +96,7 @@
                             </div>
                         </div>
                         <div class="col-xxl-4 col-sm-6">
-                            <div class="card h-100 border-0">
+                            <div class="card h-100 border-0" style="background:#f5f5f500;">
                                 <div class="card-body">
                                     <h4>Corporate Connect Program</h4>
                                     <p style="color: black;">We have established the Career Competency Program (CCP) at Guru Nanak College with the aim of boosting our graduates' job prospects and creating an environment that attracts a greater number of multinational corporations (MNCs).</p>
@@ -112,7 +112,7 @@
                             </div>
                         </div>
                         <div class="col-xxl-4 col-sm-6">
-                            <div class="card h-100 border-0">
+                            <div class="card h-100 border-0" style="background:#f5f5f500;">
                                 <div class="card-body">
                                     <h4>Accreditations &amp; Validations</h4>
                                     <p style="color: black;">Accreditations and validations stand as the foundational pillars of accuracy and trustworthiness, playing a pivotal role in attracting multinational corporations to our campus for recruitment purposes.</p>
@@ -128,7 +128,7 @@
                             </div>
                         </div>
                         <div class="col-xxl-4 col-sm-6">
-                            <div class="card h-100 border-0">
+                            <div class="card h-100 border-0" style="background:#f5f5f500;">
                                 <div class="card-body">
                                     <h4>Foreign Internships &amp; Semester Exchange</h4>
                                     <p style="color: black;">Participating in Global Internships and Semester Exchange programs enhances your marketability by providing you with a unique blend of international exposure, hands-on experience, and a wealth of knowledge and skills acquired on the job.</p>

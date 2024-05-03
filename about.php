@@ -68,7 +68,7 @@
                         <div class="col-lg-8 col-sm-12 col-md-7">
                             <div class="choose-list-home">
                                 <ul>
-                                    <li> <i class="flaticon-check-mark"></i>Eco Freindly Environment</li>
+                                <li> <i class="flaticon-check-mark"></i>Eco Freindly Environment</li>
                                     <li> <i class="flaticon-check-mark"></i>Healthy Food & Water in Canteen</li>
                                     <li> <i class="flaticon-check-mark"></i>Health Care With Certified Dorctors</li>
                                     <li><i class="flaticon-check-mark"></i>Huge Playground With Children Park</li>
@@ -76,7 +76,7 @@
                                 </ul>
                             </div>
                         </div>
-                        <a href class="box-btn">Know More</a>
+                       <a href="about.php" class="box-btn">Know More</a>
                     </div>
                 </div>
             </div>

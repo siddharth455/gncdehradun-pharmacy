@@ -238,26 +238,26 @@
         <div class="home-course-slider owl-carousel owl-theme">
             <div class="single-home-special-course">
                 <div class="course-img">
-                    <img src="assets/images/courses/img4.png" alt="course" />
+                    <img src="assets/images/pharmacy-student.webp" alt="course"/>
                     <div class="course-content">
-                        <h2>Painting Class</h2>
+                        <h2>Bachelor of Pharmacy</h2>
                         <p>
-                            Paint lessons are a type of formal instruction in playing a musical instrument or singing.
+                        "Explore our state-of-the-art pharmacy lab, dedicated to ensuring the highest quality and precision in medication compounding."
                         </p>
-                        <a href="single-class.html" class="box-btn">Read More</a>
+                      
                     </div>
                 </div>
             </div>
 
             <div class="single-home-special-course">
                 <div class="course-img">
-                    <img src="assets/images/courses/img5.png" alt="course" />
+                    <img src="assets/images/cultural-college.webp" alt="course" />
                     <div class="course-content">
-                        <h2>Science Lab</h2>
+                        <h2>Cultural Activity</h2>
                         <p>
-                            Science lessons are a type of formal instruction in playing a musical instrument or singing.
+                        "Explore the vibrant cultural activities that showcase the rich heritage and traditions of our community!"
                         </p>
-                        <a href="single-class.html" class="box-btn">Read More</a>
+                        
 
                     </div>
                 </div>
@@ -265,13 +265,13 @@
 
             <div class="single-home-special-course">
                 <div class="course-img">
-                    <img src="assets/images/courses/img6.png" alt="course" />
+                    <img src="assets/images/music.webp" alt="course" />
                     <div class="course-content">
                         <h2>Music Class</h2>
                         <p>
-                            Science lessons are a type of formal instruction in playing a musical instrument or singing.
+                        "Experience the vibrant pulse of college life through our electrifying music scene, where fun meets rhythm!"
                         </p>
-                        <a href="single-class.html" class="box-btn">Read More</a>
+                        
 
                     </div>
                 </div>
@@ -279,13 +279,13 @@
 
             <div class="single-home-special-course">
                 <div class="course-img">
-                    <img src="assets/images/courses/img7.png" alt="course" />
+                    <img src="assets/images/sports-student.webp" alt="course" />
                     <div class="course-content">
-                        <h2>Art Class</h2>
+                        <h2>Sports</h2>
                         <p>
-                            Science lessons are a type of formal instruction in playing a musical instrument or singing.
+                        "Experience the thrill of college sports and unleash your competitive spirit in a fun-filled environment!"
                         </p>
-                        <a href="single-class.html" class="box-btn">Read More</a>
+                        
 
                     </div>
                 </div>
