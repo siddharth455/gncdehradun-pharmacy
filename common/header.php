@@ -90,6 +90,9 @@
                                 </ul>
                             </li>
                             <li class="nav-item">
+                                <a href="research.php" class="nav-link">Research</a>
+                            </li>
+                            <li class="nav-item">
                                 <a href="placement.php" class="nav-link">Placement</a>
                             </li>
                             <li class="nav-item">

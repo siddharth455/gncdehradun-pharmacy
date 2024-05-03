@@ -1,8 +1,32 @@
 <?php require "common/header.php" ?>
 <!-- Slider area -->
-<section class="slider-area">
+
+
+<div id="carouselExampleFade" class="carousel slide carousel-fade" data-bs-ride="carousel" data-bs-interval="3000">
+    <div class="carousel-inner">
+        <div class="carousel-item active">
+            <img src="assets/images/new banner-01.webp" class="d-block w-100" alt="...">
+        </div>
+        <div class="carousel-item">
+            <img src="assets/images/new banner-03.webp" class="d-block w-100" alt="...">
+        </div>
+        <div class="carousel-item">
+            <img src="assets/images/new banner-04.webp" class="d-block w-100" alt="...">
+        </div>
+    </div>
+    <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleFade" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Previous</span>
+    </button>
+    <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleFade" data-bs-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Next</span>
+    </button>
+</div>
+
+<!-- <section class="slider-area">
     <div class="home-slider owl-carousel owl-theme">
-        <div class="single-slider single-slider-bg-1" style="background-image: url(assets/images/main-head-1.webp);">
+        <div class="single-slider single-slider-bg-1" style="background-image: url(assets/images/new\ banner-01.webp);">
             <div class="d-table">
                 <div class="d-table-cell">
                     <div class="container">
@@ -54,11 +78,11 @@
 </section>
 <div class="shape-ellips">
     <img src="assets/images/shape.png" alt="shape" />
-</div>
+</div> -->
 
 <!-- Regular Course area  -->
 
-<section class="home-ragular-course pb-100 mt-5">
+<!-- <section class="home-ragular-course pb-100 mt-5">
     <div class="container">
         <div class="section-tittle text-center">
             <h2>Our Regular Courses</h2>
@@ -98,7 +122,7 @@
                 </div>
             </div>
 
-            <!-- <div class="col-lg-4 col-md-6 sst-10">
+           <div class="col-lg-4 col-md-6 sst-10">
                 <div class="single-ragular-course">
                     <div class="course-img">
                         <img src="assets/images/course-head-3.webp" alt="ragular" />
@@ -111,10 +135,10 @@
                         <a href="b-pharmacy-le.php" class="border-btn">Read More</a>
                     </div>
                 </div>
-            </div> -->
+            </div>
         </div>
     </div>
-</section>
+</section> -->
 
 <!-- End Regular Course area  -->
 
@@ -139,7 +163,7 @@
 
                     <div class="section-tittle">
                         <h2 style="text-align: left;">Approvals &amp; Accreditation</h2>
-                        <div class="row approvals">
+                        <div class="row approvals align-left">
                             <div class="col-lg-4 col-sm-4">
                                 <img src="assets/images/Uttarakhand_Technical_University_logo.webp" alt="Uttarakhand Technical University Logo" style="max-width: 100%; height: auto;">
                             </div>

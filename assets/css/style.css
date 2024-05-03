@@ -5257,14 +5257,4 @@ ol {
   display: none;
 }
 
-.row.approvals {
-  text-align: center;
-  padding: 20px;
-  background-color: #f7f7f7;
-}
-
-.row.approvals h3 {
-  text-align: left;
-  margin-bottom: 20px; 
-}
 
