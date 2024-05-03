@@ -1698,6 +1698,7 @@ a.scroll-top i {
 
 .course-slider-area .course-slider .course-slider-content p {
   color: #fff;
+  margin: 20px auto;
 }
 
 .course-slider-area .owl-nav {
@@ -5254,7 +5255,4 @@ ol {
 }
 .course-heading{
   display: none;
-}
-.course-slider-btn strong{
-  color: white;
 }
