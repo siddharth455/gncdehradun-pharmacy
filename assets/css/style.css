@@ -1698,7 +1698,6 @@ a.scroll-top i {
 
 .course-slider-area .course-slider .course-slider-content p {
   color: #fff;
-  margin: 20px auto;
 }
 
 .course-slider-area .owl-nav {
@@ -5059,7 +5058,7 @@ ol {
 /* ----------------------Aplication Process-------------------------------------- */
 
 .apply-section {
-  background-color: #f4f4f4;
+  background-color: #ffffff00;
   padding: 40px 20px;
 }
 
@@ -5076,7 +5075,7 @@ ol {
 }
 
 .steps-container {
-  background: white;
+  background: #ffffff00;
   padding: 20px;
   border-radius: 8px;
   box-shadow: 0 2px 15px rgba(0, 0, 0, 0.1);
@@ -5256,3 +5255,27 @@ ol {
 .course-heading{
   display: none;
 }
+<<<<<<< HEAD
+<<<<<<< HEAD
+.course-slider-btn strong{
+  color: white;
+}
+=======
+
+.row.approvals {
+  text-align: center;
+  padding: 20px;
+  background-color: #f7f7f7;
+}
+
+.row.approvals h3 {
+  text-align: left;
+  margin-bottom: 20px; 
+}
+
+>>>>>>> 4e1fb79f8c59cb5b30c216552db59084b0613029
+=======
+.course-slider-btn strong{
+  color: white;
+}
+>>>>>>> parent of 679bd8e (Revert "changes in  photos")

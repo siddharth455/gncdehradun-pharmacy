@@ -1,4 +1,4 @@
-<div class="partner-section">
+<div class="partner-section dark-partner-section">
     <div class="container">
     <div class="section-tittle text-center">
             <h2>Industry Top Recruiters</h2>

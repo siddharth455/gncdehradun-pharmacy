@@ -68,7 +68,7 @@
         </div>
 
         <div class="row">
-            <div class="col-lg-4 col-md-6">
+            <div class="col-lg-6 col-md-6 col-12">
                 <div class="single-ragular-course">
                     <div class="course-img">
                         <img src="assets/images/course-head-1.webp" alt="ragular" />
@@ -76,14 +76,14 @@
                     </div>
                     <div class="course-content">
                         <p>
-                            A classroom is a learning space, a room in which both children and adults learn.Parts of education.
+                            The Diploma in Pharmacy (D.Pharm) is designed for students interested in entering the pharmaceutical sector.
                         </p>
                         <a href="d-pharmacy.php" class="border-btn">Read More</a>
                     </div>
                 </div>
             </div>
 
-            <div class="col-lg-4 col-md-6">
+            <div class="col-lg-6 col-md-6 col-12">
                 <div class="single-ragular-course">
                     <div class="course-img">
                         <img src="assets/images/course-head-2.webp" alt="ragular" />
@@ -91,14 +91,14 @@
                     </div>
                     <div class="course-content">
                         <p>
-                            A classroom is a learning space, a room in which both children and adults learn.Parts of education.
+                            The Bachelor of Pharmacy (B.Pharm) is a fundamental undergraduate degree for those interested in the pharmaceutical industry.
                         </p>
                         <a href="b-pharmacy.php" class="border-btn">Read More</a>
                     </div>
                 </div>
             </div>
 
-            <div class="col-lg-4 col-md-6 sst-10">
+            <!-- <div class="col-lg-4 col-md-6 sst-10">
                 <div class="single-ragular-course">
                     <div class="course-img">
                         <img src="assets/images/course-head-3.webp" alt="ragular" />
@@ -111,7 +111,7 @@
                         <a href="b-pharmacy-le.php" class="border-btn">Read More</a>
                     </div>
                 </div>
-            </div>
+            </div> -->
         </div>
     </div>
 </section>
@@ -132,32 +132,26 @@
                 <div class="home-choose-content">
                     <div class="section-tittle">
                         <h2>Why Choose GNC?</h2>
-                        <p>
-                            School choice theory assumes that parents are rational actors that can gather and consume information to find a school that matches their child's needs. Parents' desires and ability to choose quality schools.
-                        </p>
+                        <p>Guru Nanak College of Pharmaceutical Sciences, situated in the serene and academically vibrant city of Dehradun, has established itself as a prestigious center of higher education since its inception. Renowned for its specialization in pharmacy education, the college has rapidly emerged as a top Pharmaceutical college in the region. Despite its relatively short history, it has gained a reputation as one of the most prestigious Pharmacy Colleges in Dehradun.</p>
+                        <p>At Guru Nanak College of Pharmaceutical Sciences, the ethos is deeply rooted in fostering the growth of the next generation of pharmaceutical professionals. This commitment extends beyond mere academic instruction; the college prides itself on instilling values of innovation, ethical practice, and academic excellence. It operates with a belief that education is a pivotal force in personal and societal advancement, a philosophy that resonates through its diverse course offerings.</p>
                     </div>
 
-                    <div class="row">
-                        <div class="col-lg-4 col-sm-12 col-md-5">
-                            <ul class="list-unstyled p-0 list-icon-3 ps-4">
-                                <li>Top 10 Rated School</li>
-                                <li>Great Behaviour</li>
-                                <li>Helpful & Kindnesss</li>
-                                <li>Learning With Fun</li>
-                                <li>Children Safety</li>
-                            </ul>
+
+                    <div class="section-tittle">
+                        <h2 style="text-align: left;">Approvals &amp; Accreditation</h2>
+                        <div class="row approvals">
+                            <div class="col-lg-4 col-sm-4">
+                                <img src="assets/images/Uttarakhand_Technical_University_logo.webp" alt="Uttarakhand Technical University Logo" style="max-width: 100%; height: auto;">
+                            </div>
+                            <div class="col-lg-4 col-sm-4">
+                                <img src="assets/images/UBTER.webp" alt="UBTER Logo" style="max-width: 100%; height: auto;">
+                            </div>
+                            <div class="col-lg-4 col-sm-4">
+                                <img src="assets/images/Pharmacy_Council_of_India Logo.webp" alt="Pharmacy Council of India Logo" style="max-width: 100%; height: auto;">
+                            </div>
                         </div>
-                        <div class="col-lg-8 col-sm-12 col-md-7">
-                            <ul class="list-unstyled p-0 list-icon-3 ps-4">
-                                <li>Eco Freindly Environment</li>
-                                <li>Healthy Food & Water in Canteen</li>
-                                <li>Health Care With Certified Dorctors</li>
-                                <li>Huge Playground With Children Park</li>
-                                <li>Physically Fit Buses With Experienced Driver</li>
-                            </ul>
-                        </div>
-                        <a href="about.php" class="box-btn">Know More</a>
                     </div>
+
                 </div>
             </div>
         </div>
@@ -207,7 +201,7 @@
                                         <span>Highest Package <br> offered</span>
                                     </li>
                                     <li>
-                                        <p id="seconds">14+</p>
+                                        <p id="seconds">7+</p>
                                         <span>Year of<br>Excellence</span>
                                     </li>
                                 </ul>
@@ -224,7 +218,7 @@
     </div>
 </section>
 <!-- End Admission Area -->
-<?php require "company-logo.php"?>
+<?php require "company-logo.php" ?>
 <!-- Special Course -->
 <section class="home-special-course">
     <div class="container-fluid">
@@ -238,26 +232,26 @@
         <div class="home-course-slider owl-carousel owl-theme">
             <div class="single-home-special-course">
                 <div class="course-img">
-                    <img src="assets/images/courses/img4.png" alt="course" />
+                    <img src="assets/images/pharmacy-student.webp" alt="course"/>
                     <div class="course-content">
-                        <h2>Painting Class</h2>
+                        <h2>Bachelor of Pharmacy</h2>
                         <p>
-                            Paint lessons are a type of formal instruction in playing a musical instrument or singing.
+                        "Explore our state-of-the-art pharmacy lab, dedicated to ensuring the highest quality and precision in medication compounding."
                         </p>
-                        <a href="single-class.html" class="box-btn">Read More</a>
+                      
                     </div>
                 </div>
             </div>
 
             <div class="single-home-special-course">
                 <div class="course-img">
-                    <img src="assets/images/courses/img5.png" alt="course" />
+                    <img src="assets/images/cultural-college.webp" alt="course" />
                     <div class="course-content">
-                        <h2>Science Lab</h2>
+                        <h2>Cultural Activity</h2>
                         <p>
-                            Science lessons are a type of formal instruction in playing a musical instrument or singing.
+                        "Explore the vibrant cultural activities that showcase the rich heritage and traditions of our community!"
                         </p>
-                        <a href="single-class.html" class="box-btn">Read More</a>
+                        
 
                     </div>
                 </div>
@@ -265,13 +259,13 @@
 
             <div class="single-home-special-course">
                 <div class="course-img">
-                    <img src="assets/images/courses/img6.png" alt="course" />
+                    <img src="assets/images/music.webp" alt="course" />
                     <div class="course-content">
                         <h2>Music Class</h2>
                         <p>
-                            Science lessons are a type of formal instruction in playing a musical instrument or singing.
+                        "Experience the vibrant pulse of college life through our electrifying music scene, where fun meets rhythm!"
                         </p>
-                        <a href="single-class.html" class="box-btn">Read More</a>
+                        
 
                     </div>
                 </div>
@@ -279,13 +273,13 @@
 
             <div class="single-home-special-course">
                 <div class="course-img">
-                    <img src="assets/images/courses/img7.png" alt="course" />
+                    <img src="assets/images/sports-student.webp" alt="course" />
                     <div class="course-content">
-                        <h2>Art Class</h2>
+                        <h2>Sports</h2>
                         <p>
-                            Science lessons are a type of formal instruction in playing a musical instrument or singing.
+                        "Experience the thrill of college sports and unleash your competitive spirit in a fun-filled environment!"
                         </p>
-                        <a href="single-class.html" class="box-btn">Read More</a>
+                        
 
                     </div>
                 </div>
@@ -469,6 +463,6 @@
     </div>
 </section>
 <!-- End Teachers Area -->
-<?php require "testimoni.php"?>
-<?php require "apllication-process.php"?>
+<?php require "testimoni.php" ?>
+<?php require "apllication-process.php" ?>
 <?php require "common/footer.php" ?>
