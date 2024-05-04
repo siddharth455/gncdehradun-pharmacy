@@ -15,7 +15,7 @@
         <div class="single-about">
             <div class="row">
                 <div class="col-lg-6 col-md-6 col-12">
-                    <img src="assets/images/campus-tour.webp" alt="about" />
+                    <img src="assets/images/campus-tour.webp" alt="about" style="border-radius: 15px;"/>
                 </div>
                 <div class="col-lg-6 col-md-6 col-12">
                     <div class="about-contnet">
@@ -44,7 +44,7 @@
         <div class="row align-items-center">
             <div class="col-lg-6 ps-0">
                 <div class="home-choose-img">
-                    <img src="assets/images/pcm-head.webp" alt="choose" />
+                    <img src="assets/images/pcm-head.webp" alt="choose"  style="border-radius: 15px;"/>
                 </div>
             </div>
             <div class="col-lg-6 home-choose">
@@ -123,27 +123,11 @@
                 <div class="single-home-teacher">
                     <div class="teacher-img">
                         <a href="single-teacher.html">
-                            <img src="assets/images/teachers/img9.png" alt="teacher" /></a>
+                            <img src="assets/images/teachers/img9.png" alt="teacher"/></a>
                     </div>
                     <div class="teachers-content">
                         <h2>John Doe</h2>
                         <p>Assistant Teacher</p>
-                    </div>
-                    <div class="teacher-social">
-                        <ul>
-                            <li>
-                                <a href><i class="flaticon-facebook"></i></a>
-                            </li>
-                            <li>
-                                <a href><i class="flaticon-twitter"></i></a>
-                            </li>
-                            <li>
-                                <a href><i class="flaticon-envelope"></i></a>
-                            </li>
-                            <li>
-                                <a href><i class="flaticon-right-arrow"></i></a>
-                            </li>
-                        </ul>
                     </div>
                 </div>
             </div>
@@ -157,23 +141,7 @@
                         <h2>Evana Doe</h2>
                         <p>Teacher</p>
                     </div>
-                    <div class="teacher-social">
-                        <ul>
-                            <li>
-                                <a href><i class="flaticon-facebook"></i></a>
-                            </li>
-                            <li>
-                                <a href><i class="flaticon-twitter"></i></a>
-                            </li>
-                            <li>
-                                <a href><i class="flaticon-envelope"></i></a>
-                            </li>
-                            <li>
-                                <a href><i class="flaticon-right-arrow"></i></a>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
+                   </div>
             </div>
             <div class="col-lg-3 col-sm-6">
                 <div class="single-home-teacher">
@@ -184,22 +152,6 @@
                     <div class="teachers-content">
                         <h2>Smith Doe</h2>
                         <p>English Teacher</p>
-                    </div>
-                    <div class="teacher-social">
-                        <ul>
-                            <li>
-                                <a href><i class="flaticon-facebook"></i></a>
-                            </li>
-                            <li>
-                                <a href><i class="flaticon-twitter"></i></a>
-                            </li>
-                            <li>
-                                <a href><i class="flaticon-envelope"></i></a>
-                            </li>
-                            <li>
-                                <a href><i class="flaticon-right-arrow"></i></a>
-                            </li>
-                        </ul>
                     </div>
                 </div>
             </div>
@@ -212,22 +164,6 @@
                     <div class="teachers-content">
                         <h2>Marida Doe</h2>
                         <p>Cultuaral Advisor</p>
-                    </div>
-                    <div class="teacher-social">
-                        <ul>
-                            <li>
-                                <a href><i class="flaticon-facebook"></i></a>
-                            </li>
-                            <li>
-                                <a href><i class="flaticon-twitter"></i></a>
-                            </li>
-                            <li>
-                                <a href><i class="flaticon-envelope"></i></a>
-                            </li>
-                            <li>
-                                <a href><i class="flaticon-right-arrow"></i></a>
-                            </li>
-                        </ul>
                     </div>
                 </div>
             </div>
