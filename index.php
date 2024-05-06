@@ -23,7 +23,6 @@
         <span class="visually-hidden">Next</span>
     </button>
 </div>
-
 <!-- <section class="slider-area">
     <div class="home-slider owl-carousel owl-theme">
         <div class="single-slider single-slider-bg-1" style="background-image: url(assets/images/new\ banner-01.webp);">
@@ -159,18 +158,16 @@
                         <p>Guru Nanak College of Pharmaceutical Sciences, situated in the serene and academically vibrant city of Dehradun, has established itself as a prestigious center of higher education since its inception. Renowned for its specialization in pharmacy education, the college has rapidly emerged as a top Pharmaceutical college in the region. Despite its relatively short history, it has gained a reputation as one of the most prestigious Pharmacy Colleges in Dehradun.</p>
                         <p>At Guru Nanak College of Pharmaceutical Sciences, the ethos is deeply rooted in fostering the growth of the next generation of pharmaceutical professionals. This commitment extends beyond mere academic instruction; the college prides itself on instilling values of innovation, ethical practice, and academic excellence. It operates with a belief that education is a pivotal force in personal and societal advancement, a philosophy that resonates through its diverse course offerings.</p>
                     </div>
-
-
                     <div class="section-tittle">
                         <h2 style="text-align: left;">Approvals &amp; Accreditation</h2>
                         <div class="row approvals align-left justify-content-center aligns-items-center">
-                            <div class="col-lg-4 col-sm-4">
+                            <div class="col-lg-4 col-sm-4 text-center mt-2">
                                 <img src="assets/images/Uttarakhand_Technical_University_logo.webp" alt="Uttarakhand Technical University Logo" style="max-width: 100%; height: auto;">
                             </div>
-                            <div class="col-lg-4 col-sm-4">
+                            <div class="col-lg-4 col-sm-4 text-center mt-2">
                                 <img src="assets/images/UBTER.webp" alt="UBTER Logo" style="max-width: 100%; height: auto;">
                             </div>
-                            <div class="col-lg-4 col-sm-4">
+                            <div class="col-lg-4 col-sm-4 text-center mt-2">
                                 <img src="assets/images/Pharmacy_Council_of_India Logo.webp" alt="Pharmacy Council of India Logo" style="max-width: 100%; height: auto;">
                             </div>
                         </div>
