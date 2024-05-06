@@ -212,17 +212,17 @@
                         <p class="text-black">Guru Nanak College integrates new technologies and equipment to provide the best immersive learning experience to its students. Immersive learning is where one uses experiential learning tools to improve a student's learning experiences.</p>
                         <div class="row text-center g-2">
                             <div class="col-sm-4">
-                                <div class="card border-1 bg-white shadow-sm">
+                                <div class="card border-1 bg-white shadow-sm" style="filter: drop-shadow(5px 6px 5px black);">
                                     Focused on <br>Practical Training
                                 </div>
                             </div>
                             <div class="col-sm-4">
-                                <div class="card border-1 bg-white shadow-sm">
+                                <div class="card border-1 bg-white shadow-sm" style="filter: drop-shadow(5px 6px 5px black);">
                                     Higher <br>Employability
                                 </div>
                             </div>
                             <div class="col-sm-4">
-                                <div class="card border-1 bg-white shadow-sm">
+                                <div class="card border-1 bg-white shadow-sm" style="filter: drop-shadow(5px 6px 5px black);">
                                     Higher Engagement <br>and Effectiveness
                                 </div>
                             </div>
@@ -243,24 +243,24 @@
                     </div>
                 </div>
                 <div class="col-lg-6">
-                    <div class="academics-sec__content">
+                    <div class="academics-sec__content" >
                         <div class="page-heading">
                             <h2>Innovative Teaching</h2>
                         </div>
                         <p>Innovation in education means consciously and deliberately introducing an improvement in the education system. It can be applicable in structure, content, curriculum and teaching pedagogies. College education depicts a wide range of innovative and impactful teaching tools to engage students. Freedom of innovation in education stimulates a more efficient system. Innovation involves pedagogical activities, including new and useful content and technology for learning, teaching, and assessment, all designed for the effectiveness of education.</p>
                         <div class="row text-center g-2">
                             <div class="col-sm-4">
-                                <div class="card border-1 bg-white shadow-sm">
+                                <div class="card border-1 bg-white shadow-sm" style="filter: drop-shadow(5px 6px 5px black);">
                                     Enquiry-based <br>Learning
                                 </div>
                             </div>
                             <div class="col-sm-4">
-                                <div class="card border-1 bg-white shadow-sm">
+                                <div class="card border-1 bg-white shadow-sm" style="filter: drop-shadow(5px 6px 5px black);">
                                     Project-based <br>Learning
                                 </div>
                             </div>
                             <div class="col-sm-4">
-                                <div class="card border-1 bg-white shadow-sm">
+                                <div class="card border-1 bg-white shadow-sm" style="filter: drop-shadow(5px 6px 5px black);">
                                     Blended <br>Learning
                                 </div>
                             </div>
@@ -277,7 +277,7 @@
             <div class="row d-flex align-items-center">
                 <div class="col-lg-6">
                     <div class="academics-sec__img br-20 overflow-hidden">
-                        <img src="assets/images/pcm-head.webp" alt="" class="w-100">
+                        <img src="assets/images/pcm-head.webp" alt="" class="w-100" style="filter: drop-shadow(5px 6px 5px black);">
                     </div>
                 </div>
                 <div class="col-lg-6">
@@ -288,17 +288,17 @@
                         <p>Every class comprises students exhibiting variation in their ability to comprehend academic concepts and exhibit a profound understanding of the applicability and future prospects of distinctive courses. Slow learners and advanced learners are identified generally, based on their qualifying marks and learning speed through the class test, quiz, class participation, and IQ level. The faculty frames and adopts teaching methodology to ensure that slow learners get proper attention and at the same time are not led to a disinclination on the part of advanced learners.</p>
                         <div class="row text-center g-2">
                             <div class="col-sm-4">
-                                <div class="card border-1 bg-white shadow-sm">
+                                <div class="card border-1 bg-white shadow-sm" style="filter: drop-shadow(5px 6px 5px black);">
                                     Attend Workshops <br>Training Programs
                                 </div>
                             </div>
                             <div class="col-sm-4">
-                                <div class="card border-1 bg-white shadow-sm">
+                                <div class="card border-1 bg-white shadow-sm" style="filter: drop-shadow(5px 6px 5px black);">
                                     Guidance for Entrance <br>Exam Preparation
                                 </div>
                             </div>
                             <div class="col-sm-4">
-                                <div class="card border-1 bg-white shadow-sm">
+                                <div class="card border-1 bg-white shadow-sm" style="filter: drop-shadow(5px 6px 5px black);">
                                     Participation in <br>Conferences and Seminars
                                 </div>
                             </div>
@@ -327,49 +327,49 @@
             <div class="col-lg-6">
                 <div class="row g-3">
                     <div class="col-md-6">
-                        <div class="card h-100">
+                        <div class="card h-100" style="filter: drop-shadow(5px 6px 5px black);">
                             <div class="card-body">
                                 <p>Seminars/Guest Lectures/Workshops by eminent speakers from industry, academia, and research institutes</p>
                             </div>
                         </div>
                     </div>
                     <div class="col-md-6">
-                        <div class="card h-100">
+                        <div class="card h-100" style="filter: drop-shadow(5px 6px 5px black);">
                             <div class="card-body">
                                 <p>Tour/visit to industry, hospital, and research institutes etc</p>
                             </div>
                         </div>
                     </div>
                     <div class="col-md-6">
-                        <div class="card h-100">
+                        <div class="card h-100" style="filter: drop-shadow(5px 6px 5px black);">
                             <div class="card-body">
                                 <p>Placement Cell</p>
                             </div>
                         </div>
                     </div>
                     <div class="col-md-6">
-                        <div class="card h-100">
+                        <div class="card h-100" style="filter: drop-shadow(5px 6px 5px black);">
                             <div class="card-body">
                                 <p>Entrepreneur Development Cell</p>
                             </div>
                         </div>
                     </div>
                     <div class="col-md-6">
-                        <div class="card h-100">
+                        <div class="card h-100" style="filter: drop-shadow(5px 6px 5px black);">
                             <div class="card-body">
                                 <p>Personality Development Cell</p>
                             </div>
                         </div>
                     </div>
                     <div class="col-md-6">
-                        <div class="card h-100">
+                        <div class="card h-100" style="filter: drop-shadow(5px 6px 5px black);">
                             <div class="card-body">
                                 <p>Extra-curricular Activity Clubs</p>
                             </div>
                         </div>
                     </div>
                     <div class="col-md-6">
-                        <div class="card h-100">
+                        <div class="card h-100" style="filter: drop-shadow(5px 6px 5px black);">
                             <div class="card-body">
                                 <p>Industry Oriented Curriculum Comparable with World's Top Colleges</p>
                             </div>

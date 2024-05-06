@@ -5,13 +5,13 @@
 <div id="carouselExampleFade" class="carousel slide carousel-fade" data-bs-ride="carousel" data-bs-interval="3000">
     <div class="carousel-inner">
         <div class="carousel-item active">
-            <img src="assets/images/new banner-01.webp" class="d-block w-100" alt="...">
+            <img src="assets/images/new banner-01.webp" class="d-block w-100" alt="..." style="filter: drop-shadow(5px 6px 5px black);">
         </div>
         <div class="carousel-item">
-            <img src="assets/images/new banner-03.webp" class="d-block w-100" alt="...">
+            <img src="assets/images/new banner-03.webp" class="d-block w-100" alt="..." style="filter: drop-shadow(5px 6px 5px black);">
         </div>
         <div class="carousel-item">
-            <img src="assets/images/new banner-04.webp" class="d-block w-100" alt="...">
+            <img src="assets/images/new banner-04.webp" class="d-block w-100" alt="..." style="filter: drop-shadow(5px 6px 5px black);">
         </div>
     </div>
     <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleFade" data-bs-slide="prev">
@@ -147,8 +147,8 @@
     <div class="container-fluid">
         <div class="row align-items-center">
             <div class="col-lg-6 ps-0">
-                <div class="home-choose-img">
-                    <img src="assets/images/gncmh-scaled.webp" alt="choose" />
+                <div class="home-choose-img" >
+                    <img src="assets/images/gncmh-scaled.webp" alt="choose"/>
                 </div>
             </div>
 
@@ -163,7 +163,7 @@
 
                     <div class="section-tittle">
                         <h2 style="text-align: left;">Approvals &amp; Accreditation</h2>
-                        <div class="row approvals align-left">
+                        <div class="row approvals align-left justify-content-center aligns-items-center">
                             <div class="col-lg-4 col-sm-4">
                                 <img src="assets/images/Uttarakhand_Technical_University_logo.webp" alt="Uttarakhand Technical University Logo" style="max-width: 100%; height: auto;">
                             </div>
@@ -189,8 +189,8 @@
             <div class="col-lg-12">
                 <div class="single-addmission">
                     <div class="row">
-                        <div class="col-lg-4 col-md-5">
-                            <div class="admission-circle">
+                        <div class="col-lg-4 col-md-5" >
+                            <div class="admission-circle" style="filter: drop-shadow(5px 6px 5px black);">
                                 <h2 style="text-align: center;">Admission Open for<span>2024-25</span></h2>
 
                                 <div class="admission-shape1">
@@ -256,7 +256,7 @@
         <div class="home-course-slider owl-carousel owl-theme">
             <div class="single-home-special-course">
                 <div class="course-img">
-                    <img src="assets/images/pharmacy-student.webp" alt="course" />
+                    <img src="assets/images/pharmacy-student.webp" alt="course" style="filter: drop-shadow(5px 6px 5px black);"/>
                     <div class="course-content">
                         <h2>Pharmacy Lab</h2>
                         <p>
@@ -269,7 +269,7 @@
 
             <div class="single-home-special-course">
                 <div class="course-img">
-                    <img src="assets/images/sport-student.webp" alt="course" />
+                    <img src="assets/images/sport-student.webp" alt="course" style="filter: drop-shadow(5px 6px 5px black);"/>
                     <div class="course-content">
                         <h2>Sports</h2>
                         <p>
@@ -283,7 +283,7 @@
 
             <div class="single-home-special-course">
                 <div class="course-img">
-                    <img src="assets/images/music.webp" alt="course" />
+                    <img src="assets/images/music.webp" alt="course" style="filter: drop-shadow(5px 6px 5px black);"/>
                     <div class="course-content">
                         <h2>Music</h2>
                         <p>
@@ -297,7 +297,7 @@
 
             <div class="single-home-special-course">
                 <div class="course-img">
-                    <img src="assets/images/cultural-college.webp" alt="course" />
+                    <img src="assets/images/cultural-college.webp" alt="course" style="filter: drop-shadow(5px 6px 5px black);"/>
                     <div class="course-content">
                         <h2>Cultural Event</h2>
                         <p>
@@ -314,7 +314,7 @@
 <!-- End Special Course -->
 
 <span class="left-shape">
-    <img src="assets/images/left-shape.png" alt="shape" />
+    <img src="assets/images/left-shape.png" alt="shape" style="filter: drop-shadow(5px 6px 5px black);"/>
 </span>
 
 <!-- News Area -->
@@ -340,7 +340,7 @@
                     <div class="col-lg-4 col-md-6">
                         <div class="single-home-news">
                             <a href="news-page.php?id=<?php echo $index; ?>">
-                                <img src="<?php echo $news_item['image']; ?>" alt="news" />
+                                <img src="<?php echo $news_item['image']; ?>" alt="news" style="filter: drop-shadow(5px 6px 5px black);"/>
                             </a>
 
                             <div class="single-home-content">

@@ -333,7 +333,7 @@
             </div>
             <div class="col-lg-6 col-md-8 col-sm-10">
                 <div class="bigInfo-section__content pt-8 pb-8">
-                    <div style="     background-size: cover; background-size: cover; background-repeat: no-repeat;"><img src="assets/images/mainimg/DSC00635.webp" alt="logo"></div>
+                    <div style="     background-size: cover; background-size: cover; background-repeat: no-repeat;"><img src="assets/images/mainimg/DSC00635.webp" alt="logo" style="border-radius: 15px; filter: drop-shadow(5px 6px 5px black);"></div>
                 </div>
             </div>
         </div>
