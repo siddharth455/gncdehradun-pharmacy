@@ -1,7 +1,5 @@
 <?php require "common/header.php" ?>
 <!-- Slider area -->
-
-
 <div id="carouselExampleFade" class="carousel slide carousel-fade" data-bs-ride="carousel" data-bs-interval="3000">
     <div class="carousel-inner">
         <div class="carousel-item active">
@@ -164,13 +162,13 @@
                     <div class="section-tittle">
                         <h2 style="text-align: left;">Approvals &amp; Accreditation</h2>
                         <div class="row approvals align-left">
-                            <div class="col-lg-4 col-sm-4">
+                            <div class="col-lg-4 col-sm-4 col-4">
                                 <img src="assets/images/Uttarakhand_Technical_University_logo.webp" alt="Uttarakhand Technical University Logo" style="max-width: 100%; height: auto;">
                             </div>
-                            <div class="col-lg-4 col-sm-4">
+                            <div class="col-lg-4 col-sm-4 col-4">
                                 <img src="assets/images/UBTER.webp" alt="UBTER Logo" style="max-width: 100%; height: auto;">
                             </div>
-                            <div class="col-lg-4 col-sm-4">
+                            <div class="col-lg-4 col-sm-4 col-4">
                                 <img src="assets/images/Pharmacy_Council_of_India Logo.webp" alt="Pharmacy Council of India Logo" style="max-width: 100%; height: auto;">
                             </div>
                         </div>
