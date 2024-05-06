@@ -29,6 +29,7 @@
                 </div>
             </div>
             <div class="col-lg-6">
+                
                 <iframe src="https://www.youtube.com/embed/7hk7G0SEhZ0?autoplay=1&amp;mute=1&amp;playlist=7hk7G0SEhZ0&amp;loop=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" id="gdlr-video-411196" width="100%" height="100%"></iframe>
 
             </div>
@@ -306,7 +307,7 @@
 <?php require "company-logo.php" ?>
 <section class="bigInfo-section mb-5">
     <div class="container">
-        <div class="row">
+        <div class="row align-items-center">
             <div class="col-lg-6 col-md-8 col-sm-10">
                 <div class="bigInfo-section__content pt-5 pb-5">
                     <div class="page-heading">
@@ -333,7 +334,7 @@
             </div>
             <div class="col-lg-6 col-md-8 col-sm-10">
                 <div class="bigInfo-section__content pt-8 pb-8">
-                    <div style="background-size: cover; background-size: cover; background-repeat: no-repeat;"><img src="upload/why-apply-gnc.webp"></div>
+                    <div style="background-size: cover; background-size: cover; background-repeat: no-repeat;"><img src="assets/images/mainimg/DSC00737.webp" alt="logo" style="border-radius: 15px; filter: drop-shadow(5px 6px 5px black);"></div>
                 </div>
             </div>
         </div>

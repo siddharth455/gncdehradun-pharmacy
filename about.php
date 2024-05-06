@@ -15,13 +15,13 @@
         <div class="single-about">
             <div class="row">
                 <div class="col-lg-6 col-md-6 col-12">
-                    <img src="assets/images/campus-tour.webp" alt="about" />
+                    <img src="assets/images/campus-tour.webp" alt="about" style="border-radius: 15px; filter: drop-shadow(5px 6px 5px black);"/>
                 </div>
                 <div class="col-lg-6 col-md-6 col-12">
                     <div class="about-contnet">
-                        <h2>SCHOOL OF PHARMACY AT GURU NANAK COLLEGE DEHRADUN</h2>
+                        <h2>SCHOOL OF PHARMACY AT Guru Nanak College of Pharmaceutical Sciences COLLEGE DEHRADUN</h2>
                         <p>
-                            Welcome to the school of Pharmacy at Guru Nanak College, Dehradun, is a leading institution dedicated to excellence in pharmaceutical education.
+                            Welcome to the school of Pharmacy at Guru Nanak College of Pharmaceutical Sciences, Dehradun, is a leading institution dedicated to excellence in pharmaceutical education.
                         </p>
                         <p>Affiliated with the prestigious Uttarakhand Technical University (UTU), our school offers a range of comprehensive pharmaceutical programs, including Bachelor of Pharmacy (B.Pharma) and Diploma in Pharmacy (D.Pharm). These programs are meticulously designed to equip students with the knowledge and skills necessary for a successful career in the pharmaceutical industry.
                         </p>
@@ -44,7 +44,7 @@
         <div class="row align-items-center">
             <div class="col-lg-6 ps-0">
                 <div class="home-choose-img">
-                    <img src="assets/images/pcm-head.webp" alt="choose" />
+                    <img src="assets/images/pcm-head.webp" alt="choose" style="border-top-right-radius: 30px;"/>
                 </div>
             </div>
             <div class="col-lg-6 home-choose">
@@ -99,13 +99,15 @@
             <div class="col-lg-8">
                 <div class="row" style="font-size: 14px">
                     <div class="col-md-6">
-                        <p style="color:black">Education is the key to unlocking doors to countless opportunities and igniting the flame of positive change within society. Guru Nanak College, Dehradun is the ultimate destination for those who aspire to be a catalyst for change, both personally and professionally. Guru Nanak College is a college that breaks free from conventional pedagogy and traditional classroom teaching. Transcending these boundaries is our strong belief in equipping our students with the knowledge and skills to make a positive impact on society and drive transformation. Our commitment to developing responsible global citizens is what makes us stand out.</p>
+                        <p style="color:black">Education is the key to unlocking doors to countless opportunities and igniting the flame of positive change within society. Guru Nanak College of Pharmaceutical Sciences, Dehradun is the ultimate destination for those who aspire to be a catalyst for change, both personally and professionally. Guru Nanak College of Pharmaceutical Sciences is a college that breaks free from conventional pedagogy and traditional classroom teaching. Transcending these boundaries is our strong belief in equipping our students with the knowledge and skills to make a positive impact on society and drive transformation. Our commitment to developing responsible global citizens is what makes us stand out.</p>
                     </div>
                     <div class="col-md-6">
-                        <p style="color:black">Our educational approach is meant to give you the confidence and resilience to tackle any challenge, whether it's personal or professional. We are committed to developing you into a leader who pursues their chosen career path without fear. With Guru Nanak College by your side, you will be equipped with the essential professional skills and empowered to unleash your full potential, leaving an indelible mark wherever your journey takes you. Join us at Guru Nanak College, where we believe in education as a powerful tool for change and where we pave the way for your limitless possibilities and a brighter future.</p>
+                        <p style="color:black">Our educational approach is meant to give you the confidence and resilience to tackle any challenge, whether it's personal or professional. We are committed to developing you into a leader who pursues their chosen career path without fear. With Guru Nanak College of Pharmaceutical Sciences by your side, you will be equipped with the essential professional skills and empowered to unleash your full potential, leaving an indelible mark wherever your journey takes you. Join us at Guru Nanak College of Pharmaceutical Sciences, where we believe in education as a powerful tool for change and where we pave the way for your limitless possibilities and a brighter future.</p>
                     </div>
                 </div>
 
+
+                
             </div>
         </div>
     </div>
@@ -123,27 +125,11 @@
                 <div class="single-home-teacher">
                     <div class="teacher-img">
                         <a href="single-teacher.html">
-                            <img src="assets/images/teachers/img9.png" alt="teacher" /></a>
+                            <img src="assets/images/teachers/img9.png" alt="teacher"/></a>
                     </div>
                     <div class="teachers-content">
                         <h2>John Doe</h2>
                         <p>Assistant Teacher</p>
-                    </div>
-                    <div class="teacher-social">
-                        <ul>
-                            <li>
-                                <a href><i class="flaticon-facebook"></i></a>
-                            </li>
-                            <li>
-                                <a href><i class="flaticon-twitter"></i></a>
-                            </li>
-                            <li>
-                                <a href><i class="flaticon-envelope"></i></a>
-                            </li>
-                            <li>
-                                <a href><i class="flaticon-right-arrow"></i></a>
-                            </li>
-                        </ul>
                     </div>
                 </div>
             </div>
@@ -157,23 +143,7 @@
                         <h2>Evana Doe</h2>
                         <p>Teacher</p>
                     </div>
-                    <div class="teacher-social">
-                        <ul>
-                            <li>
-                                <a href><i class="flaticon-facebook"></i></a>
-                            </li>
-                            <li>
-                                <a href><i class="flaticon-twitter"></i></a>
-                            </li>
-                            <li>
-                                <a href><i class="flaticon-envelope"></i></a>
-                            </li>
-                            <li>
-                                <a href><i class="flaticon-right-arrow"></i></a>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
+                   </div>
             </div>
             <div class="col-lg-3 col-sm-6">
                 <div class="single-home-teacher">
@@ -184,22 +154,6 @@
                     <div class="teachers-content">
                         <h2>Smith Doe</h2>
                         <p>English Teacher</p>
-                    </div>
-                    <div class="teacher-social">
-                        <ul>
-                            <li>
-                                <a href><i class="flaticon-facebook"></i></a>
-                            </li>
-                            <li>
-                                <a href><i class="flaticon-twitter"></i></a>
-                            </li>
-                            <li>
-                                <a href><i class="flaticon-envelope"></i></a>
-                            </li>
-                            <li>
-                                <a href><i class="flaticon-right-arrow"></i></a>
-                            </li>
-                        </ul>
                     </div>
                 </div>
             </div>
@@ -212,22 +166,6 @@
                     <div class="teachers-content">
                         <h2>Marida Doe</h2>
                         <p>Cultuaral Advisor</p>
-                    </div>
-                    <div class="teacher-social">
-                        <ul>
-                            <li>
-                                <a href><i class="flaticon-facebook"></i></a>
-                            </li>
-                            <li>
-                                <a href><i class="flaticon-twitter"></i></a>
-                            </li>
-                            <li>
-                                <a href><i class="flaticon-envelope"></i></a>
-                            </li>
-                            <li>
-                                <a href><i class="flaticon-right-arrow"></i></a>
-                            </li>
-                        </ul>
                     </div>
                 </div>
             </div>
