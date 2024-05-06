@@ -5259,3 +5259,10 @@ ol {
   color: white;
 }
 
+.heading th{
+  font-weight: bolder !important;
+  font-size: 18px !important;
+}
+.course-content h2{
+  margin: -10px;
+}

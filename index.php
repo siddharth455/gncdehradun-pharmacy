@@ -289,7 +289,7 @@
                         <p>
                         Discover the harmonious journey of music at our college's vibrant music classes, where passion meets melody.
                         </p>
-                        <a href="single-class.html" class="box-btn">Read More</a>
+                      
 
                     </div>
                 </div>
@@ -301,9 +301,9 @@
                     <div class="course-content">
                         <h2>Cultural Event</h2>
                         <p>
-                        Experience the vibrant tapestry of our college's cultural heritage at our upcoming cultural event.
+                        Experience the vibrant tapestry and tradition of our college's cultural heritage at our upcoming cultural event.
                         </p>
-                        <a href="single-class.html" class="box-btn">Read More</a>
+                        
 
                     </div>
                 </div>
