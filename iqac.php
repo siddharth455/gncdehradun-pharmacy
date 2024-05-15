@@ -88,9 +88,7 @@
                                         <li>Research sharing and networking with other institutions in India and abroad.</li>
                                     </ul>
                                 </div>
-
                                 <hr>
-
                                 <div class="data-block">
                                     <h3>Some of the functions expected of the IQAC are:</h3>
                                     <ul>

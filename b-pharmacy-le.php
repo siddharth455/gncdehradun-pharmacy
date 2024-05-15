@@ -16,7 +16,7 @@
             <div class="col-lg-6">
                 <div class="aboutProgram-section__content">
                     <div class="page-heading">
-                        <h2>Lateral Entry in B. Pharm College in India</h2>
+                        <h2>Best Lateral Entry in B. Pharm College in India</h2>
                     </div>
                     <p>Lateral Entry into the Bachelor of Pharmacy (B.Pharm) program is a pathway designed for students who have already completed a Diploma in Pharmacy (D.Pharm) or a similar qualification. This entry method allows these students to directly join the B. Pharm program in the second year, effectively bypassing the first year of the standard curriculum.</p>
                     <p>The program's focus is on advanced pharmaceutical sciences, covering critical subjects like pharmacology, pharmaceutical chemistry, and pharmaceutics. It builds upon the foundational knowledge gained in diploma courses, deepening understanding in drug development, drug action, and regulatory aspects.</p>
@@ -26,7 +26,11 @@
                         <h3>Career Prospects:</h3>
                     </div>
                     <p>After completing a Bachelor of Pharmacy (B.Pharm) through the Lateral Entry pathway, graduates have a variety of career opportunities in the pharmaceutical and healthcare industries. They can become licensed pharmacists in retail or hospital settings, where they dispense medications and provide drug-related advice to patients. The program also opens doors to roles in pharmaceutical manufacturing, quality control, and assurance, where they ensure the safety and efficacy of medications.</p>
+<<<<<<< HEAD
+                    <a href="https://gnc.edu.in/pharmacy-college?utm_source=Pharmacy-website&utm_medium=Online&utm_campaign=Pharmacy-website" class="btn btn-lg btn-shadow applyNow_button" style="background-color: #00bcfb;">Apply Now <i class="fa fa-long-arrow-right ms-1" aria-hidden="true"></i></a>
+=======
                     <a href="#" class="btn btn-lg btn-primary btn-shadow applyNow_button">Apply Now <i class="fa fa-long-arrow-right ms-1" aria-hidden="true"></i></a>
+>>>>>>> parent of 5679838 (worked on banner chnages)
 
                 </div>
             </div>
@@ -270,8 +274,8 @@
                             <ul class="list-unstyled p-0 list-icon-4 ps-4 mt-3">
                                 <li>5% scholarship on Net Academic Fee (after merit scholarship) to Girl Candidate for complete programme.</li>
                                 <li>5% scholarship on Net Academic Fee (after merit scholarship) to ward of Defence Personnel for complete programme.</li>
-                                <li>10% scholarship on Net Academic Fee (after merit scholarship) to Alumni of Guru Nanak College (only in 1st year).</li>
-                                <li>10% scholarship on Net Academic Fee (after merit scholarship) to Sibling of Guru Nanak College (only in 1st year).</li>
+                                <li>10% scholarship on Net Academic Fee (after merit scholarship) to Alumni of Guru Nanak College of Pharmaceutical Sciences (only in 1st year).</li>
+                                <li>10% scholarship on Net Academic Fee (after merit scholarship) to Sibling of Guru Nanak College of Pharmaceutical Sciences (only in 1st year).</li>
                             </ul>
                         </li>
                     </ul>
@@ -311,10 +315,10 @@
                 <div class="bigInfo-section__content pt-5 pb-5">
                     <div class="page-heading">
                         <h3>
-                            Why join School of Pharmacy at Guru Nanak College, Dehradun?
+                            Why join School of Pharmacy at Guru Nanak College of Pharmaceutical Sciences, Dehradun?
                         </h3>
                     </div>
-                    <p>At the School of Pharmacy, part of the esteemed Guru Nanak College, Dehradun, we are dedicated to offering top-tier education in pharmaceutical sciences.</p>
+                    <p>At the School of Pharmacy, part of the esteemed Guru Nanak College of Pharmaceutical Sciences, Dehradun, we are dedicated to offering top-tier education in pharmaceutical sciences.</p>
                     <ul class="list-unstyled p-0 list-icon-3 ps-4">
                         <li>Our aim is to develop skilled professionals equipped to meet global healthcare and pharmaceutical challenges. </li>
                         <li>The campus boasts advanced educational facilities for a comprehensive learning experience.</li>
@@ -328,7 +332,11 @@
                         </li>
                         <li>We focus on value-based education, aiming to develop critical thinking, problem-solving skills, and a knack for innovation and research in our students. Recognizing the importance of career readiness in the dynamic field of pharmacy, we offer extensive placement training to prepare our students for successful careers in the pharmaceutical and healthcare sectors.</li>
                     </ul>
+<<<<<<< HEAD
+                    <a href="https://gnc.edu.in/pharmacy-college?utm_source=Pharmacy-website&utm_medium=Online&utm_campaign=Pharmacy-website" class="btn btn-lg btn-shadow mt-4 applyNow_button">Apply Now <i class="fa fa-long-arrow-right ms-1" aria-hidden="true"></i></a>
+=======
                     <a href="#" class="btn btn-lg btn-primary btn-shadow mt-4 applyNow_button">Apply Now <i class="fa fa-long-arrow-right ms-1" aria-hidden="true"></i></a>
+>>>>>>> parent of 5679838 (worked on banner chnages)
                 </div>
             </div>
             <div class="col-lg-6 col-md-8 col-sm-10">
@@ -347,7 +355,7 @@
         var printContent2 = document.getElementById("printableArea-1").innerHTML;
         var windowPrint = window.open('', '', 'height=400,width=800');
 
-        windowPrint.document.write('<html><head><title>Guru Nanak College, Dehradun</title>');
+        windowPrint.document.write('<html><head><title>Guru Nanak College of Pharmaceutical Sciences, Dehradun</title>');
         windowPrint.document.write('<style>');
         // Write your CSS styles here
         windowPrint.document.write(`

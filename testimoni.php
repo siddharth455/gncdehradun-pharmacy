@@ -1,9 +1,9 @@
-<section class="course-slider-area">
+<section class="course-slider-area pb-3">
     <div class="container">
-        <div class="section-tittle text-center mt-5 mb-5">
+        <div class="section-tittle text-center mt-4 mb-4">
             <h2>What our students say?</h2>
             <p>
-                A college course is a class offered by a college or university. These courses are usually part of a program leading.
+                Discover What Our Students Have to Say About Their Journey.
             </p>
         </div>
         <div class="course-slider owl-carousel owl-theme ">
@@ -66,4 +66,6 @@
                     </div>
                 </div>
             </div>
+        </div>
+    </div>
 </section>

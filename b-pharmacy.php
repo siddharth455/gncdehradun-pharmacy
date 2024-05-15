@@ -16,7 +16,7 @@
             <div class="col-lg-6">
                 <div class="aboutProgram-section__content">
                     <div class="page-heading">
-                        <h2>Bachelor of Pharmacy (B.Pharm)</h2>
+                        <h2>Best Bachelor of Pharmacy (B.Pharm) College in india</h2>
                     </div>
                     <p>The Bachelor of Pharmacy (B.Pharm) is a fundamental undergraduate degree for those interested in the pharmaceutical industry. This course, typically spanning four years, provides comprehensive education in the science and practice of pharmacy. It covers a range of subjects including pharmaceutical chemistry, pharmacology, pharmaceutics, and pharmacognosy.</p>
                     <p>Students in the B.Pharm program gain a deep understanding of drug therapy, medication management, and the ethical and legal aspects of pharmacy practice. The course emphasizes both theoretical knowledge and practical skills, preparing graduates for diverse roles in healthcare, research, drug development, and the pharmaceutical industry.</p>
@@ -25,11 +25,14 @@
                     </div>
                     <p>After completing a Bachelor of Pharmacy (B.Pharm), graduates have diverse career paths available. They can work as pharmacists in retail or hospital pharmacies, advising on and dispensing medications. Opportunities also exist in the pharmaceutical industry, including roles in drug manufacturing, quality control, and marketing. B.Pharm graduates can engage in research and development, contributing to the creation of new drugs, or enter the academic field as educators and researchers. Regulatory roles in agencies like the FDA are another option, focusing on drug compliance and safety.</p>
 
+<<<<<<< HEAD
+                    <a href="https://gnc.edu.in/pharmacy-college?utm_source=Pharmacy-website&utm_medium=Online&utm_campaign=Pharmacy-website" class="btn btn-lg btn-shadow applyNow_button" style="background-color: #00bcfb;">Apply Now </a>
+=======
                     <a href="#" class="btn btn-lg btn-primary btn-shadow applyNow_button">Apply Now </a>
+>>>>>>> parent of 5679838 (worked on banner chnages)
                 </div>
             </div>
             <div class="col-lg-6">
-                
                 <iframe src="https://www.youtube.com/embed/7hk7G0SEhZ0?autoplay=1&amp;mute=1&amp;playlist=7hk7G0SEhZ0&amp;loop=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" id="gdlr-video-411196" width="100%" height="100%"></iframe>
 
             </div>
@@ -271,8 +274,8 @@
                             <ul class="list-unstyled p-0 list-icon-4 ps-4 mt-3">
                                 <li>5% scholarship on Net Academic Fee (after merit scholarship) to Girl Candidate for complete programme.</li>
                                 <li>5% scholarship on Net Academic Fee (after merit scholarship) to ward of Defence Personnel for complete programme.</li>
-                                <li>10% scholarship on Net Academic Fee (after merit scholarship) to Alumni of Guru Nanak College (only in 1st year).</li>
-                                <li>10% scholarship on Net Academic Fee (after merit scholarship) to Sibling of Guru Nanak College (only in 1st year).</li>
+                                <li>10% scholarship on Net Academic Fee (after merit scholarship) to Alumni of Guru Nanak College of Pharmaceutical Sciences (only in 1st year).</li>
+                                <li>10% scholarship on Net Academic Fee (after merit scholarship) to Sibling of Guru Nanak College of Pharmaceutical Sciences (only in 1st year).</li>
                             </ul>
                         </li>
                     </ul>
@@ -307,15 +310,15 @@
 <?php require "company-logo.php" ?>
 <section class="bigInfo-section mb-5">
     <div class="container">
-        <div class="row align-items-center">
+        <div class="row">
             <div class="col-lg-6 col-md-8 col-sm-10">
                 <div class="bigInfo-section__content pt-5 pb-5">
                     <div class="page-heading">
                         <h3>
-                            Why join School of Pharmacy at Guru Nanak College, Dehradun?
+                            Why join School of Pharmacy at Guru Nanak College of Pharmaceutical Sciences, Dehradun?
                         </h3>
                     </div>
-                    <p>At the School of Pharmacy, part of the esteemed Guru Nanak College, Dehradun, we are dedicated to offering top-tier education in pharmaceutical sciences.</p>
+                    <p>At the School of Pharmacy, part of the esteemed Guru Nanak College of Pharmaceutical Sciences, Dehradun, we are dedicated to offering top-tier education in pharmaceutical sciences.</p>
                     <ul class="list-unstyled p-0 list-icon-3 ps-4">
                         <li>Our aim is to develop skilled professionals equipped to meet global healthcare and pharmaceutical challenges. </li>
                         <li>The campus boasts advanced educational facilities for a comprehensive learning experience.</li>
@@ -329,12 +332,16 @@
                         </li>
                         <li>We focus on value-based education, aiming to develop critical thinking, problem-solving skills, and a knack for innovation and research in our students. Recognizing the importance of career readiness in the dynamic field of pharmacy, we offer extensive placement training to prepare our students for successful careers in the pharmaceutical and healthcare sectors.</li>
                     </ul>
+<<<<<<< HEAD
+                    <a href="https://gnc.edu.in/pharmacy-college?utm_source=Pharmacy-website&utm_medium=Online&utm_campaign=Pharmacy-website" class="btn btn-lg btn-shadow mt-4 applyNow_button">Apply Now <i class="fa fa-long-arrow-right ms-1" aria-hidden="true"></i></a>
+=======
                     <a href="#" class="btn btn-lg btn-primary btn-shadow mt-4 applyNow_button">Apply Now <i class="fa fa-long-arrow-right ms-1" aria-hidden="true"></i></a>
+>>>>>>> parent of 5679838 (worked on banner chnages)
                 </div>
             </div>
             <div class="col-lg-6 col-md-8 col-sm-10">
                 <div class="bigInfo-section__content pt-8 pb-8">
-                    <div style="background-size: cover; background-size: cover; background-repeat: no-repeat;"><img src="assets/images/mainimg/DSC00737.webp" alt="logo" style="border-radius: 15px; filter: drop-shadow(5px 6px 5px black);"></div>
+                    <div style="background-size: cover; background-size: cover; background-repeat: no-repeat;"><img src="upload/why-apply-gnc.webp"></div>
                 </div>
             </div>
         </div>
@@ -348,7 +355,7 @@
         var printContent2 = document.getElementById("printableArea-1").innerHTML;
         var windowPrint = window.open('', '', 'height=400,width=800');
 
-        windowPrint.document.write('<html><head><title>Guru Nanak College, Dehradun</title>');
+        windowPrint.document.write('<html><head><title>Guru Nanak College of Pharmaceutical Sciences, Dehradun</title>');
         windowPrint.document.write('<style>');
         // Write your CSS styles here
         windowPrint.document.write(`

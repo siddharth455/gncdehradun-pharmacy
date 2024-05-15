@@ -94,7 +94,7 @@
                                                 <tr>
                                                     <td><span style="font-weight: 400;">1.</span></td>
                                                     <td><span style="font-weight: 400;">Dr. Amit Bhatt</span></td>
-                                                    <td><span style="font-weight: 400;">Campus Director-Guru Nanak College</span></td>
+                                                    <td><span style="font-weight: 400;">Campus Director-Guru Nanak College of Pharmaceutical Sciences</span></td>
                                                     <td><span style="font-weight: 400;">Chairperson</span></td>
                                                 </tr>
 
@@ -203,7 +203,7 @@
                                                 <tr>
                                                     <td><span style="font-weight: 400;">16.</span></td>
                                                     <td><span style="font-weight: 400;">Ms. Gurpreet Kaur</span></td>
-                                                    <td><span style="font-weight: 400;">B.Sc. Nursing, Guru Nanak College of Nursing</span></td>
+                                                    <td><span style="font-weight: 400;">B.Sc. Nursing, Guru Nanak College of Pharmaceutical Sciences of Nursing</span></td>
                                                     <td><span style="font-weight: 400;">Special Invitee</span></td>
                                                 </tr>
 
@@ -227,7 +227,7 @@
                                     </div>
 
                                     <ul class="list-unstyled p-0 list-icon-3 ps-4">
-                                        <li>Guru Nanak College took advantage of ICT enhancements and came up with the "Online Grievance Registering and Monitoring System". It is a digital platform for Students to identify and apply for grievances/queries. This platform ensures a time-bound mechanism for redressal of the grievance(s).</li>
+                                        <li>Guru Nanak College of Pharmaceutical Sciences took advantage of ICT enhancements and came up with the "Online Grievance Registering and Monitoring System". It is a digital platform for Students to identify and apply for grievances/queries. This platform ensures a time-bound mechanism for redressal of the grievance(s).</li>
                                         <li>The complainant needs to register the grievance on the “STUDENT GRIEVANCE REDRESSAL CELL” on the College web site ‘uudoon.in’.
                                         </li>
                                         <li>On receipt of complaint, the committee shall investigate the case.

@@ -37,7 +37,7 @@
             </div>
         </div>
         <div class="col-lg-6 col-md-12">
-            <div class="development-info" style="background-image: url('assets/images/apply-footer.webp'); filter: drop-shadow(5px 6px 5px black);">
+            <div class="development-info" style="background-image: url('assets/images/apply-footer.webp');">
                 <div class="info-content">
                     <h4 class="info-title">Fostering Global Competence and Confidence in Our Graduates</h4>
                     <p class="info-text">Our students graduate with strong self-assurance and interpersonal skills, shaped by exposure to diverse cultures. They are well-prepared for success in the global marketplace and multicultural settings.</p>
