@@ -70,9 +70,6 @@
                     <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
                         <ul class="navbar-nav text-right">
                             <li class="nav-item">
-                                <a href="index.php" class="nav-link">Home</a>
-                            </li>
-                            <li class="nav-item">
                                 <a href="#" class="nav-link dropdown-toggle">About</a>
                                 <ul class="dropdown-menu">
                                     <li class="nav-item">
@@ -107,10 +104,10 @@
                                         <a href="calendar.php" class="nav-link">Academics Calender</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a href="calendar.php" class="nav-link">Academics Calender</a>
+                                        <a href="https://student.gncdehradun.com/" class="nav-link">Student-ERP Login</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a href="calendar.php" class="nav-link">Academics Calender</a>
+                                        <a href="https://staff.gncdehradun.com/" class="nav-link">Staff-ERP Login</a>
                                     </li>
                                 </ul>
                             </li>
@@ -123,6 +120,9 @@
                                     <li class="nav-item">
                                         <a href="news.php" class="nav-link">News &amp; Updates</a>
                                     </li>
+                                    <li class="nav-item">
+                                        <a href="disabled.php" class="nav-link">Disabled-Friendly Environment </a>
+                                    </li>
                                 </ul>
                             </li>
                             <li class="nav-item">
@@ -133,6 +133,9 @@
                                     </li>
                                     <li class="nav-item">
                                         <a href="mou.php" class="nav-link">Industry Collaborations / MOU Signed</a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a href="career-development.php" class="nav-link">Career Development</a>
                                     </li>
                                 </ul>
                             </li>
