@@ -113,7 +113,7 @@
                                 <a href="#" class="nav-link dropdown-toggle">Research</a>
                                 <ul class="dropdown-menu">
                                     <li class="nav-item">
-                                        <a href="research.php" class="nav-link">Research Peper</a>
+                                        <a href="research.php" class="nav-link">Research Paper</a>
                                     </li>
                                     <li class="nav-item">
                                         <a href="mou.php" class="nav-link">Industry Collaborations / MOU Signed</a>
