@@ -48,7 +48,7 @@ $events = json_decode($jsonData, true);
             <div class="col-lg-4 col-12">
         <?php endif; ?>
         <div class="event">
-            <a href="news-page.php?id=<?= $index ?>" class="news-link"> <!-- Pass news ID via URL -->
+            <a href="news-page.php?id=<?= $index ?>" class="news-link">
                 <img src="<?= htmlspecialchars($event['image']) ?>" alt="<?= htmlspecialchars($event['title']) ?>">
                 <div class="title"><?= htmlspecialchars($event['title']) ?></div>
                 <?php if (!empty($event['subtitle'])) : ?>

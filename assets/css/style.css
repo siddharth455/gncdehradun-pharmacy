@@ -306,7 +306,7 @@ a.scroll-top i {
 #loading #loading-center #loading-center-absolute .object {
   width: 25px;
   height: 25px;
-  background-color: #00b7ff;
+  background-color: #ff8800;
   float: left;
 }
 
@@ -1030,7 +1030,6 @@ a.scroll-top i {
 .home-ragular-course {
   overflow: hidden;
   position: relative;
-  padding-bottom: 75px;
 }
 
 .home-ragular-course .section-tittle {
@@ -1118,8 +1117,11 @@ a.scroll-top i {
   position: relative;
   z-index: -1;
   padding-right: 30px;
+ 
 }
-
+.home-choose-img img{
+  border-top-right-radius: 70px !important;
+}
 .choose-area .home-choose-img::before {
   position: absolute;
   content: "";
@@ -1128,7 +1130,7 @@ a.scroll-top i {
   background: #00b7ff;
   z-index: -2;
   top: -50px;
-  border-top-right-radius: 70px;
+  border-top-right-radius: 70px !important;
   left: -50px;
 }
 
@@ -1187,7 +1189,6 @@ a.scroll-top i {
 
 .home-admission {
   position: relative;
-  padding: 75px 0;
   overflow: hidden;
 }
 
@@ -1673,7 +1674,6 @@ a.scroll-top i {
   background: #e5eaff;
   position: relative;
   overflow: hidden;
-  padding-bottom: 75px;
 }
 
 .course-slider-area .course-slider {
@@ -5210,7 +5210,7 @@ ol {
 }
 
 .contactus {
-  background-color: #f5f5f5;
+  background-color:  #f5f5f500;
   padding: 40px 0;
   border-radius: 8px;
 }
@@ -5218,7 +5218,7 @@ ol {
 .contact-item {
   margin-top: 20px;
   padding: 20px;
-  background: white;
+  background: #ffffff00;
   border-radius: 8px;
 }
 
@@ -5372,4 +5372,101 @@ ol {
 }
 .course-content h2{
   margin: -10px;
+}
+
+.teacher-img img {
+  border: 1px solid;
+ border-radius: 5px;
+}
+.single-home-teacher{
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  margin: 5px;
+}
+
+.vison-sec {
+	padding: 65px 0 0;
+	color: #080808;
+	text-align: left;
+	margin-top: 2px;
+}
+
+.vison-block {
+	padding: 30px;
+	border-radius: 10px;
+}
+
+.main-heading-vision h2 {
+	font-weight: bold;
+	letter-spacing: 1px;
+	margin-top: -60px;
+
+}
+
+.main-heading-vision h6 {
+	font-size: 1.2rem;
+	margin-bottom: 2rem;
+
+}
+
+.section-background {
+	background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5));
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.vision-block,
+.mission-block {
+	background-color: rgba(255, 255, 255, 0.8);
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+	padding: 20px;
+	margin-bottom: 30px;
+	background-blend-mode: overlay;
+}
+
+
+.main-heading-vision h2 {
+	font-size: 56px;
+	color: #000000;
+	text-shadow: 2px 2px 4px #000;
+}
+
+.upper-box h5 {
+	font-size: 22px;
+	color: #000000;
+	text-shadow: 1px 1px 2px #000;
+}
+
+.main-heading-vision h6 {
+	color: #030303;
+}
+
+.main-heading-vision img {
+	margin-top: -60px;
+}
+
+.vision-block ul {
+	list-style: none;
+	padding-left: 0;
+}
+
+.vision-block li {
+	position: relative;
+	margin-bottom: 15px;
+	padding-left: 25px;
+	line-height: 1.6;
+	color: #333;
+}
+
+.vision-block li:before {
+	content: '';
+	position: absolute;
+	left: 0;
+	top: 10%;
+	width: 7px;
+	height: 7px;
+	background-color: #000;
+	border-radius: 50%;
+
 }

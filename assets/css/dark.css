@@ -110,12 +110,12 @@ Default CSS
 }
 
 .theme-dark .box-btn {
-  background: #16056b;
+  background: #00bcfb;
   color: #ffffff;
 }
 
 .theme-dark .box-btn:hover {
-  background: #6346f0;
+  background:#ec8851;
   color: #ffffff;
 }
 
@@ -538,4 +538,5 @@ Default CSS
     display: block;
   }
 }
+
 /*# sourceMappingURL=dark.css.map */

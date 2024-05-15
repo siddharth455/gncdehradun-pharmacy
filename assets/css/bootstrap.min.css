@@ -8408,7 +8408,9 @@ fieldset:disabled .btn {
 .pt-5 {
     padding-top: 3rem !important
 }
-
+.pt-12{
+    padding-top: 12rem !important;
+}
 .pe-0 {
     padding-right: 0 !important
 }

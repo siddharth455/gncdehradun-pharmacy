@@ -194,7 +194,7 @@
         loop: true,
         margin: 20,
         dots: false,
-        autoplay: false,
+        autoplay: true,
         dots: false,
         autoplayHoverPause: true,
         mouseDrag: false,
@@ -274,18 +274,14 @@
         });
         return false;
     });
-
-    // Switch Btn
 	$('body').append("<div class='switch-box'><label id='switch' class='switch'><input type='checkbox' onchange='toggleTheme()' id='slider'><span class='slider round'></span></label></div>");
 
 }(jQuery));
 
-// function to set a given theme/color-scheme
 function setTheme(themeName) {
     localStorage.setItem('edvi_theme', themeName);
     document.documentElement.className = themeName;
 }
-// function to toggle between light and dark theme
 function toggleTheme() {
     if (localStorage.getItem('edvi_theme') === 'theme-dark') {
         setTheme('theme-light');
@@ -293,7 +289,6 @@ function toggleTheme() {
         setTheme('theme-dark');
     }
 }
-// Immediately invoked function to set the theme on initial load
 (function () {
     if (localStorage.getItem('edvi_theme') === 'theme-dark') {
         setTheme('theme-dark');

@@ -127,7 +127,7 @@
 <section>
     <div class="container ">
         <div class="card mt-2 mb-2">
-            <div class="card-header bg-primary text-white">
+            <div class="card-header  text-white" style="background-color: #00bcfb;">
                 <h2 style="text-align: center;">MOU Signed</h2>
             </div>
             <div class="row card-body">
@@ -139,7 +139,7 @@
                         <button class="nav-link approvals-link" id="v-pills-UGC-tab" data-bs-toggle="pill" data-bs-target="#v-pills-UGC" type="button" role="tab" aria-controls="v-pills-UGC" aria-selected="false">
                             <img src="assets/images/Gurukul_Kangri_Vishwavidyalaya_logo.jpg" alt="UGC Icon" class="button-icon"> Gurukul Kangri (Deemed University), Uttarakhand
                         </button>
-                        <button class="nav-link approvals-link" id="v-pills-MSME-tab" data-bs-toggle="pill" data-bs-target="#v-pills-MSME" type="button" role="tab" aria-controls="v-pills-MSME" aria-selected="false">
+                        <!-- <button class="nav-link approvals-link" id="v-pills-MSME-tab" data-bs-toggle="pill" data-bs-target="#v-pills-MSME" type="button" role="tab" aria-controls="v-pills-MSME" aria-selected="false">
                             <img src="images/msme.webp" alt="MSME Icon" class="button-icon"> Ministry of Micro, Small and<br>Medium Enterprises
                         </button>
                         <button class="nav-link approvals-link" id="v-pills-HNBGMU-tab" data-bs-toggle="pill" data-bs-target="#v-pills-HNBGMU" type="button" role="tab" aria-controls="v-pills-HNBGMU" aria-selected="false">
@@ -153,7 +153,7 @@
                         </button>
                         <button class="nav-link approvals-link" id="v-pills-UTU-tab" data-bs-toggle="pill" data-bs-target="#v-pills-UTU" type="button" role="tab" aria-controls="v-pills-UTU" aria-selected="false">
                             <img src="images/Uttarakhand_Technical_University_logo.webp" alt="UTU Icon" class="button-icon"> Uttarakhand Technical University
-                        </button>
+                        </button> -->
                     </div>
                 </div>
                 <div class="col-md-8 col-12">

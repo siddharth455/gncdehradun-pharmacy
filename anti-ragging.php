@@ -46,7 +46,7 @@
         <div class="d-table-cell">
             <div class="container">
                 <div class="page-title-content">
-                    <h2>Anti Ragging Cell</h2>
+                    <h2>Anti Ragging Committee</h2>
                 </div>
             </div>
         </div>
@@ -57,10 +57,10 @@
         <div class="col-lg-3 col-md-4 col-sm-5">
             <div class="nav flex-column nav-pills position-sticky" style="top: 150px" id="v-pills-tab" role="tablist" aria-orientation="vertical">
                 <button class="nav-link main active" id="v-pills-home-tab" data-bs-toggle="pill" data-bs-target="#v-pills-home" type="button" role="tab" aria-controls="v-pills-home" aria-selected="true">Overview</button>
-                <button class="nav-link main" id="v-pills-profile-tab" data-bs-toggle="pill" data-bs-target="#v-pills-profile" type="button" role="tab" aria-controls="v-pills-profile" aria-selected="false">Minutes of Meeting</button>
-                <button class="nav-link main" id="v-pills-disabled-tab" data-bs-toggle="pill" data-bs-target="#v-pills-disabled" type="button" role="tab" aria-controls="v-pills-disabled" aria-selected="false">Action Taken Report</button>
-                <button class="nav-link main" id="v-pills-messages-tab" data-bs-toggle="pill" data-bs-target="#v-pills-messages" type="button" role="tab" aria-controls="v-pills-messages" aria-selected="false">Messages</button>
-                <button class="nav-link main" id="v-pills-settings-tab" data-bs-toggle="pill" data-bs-target="#v-pills-settings" type="button" role="tab" aria-controls="v-pills-settings" aria-selected="false">Settings</button>
+                <button class="nav-link main" id="v-pills-profile-tab" data-bs-toggle="pill" data-bs-target="#v-pills-profile" type="button" role="tab" aria-controls="v-pills-profile" aria-selected="false">Functions</button>
+                <button class="nav-link main" id="v-pills-disabled-tab" data-bs-toggle="pill" data-bs-target="#v-pills-disabled" type="button" role="tab" aria-controls="v-pills-disabled" aria-selected="false">Procedures</button>
+                <!-- <button class="nav-link main" id="v-pills-messages-tab" data-bs-toggle="pill" data-bs-target="#v-pills-messages" type="button" role="tab" aria-controls="v-pills-messages" aria-selected="false">Messages</button>
+                <button class="nav-link main" id="v-pills-settings-tab" data-bs-toggle="pill" data-bs-target="#v-pills-settings" type="button" role="tab" aria-controls="v-pills-settings" aria-selected="false">Settings</button> -->
             </div>
         </div>
         <div class="col-lg-9 col-md-8 col-sm-7">
@@ -73,7 +73,7 @@
                                 <div class="col-lg-9">
                                     <div class="page-heading mb-4">
                                         <h2 class="mb-3">Prohibition against Ragging</h2>
-                                        <p>“Any conduct by any student or students, whether by the word spoken or written or by an act, which has the effect of teasing, treating or handling with rudeness a fresher or any other student. Exploiting the students from completing academic tasks and financial extortion. Any act of physical abuse including all its variants-sexual abuse, homosexual assaults, and stripping, forcing obscene and lewd acts, gestures, causing bodily harm or any other danger to health of a person. Any act that prevents, disrupts or disturbs the regular academic activities of other students”.</p>
+                                        <p>Any conduct by any student or students, whether by the word spoken or written or by an act, which has the effect of teasing, treating or handling with rudeness a fresher or any other student. Any act of physical abuse including all its variants-sexual abuse, homosexual assaults, and stripping, forcing obscene and lewd acts, gestures, causing bodily harm or any other danger to health of a person.</p>
                                     </div>
                                     <div class="alert alert-danger p-4">
                                         <div class="page-sub-heading mb-2">
@@ -97,7 +97,7 @@
                                             </ul>
                                         </div>
                                     </div>
-                                    <div class="page-sub-heading mb-4 mt-5">
+                                    <!-- <div class="page-sub-heading mb-4 mt-5">
                                         <h3 class="mb-3">The College has various bodies for the students' support and their grievance redressal.</h3>
                                         <p>Various committees are in operation to guard campus, hostels, bus stops and buses to deter any stray incidents. If someone is found indulged in ragging of any type is liable to be dealt with severely and legal action.</p>
                                     </div>
@@ -125,7 +125,7 @@
                                                 </li>
                                             </ul>
                                         </div>
-                                    </div>
+                                    </div> -->
                                 </div>
                                 <div class="col-lg-3">
                                     <div class="position-sticky" style="top: 150px">
@@ -137,10 +137,14 @@
                     </div>
                 </div>
                 <div class="tab-pane fade" id="v-pills-profile" role="tabpanel" aria-labelledby="v-pills-profile-tab" tabindex="0">
-                    <!-- Content for Minutes of Meeting Tab -->
+                    <div class="pdf-container">
+                        <embed src="assets/images/GNC Antiragging Committee 2018-2019.pdf" type="application/pdf" width="100%" height="600px">
+                    </div>
                 </div>
                 <div class="tab-pane fade" id="v-pills-disabled" role="tabpanel" aria-labelledby="v-pills-disabled-tab" tabindex="0">
-                    <!-- Content for Action Taken Report Tab -->
+                <div class="pdf-container">
+                        <embed src="assets/images/GNC Antiragging Committee Procedures 2018-2019.pdf" type="application/pdf" width="100%" height="600px">
+                    </div>
                 </div>
                 <div class="tab-pane fade" id="v-pills-messages" role="tabpanel" aria-labelledby="v-pills-messages-tab" tabindex="0">
                     <!-- Content for Messages Tab -->

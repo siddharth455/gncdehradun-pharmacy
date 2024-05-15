@@ -458,9 +458,6 @@
   .home-special-course .owl-nav button.owl-next {
     right: 0;
   }
-  .course-slider-area {
-    padding-bottom: 70px;
-  }
   .course-slider-area .course-slider .course-slider-content {
     max-width: 100%;
     margin: 0;
@@ -630,7 +627,6 @@
   }
   .price-area {
     padding-top: 20px;
-    padding-bottom: 50px;
   }
   .price-area .single-price {
     margin-top: 30px;
@@ -796,7 +792,6 @@
     width: 140px;
   }
   .home-admission {
-    padding-bottom: 50px;
     padding-top: 0;
   }
   .home-admission .admission-shape1,
@@ -855,9 +850,6 @@
   .home-admission .single-addmission .admission-content .box-btn {
    margin: 20px 20px 0px 0px;
   }
-  .home-special-course {
-    padding: 50px 0;
-  }
   .home-special-course .section-tittle {
     margin-bottom: 10px;
   }
@@ -892,9 +884,7 @@
   .home-special-course .owl-nav button.owl-next {
     right: 0;
   }
-  .course-slider-area {
-    padding-bottom: 50px;
-  }
+
   .course-slider-area .course-slider .course-slider-content {
     max-width: 100%;
     margin: 0;
@@ -938,7 +928,6 @@
   }
   .home-teachers-area {
     padding-top: 0;
-    padding-bottom: 50px;
   }
   .home-teachers-area .section-tittle {
     margin-bottom: 10px;
@@ -951,7 +940,6 @@
   }
   .home-contact-area {
     padding-top: 0;
-    padding-bottom: 50px;
   }
   .home-contact-area .home-contact-content {
     padding: 30px 15px;

@@ -29,19 +29,16 @@
                     <h5 style="color: white;">Learn Here</h5>
                     <ul>
                         <li>
-                            <a href="#"> Support</a>
+                            <a href="b-pharmacy.php" class="nav-link">Bachelor of Pharmacy</a>
                         </li>
                         <li>
-                            <a href="#"> Career</a>
+                            <a href="d-pharmacy.php" class="nav-link">Diploma of Pharmacy</a>
                         </li>
                         <li>
-                            <a href="#"> Teachers</a>
+                            <a href="academics.php" class="nav-link">Academics Overview</a>
                         </li>
                         <li>
-                            <a href="#"> Staffs</a>
-                        </li>
-                        <li>
-                            <a href="#"> Contact</a>
+                            <a href="about.php" class="nav-link">About the GNC</a>
                         </li>
                     </ul>
                 </div>
@@ -51,18 +48,19 @@
                     <h5 style="color: white;">Visit Here</h5>
                     <ul>
                         <li>
-                            <a href="#"> Home</a>
+                            <a href="placement.php" class="nav-link">Placement</a>
                         </li>
                         <li>
-                            <a href="#"> Classes</a>
+                            <a href="campus-life.php" class="nav-link">Campus Life</a>
                         </li>
                         <li>
-                            <a href="#"> Courses</a>
+                            <a href="news.php" class="nav-link">News &amp; Updates</a>
                         </li>
                         <li>
-                            <a href="#"> Why Us?</a>
+                            <a href="research.php" class="nav-link">Research Peper</a>
                         </li>
-
+                        <li> <a href="contact.php" class="nav-link">Connect with us</a></li>
+                        
                     </ul>
                 </div>
             </div>
@@ -86,7 +84,7 @@
                             <a href="cbd.php"> Caste Based Discrimination</a>
                         </li>
                         <li>
-                            <a href="iqac.php"> IQAC</a>
+                            <a href="feedback.php"> Feedback</a>
                         </li>
                     </ul>
                 </div>
@@ -96,7 +94,6 @@
     </div>
 </div>
 <!-- End Footer Area -->
-
 <!-- Copy Area -->
 <div class="copy-area">
     <div class="container">
@@ -112,7 +109,6 @@
     </div>
 </div>
 <!-- End Copy Area -->
-
 <!-- Scroll top -->
 <a href="#" class="scroll-top wow animate__animated animate__bounceInDown">
     <i class="fas fa-angle-double-up"></i>
@@ -164,7 +160,7 @@
             loop: true,
             margin: 10,
             nav: true,
-            autoplay:true,
+            autoplay: true,
             responsive: {
                 0: {
                     items: 2
@@ -184,9 +180,9 @@
     $(document).ready(function() {
         $('.slick-carousel1').slick({
             slidesToShow: 4,
-            slidesToScroll:1, 
-            autoplay: true, 
-            autoplaySpeed:0, 
+            slidesToScroll: 1,
+            autoplay: true,
+            autoplaySpeed: 0,
             speed: 10000,
             arrows: false,
             responsive: [{
@@ -199,27 +195,41 @@
     });
 </script>
 <script>
- $(document).ready(function() {
-    $('.slick-carousel2').slick({
-        slidesToShow: 4,
-        slidesToScroll:1,
-        autoplay: true,
-        speed: 10000,
-        autoplaySpeed: 0,
-        arrows: false,
-        rtl: true,
-        responsive: [{
-            breakpoint: 768,
-            settings: {
-                slidesToShow: 2
-            }
-        }]
+    $(document).ready(function() {
+        $('.slick-carousel2').slick({
+            slidesToShow: 4,
+            slidesToScroll: 1,
+            autoplay: true,
+            speed: 10000,
+            autoplaySpeed: 0,
+            arrows: false,
+            rtl: true,
+            responsive: [{
+                breakpoint: 768,
+                settings: {
+                    slidesToShow: 2
+                }
+            }]
+        });
     });
-});
-
 </script>
-
-
+<script>
+    $(document).ready(function() {
+        $('.slick-carousel-teachers').slick({
+            slidesToShow: 4,
+            slidesToScroll: 1,
+            autoplay: true,
+            autoplaySpeed: 2500,
+            arrows: false,
+            responsive: [{
+                breakpoint: 768,
+                settings: {
+                    slidesToShow: 1
+                }
+            }]
+        });
+    });
+</script>
 </body>
 
 </html>

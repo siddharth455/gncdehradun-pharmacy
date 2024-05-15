@@ -16,7 +16,7 @@
             <div class="col-lg-6">
                 <div class="aboutProgram-section__content">
                     <div class="page-heading">
-                        <h2>Bachelor of Pharmacy (B.Pharm)</h2>
+                        <h2>Best Bachelor of Pharmacy (B.Pharm) College in india</h2>
                     </div>
                     <p>The Bachelor of Pharmacy (B.Pharm) is a fundamental undergraduate degree for those interested in the pharmaceutical industry. This course, typically spanning four years, provides comprehensive education in the science and practice of pharmacy. It covers a range of subjects including pharmaceutical chemistry, pharmacology, pharmaceutics, and pharmacognosy.</p>
                     <p>Students in the B.Pharm program gain a deep understanding of drug therapy, medication management, and the ethical and legal aspects of pharmacy practice. The course emphasizes both theoretical knowledge and practical skills, preparing graduates for diverse roles in healthcare, research, drug development, and the pharmaceutical industry.</p>
@@ -25,7 +25,7 @@
                     </div>
                     <p>After completing a Bachelor of Pharmacy (B.Pharm), graduates have diverse career paths available. They can work as pharmacists in retail or hospital pharmacies, advising on and dispensing medications. Opportunities also exist in the pharmaceutical industry, including roles in drug manufacturing, quality control, and marketing. B.Pharm graduates can engage in research and development, contributing to the creation of new drugs, or enter the academic field as educators and researchers. Regulatory roles in agencies like the FDA are another option, focusing on drug compliance and safety.</p>
 
-                    <a href="#" class="btn btn-lg btn-primary btn-shadow applyNow_button">Apply Now </a>
+                    <a href="https://gnc.edu.in/pharmacy-college?utm_source=Pharmacy-website&utm_medium=Online&utm_campaign=Pharmacy-website" class="btn btn-lg btn-shadow applyNow_button" style="background-color: #00bcfb;">Apply Now </a>
                 </div>
             </div>
             <div class="col-lg-6">
@@ -43,13 +43,13 @@
         </div>
         <div class="row">
             <div class="col-lg-8">
-                <p class="btn btn-sm btn-primary btn-shadow">
+                <p class="btn btn-sm  btn-shadow" style="background-color: #00bcfb;">
                     <a target="_blank" id="printButton" style="border:0px; color:#fff; background:none;text-decoration: none; margin-right: 20px;">Download Fee Structure</a>
                 </p>
-                <p class="btn btn-sm btn-primary btn-shadow">
+                <p class="btn btn-sm btn-shadow" style="background-color: #00bcfb;">
                 <a target="_blank" href="assets/images/Syllabus_B_Pharm.pdf" style="border:0px; color:#fff; background:none;text-decoration: none; margin-right: 20px;">Syllabus &amp; CO</a>
                 </p>
-                <p class="btn btn-sm btn-primary btn-shadow">
+                <p class="btn btn-sm btn-shadow" style="background-color: #00bcfb;">
                 <a target="_blank" href="assets/images/PO-PSO.pdf" style="border:0px; color:#fff; background:none;text-decoration: none;">PO-PSO</a>
                 </p>
                 <div class="tabs-style mb-2">
@@ -271,8 +271,8 @@
                             <ul class="list-unstyled p-0 list-icon-4 ps-4 mt-3">
                                 <li>5% scholarship on Net Academic Fee (after merit scholarship) to Girl Candidate for complete programme.</li>
                                 <li>5% scholarship on Net Academic Fee (after merit scholarship) to ward of Defence Personnel for complete programme.</li>
-                                <li>10% scholarship on Net Academic Fee (after merit scholarship) to Alumni of Guru Nanak College (only in 1st year).</li>
-                                <li>10% scholarship on Net Academic Fee (after merit scholarship) to Sibling of Guru Nanak College (only in 1st year).</li>
+                                <li>10% scholarship on Net Academic Fee (after merit scholarship) to Alumni of Guru Nanak College of Pharmaceutical Sciences (only in 1st year).</li>
+                                <li>10% scholarship on Net Academic Fee (after merit scholarship) to Sibling of Guru Nanak College of Pharmaceutical Sciences (only in 1st year).</li>
                             </ul>
                         </li>
                     </ul>
@@ -312,10 +312,10 @@
                 <div class="bigInfo-section__content pt-5 pb-5">
                     <div class="page-heading">
                         <h3>
-                            Why join School of Pharmacy at Guru Nanak College, Dehradun?
+                            Why join School of Pharmacy at Guru Nanak College of Pharmaceutical Sciences, Dehradun?
                         </h3>
                     </div>
-                    <p>At the School of Pharmacy, part of the esteemed Guru Nanak College, Dehradun, we are dedicated to offering top-tier education in pharmaceutical sciences.</p>
+                    <p>At the School of Pharmacy, part of the esteemed Guru Nanak College of Pharmaceutical Sciences, Dehradun, we are dedicated to offering top-tier education in pharmaceutical sciences.</p>
                     <ul class="list-unstyled p-0 list-icon-3 ps-4">
                         <li>Our aim is to develop skilled professionals equipped to meet global healthcare and pharmaceutical challenges. </li>
                         <li>The campus boasts advanced educational facilities for a comprehensive learning experience.</li>
@@ -329,7 +329,7 @@
                         </li>
                         <li>We focus on value-based education, aiming to develop critical thinking, problem-solving skills, and a knack for innovation and research in our students. Recognizing the importance of career readiness in the dynamic field of pharmacy, we offer extensive placement training to prepare our students for successful careers in the pharmaceutical and healthcare sectors.</li>
                     </ul>
-                    <a href="#" class="btn btn-lg btn-primary btn-shadow mt-4 applyNow_button">Apply Now <i class="fa fa-long-arrow-right ms-1" aria-hidden="true"></i></a>
+                    <a href="https://gnc.edu.in/pharmacy-college?utm_source=Pharmacy-website&utm_medium=Online&utm_campaign=Pharmacy-website" class="btn btn-lg btn-shadow mt-4 applyNow_button">Apply Now <i class="fa fa-long-arrow-right ms-1" aria-hidden="true"></i></a>
                 </div>
             </div>
             <div class="col-lg-6 col-md-8 col-sm-10">
@@ -348,7 +348,7 @@
         var printContent2 = document.getElementById("printableArea-1").innerHTML;
         var windowPrint = window.open('', '', 'height=400,width=800');
 
-        windowPrint.document.write('<html><head><title>Guru Nanak College, Dehradun</title>');
+        windowPrint.document.write('<html><head><title>Guru Nanak College of Pharmaceutical Sciences, Dehradun</title>');
         windowPrint.document.write('<style>');
         // Write your CSS styles here
         windowPrint.document.write(`

@@ -107,7 +107,7 @@ $heading-color: #ffffff;
         background: $primary-color;
         color: $body-color ;
         &:hover {
-            background: #6346f0;
+            background: #00bcfb !important;
             color: $body-color;
         }
     }
@@ -227,7 +227,7 @@ $heading-color: #ffffff;
                 }
             }
             .box-btn {
-                background-color: $primary-color;
+                background-color: #00bcfb !important;
             }
         }
     }
