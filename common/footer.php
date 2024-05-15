@@ -57,7 +57,7 @@
                             <a href="news.php" class="nav-link">News &amp; Updates</a>
                         </li>
                         <li>
-                            <a href="research.php" class="nav-link">Research Peper</a>
+                            <a href="research.php" class="nav-link">Research Paper</a>
                         </li>
                         <li> <a href="contact.php" class="nav-link">Connect with us</a></li>
                         
