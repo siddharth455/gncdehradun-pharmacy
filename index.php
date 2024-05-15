@@ -1,17 +1,15 @@
 <?php require "common/header.php" ?>
 <!-- Slider area -->
-
-
 <div id="carouselExampleFade" class="carousel slide carousel-fade" data-bs-ride="carousel" data-bs-interval="3000">
     <div class="carousel-inner">
         <div class="carousel-item active">
-            <img src="assets/images/new banner-01.webp" class="d-block w-100" alt="...">
+            <img src="assets/images/new banner-01.webp" class="d-block w-100" alt="..." style="filter: drop-shadow(5px 6px 5px black);">
         </div>
         <div class="carousel-item">
-            <img src="assets/images/new banner-03.webp" class="d-block w-100" alt="...">
+            <img src="assets/images/new banner-03.webp" class="d-block w-100" alt="..." style="filter: drop-shadow(5px 6px 5px black);">
         </div>
         <div class="carousel-item">
-            <img src="assets/images/new banner-04.webp" class="d-block w-100" alt="...">
+            <img src="assets/images/new banner-04.webp" class="d-block w-100" alt="..." style="filter: drop-shadow(5px 6px 5px black);">
         </div>
     </div>
     <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleFade" data-bs-slide="prev">
@@ -23,7 +21,6 @@
         <span class="visually-hidden">Next</span>
     </button>
 </div>
-
 <!-- <section class="slider-area">
     <div class="home-slider owl-carousel owl-theme">
         <div class="single-slider single-slider-bg-1" style="background-image: url(assets/images/new\ banner-01.webp);">
@@ -159,33 +156,16 @@
                         <p>Guru Nanak College of Pharmaceutical Sciences, situated in the serene and academically vibrant city of Dehradun, has established itself as a prestigious center of higher education since its inception. Renowned for its specialization in pharmacy education, the college has rapidly emerged as a top Pharmaceutical college in the region. Despite its relatively short history, it has gained a reputation as one of the most prestigious Pharmacy Colleges in Dehradun.</p>
                         <p>At Guru Nanak College of Pharmaceutical Sciences, the ethos is deeply rooted in fostering the growth of the next generation of pharmaceutical professionals. This commitment extends beyond mere academic instruction; the college prides itself on instilling values of innovation, ethical practice, and academic excellence. It operates with a belief that education is a pivotal force in personal and societal advancement, a philosophy that resonates through its diverse course offerings.</p>
                     </div>
-
-
                     <div class="section-tittle">
                         <h2 style="text-align: left;">Approvals &amp; Accreditation</h2>
-<<<<<<< HEAD
                         <div class="row approvals align-left justify-content-center aligns-items-center">
-                            <div class="col-lg-4 col-sm-4 text-center mt-2 col-4">
-                                <img src="assets/images/Uttarakhand_Technical_University_logo.webp" alt="Uttarakhand Technical University Logo" style="max-width: 100%; height: auto;">
-                            </div>
-                            <div class="col-lg-4 col-sm-4 col-4">
-                                <img src="assets/images/UBTER.webp" alt="UBTER Logo" style="max-width: 100%; height: auto;">
-                            </div>
-<<<<<<< HEAD
                             <div class="col-lg-4 col-sm-4 text-left mt-2 col-4">
-=======
-                        <div class="row approvals align-left">
-                            <div class="col-lg-4 col-sm-4">
                                 <img src="assets/images/Uttarakhand_Technical_University_logo.webp" alt="Uttarakhand Technical University Logo" style="max-width: 100%; height: auto;">
                             </div>
-                            <div class="col-lg-4 col-sm-4">
+                            <div class="col-lg-4 col-sm-4 col-4 text-left mt-2">
                                 <img src="assets/images/UBTER.webp" alt="UBTER Logo" style="max-width: 100%; height: auto;">
                             </div>
-                            <div class="col-lg-4 col-sm-4">
->>>>>>> parent of 67b409d (Merge remote-tracking branch 'origin/suraj6204' into siddharth-sharma)
-=======
-                            <div class="col-lg-4 col-sm-4 text-center mt-2 col-4">
->>>>>>> parent of 5679838 (worked on banner chnages)
+                            <div class="col-lg-4 col-sm-4 text-left mt-2 col-4">
                                 <img src="assets/images/Pharmacy_Council_of_India Logo.webp" alt="Pharmacy Council of India Logo" style="max-width: 100%; height: auto;">
                             </div>
                         </div>
@@ -205,11 +185,7 @@
                 <div class="single-addmission">
                     <div class="row">
                         <div class="col-lg-4 col-md-5">
-<<<<<<< HEAD
                             <div class="admission-circle" style="filter: drop-shadow(5px 6px 5px black);">
-=======
-                            <div class="admission-circle">
->>>>>>> parent of 67b409d (Merge remote-tracking branch 'origin/suraj6204' into siddharth-sharma)
                                 <h2 style="text-align: center;">Admission Open for<span>2024-25</span></h2>
 
                                 <div class="admission-shape1">
@@ -275,11 +251,7 @@
         <div class="home-course-slider owl-carousel owl-theme">
             <div class="single-home-special-course">
                 <div class="course-img">
-<<<<<<< HEAD
                     <img src="assets/images/seminar.webp" alt="course" style="filter: drop-shadow(5px 6px 5px black);" />
-=======
-                    <img src="assets/images/pharmacy-student.webp" alt="course" />
->>>>>>> parent of 67b409d (Merge remote-tracking branch 'origin/suraj6204' into siddharth-sharma)
                     <div class="course-content">
                         <h2>Seminars</h2>
                         <p>
@@ -291,11 +263,7 @@
 
             <div class="single-home-special-course">
                 <div class="course-img">
-<<<<<<< HEAD
                     <img src="assets/images/sport-student.webp" alt="course" style="filter: drop-shadow(5px 6px 5px black);" />
-=======
-                    <img src="assets/images/sport-student.webp" alt="course" />
->>>>>>> parent of 67b409d (Merge remote-tracking branch 'origin/suraj6204' into siddharth-sharma)
                     <div class="course-content">
                         <h2>Sports</h2>
                         <p>
@@ -306,7 +274,6 @@
             </div>
             <div class="single-home-special-course">
                 <div class="course-img">
-<<<<<<< HEAD
                     <img src="assets/images/guest.webp" alt="course" style="filter: drop-shadow(5px 6px 5px black);" />
                     <div class="course-content">
                         <h2>Guest Lectures</h2>
@@ -319,9 +286,6 @@
             <div class="single-home-special-course">
                 <div class="course-img">
                     <img src="assets/images/music.webp" alt="course" style="filter: drop-shadow(5px 6px 5px black);" />
-=======
-                    <img src="assets/images/music.webp" alt="course" />
->>>>>>> parent of 67b409d (Merge remote-tracking branch 'origin/suraj6204' into siddharth-sharma)
                     <div class="course-content">
                         <h2>Music</h2>
                         <p>
@@ -333,11 +297,7 @@
 
             <div class="single-home-special-course">
                 <div class="course-img">
-<<<<<<< HEAD
                     <img src="assets/images/cultural-college.webp" alt="course" style="filter: drop-shadow(5px 6px 5px black);" />
-=======
-                    <img src="assets/images/cultural-college.webp" alt="course" />
->>>>>>> parent of 67b409d (Merge remote-tracking branch 'origin/suraj6204' into siddharth-sharma)
                     <div class="course-content">
                         <h2>Cultural Events</h2>
                         <p>
@@ -353,11 +313,7 @@
 <!-- End Special Course -->
 
 <span class="left-shape">
-<<<<<<< HEAD
     <img src="assets/images/left-shape.png" alt="shape" style="filter: drop-shadow(5px 6px 5px black);" />
-=======
-    <img src="assets/images/left-shape.png" alt="shape" />
->>>>>>> parent of 67b409d (Merge remote-tracking branch 'origin/suraj6204' into siddharth-sharma)
 </span>
 
 <!-- News Area -->
@@ -383,11 +339,7 @@
                     <div class="col-lg-4 col-md-6">
                         <div class="single-home-news">
                             <a href="news-page.php?id=<?php echo $index; ?>">
-<<<<<<< HEAD
                                 <img src="<?php echo $news_item['image']; ?>" alt="news" style="filter: drop-shadow(5px 6px 5px black);" />
-=======
-                                <img src="<?php echo $news_item['image']; ?>" alt="news" />
->>>>>>> parent of 67b409d (Merge remote-tracking branch 'origin/suraj6204' into siddharth-sharma)
                             </a>
 
                             <div class="single-home-content">
@@ -427,22 +379,6 @@
                             <p>Principal</p>
                         </div>
                     </div>
-                    <div class="teacher-social">
-                        <ul>
-                            <li>
-                                <a href="#"><i class="flaticon-facebook"></i></a>
-                            </li>
-                            <li>
-                                <a href="#"><i class="flaticon-twitter"></i></a>
-                            </li>
-                            <li>
-                                <a href="#"><i class="flaticon-envelope"></i></a>
-                            </li>
-                            <li>
-                                <a href="#"><i class="flaticon-right-arrow"></i></a>
-                            </li>
-                        </ul>
-                    </div>
                 </div>
                 <div class="col-lg-3 col-sm-6">
                     <div class="single-home-teacher">
@@ -454,22 +390,6 @@
                             <p>Professor</p>
                         </div>
                     </div>
-                    <div class="teacher-social">
-                        <ul>
-                            <li>
-                                <a href="#"><i class="flaticon-facebook"></i></a>
-                            </li>
-                            <li>
-                                <a href="#"><i class="flaticon-twitter"></i></a>
-                            </li>
-                            <li>
-                                <a href="#"><i class="flaticon-envelope"></i></a>
-                            </li>
-                            <li>
-                                <a href="#"><i class="flaticon-right-arrow"></i></a>
-                            </li>
-                        </ul>
-                    </div>
                 </div>
                 <div class="col-lg-3 col-sm-6">
                     <div class="single-home-teacher">
@@ -480,22 +400,6 @@
                             <h2>Nidhi Chatterjee</h2>
                             <p>Professor</p>
                         </div>
-                    </div>
-                    <div class="teacher-social">
-                        <ul>
-                            <li>
-                                <a href="#"><i class="flaticon-facebook"></i></a>
-                            </li>
-                            <li>
-                                <a href="#"><i class="flaticon-twitter"></i></a>
-                            </li>
-                            <li>
-                                <a href="#"><i class="flaticon-envelope"></i></a>
-                            </li>
-                            <li>
-                                <a href="#"><i class="flaticon-right-arrow"></i></a>
-                            </li>
-                        </ul>
                     </div>
                 </div>
                 <div class="col-lg-3 col-sm-6">
@@ -529,22 +433,6 @@
                             <h2>Dr. Kashif Hussain</h2>
                             <p>Associate Professor</p>
                         </div>
-                    </div>
-                    <div class="teacher-social">
-                        <ul>
-                            <li>
-                                <a href="#"><i class="flaticon-facebook"></i></a>
-                            </li>
-                            <li>
-                                <a href="#"><i class="flaticon-twitter"></i></a>
-                            </li>
-                            <li>
-                                <a href="#"><i class="flaticon-envelope"></i></a>
-                            </li>
-                            <li>
-                                <a href="#"><i class="flaticon-right-arrow"></i></a>
-                            </li>
-                        </ul>
                     </div>
                 </div>
             </div>

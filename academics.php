@@ -208,17 +208,17 @@
                         <p class="text-black">Guru Nanak College Dehradun leads the way in immersive learning, transforming our students' educational experience. Immersive learning employs cutting-edge technologies and experiential tools to create engaging and enriching environments. Our commitment to this approach is guided by  practical training, where we bridge the gap between theory and practice, ensuring students gain invaluable hands-on experience in their chosen fields thus ensuring higher employability.</p>
                         <div class="row text-center g-2">
                             <div class="col-sm-4">
-                                <div class="card border-1 bg-white shadow-sm">
+                                <div class="card border-1 bg-white shadow-sm" style="filter: drop-shadow(5px 6px 5px black);">
                                     Focused on <br>Practical Training
                                 </div>
                             </div>
                             <div class="col-sm-4">
-                                <div class="card border-1 bg-white shadow-sm">
+                                <div class="card border-1 bg-white shadow-sm" style="filter: drop-shadow(5px 6px 5px black);">
                                     Higher <br>Employability
                                 </div>
                             </div>
                             <div class="col-sm-4">
-                                <div class="card border-1 bg-white shadow-sm">
+                                <div class="card border-1 bg-white shadow-sm" style="filter: drop-shadow(5px 6px 5px black);">
                                     Higher Engagement <br>and Effectiveness
                                 </div>
                             </div>
@@ -229,7 +229,7 @@
         </div>
     </div>
 </section>
-<section class="academics-sec pt-8 pb-5" style="background: var(--bg-gray); padding-top: 150px; margin-top: -100px">
+<section class="academics-sec pt-8 pb-5" style="background: #f5f5f500; padding-top: 150px; margin-top: -100px">
     <div class="container">
         <div class="academics-sec__in" style="padding-left: 200px">
             <div class="row d-flex align-items-center">
@@ -247,17 +247,17 @@
 Innovation in college and pharmacy education involves deliberately enhancing the system, be it through structure, content, curriculum, or teaching methods. Guru Nanak College utilize diverse, impactful tools to engage pharmacy students effectively. This innovation includes new and valuable content, technology, and assessment methods, improving learning and teaching while ensuring pharmacy students gain practical, relevant skills for a successful career in the pharmaceutical industry.</p>
                         <div class="row text-center g-2">
                             <div class="col-sm-4">
-                                <div class="card border-1 bg-white shadow-sm">
+                                <div class="card border-1 bg-white shadow-sm" style="filter: drop-shadow(5px 6px 5px black);">
                                     Enquiry-based <br>Learning
                                 </div>
                             </div>
                             <div class="col-sm-4">
-                                <div class="card border-1 bg-white shadow-sm">
+                                <div class="card border-1 bg-white shadow-sm" style="filter: drop-shadow(5px 6px 5px black);">
                                     Project-based <br>Learning
                                 </div>
                             </div>
                             <div class="col-sm-4">
-                                <div class="card border-1 bg-white shadow-sm">
+                                <div class="card border-1 bg-white shadow-sm" style="filter: drop-shadow(5px 6px 5px black);">
                                     Blended <br>Learning
                                 </div>
                             </div>
@@ -268,13 +268,13 @@ Innovation in college and pharmacy education involves deliberately enhancing the
         </div>
     </div>
 </section>
-<section class="academics-sec pt-5 pb-5" style="background: var(--bg-white)">
+<section class="academics-sec pt-5 pb-5" style="background: #f5f5f500">
     <div class="container">
         <div class="academics-sec__in" style="padding-right: 200px">
             <div class="row d-flex align-items-center">
                 <div class="col-lg-6">
                     <div class="academics-sec__img br-20 overflow-hidden">
-                        <img src="assets/images/pcm-head.webp" alt="" class="w-100">
+                        <img src="assets/images/pcm-head.webp" alt="" class="w-100" style="filter: drop-shadow(5px 6px 5px black);">
                     </div>
                 </div>
                 <div class="col-lg-6">
@@ -285,17 +285,17 @@ Innovation in college and pharmacy education involves deliberately enhancing the
                         <p>Each class at Guru Nanak College of Pharmaceutical Sciences includes students with varying abilities to grasp pharmacy concepts and understand future career prospects. Faculty identify slow and advanced learners through qualifying marks, quizzes, class tests, participation, and IQ levels. Teaching methods are adapted to provide focused support for slow learners without compromising the engagement of advanced learners, ensuring that both groups receive tailored attention and challenges to excel in their pharmacy studies.</p>
                         <div class="row text-center g-2">
                             <div class="col-sm-4">
-                                <div class="card border-1 bg-white shadow-sm">
+                                <div class="card border-1 bg-white shadow-sm" style="filter: drop-shadow(5px 6px 5px black);">
                                     Attend Workshops <br>Training Programs
                                 </div>
                             </div>
                             <div class="col-sm-4">
-                                <div class="card border-1 bg-white shadow-sm">
+                                <div class="card border-1 bg-white shadow-sm" style="filter: drop-shadow(5px 6px 5px black);">
                                     Guidance for Entrance <br>Exam Preparation
                                 </div>
                             </div>
                             <div class="col-sm-4">
-                                <div class="card border-1 bg-white shadow-sm">
+                                <div class="card border-1 bg-white shadow-sm" style="filter: drop-shadow(5px 6px 5px black);">
                                     Participation in <br>Conferences and Seminars
                                 </div>
                             </div>
@@ -318,59 +318,55 @@ Innovation in college and pharmacy education involves deliberately enhancing the
 
                     <p class="text-white">Our Industrial Collaborations ensure that students are well supported and guided for internships and placements. Our history speaks for itself. Our students are placed at lucrative packages in top-notch industries.</p>
 
-<<<<<<< HEAD
                     <a href="https://gnc.edu.in/pharmacy-college?utm_source=Pharmacy-website&utm_medium=Online&utm_campaign=Pharmacy-website" class="btn btn-lg btn-shadow">Apply Now <i class="fa fa-long-arrow-right ms-1" aria-hidden="true"></i></a>
-=======
-                    <a href="https://www.uudoon.in/admissions/index.php?utm_source=Website&amp;utm_medium=Online&amp;utm_campaign=Website" class="btn btn-lg btn-primary btn-shadow">Apply Now <i class="fa fa-long-arrow-right ms-1" aria-hidden="true"></i></a>
->>>>>>> parent of 5679838 (worked on banner chnages)
                 </div>
             </div>
             <div class="col-lg-6">
                 <div class="row g-3">
                     <div class="col-md-6">
-                        <div class="card h-100">
+                        <div class="card h-100" style="filter: drop-shadow(5px 6px 5px black);">
                             <div class="card-body">
                                 <p>Seminars/Guest Lectures/Workshops by eminent speakers from industry, academia, and research institutes</p>
                             </div>
                         </div>
                     </div>
                     <div class="col-md-6">
-                        <div class="card h-100">
+                        <div class="card h-100" style="filter: drop-shadow(5px 6px 5px black);">
                             <div class="card-body">
                                 <p>Tour/visit to industry, hospital, and research institutes etc</p>
                             </div>
                         </div>
                     </div>
                     <div class="col-md-6">
-                        <div class="card h-100">
+                        <div class="card h-100" style="filter: drop-shadow(5px 6px 5px black);">
                             <div class="card-body">
                                 <p>Placement Cell</p>
                             </div>
                         </div>
                     </div>
                     <div class="col-md-6">
-                        <div class="card h-100">
+                        <div class="card h-100" style="filter: drop-shadow(5px 6px 5px black);">
                             <div class="card-body">
                                 <p>Entrepreneur Development Cell</p>
                             </div>
                         </div>
                     </div>
                     <div class="col-md-6">
-                        <div class="card h-100">
+                        <div class="card h-100" style="filter: drop-shadow(5px 6px 5px black);">
                             <div class="card-body">
                                 <p>Personality Development Cell</p>
                             </div>
                         </div>
                     </div>
                     <div class="col-md-6">
-                        <div class="card h-100">
+                        <div class="card h-100" style="filter: drop-shadow(5px 6px 5px black);">
                             <div class="card-body">
                                 <p>Extra-curricular Activity Clubs</p>
                             </div>
                         </div>
                     </div>
                     <div class="col-md-6">
-                        <div class="card h-100">
+                        <div class="card h-100" style="filter: drop-shadow(5px 6px 5px black);">
                             <div class="card-body">
                                 <p>Industry Oriented Curriculum Comparable with World's Top Colleges</p>
                             </div>

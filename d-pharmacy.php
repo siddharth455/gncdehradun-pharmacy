@@ -24,11 +24,7 @@
                         <h3>Career Prospects:</h3>
                     </div>
                     <p>Graduates of the Diploma in Pharmacy (D.Pharm) program can explore several career paths in the pharmaceutical and healthcare sectors. They can work as Pharmacy Technicians, supporting pharmacists in dispensing medications and providing patient care. Another avenue is as Medical Representatives, where they promote and sell pharmaceutical products. Opportunities also exist in clinical research as assistants, contributing to the management and execution of clinical trials.</p>
-<<<<<<< HEAD
                     <a href="https://gnc.edu.in/pharmacy-college?utm_source=Pharmacy-website&utm_medium=Online&utm_campaign=Pharmacy-website" class="btn btn-lg btn-shadow applyNow_button">Apply Now <i class="fa fa-long-arrow-right ms-1" aria-hidden="true"></i></a>
-=======
-                    <a href="#" class="btn btn-lg btn-primary btn-shadow applyNow_button">Apply Now <i class="fa fa-long-arrow-right ms-1" aria-hidden="true"></i></a>
->>>>>>> parent of 5679838 (worked on banner chnages)
 
                 </div>
             </div>
@@ -46,10 +42,10 @@
         <div class="row">
             <div class="col-lg-8">
                 <!-- <p class="btn btn-lg btn-primary btn-shadow"><input type="button" onclick="printDiv('printableArea')" value="Print Fee" style="border:0px; color:#fff; background:none" /></p> -->
-                <p class="btn btn-sm btn-primary btn-shadow">
+                <p class="btn btn-sm btn-shadow" style="background-color: #00bcfb;">
                     <a target="_blank" id="printButton" style="border:0px; color:#fff; background:none;text-decoration: none;">Download Fee Structure</a>
                 </p>
-                <p class="btn btn-sm btn-primary btn-shadow">
+                <p class="btn btn-sm btn-shadow" style="background-color: #00bcfb;">
                 <a target="_blank" href="assets/images/D-Pharm-Syllabus.pdf" style="border:0px; color:#fff; background:none;text-decoration: none; margin-right: 20px;">Syllabus &amp; CO</a>
                 </p>
                 <!-- <p class="btn btn-sm btn-primary btn-shadow">
@@ -310,7 +306,7 @@
 <?php require "company-logo.php" ?>
 <section class="bigInfo-section mb-2">
     <div class="container">
-        <div class="row">
+        <div class="row align-items-center">
             <div class="col-lg-6 col-md-8 col-sm-10">
                 <div class="bigInfo-section__content pt-5 pb-5">
                     <div class="page-heading">
@@ -332,16 +328,12 @@
                         </li>
                         <li>We focus on value-based education, aiming to develop critical thinking, problem-solving skills, and a knack for innovation and research in our students. Recognizing the importance of career readiness in the dynamic field of pharmacy, we offer extensive placement training to prepare our students for successful careers in the pharmaceutical and healthcare sectors.</li>
                     </ul>
-<<<<<<< HEAD
                     <a href="https://gnc.edu.in/pharmacy-college?utm_source=Pharmacy-website&utm_medium=Online&utm_campaign=Pharmacy-website" class="btn btn-lg btn-shadow mt-4 applyNow_button" style="background-color: #00bcfb;">Apply Now <i class="fa fa-long-arrow-right ms-1" aria-hidden="true"></i></a>
-=======
-                    <a href="#" class="btn btn-lg btn-primary btn-shadow mt-4 applyNow_button">Apply Now <i class="fa fa-long-arrow-right ms-1" aria-hidden="true"></i></a>
->>>>>>> parent of 5679838 (worked on banner chnages)
                 </div>
             </div>
             <div class="col-lg-6 col-md-8 col-sm-10">
                 <div class="bigInfo-section__content pt-8 pb-8">
-                    <div style="     background-size: cover; background-size: cover; background-repeat: no-repeat;"><img src="upload/why-apply-gnc.webp"></div>
+                    <div style="     background-size: cover; background-size: cover; background-repeat: no-repeat;"><img src="assets/images/mainimg/DSC00635.webp" alt="logo" style="border-radius: 15px; filter: drop-shadow(5px 6px 5px black);"></div>
                 </div>
             </div>
         </div>

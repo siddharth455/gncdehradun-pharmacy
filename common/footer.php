@@ -60,6 +60,7 @@
                             <a href="research.php" class="nav-link">Research Peper</a>
                         </li>
                         <li> <a href="contact.php" class="nav-link">Connect with us</a></li>
+                        
                     </ul>
                 </div>
             </div>
@@ -83,7 +84,7 @@
                             <a href="cbd.php"> Caste Based Discrimination</a>
                         </li>
                         <li>
-                            <a href="iqac.php"> IQAC</a>
+                            <a href="feedback.php"> Feedback</a>
                         </li>
                     </ul>
                 </div>

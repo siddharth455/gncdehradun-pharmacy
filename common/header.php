@@ -13,7 +13,7 @@
     <link rel="stylesheet" href="assets/css/responsive.css" />
     <link rel="stylesheet" href="assets/css/global.css" />
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" />
     <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.css">
     <title>GNC Dehradun</title>
     <link rel="icon" type="image/png" href="assets/images/gnc_black-logo.svg">
@@ -34,6 +34,26 @@
     <!-- End Preloader -->
     <!-- Start Navbar Area -->
     <div class="navbar-area">
+        <div class="social-links vh-40">
+            <ul class="list-unstyled mb-0 button">
+                <li>
+                    <a href="https://web.whatsapp.com/send?phone=+api.whatsapp.com/send?phone=+917300900900&text=Hi" target="_blank"><i class="fab fa-whatsapp" aria-hidden="true"></i>
+                        <span>Whatsapp</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="tel:+917300900900" aria-label="Give a miss call"><i class="fa fa-phone" aria-hidden="true"></i>
+
+                        <span>Call&nbsp;Us</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="https://maps.app.goo.gl/WWNhKqccPRahyEya9" target="_blank"><i class="fa fa-location-arrow" aria-hidden="true"></i>
+                        <span>Contact</span>
+                    </a>
+                </li>
+            </ul>
+        </div>
         <div class="mobile-nav">
             <a href="index.php" class="logo">
                 <img src="assets/images/logo-phone.webp" class="main-logo" alt="logo" />
@@ -50,10 +70,18 @@
                     <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
                         <ul class="navbar-nav text-right">
                             <li class="nav-item">
-                                <a href="index.php" class="nav-link active">Home</a>
+                                <a href="index.php" class="nav-link">Home</a>
                             </li>
                             <li class="nav-item">
-                                <a href="about.php" class="nav-link">About</a>
+                                <a href="#" class="nav-link dropdown-toggle">About</a>
+                                <ul class="dropdown-menu">
+                                    <li class="nav-item">
+                                        <a href="about.php" class="nav-link">About GNC</a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a href="vision-and-mission.php" class="nav-link">Vision &amp; Mission</a>
+                                    </li>
+                                </ul>
                             </li>
                             <li class="nav-item">
                                 <a href="#" class="nav-link dropdown-toggle">Admission</a>
@@ -70,7 +98,21 @@
                                 </ul>
                             </li>
                             <li class="nav-item">
-                                <a href="academics.php" class="nav-link">Academics</a>
+                                <a href="#" class="nav-link dropdown-toggle">Academics</a>
+                                <ul class="dropdown-menu">
+                                    <li class="nav-item">
+                                        <a href="academics.php" class="nav-link">Academics Overview</a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a href="calendar.php" class="nav-link">Academics Calender</a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a href="calendar.php" class="nav-link">Academics Calender</a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a href="calendar.php" class="nav-link">Academics Calender</a>
+                                    </li>
+                                </ul>
                             </li>
                             <li class="nav-item">
                                 <a href="#" class="nav-link dropdown-toggle">Campus Life</a>
@@ -81,7 +123,6 @@
                                     <li class="nav-item">
                                         <a href="news.php" class="nav-link">News &amp; Updates</a>
                                     </li>
-<<<<<<< HEAD
                                 </ul>
                             </li>
                             <li class="nav-item">
@@ -94,13 +135,9 @@
                                         <a href="mou.php" class="nav-link">Industry Collaborations / MOU Signed</a>
                                     </li>
                                 </ul>
-=======
-                                    
-                                </ul>
                             </li>
                             <li class="nav-item">
-                                <a href="research.php" class="nav-link">Research</a>
->>>>>>> parent of 67b409d (Merge remote-tracking branch 'origin/suraj6204' into siddharth-sharma)
+                                <a href="iqac.php" class="nav-link"> IQAC</a>
                             </li>
                             <li class="nav-item">
                                 <a href="placement.php" class="nav-link">Placement</a>
@@ -110,16 +147,6 @@
                             </li>
                             <a href="https://gnc.edu.in/pharmacy-college?utm_source=Pharmacy-website&utm_medium=Online&utm_campaign=Pharmacy-website" class="applyNow_button">Apply Now</a>
                         </ul>
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-
-                       
->>>>>>> parent of 67b409d (Merge remote-tracking branch 'origin/suraj6204' into siddharth-sharma)
-=======
-
-
->>>>>>> parent of 5679838 (worked on banner chnages)
                     </div>
                 </nav>
             </div>

@@ -113,7 +113,38 @@
     font-style: normal;
     font-display: swap;
 }
+::-webkit-scrollbar {
+	width: 3px;
+}
 
+::-webkit-scrollbar-track {
+	background: #1690d9;
+}
+
+::-webkit-scrollbar-thumb {
+	background: #ff7e2d;
+}
+
+::-webkit-scrollbar-thumb:hover {
+	background: #ff7e2d;
+}
+	@media (min-width: 768px) {
+		::-webkit-scrollbar {
+			width: 3px;
+		}
+
+		::-webkit-scrollbar-track {
+			background: #1690d9;
+		}
+
+		::-webkit-scrollbar-thumb {
+			background:#ff7e2d
+		}
+
+		::-webkit-scrollbar-thumb:hover {
+			background:#ff7e2d
+	}
+	}
 
 /* global style */
 a {
@@ -767,7 +798,7 @@ p {
 }
 
 .testimoni-item .card-body::-webkit-scrollbar-thumb {
-    background: #d7dadc;
+    background: #d7dadc00;
 }
 
 .testimoni-item h3 {
@@ -1572,7 +1603,7 @@ ul.accordion-list>li.active .answer {
 }
 
 .partner-section {
-    background: #f8f9fa;
+    background: #f8f9fa00;
     padding: 20px 0;
     text-align: center;
 }

@@ -127,7 +127,7 @@
 <section>
     <div class="container ">
         <div class="card mt-2 mb-2">
-            <div class="card-header bg-primary text-white">
+            <div class="card-header  text-white" style="background-color: #00bcfb;">
                 <h2 style="text-align: center;">MOU Signed</h2>
             </div>
             <div class="row card-body">

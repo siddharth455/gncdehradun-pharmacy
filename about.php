@@ -15,7 +15,6 @@
         <div class="single-about">
             <div class="row">
                 <div class="col-lg-6 col-md-6 col-12">
-<<<<<<< HEAD
                     <img src="assets/images/about-gnc.webp" alt="about" style="border-radius: 15px; filter: drop-shadow(5px 6px 5px black);" />
                 </div>
                 <div class="col-lg-6 col-md-6 col-12">
@@ -25,18 +24,6 @@
                             <p>Welcome to the School of Pharmacy at Guru Nanak College of Pharmaceutical Sciences, a leading institution dedicated to excellence in pharmaceutical education.</p>
                             <p>Affiliated with the prestigious Uttarakhand Technical University (UTU), our school offers a range of comprehensive pharmaceutical programs, including Bachelor of Pharmacy (B.Pharma) and Diploma in Pharmacy (D.Pharm). These programs are meticulously designed to equip students with the knowledge and skills necessary for a successful career in the pharmaceutical industry.</p>
                         </div>
-=======
-                    <img src="assets/images/campus-tour.webp" alt="about" />
-                </div>
-                <div class="col-lg-6 col-md-6 col-12">
-                    <div class="about-contnet">
-                        <h2>SCHOOL OF PHARMACY AT GURU NANAK COLLEGE DEHRADUN</h2>
-                        <p>
-                            Welcome to the school of Pharmacy at Guru Nanak College, Dehradun, is a leading institution dedicated to excellence in pharmaceutical education.
-                        </p>
-                        <p>Affiliated with the prestigious Uttarakhand Technical University (UTU), our school offers a range of comprehensive pharmaceutical programs, including Bachelor of Pharmacy (B.Pharma) and Diploma in Pharmacy (D.Pharm). These programs are meticulously designed to equip students with the knowledge and skills necessary for a successful career in the pharmaceutical industry.
-                        </p>
->>>>>>> parent of 67b409d (Merge remote-tracking branch 'origin/suraj6204' into siddharth-sharma)
                     </div>
                 </div>
             </div>
@@ -48,11 +35,7 @@
         <div class="row align-items-center">
             <div class="col-lg-6 ps-0">
                 <div class="home-choose-img">
-<<<<<<< HEAD
                     <img src="assets/images/pcm-head.webp" alt="choose" style="border-top-right-radius: 30px;" />
-=======
-                    <img src="assets/images/pcm-head.webp" alt="choose" />
->>>>>>> parent of 67b409d (Merge remote-tracking branch 'origin/suraj6204' into siddharth-sharma)
                 </div>
             </div>
             <div class="col-lg-6 home-choose">
@@ -101,7 +84,6 @@
                         </div>
                     </div>
                 </div>
-<<<<<<< HEAD
                 <div class="col-lg-8">
                     <div class="row" style="font-size: 14px">
                         <div class="col-md-6">
@@ -110,16 +92,6 @@
                         <div class="col-md-6">
                             <p style="color:black">Our educational approach is meant to give you the confidence and resilience to tackle any challenge, whether it's personal or professional. We are committed to developing you into a leader who pursues their chosen career path without fear. With Guru Nanak College of Pharmaceutical Sciences by your side, you will be equipped with the essential professional skills and empowered to unleash your full potential, leaving an indelible mark wherever your journey takes you. Join us at Guru Nanak College of Pharmaceutical Sciences, where we believe in education as a powerful tool for change and where we pave the way for your limitless possibilities and a brighter future.</p>
                         </div>
-=======
-            </div>
-            <div class="col-lg-8">
-                <div class="row" style="font-size: 14px">
-                    <div class="col-md-6">
-                        <p style="color:black">Education is the key to unlocking doors to countless opportunities and igniting the flame of positive change within society. Guru Nanak College, Dehradun is the ultimate destination for those who aspire to be a catalyst for change, both personally and professionally. Guru Nanak College is a college that breaks free from conventional pedagogy and traditional classroom teaching. Transcending these boundaries is our strong belief in equipping our students with the knowledge and skills to make a positive impact on society and drive transformation. Our commitment to developing responsible global citizens is what makes us stand out.</p>
-                    </div>
-                    <div class="col-md-6">
-                        <p style="color:black">Our educational approach is meant to give you the confidence and resilience to tackle any challenge, whether it's personal or professional. We are committed to developing you into a leader who pursues their chosen career path without fear. With Guru Nanak College by your side, you will be equipped with the essential professional skills and empowered to unleash your full potential, leaving an indelible mark wherever your journey takes you. Join us at Guru Nanak College, where we believe in education as a powerful tool for change and where we pave the way for your limitless possibilities and a brighter future.</p>
->>>>>>> parent of 67b409d (Merge remote-tracking branch 'origin/suraj6204' into siddharth-sharma)
                     </div>
 
                 </div>
@@ -138,8 +110,18 @@
         </div>
 
         <div class="row">
-<<<<<<< HEAD
             <div class="slick-carousel-teachers">
+                <div class="col-lg-3 col-sm-6">
+                    <div class="single-home-teacher">
+                        <div class="teacher-img">
+                            <img src="assets/images/princpal.webp" alt="teacher" />
+                        </div>
+                        <div class="teachers-content">
+                            <h2>Prof. (Dr.) Deepak Sharma</h2>
+                            <p>Principal</p>
+                        </div>
+                    </div>
+                </div>
                 <div class="col-lg-3 col-sm-6">
                     <div class="single-home-teacher">
                         <div class="teacher-img">
@@ -149,36 +131,8 @@
                             <h2>Dr. Vishal Deshwal</h2>
                             <p>Professor</p>
                         </div>
-=======
-            <div class="col-lg-3 col-sm-6">
-                <div class="single-home-teacher">
-                    <div class="teacher-img">
-                        <a href="single-teacher.html">
-                            <img src="assets/images/teachers/img9.png" alt="teacher" /></a>
-                    </div>
-                    <div class="teachers-content">
-                        <h2>John Doe</h2>
-                        <p>Assistant Teacher</p>
->>>>>>> parent of 67b409d (Merge remote-tracking branch 'origin/suraj6204' into siddharth-sharma)
-                    </div>
-                    <div class="teacher-social">
-                        <ul>
-                            <li>
-                                <a href><i class="flaticon-facebook"></i></a>
-                            </li>
-                            <li>
-                                <a href><i class="flaticon-twitter"></i></a>
-                            </li>
-                            <li>
-                                <a href><i class="flaticon-envelope"></i></a>
-                            </li>
-                            <li>
-                                <a href><i class="flaticon-right-arrow"></i></a>
-                            </li>
-                        </ul>
                     </div>
                 </div>
-<<<<<<< HEAD
                 <div class="col-lg-3 col-sm-6">
                     <div class="single-home-teacher">
                         <div class="teacher-img">
@@ -188,62 +142,6 @@
                             <h2>Nidhi Chatterjee</h2>
                             <p>Professor</p>
                         </div>
-=======
-            </div>
-            <div class="col-lg-3 col-sm-6">
-                <div class="single-home-teacher">
-                    <div class="teacher-img">
-                        <a href="single-teacher.html">
-                            <img src="assets/images/teachers/img8.png" alt="teacher" /></a>
-                    </div>
-                    <div class="teachers-content">
-                        <h2>Evana Doe</h2>
-                        <p>Teacher</p>
-                    </div>
-                    <div class="teacher-social">
-                        <ul>
-                            <li>
-                                <a href><i class="flaticon-facebook"></i></a>
-                            </li>
-                            <li>
-                                <a href><i class="flaticon-twitter"></i></a>
-                            </li>
-                            <li>
-                                <a href><i class="flaticon-envelope"></i></a>
-                            </li>
-                            <li>
-                                <a href><i class="flaticon-right-arrow"></i></a>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-3 col-sm-6">
-                <div class="single-home-teacher">
-                    <div class="teacher-img">
-                        <a href="single-teacher.html">
-                            <img src="assets/images/teachers/img3.png" alt="teacher" /></a>
-                    </div>
-                    <div class="teachers-content">
-                        <h2>Smith Doe</h2>
-                        <p>English Teacher</p>
->>>>>>> parent of 67b409d (Merge remote-tracking branch 'origin/suraj6204' into siddharth-sharma)
-                    </div>
-                    <div class="teacher-social">
-                        <ul>
-                            <li>
-                                <a href><i class="flaticon-facebook"></i></a>
-                            </li>
-                            <li>
-                                <a href><i class="flaticon-twitter"></i></a>
-                            </li>
-                            <li>
-                                <a href><i class="flaticon-envelope"></i></a>
-                            </li>
-                            <li>
-                                <a href><i class="flaticon-right-arrow"></i></a>
-                            </li>
-                        </ul>
                     </div>
                 </div>
                 <div class="col-lg-3 col-sm-6">
@@ -277,22 +175,6 @@
                             <h2>Dr. Kashif Hussain</h2>
                             <p>Associate Professor</p>
                         </div>
-                    </div>
-                    <div class="teacher-social">
-                        <ul>
-                            <li>
-                                <a href><i class="flaticon-facebook"></i></a>
-                            </li>
-                            <li>
-                                <a href><i class="flaticon-twitter"></i></a>
-                            </li>
-                            <li>
-                                <a href><i class="flaticon-envelope"></i></a>
-                            </li>
-                            <li>
-                                <a href><i class="flaticon-right-arrow"></i></a>
-                            </li>
-                        </ul>
                     </div>
                 </div>
             </div>

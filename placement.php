@@ -118,37 +118,17 @@
                         </div>
                         <div class="col-xxl-4 col-sm-6">
                             <div class="card h-100 border-1">
-<<<<<<< HEAD
                                 <div class="card-body academics-objective">
                                     <h4 style="color: black !important;">Corporate Connect Program</h4>
                                     <p style="color: black !important;">We have established the Career Competency Program (CCP) at Guru Nanak College of Pharmaceutical Sciences with the aim of boosting our graduates' job prospects and creating an environment that attracts a greater number of multinational corporations (MNCs).</p>
-=======
-                                <div class="card-body">
-                                    <h4>Corporate Connect Program</h4>
-                                    <p style="color: black;">We have established the Career Competency Program (CCP) at Guru Nanak College with the aim of boosting our graduates' job prospects and creating an environment that attracts a greater number of multinational corporations (MNCs).</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-xxl-4 col-sm-6">
-                            <div class="card h-100 border-1" >
-                                <div class="card-body">
-                                    <h4>Career Resource Centre</h4>
-                                    <p >Empowerment comes through awareness. At Guru Nanak College, the Career Resource Centre is dedicated to enlightening, linking, and offering guidance to students regarding placement prospects.</p>
->>>>>>> parent of 5679838 (worked on banner chnages)
                                 </div>
                             </div>
                         </div>
                         <div class="col-xxl-4 col-sm-6">
                             <div class="card h-100 border-1">
-<<<<<<< HEAD
                                 <div class="card-body academics-objective">
                                     <h4 style="color: black !important;">Career Resource Centre</h4>
                                     <p style="color: black !important;">Empowerment comes through awareness. At Guru Nanak College of Pharmaceutical Sciences, the Career Resource Centre is dedicated to enlightening, linking, and offering guidance to students regarding placement prospects.</p>
-=======
-                                <div class="card-body">
-                                    <h4>Accreditations &amp; Validations</h4>
-                                    <p style="color: black;">Accreditations and validations stand as the foundational pillars of accuracy and trustworthiness, playing a pivotal role in attracting multinational corporations to our campus for recruitment purposes.</p>
->>>>>>> parent of 5679838 (worked on banner chnages)
                                 </div>
                             </div>
                         </div>
@@ -162,7 +142,6 @@
                         </div>
                         <div class="col-xxl-4 col-sm-6">
                             <div class="card h-100 border-1">
-<<<<<<< HEAD
                                 <div class="card-body academics-objective">
                                     <h4 style="color: black !important;">Placement Cell</h4>
                                     <p style="color: black !important;">GNC's Placement Cell is available year-round to facilitate your connections with leading multinational corporations (MNCs).</p>
@@ -174,11 +153,6 @@
                                 <div class="card-body academics-objective">
                                     <h4 style="color: black !important;">Foreign Internships &amp; Semester Exchange</h4>
                                     <p style="color: black !important;">Participating in Global Internships and Semester Exchange programs enhances your marketability by providing you with a unique blend of international exposure, hands-on experience, and a wealth of knowledge and skills acquired on the job.</p>
-=======
-                                <div class="card-body">
-                                    <h4>Foreign Internships &amp; Semester Exchange</h4>
-                                    <p style="color: black;">Participating in Global Internships and Semester Exchange programs enhances your marketability by providing you with a unique blend of international exposure, hands-on experience, and a wealth of knowledge and skills acquired on the job.</p>
->>>>>>> parent of 5679838 (worked on banner chnages)
                                 </div>
                             </div>
                         </div>
