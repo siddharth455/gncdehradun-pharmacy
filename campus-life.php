@@ -85,7 +85,7 @@
             <tr>
                 <th scope="row">2</th>
                 <td>Dushreera 2023</td>
-                <td>Life skills (Yoga, physical fitness, health and hygiene) </td>
+                <td>Life skills </td>
             </tr>
             <tr>
                 <th scope="row">3</th>
@@ -95,12 +95,12 @@
             <tr>
                 <th scope="row">4</th>
                 <td>Hospital Visit 2023 - CMI</td>
-                <td>Life skills (Yoga, physical fitness, health and hygiene) </td>
+                <td>Life skills </td>
             </tr>
             <tr>
                 <th scope="row">5</th>
                 <td>Dengue awareness rally</td>
-                <td>Life skills (Yoga, physical fitness, health and hygiene) </td>
+                <td>Life skills </td>
             </tr>
             <tr>
                 <th scope="row">6</th>
@@ -110,7 +110,7 @@
             <tr>
                 <th scope="row">7</th>
                 <td>Yoga Day 2023</td>
-                <td>Life skills (Yoga, physical fitness, health and hygiene)</td>
+                <td>Life skills</td>
             </tr>
             <tr>
                 <th scope="row">8</th>
@@ -120,12 +120,12 @@
             <tr>
                 <th scope="row">9</th>
                 <td>Earth Day 2023</td>
-                <td>Life skills (Yoga, physical fitness, health and hygiene)</td>
+                <td>Life skills</td>
             </tr>
             <tr>
                 <th scope="row">10</th>
                 <td>Hospital Visit - Kailash</td>
-                <td>Life skills (Yoga, physical fitness, health and hygiene)</td>
+                <td>Life skills</td>
             </tr>
             <tr>
                 <th scope="row">11</th>
@@ -160,12 +160,12 @@
             <tr>
                 <th scope="row">17</th>
                 <td>Cricket and Badminton</td>
-                <td>Life skills (Yoga, physical fitness, health and hygiene)</td>
+                <td>Life skills</td>
             </tr>
             <tr>
                 <th scope="row">18</th>
                 <td>Chess and carrom competition</td>
-                <td>Life skills (Yoga, physical fitness, health and hygiene)</td>
+                <td>Life skills</td>
             </tr>
             <tr>
                 <th scope="row">19</th>
@@ -175,7 +175,7 @@
             <tr>
                 <th scope="row">20</th>
                 <td>Volleyball</td>
-                <td>Life skills (Yoga, physical fitness, health and hygiene)</td>
+                <td>Life skills</td>
             </tr>
             <tr>
                 <th scope="row">21</th>
@@ -185,12 +185,12 @@
             <tr>
                 <th scope="row">22</th>
                 <td>Cultural Activities - Solo Dance, Group Dance, Solo Singing and Group Singing</td>
-                <td>Life skills (Yoga, physical fitness, health and hygiene) </td>
+                <td>Life skills</td>
             </tr>
             <tr>
                 <th scope="row">23</th>
                 <td>Blood Donation Camp/Sports</td>
-                <td>Life skills (Yoga, physical fitness, health and hygiene) </td>
+                <td>Life skills</td>
             </tr>
             <tr>
                 <th scope="row">24</th>
@@ -210,7 +210,7 @@
             <tr>
                 <th scope="row">27</th>
                 <td>Yoga Day 2022</td>
-                <td>Life skills (Yoga, physical fitness, health and hygiene) </td>
+                <td>Life skills</td>
             </tr>
             <tr>
                 <th scope="row">28</th>
@@ -225,7 +225,7 @@
             <tr>
                 <th scope="row">30</th>
                 <td>Pharmacy Day 2019</td>
-                <td>Life skills (Yoga, physical fitness, health and hygiene) </td>
+                <td>Life skills</td>
             </tr>
             <tr>
                 <th scope="row">31</th>
