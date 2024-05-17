@@ -118,6 +118,9 @@
                                         <a href="campus-life.php" class="nav-link">Life at GNC</a>
                                     </li>
                                     <li class="nav-item">
+                                        <a href="student-award.php" class="nav-link">Students' Recognisation</a>
+                                    </li>
+                                    <li class="nav-item">
                                         <a href="news.php" class="nav-link">News &amp; Updates</a>
                                     </li>
                                     <li class="nav-item">
