@@ -135,7 +135,7 @@
                                         <a href="mou.php" class="nav-link">Industry Collaborations / MOU Signed</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a href="career-development.php" class="nav-link">Career Development</a>
+                                        <a href="career-development.php" class="nav-link">Reserch & Career Development Initiatives</a>
                                     </li>
                                 </ul>
                             </li>

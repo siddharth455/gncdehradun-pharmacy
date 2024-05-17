@@ -15,7 +15,7 @@
         <div class="section-heading">
             <h2 class="mb-3">Innovative Research and Development</h2>
         </div>
-        <p class="mb-3">Guru Nanak College of Pharmaceutical Sciences has strategically aligned its research areas with emerging local and national priorities in pharmacy, biotechnology and climate change challenges. This comprehensive approach ensures its work addresses global challenges while fostering pharmaceutical innovation.</p>
+        <p class="mb-3" style="text-align: left;">Guru Nanak College of Pharmaceutical Sciences has strategically aligned its research areas with emerging local and national priorities in pharmacy, biotechnology and climate change challenges. This comprehensive approach ensures its work addresses global challenges while fostering pharmaceutical innovation.</p>
     </div>
 </section>
 <section class="container">
