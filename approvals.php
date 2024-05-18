@@ -23,15 +23,17 @@
                     <td>1</td>
                     <td>Sandip Institute of Pharmaceutical Science (SIPS)</td>
                     <td>
-                        <li>SIPS recognition under section 2(f) of the UGC act 1956</li>
-                        <li>Approved by Directorate of Technical Education, Maharashtra State.</li>
-                        <li>Pharmacy council of India Approval</li>
-                        <li>AICTE Approval 2023-24</li>
-                        <li>SPPU Affiliation 2023-24</li>
-                        <li>Pharmacy council of India Approval 2023-24</li>
-                        <li>SIPS NAAC Certificate of Accreditation Letter</li>
-                        <li>Approved by CPCSEA, New Delhi</li>
-                        <li>Faculty Sanction Letter 2023-24</li>
+                        <ul class="list-unstyled p-0 list-icon-4 ps-4 mt-3">
+                            <li>SIPS recognition under section 2(f) of the UGC act 1956</li>
+                            <li>Approved by Directorate of Technical Education, Maharashtra State.</li>
+                            <li>Pharmacy council of India Approval</li>
+                            <li>AICTE Approval 2023-24</li>
+                            <li>SPPU Affiliation 2023-24</li>
+                            <li>Pharmacy council of India Approval 2023-24</li>
+                            <li>SIPS NAAC Certificate of Accreditation Letter</li>
+                            <li>Approved by CPCSEA, New Delhi</li>
+                            <li>Faculty Sanction Letter 2023-24</li>
+                        </ul>
                     </td>
                 </tr>
             </table>

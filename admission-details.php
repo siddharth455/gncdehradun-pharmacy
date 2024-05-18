@@ -44,9 +44,11 @@
                 <td>65</td>
             </tr>
         </table><br>
-        <li>Information Brochure for Admission 2023-24</li>
-        <li>Sips Brochure 2023-24</li>
+        <ul class="list-unstyled p-0 list-icon-4 ps-4 mt-3">
+            <li>Information Brochure for Admission 2023-24</li>
+            <li>Sips Brochure 2023-24</li>
+        </ul>
+
     </div>
 </div>
-
 <?php require "common/footer.php" ?>
