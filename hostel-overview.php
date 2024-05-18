@@ -24,6 +24,9 @@
             <img src="https://via.placeholder.com/150" alt="Dummy Image 7">
             <img src="https://via.placeholder.com/150" alt="Dummy Image 8">
             <img src="https://via.placeholder.com/150" alt="Dummy Image 9">
+            <img src="https://via.placeholder.com/150" alt="Dummy Image 10">
+            <img src="https://via.placeholder.com/150" alt="Dummy Image 11">
+            <img src="https://via.placeholder.com/150" alt="Dummy Image 12">
         </div>
     </div>
 
