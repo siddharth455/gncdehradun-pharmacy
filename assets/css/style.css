@@ -5516,3 +5516,356 @@ ol {
   color: #ffffff !important;
 }
 
+
+/* notice style */
+
+.entry-title {
+  background-color: #F5E9D4;
+  width: 100%;
+  padding: 10px ;
+}
+
+.site-content {
+  background-color: #f5f5f5;
+  padding: 20px;
+}
+
+.entry-banner {
+  background-color: #f5f5f5;
+  padding: 20px 0;
+  margin-bottom: 20px;
+  border-bottom: 1px solid #ddd;
+}
+
+.entry-title {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+/* Notices Section */
+.content-area {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+  padding: 15px;
+ margin-left: 300px;
+}
+
+.widget {
+  background-color: #fff;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+
+.widget-title {
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.scrolltick {
+  overflow: hidden;
+  height: 120px;
+  position: relative;
+}
+
+.scrolltick p {
+  margin: 0;
+  padding: 0;
+}
+
+.scrolltick a {
+  text-decoration: none;
+  color: #000;
+}
+
+.scrolltick a strong {
+  color: #ff7e00;
+}
+
+/* Scroll Animation */
+@keyframes scroll {
+  0% { transform: translateY(100%); }
+  100% { transform: translateY(-100%); }
+}
+
+.scrolltick .js-marquee {
+  display: flex;
+  flex-direction: column;
+  animation: scroll 10s linear infinite;
+}
+
+.js-marquee-wrapper {
+  display: flex;
+  flex-direction: column;
+}
+
+/* Sidebar */
+.sidebar-widget-area {
+  background-color: #f5f5f5;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
+
+.widget_nav_menu .menu {
+  list-style: none;
+  padding: 0;
+}
+
+.widget_nav_menu .menu-item {
+  margin-bottom: 10px;
+}
+
+.widget_nav_menu .menu-item a {
+  text-decoration: none;
+  color: #ff7e00;
+  display: block;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+.widget_nav_menu .menu-item a:hover {
+  background-color: #ff7e00;
+  color: #fff;
+}
+
+/* Background Colors */
+.vc_col-has-fill {
+  background-color: #f5f5f5;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  margin: 10px 0;
+}
+
+/* student achievement page */
+
+
+
+.achievements-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.main-title {
+  text-align: center;
+  background-color: #f0e6d2;
+  padding: 10px 0;
+  margin-bottom: 20px;
+}
+
+.achievements-content {
+  display: flex;
+  justify-content: space-between;
+}
+
+.left-column {
+  width: 50%;
+}
+.right-column{
+ margin-left: 20px;
+}
+.widget-title {
+  background-color: #ff7e00; /* Background color as per the image */
+  color: #fff;
+  padding: 10px;
+  font-size: 20px;
+  font-weight: bold;
+  border-radius: 5px;
+  margin-bottom: 10px;
+  text-align: center;
+  
+}
+.widget-title-zonal{
+  background-color: #ff7e00; /* Background color as per the image */
+  color: #fff;
+  padding: 10px;
+  font-size: 20px;
+  font-weight: bold;
+  border-radius: 5px;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+.achievement-list {
+  background-color: #fff;
+  border: 1px solid #ddd;
+  padding: 10px;
+  border-radius: 5px;
+  
+}
+
+.achievement-item {
+  background-color: #ff7e00; /* Background color as per the image */
+  color: #fff;
+  padding: 10px;
+  margin-bottom: 5px;
+  border-radius: 3px;
+  text-align: center;
+}
+
+.right-column img {
+  width: 100%;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+
+.right-column p {
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+.left-column-acheive{
+  width: 33%;
+}
+.achievements-content-acheive{
+  display: flex;
+}
+.right-column-acheive{
+  width: 70%;
+  display: flex;
+  margin-left: 10px;
+  height: auto;
+}
+
+.student-card {
+  background-color: #fff;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  text-align: center;
+  width: calc(50% - 10px);
+}
+
+.student-card img {
+  border-radius: 5px;
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  border: 3px solid red; /* Border color as per the image */
+  margin-bottom: 10px;
+}
+
+.student-info h3 {
+  font-size: 18px;
+  color: red; /* Text color as per the image */
+  margin-bottom: 5px;
+}
+
+.student-info p {
+  font-size: 14px;
+  margin: 5px 0;
+}
+.achievement-item a{
+  text-decoration: none;
+  color: white;
+}
+
+/* rules and regulations */
+
+.accordion-container h2{
+text-align: center;
+margin: 20px 0;
+}
+.rules-list{
+  margin: 50px;
+}
+
+/* hostel-overview */
+.content-container {
+  max-width: 800px;
+  margin: 20px auto;
+  background-color: #fff;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
+
+
+.image-gallery {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin: 0 55px;
+}
+
+.image-gallery img {
+  width: calc(33.333% - 10px);
+  max-width: 150px;
+  border-radius: 5px;
+  transition: transform 0.3s ease;
+}
+
+.image-gallery img:hover {
+  transform: scale(1.05);
+}
+
+/* scholarship-section */
+
+
+.content-container {
+  max-width: 900px;
+  margin: 20px auto;
+  background-color: #fff;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
+
+.scholarship-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.scholarship-table thead th {
+  background-color: #f5f5dc;
+  color: #333;
+  text-align: left;
+  padding: 10px;
+  border: 1px solid #ddd;
+}
+
+.scholarship-table tbody td {
+  border: 1px solid #ddd;
+  padding: 10px;
+}
+
+.scholarship-table tbody tr:nth-child(odd) {
+  background-color: #f9f9f9;
+}
+
+.scholarship-table tbody tr:nth-child(even) {
+  background-color: #fff;
+}
+
+.scholarship-table a {
+  color: #ff8c00;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.scholarship-table a:hover {
+  text-decoration: underline;
+}
+
+/* NSS page */
+
+.NSS-container h2{
+  text-align: center;
+  background-color: #F5E9D4;
+  margin: 20px ;
+  padding: 10px;
+}
+.NSS-content{
+  margin: 30px  100px;
+}
+.NSS-content h2{
+  text-align: left;
+}
+.NSS-image{
+ margin:  10px 25%;
+}

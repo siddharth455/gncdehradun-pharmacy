@@ -77,7 +77,7 @@
                         <input type="text" class="form-control" id="comapny" placeholder="Enter Your Company / Business Name">
                     </div>
                     <button type="submit" class="btn-submit mb-2" style="background-color: #00bcfb;" id="validateBtn">SUBMIT AND CONTINUE</button>
-                    <a href="index.php" class="btn-submit" style="background-color: #f08644; text-align: center;">Back To Home</a>
+                    <a href="feedback.php" class="btn-submit" style="background-color: #f08644;">Back To Home</a>
                 </form>
             </div>
         </div>

@@ -36,31 +36,31 @@ th {
     </div>
 </div>
 <section class="student form" style="background-image: url();">
-    <div class="form-container align-center " id="loginForm">
+    <div class="form-container align-center" id="loginForm">
         <div class="card text-center">
             <div class="card-header">
                 <h2>LOGIN DETAILS</h2>
             </div>
             <div class="card-body">
-                <form>
+                <form >
                     <div class="mb-3">
                         <label for="studentId" class="form-label">Enter Student College ID</label>
-                        <input type="text" class="form-control" id="studentId" placeholder="Enter Your College ID">
+                        <input type="text" class="form-control" id="studentId" name="studentId" placeholder="Enter Your College ID">
                     </div>
                     <div class="mb-3">
                         <label for="academicYear" class="form-label">Academic Year</label>
-                        <input type="text" class="form-control" id="academicYear" placeholder="Enter Your Academic Year">
+                        <input type="text" class="form-control" id="academicYear" name="academicYear" placeholder="Enter Your Academic Year">
                     </div>
                     <div class="mb-3">
                         <label for="course" class="form-label">Course/Class</label>
-                        <input type="text" class="form-control" id="course" placeholder="Enter Your Course/Class">
+                        <input type="text" class="form-control" id="course" name="course" placeholder="Enter Your Course/Class">
                     </div>
                     <div class="mb-3">
                         <label for="semester" class="form-label">Enter Semester</label>
-                        <input type="text" class="form-control" id="semester" placeholder="Enter Your Semester">
+                        <input type="text" class="form-control" id="semester" name="semester" placeholder="Enter Your Semester">
                     </div>
                     <button type="submit" class="btn-submit mb-2" style="background-color: #00bcfb;" id="validateBtn">VALIDATE</button>
-                    <a href="index.php" class="btn-submit" style="background-color: #f08644;">Back To Home</a>
+                    <a href="feedback.php" class="btn-submit" style="background-color: #f08644;">Back To Home</a>
                 </form>
             </div>
         </div>
@@ -72,7 +72,7 @@ th {
             </div>
             <div class="card-body">
                 <h6>Likert’s Scale: Strongly agree (5); Agree (4); Neutral (3); Disagree (2); Strongly disagree (1)</h6>
-                <form id="feedbackForm">
+                <form id="feedbackForm"  >
                     <div style="overflow-x:auto;">
                         <table>
                             <tr>
@@ -169,18 +169,17 @@ th {
                     </div>
                     <div class="mb-3 mt-3">
                         <label for="comments" class="form-label">Additional comments/Suggestions:</label>
-                        <textarea class="form-control" id="comments" placeholder="Enter your comments/suggestions"></textarea>
+                        <textarea class="form-control" id="comments" name="comments" placeholder="Enter your comments/suggestions"></textarea>
                     </div>
                     <div class="mb-3">
                         <label for="signature" class="form-label">Signature:</label>
-                        <input type="text" class="form-control" id="signature" placeholder="Enter your Full Name">
+                        <input type="text" class="form-control" id="signature" name="signature" placeholder="Enter your Full Name">
                     </div>
                     <button type="submit" class="btn-submit mb-2" style="background-color: #00bcfb;">SUBMIT</button>
                 </form>
             </div>
         </div>
     </div>
-
 </section>
 <script>
     document.getElementById('loginForm').addEventListener('submit', function(event) {
