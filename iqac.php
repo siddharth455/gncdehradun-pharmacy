@@ -135,22 +135,91 @@
 
                             </div>
                         </div>
+                    </div>
                 </div>
-            </div>
-            <div class="tab-pane fade" id="v-pills-profile" role="tabpanel" aria-labelledby="v-pills-profile-tab" tabindex="0">
-                <!-- Content for Minutes of Meeting Tab -->
-            </div>
-            <div class="tab-pane fade" id="v-pills-disabled" role="tabpanel" aria-labelledby="v-pills-disabled-tab" tabindex="0">
-                <!-- Content for Action Taken Report Tab -->
-            </div>
-            <div class="tab-pane fade" id="v-pills-messages" role="tabpanel" aria-labelledby="v-pills-messages-tab" tabindex="0">
-                <!-- Content for Messages Tab -->
-            </div>
-            <div class="tab-pane fade" id="v-pills-settings" role="tabpanel" aria-labelledby="v-pills-settings-tab" tabindex="0">
-                <!-- Content for Settings Tab -->
+                <div class="tab-pane fade" id="v-pills-profile" role="tabpanel" aria-labelledby="v-pills-profile-tab" tabindex="0">
+                    <!-- Content for Minutes of Meeting Tab -->
+                </div>
+                <div class="tab-pane fade" id="v-pills-disabled" role="tabpanel" aria-labelledby="v-pills-disabled-tab" tabindex="0">
+                    <!-- Content for Action Taken Report Tab -->
+                </div>
+                <div class="tab-pane fade" id="v-pills-messages" role="tabpanel" aria-labelledby="v-pills-messages-tab" tabindex="0">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-lg-3 mb-5">
+                                <div class="card">
+                                    <img class="card-img-top" src="assets/images/khelo.webp" alt="Card image cap">
+                                    <div class="card-body">
+                                        <a href="https://kheloindia.gov.in/" class="btn btn-primary col-lg-12">KHELO INDIA</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-3 mb-5">
+                                <div class="card">
+                                    <img class="card-img-top" src="assets/images/ministry.webp" alt="Card image cap">
+                                    <div class="card-body">
+                                        <a href="https://dbtyas-sports.gov.in/" class="btn btn-primary col-lg-12">MINISTRY</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-3 mb-5">
+                                <div class="card">
+                                    <img class="card-img-top" src="assets/images/pharmacy council of india (1).webp" alt="Card image cap">
+                                    <div class="card-body">
+                                        <a href="https://www.pci.nic.in/" class="btn btn-primary col-lg-12">PHARMACY COUNCIL OF INDIA</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-3 mb-5">
+                                <div class="card">
+                                    <img class="card-img-top" src="assets/images/radhakrishnan (1).webp" alt="Card image cap">
+                                    <div class="card-body">
+                                        <a href="http://naac.gov.in/images/docs/DrRadhakrishnanCommittee-FinalReport.pdf" class="btn btn-primary col-lg-12">RADHAKRISHNAN</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-3 mb-5">
+                                <div class="card">
+                                    <img class="card-img-top" src="assets/images/ugc.webp" alt="Card image cap">
+                                    <div class="card-body">
+                                        <a href="https://www.ugc.gov.in/" class="btn btn-primary col-lg-12">UGC</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-3 mb-5">
+                                <div class="card">
+                                    <img class="card-img-top" src="assets/images/uttarakhand.webp" alt="Card image cap">
+                                    <div class="card-body">
+                                        <a href="https://sports.uk.gov.in/" class="btn btn-primary col-lg-12">UTTARAKHAND</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-3">
+                                <div class="card">
+                                    <img class="card-img-top" src="assets/images/youth.webp" alt="Card image cap">
+                                    <div class="card-body">
+                                        <a href="https://www.india.gov.in/topics/youth-sports" class="btn btn-primary col-lg-12">YOUTH</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-3">
+                                <div class="card">
+                                    <img class="card-img-top" src="assets/images/sports1.webp" alt="Card image cap">
+                                    <div class="card-body">
+                                        <a href="https://sportsauthorityofindia.nic.in/sai/" class="btn btn-primary col-lg-12">SPORTS</a>
+                                    </div>
+                                </div>
+                            </div>
+
+
+                        </div>
+                    </div>
+                </div>
+                <div class="tab-pane fade" id="v-pills-settings" role="tabpanel" aria-labelledby="v-pills-settings-tab" tabindex="0">
+                    <!-- Content for Settings Tab -->
+                </div>
             </div>
         </div>
     </div>
-</div>
 </div>
 <?php require "common/footer.php" ?>
