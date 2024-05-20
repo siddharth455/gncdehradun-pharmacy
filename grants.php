@@ -42,6 +42,4 @@
             </tr>
         </table>
     </div>
-</div>
-
-<?php require "common/footer.php" ?>
+</div><?php require "common/footer.php" ?>
