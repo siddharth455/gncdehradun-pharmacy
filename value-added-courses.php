@@ -18,7 +18,7 @@
         <p class="mb-3" style="text-align: left;">Guru Nanak College of Pharmaceutical Sciences has strategically aligned its research areas with emerging local and national priorities in pharmacy, biotechnology and climate change challenges. This comprehensive approach ensures its work addresses global challenges while fostering pharmaceutical innovation.</p>
     </div>
 </section> -->
-<section class="container mt-4 mb-4">
+<section class="container mt-4 mb-4" style="overflow-y: auto;">
     <table class="table table-bordered">
         <thead>
             <tr class="heading">
