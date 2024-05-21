@@ -165,6 +165,9 @@
                                     <li class="nav-item">
                                         <a href="mou.php" class="nav-link">Industry Collaborations / MOU Signed</a>
                                     </li>
+                                    <li class="nav-item">
+                                        <a href="books.php" class="nav-link">Books &amp; Book Chapters</a>
+                                    </li>
                                 </ul>
                             </li>
                             <li class="nav-item">
