@@ -57,7 +57,7 @@ ul li {
         <h1>Training & Placement</h1>
         <p><strong>Apart from the Central T and P committee, the Sandip Institute of pharmaceutical Science is also having college level Training
              and Placement Department in its pharmacy campus consisting of:</strong></p>
-             <ul>
+             <ul class="list-unstyled p-0 list-icon-4 ps-4 mt-3">
                 <li>Principal of Pharmacy College</li>
                 <li>T and P Officer</li>
                 <li>T and P Coordinator</li>
@@ -66,7 +66,7 @@ ul li {
              <p><strong>To educate students from diverse backgrounds in the fundamental skills, knowledge through a curriculum designed by the
                  university and to prepare them for pharmacy professional positions in service organizations, pharmaceutical industries, other
                   healthcare fields and also to promote a spirit of innovation and entrepreneurship.</strong></p>
-                  <ul>
+                  <ul class="list-unstyled p-0 list-icon-4 ps-4 mt-3">
                     <li>To assist students to develop/clarify their academic and career interests.</li>
                     <li>Maintaining and regularly updating database of students. Maintaining database of companies and establishing strategic links for campus recruitments.</li>
                     <li>Gathering information about job fairs and all relevant recruitment advertisements.</li>

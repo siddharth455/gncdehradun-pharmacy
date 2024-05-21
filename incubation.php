@@ -59,7 +59,7 @@
 </div>
 
 <div class="in-container">
-    <h1>Incubation Center</h1>
+    <h1 style="background: #3abefe; color: var(--text-white);">Incubation Center</h1>
     <h2>Overview</h2>
     <ul class="list-unstyled p-0 list-icon-4 ps-4 mt-3">
         <li>The Sandip Institute of pharmaceutical science has identified the need of establishing the Incubation and Innovation Centre at its well-resourced campus and is in process of developing the same. The proposed incubation centre shall nurtures innovation and encourages entrepreneurial talents among students, faculty and people of the region. It shall facilitates inter-disciplinary research and provides incubation facilities to start ups and budding entrepreneurs.</li><br>

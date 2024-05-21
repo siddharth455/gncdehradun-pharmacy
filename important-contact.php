@@ -50,7 +50,6 @@ table td {
     vertical-align: top;
 }
 </style>
-
 <?php require "common/header.php" ?>
 <div class="banner-area about" style="background-image: url(assets/images/d-2.webp);">
     <div class="d-table">
@@ -64,10 +63,10 @@ table td {
     </div>
 </div>
  <div class="important-container">
-        <h2>Important Contacts</h2>
+        <h2 style="background: #3abefe; color: var(--text-white);">Important Contacts</h2>
 
         <h3>Boys Hostel</h3>
-        <table>
+        <table class="table table-bordered">
             <thead>
                 <tr>
                     <th>Sr. No.</th>
@@ -100,7 +99,7 @@ table td {
         </table>
 
         <h3>Girls Hostel</h3>
-        <table>
+        <table class="table table-bordered">
             <thead>
                 <tr>
                     <th>Sr. No.</th>

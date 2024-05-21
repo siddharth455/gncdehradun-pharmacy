@@ -29,16 +29,16 @@
                     <h5 style="color: white;">Learn Here</h5>
                     <ul>
                         <li>
-                            <a href="b-pharmacy.php" class="nav-link">Bachelor of Pharmacy</a>
+                            <a href="b-pharmacy.php">Bachelor of Pharmacy</a>
                         </li>
                         <li>
-                            <a href="d-pharmacy.php" class="nav-link">Diploma of Pharmacy</a>
+                            <a href="d-pharmacy.php">Diploma of Pharmacy</a>
                         </li>
                         <li>
-                            <a href="academics.php" class="nav-link">Academics Overview</a>
+                            <a href="academics.php">Academics Overview</a>
                         </li>
                         <li>
-                            <a href="about.php" class="nav-link">About the GNC</a>
+                            <a href="about.php">About the GNC</a>
                         </li>
                     </ul>
                 </div>
@@ -48,18 +48,18 @@
                     <h5 style="color: white;">Visit Here</h5>
                     <ul>
                         <li>
-                            <a href="placement.php" class="nav-link">Placement</a>
+                            <a href="placement.php">Placement</a>
                         </li>
                         <li>
-                            <a href="campus-life.php" class="nav-link">Campus Life</a>
+                            <a href="campus-life.php">Campus Life</a>
                         </li>
                         <li>
-                            <a href="news.php" class="nav-link">News &amp; Updates</a>
+                            <a href="news.php">News &amp; Updates</a>
                         </li>
                         <li>
-                            <a href="research.php" class="nav-link">Research Paper</a>
+                            <a href="research.php">Research Paper</a>
                         </li>
-                        <li> <a href="contact.php" class="nav-link">Connect with us</a></li>
+                        <li> <a href="contact.php">Connect with us</a></li>
                         
                     </ul>
                 </div>
@@ -133,7 +133,6 @@
 <script src="assets/js/contact-form-script.js"></script>
 <!-- Main js -->
 <script src="assets/js/main.js"></script>
-<script src="	https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js"></script>
 
 <script>

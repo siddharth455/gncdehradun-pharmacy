@@ -28,7 +28,7 @@
                             </div>
                         </div>
                         <ul>
-                            <li>Aiming for global recognition as a hub of excellence in Research, Innovation, and Entrepreneurship, our goal is to impart transformative education that nurtures professional leaders dedicated to societal service. We are committed to spreading knowledge through motivational learning experiences that foster leadership and professional growth.</li>
+                            <li>At Guru Nanak College Of Pharmaceutical Sciences, the vision is to create a learning environment that goes beyond traditional education. Inspired by Guru Nanak Dev Ji’s teachings, the college focuses on 'Learning by Doing,' providing practical, hands-on experiences that equip students with real-world skills. The college endeavors to keep education affordable and promote an international culture, ensuring quality education is accessible to everyone, regardless of caste, creed, or gender. An inclusive community that values diversity and encourages lifelong learning is central to our vision.</li>
                         </ul>
                     </div>
 
@@ -46,10 +46,12 @@
                         </div>
                         <div class="mission-listing">
                             <ul>
-                                <li>Dedicated to providing top-notch facilities, distinguished faculty, and a conducive environment for Research, Innovation, Consultancy, and Entrepreneurship. We design our Curriculum to align with global standards, integrating comprehensive training with a focus on Human and Ethical values to meet industry and societal needs.</li>
-                                <li>Our approach to education involves engaging students in a challenging, diverse intellectual environment, shaping them into professional leaders. We're committed to a scientific, fair, and unbiased Examination/Evaluation system for credible certification.</li>
-                                <li>Our strategic partnerships with leading national and international corporations and universities enhance our academic and research endeavors.</li>
-                                <li>We actively contribute to building a robust, dynamic, and sustainable society by engaging students in community service, health awareness, sports, cultural, and environmental activities. We are also involved in ISR initiatives focusing on women's empowerment, aiding underprivileged rural communities, and conducting socially relevant research.</li>
+                                <li>To combine digital knowledge with academic excellence by incorporating modern technology into the curriculum and ensuring students gain practical, hands-on experiences that develop real-world skills through <b>'Learning by Doing'</b>.</li>
+                                <li>To support female students by encouraging entrepreneurial ventures and develop innovation, while providing resources and support services for physically challenged students, promoting independence and self-sufficiency.</li>
+                                <li>To maintain a faculty of experienced teachers, researchers, scientists, and professionals, and include industry experts in the management team for enriching students' learning experiences with corporate insights and expertise.</li>
+                                <li>To uplift defense wards, athletes, meritorious students, girls, and economically weaker sections by offering scholarships, and to support nearby villages by providing free education. This includes inspiring higher education, lifelong learning, and empowering students with educational guidance, medical assistance, and skills for a sustainable livelihood.</li>
+                                <li>To offer clear guidance on career paths, including jobs, research, entrepreneurship, and further studies in India and abroad.</li>
+                                <li>To support our students in researching and developing affordable generic medicines, via our advanced research resources and expert guidance ensuring accessible healthcare solutions for all with a no-profit-no-loss approach.</li>
                             </ul>
                         </div>
                     </div>
@@ -68,13 +70,13 @@
                             </div>
                         </div>
                         <ul>
-                            <li>To be globally recognized as a Centre of Excellence for Research, Innovation, Entrepreneurship and disseminating knowledge by providing inspirational learning to produce professional leaders for serving the society</li>
+                            <li>To be globally recognized as a Centre of Excellence for Research, Innovation, Entrepreneurship and disseminating knowledge by providing inspirational learning to produce professional leaders for serving the society.</li>
                             <li>Inclusivity and diversity are at the heart of our community. We welcome staff from all backgrounds, valuing the unique perspectives and experiences they bring. This diversity fosters a rich, collaborative environment, essential for both personal growth and academic excellence.</li>
                             <li>Innovation is key to our success. We encourage our staff to think creatively, explore new teaching methodologies, and engage in research that pushes the boundaries of traditional education. This culture of innovation not only benefits our students but also ensures a stimulating and dynamic work environment for our staff.</li>
-                            <li>Ethical behavior and integrity, guided by the teachings of GNC, are fundamental to our institution. We strive to create leaders who are not just successful in their fields but also mindful of their ethical responsibilities. Our employees are expected to uphold these values, creating a trustworthy and respectful workplace.</li>
+                            <li>Ethical behavior and integrity, guided by the teachings of GURU NANAK COLLEGE OF PHARMACEUTICAL SCIENCES, are fundamental to our institution. We strive to create leaders who are not just successful in their fields but also mindful of their ethical responsibilities. Our employees are expected to uphold these values, creating a trustworthy and respectful workplace.</li>
                             <li>We also emphasize the importance of community engagement and environmental responsibility. Our staff are encouraged to participate in outreach programs and contribute to sustainability initiatives, reflecting our commitment to social and environmental stewardship.</li>
                             <li>If you share these values and are passionate about making a difference in education, Guru Nanak College offers a fulfilling and enriching career path. Join us in our mission to educate, inspire, and empower, one student at a time.</li>
-                            <li>Ethical conduct, inspired by the teachings of GNC, underpins all our operations, ensuring integrity in our academic and administrative activities.</li>
+                            <li>Ethical conduct, inspired by the teachings of GURU NANAK COLLEGE OF PHARMACEUTICAL SCIENCES, underpins all our operations, ensuring integrity in our academic and administrative activities.</li>
                         </ul>
                     </div>
                 </div>

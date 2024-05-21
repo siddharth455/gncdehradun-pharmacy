@@ -4,86 +4,93 @@
         <div class="d-table-cell">
             <div class="container">
                 <div class="page-title-content">
-                    <h2>Career Development</h2>
+                    <h2>Scholarship</h2>
                 </div>
             </div>
         </div>
     </div>
 </div>
-    <div class="content-container">
-        <h2>Scholarship Section</h2>
-        <table class="scholarship-table">
-            <thead>
-                <tr>
-                    <th>Sr. No.</th>
-                    <th>Name of Scheme</th>
-                    <th>Link for document</th>
-                </tr>
-            </thead>
-            <tbody>
-                <tr>
-                    <td>1.</td>
-                    <td>Rajarshi Chhatrapati Shahu Maharaj Shikshan Shulkh Shishyavrutti Yojna. (EBC)</td>
-                    <td><a href="#">View</a></td>
-                </tr>
-                <tr>
-                    <td>2.</td>
-                    <td>Dr. Panjabrao Deshmukh Vastigruh Nirvah Bhatta Yojna.</td>
-                    <td><a href="#">View</a></td>
-                </tr>
-                <tr>
-                    <td>3.</td>
-                    <td>Scholarship Scheme for State Minority Communities Pursuing Higher Professional Education/All Post H.S.C Courses.</td>
-                    <td><a href="#">View</a></td>
-                </tr>
-                <tr>
-                    <td>4.</td>
-                    <td>Tuition Fees and Examination Fees to OBC Students. (OBC Freeship)</td>
-                    <td><a href="#">View</a></td>
-                </tr>
-                <tr>
-                    <td>5.</td>
-                    <td>Post Matric Scholarship to OBC Students. (OBC Scholarship)</td>
-                    <td><a href="#">View</a></td>
-                </tr>
-                <tr>
-                    <td>6.</td>
-                    <td>Tuition Fees and Examination Fees to SBC Students. (SBC Freeship)</td>
-                    <td><a href="#">View</a></td>
-                </tr>
-                <tr>
-                    <td>7.</td>
-                    <td>Post Matric Scholarship to SBC Students. (SBC Scholarship)</td>
-                    <td><a href="#">View</a></td>
-                </tr>
-                <tr>
-                    <td>8.</td>
-                    <td>Post-Matric Tuition Fee and Examination Fee (Freeship) (SC Freeship)</td>
-                    <td><a href="#">View</a></td>
-                </tr>
-                <tr>
-                    <td>9.</td>
-                    <td>Government of India Post-Matric Scholarship. (SC Scholarship)</td>
-                    <td><a href="#">View</a></td>
-                </tr>
-                <tr>
-                    <td>10.</td>
-                    <td>Tuition Fee & Exam Fee for Tribal Students (Freeship). (ST Freeship)</td>
-                    <td><a href="#">View</a></td>
-                </tr>
-                <tr>
-                    <td>11.</td>
-                    <td>Post Matric Scholarship Scheme (Government Of India). (ST Scholarship)</td>
-                    <td><a href="#">View</a></td>
-                </tr>
-                <tr>
-                    <td>12.</td>
-                    <td>Tuition Fees and Examination Fees to VJNT Students. (VJNT Freeship)</td>
-                    <td><a href="#">View</a></td>
-                </tr>
-            </tbody>
-        </table>
+<div class="col-lg-0 container">
+    <img src="" class="mb-4 no-filter" width="120">
+    <div class="page-heading">
+        <h2>Merit Scholarship</h2>
     </div>
+    <p style="color: black;">Guru Nanak College in Dehradun values academic excellence and offers scholarships to students who perform exceptionally well in their qualifying examinations. These scholarships demonstrate the college's commitment to fostering scholarly aptitude and providing support to deserving students.</p>
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>Slab</th>
+                <th>Admission is taken</th>
+                <th>Percentage</th>
+                <th>Fee Waiver</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1</td>
+                <td>Diploma/UG</td>
+                <td>65-75%</td>
+                <td>15%</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>Diploma/UG</td>
+                <td>75-90%</td>
+                <td>20%</td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>Diploma/UG</td>
+                <td>90-95%</td>
+                <td>50%</td>
+            </tr>
+            <tr>
+                <td>4</td>
+                <td>Diploma/UG</td>
+                <td>95-100%</td>
+                <td>Free Education</td>
+            </tr>
+            <tr>
+                <td>5</td>
+                <td>Diploma/UG</td>
+                <td>Sports Category</td>
+                <td>5-10%</td>
+            </tr>
+            <tr>
+                <td>6</td>
+                <td>Diploma/UG</td>
+                <td>Uttarakhand Domicile</td>
+                <td>15%</td>
+            </tr>
+            <tr>
+                <td>7</td>
+                <td>Diploma/UG</td>
+                <td>Extracurricular</td>
+                <td>5-10%</td>
+            </tr>
+            <tr>
+                <td>8</td>
+                <td>Diploma/UG</td>
+                <td>Social Service(NCC/NSS)</td>
+                <td>10%</td>
+            </tr>
+        </tbody>
+    </table>
 
+    <p style="color: black;">Note :- The management and college authorities have the authority to make changes to scholarships, including withdrawal, cancellation, or modification. Scholarships are contingent upon seat availability in the selected course, and this statement is not legally binding for claiming scholarships.</p>
+</div>
+<section class="container">
 
-<?php require "common/footer.php"?>
+    <h2>Terms &amp; Conditions for Scholarship</h2>
+    <p style="color: black;">The scholarship shall be awarded based on aggregate marks of Class XII results. In the case of CGPA, it shall be converted according to CBSE/ICSE/National Board. If the conversion criteria are not mentioned in the mark sheet, then the following criteria shall be applicable</p>
+    <ul class="list-unstyled p-0 list-icon-4 ps-4 mt-3">
+        <li>Scholarships in the bracket of 95% or more marks may be awarded to applicants who have obtained 10 CGPA.</li>
+        <li>Scholarships in the bracket of 90% to 94.99% marks may be awarded to applicants who have obtained 9.5 CGPA to 9.99 CGPA.</li>
+        <li> Scholarship in the bracket of 80% to 89.99% marks may be awarded to an applicant who has obtained 8.5 CGPA to 9.49 CGPA.</li>
+        <li>Scholarship in the bracket of 70% to 79.99% marks may be awarded to an applicant who has obtained 7.5 CGPA to 8.49 CGPA.</li>
+        <li>If a student gets a scholarship from a government/NGO/other agency, the Scholarship amount would be restricted to the difference between the sanctioned amount by Govt./NGO/other agency and the Scholarship at GNC. This decision is at the behest of the Scholarship Committee.</li>
+        <li>Scholarships are based on early admission and are further subject to availability of seats, course applied, and documents authentication as per the requirement of the institution.</li>
+    </ul>
+    <p style="color: black;">Scholarships offered may be on a different basis such as scholarship based on GD/PI, Uttarakhand Domicile, Scholarship based on percentage, Scholarship based on Sports, Cultural, R&amp;D, Co-curricular, Social Service etc. Scholarship based on Qualifying examinations. But it can be availed only under one category. Also, Scholarships shall be applied at the time of application or subject to seat availability. It shall not be allowed to change/apply at a later stage. Curricular, Social Services, etc. will only be awarded in case of competition meeting the guidelines approved by the said organizations as mentioned on the scholarship page. Students applying for admission through Scholarships will be required to upload documents/proof/certificates in the application portal after receiving login credentials for verification and authentication.</p>
+</section>
+<?php require "common/footer.php" ?>

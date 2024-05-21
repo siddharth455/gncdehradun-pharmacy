@@ -5470,6 +5470,52 @@ ol {
 	border-radius: 50%;
 
 }
+.form-container {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  width: 100%;
+  max-width: 600px;
+  margin: 20px auto;
+}
+.form-container-feedback{
+  width: 100%;
+}
+.form-label {
+  font-weight: bold;
+  margin-bottom: 5px;
+  text-align: left !important;
+  display: block; /* Ensure the label behaves as a block element */
+}
+.form-control {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 15px;
+  border: 1px solid #a9a9a9e6 !important;
+    border-radius: 5px;
+  box-sizing: border-box;
+}
+.form-control:focus {
+  border-color: #007bff;
+  box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
+  outline: none;
+}
+.btn-submit {
+  width: 100%;
+  padding: 10px;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+.card-header{
+  background-color:#00bcfb !important;
+  color: #ffffff !important;
+}
+
 
 /* notice style */
 
@@ -5739,21 +5785,6 @@ margin: 20px 0;
   border-radius: 5px;
 }
 
-h2 {
-  font-size: 24px;
-  color: #333;
-  border-bottom: 2px solid #f5f5dc;
-  padding-bottom: 10px;
-  margin-bottom: 20px;
-  text-align: center;
-}
-
-p {
-  font-size: 16px;
-  color: #555;
-  line-height: 1.6;
-  margin-bottom: 30px;
-}
 
 .image-gallery {
   display: flex;
@@ -5783,14 +5814,6 @@ p {
   padding: 20px;
   border: 1px solid #ddd;
   border-radius: 5px;
-}
-
-h2 {
-  font-size: 24px;
-  color: #333;
-  border-bottom: 2px solid #f5f5dc;
-  padding-bottom: 10px;
-  margin-bottom: 20px;
 }
 
 .scholarship-table {
@@ -5845,4 +5868,8 @@ h2 {
 }
 .NSS-image{
  margin:  10px 25%;
+}
+.chancellor-top-row img{
+
+  border-radius: 10px;
 }

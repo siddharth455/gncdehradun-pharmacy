@@ -1,0 +1,76 @@
+<?php require "common/header.php" ?>
+<style>
+    
+.pictureContainer {
+	border: 1px solid #ccc;
+	border-radius: 10px;
+	overflow: hidden;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+	transition: transform 0.3s ease-in-out;
+	height: 620px;
+	width: auto;
+}
+.pictureContainer img {
+	margin: 10px;
+
+}
+
+.pictureContainer_text {
+	background-color: #f8f9fa;
+	padding: 20px;
+}
+
+.pictureContainer_content p {
+	color: #333;
+	font-size: 16px;
+	line-height: 1.6;
+}
+
+
+</style>
+<div class="banner-area about" style="background-image: url(assets/images/iqac-head.webp); background-size: cover; background-position: center;">
+    <div class="d-table">
+        <div class="d-table-cell">
+            <div class="container">
+                <div class="page-title-content">
+                    <h2>APPROVALS</h2>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="container-fluid mt-4 mb-5">
+    <div class="container">
+        <div class="containerTable table-responsive">
+            <table cellpadding="10" style=" border: 2px solid rgb(140 140 140); margin: auto;" class="table table-bordered">
+                <thead>
+                    <tr>
+                        <th>Sr. No.</th>
+                        <th>Collage Name</th>
+                        <th>Approvals / Affiliation</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>1</td>
+                        <td>Sandip Institute of Pharmaceutical Science (SIPS)</td>
+                        <td>
+                            <ul class="list-unstyled p-0 list-icon-4 ps-4 mt-3">
+                                <li>SIPS recognition under section 2(f) of the UGC act 1956</li>
+                                <li>Approved by Directorate of Technical Education, Maharashtra State.</li>
+                                <li>Pharmacy council of India Approval</li>
+                                <li>AICTE Approval 2023-24</li>
+                                <li>SPPU Affiliation 2023-24</li>
+                                <li>Pharmacy council of India Approval 2023-24</li>
+                                <li>SIPS NAAC Certificate of Accreditation Letter</li>
+                                <li>Approved by CPCSEA, New Delhi</li>
+                                <li>Faculty Sanction Letter 2023-24</li>
+                            </ul>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+<?php require "common/footer.php" ?>

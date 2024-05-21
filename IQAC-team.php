@@ -59,8 +59,8 @@ table td {
 </div>
 
 <div class="IQAC-container">
-        <h2>Student Council Committee</h2>
-        <table>
+        <h2 style="background: #3abefe; color: var(--text-white);">Student Council Committee</h2>
+        <table class="table table-bordered">
             <thead>
                 <tr>
                     <th>Sr. No.</th>

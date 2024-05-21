@@ -76,7 +76,43 @@
                                         <a href="about.php" class="nav-link">About GNC</a>
                                     </li>
                                     <li class="nav-item">
+                                        <a href="principal-message.php" class="nav-link">Principal Message</a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a href="approvals.php" class="nav-link">Approvals &amp; Accreditation</a>
+                                    </li>
+                                    <li class="nav-item">
                                         <a href="vision-and-mission.php" class="nav-link">Vision &amp; Mission</a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a href="mou.php" class="nav-link">Industry Collaborations / MOU Signed</a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a href="committee.php" class="nav-link">committees</a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li class="nav-item">
+                                <a href="#" class="nav-link dropdown-toggle">Academics</a>
+                                <ul class="dropdown-menu">
+                                    <li class="nav-item">
+                                        <a href="academics.php" class="nav-link">Academics Overview</a>
+                                    </li>
+
+                                    <li class="nav-item">
+                                        <a href="calendar.php" class="nav-link">Academics Calendar</a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a href="https://student.gncdehradun.com/" class="nav-link">Student-ERP Login</a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a href="https://staff.gncdehradun.com/" class="nav-link">Staff-ERP Login</a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a href="co-peo-pso.php" class="nav-link">CO-PO-PSO</a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a href="libraries.php" class="nav-link">Library</a>
                                     </li>
                                 </ul>
                             </li>
@@ -94,23 +130,7 @@
                     </li> -->
                                 </ul>
                             </li>
-                            <li class="nav-item">
-                                <a href="#" class="nav-link dropdown-toggle">Academics</a>
-                                <ul class="dropdown-menu">
-                                    <li class="nav-item">
-                                        <a href="academics.php" class="nav-link">Academics Overview</a>
-                                    </li>
-                                    <li class="nav-item">
-                                        <a href="calendar.php" class="nav-link">Academics Calender</a>
-                                    </li>
-                                    <li class="nav-item">
-                                        <a href="https://student.gncdehradun.com/" class="nav-link">Student-ERP Login</a>
-                                    </li>
-                                    <li class="nav-item">
-                                        <a href="https://staff.gncdehradun.com/" class="nav-link">Staff-ERP Login</a>
-                                    </li>
-                                </ul>
-                            </li>
+
                             <li class="nav-item">
                                 <a href="#" class="nav-link dropdown-toggle">Campus Life</a>
                                 <ul class="dropdown-menu">
@@ -132,13 +152,21 @@
                                 <a href="#" class="nav-link dropdown-toggle">Research</a>
                                 <ul class="dropdown-menu">
                                     <li class="nav-item">
+                                        <a href="research-committee.php" class="nav-link">Research Committee</a>
+                                    </li>
+
+                                    <li class="nav-item">
                                         <a href="research.php" class="nav-link">Research Paper</a>
+                                    </li>
+
+                                    <li class="nav-item">
+                                        <a href="career-development.php" class="nav-link">Reserch & Career Development Initiatives</a>
                                     </li>
                                     <li class="nav-item">
                                         <a href="mou.php" class="nav-link">Industry Collaborations / MOU Signed</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a href="career-development.php" class="nav-link">Reserch & Career Development Initiatives</a>
+                                        <a href="books.php" class="nav-link">Books &amp; Book Chapters</a>
                                     </li>
                                 </ul>
                             </li>
