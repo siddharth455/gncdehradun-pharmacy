@@ -15,13 +15,16 @@
       <h3>List of documents required at the time of admission.</h3>
       <hr>
       <h6>Submission of original documents along with two attested photocopies of the followings:</h6>
-      <table cellpadding="10" style=" border: 2px solid rgb(140 140 140);" class="col-lg-12">
-         <tr class="bg-warning">
+      <table cellpadding="10" style=" border: 2px solid rgb(140 140 140);" class="col-lg-12 table table-bordered">
+      <thead>
+      <tr>
             <th>Sr No.</th>
             <th>Documnets</th>
             <th>Remarks</th>
          </tr>
-         <tr>
+      </thead>
+      <tbody>
+      <tr>
             <td>1</td>
             <td>S.S.C (Std. X) mark-sheet</td>
             <td>All candidates</td>
@@ -146,6 +149,7 @@
             <td>Experience Certificate (M.Pharm)</td>
             <td>If Applicable</td>
          </tr>
+      </tbody>
       </table><br>
       <h4>Important Note</h4>
       <hr>

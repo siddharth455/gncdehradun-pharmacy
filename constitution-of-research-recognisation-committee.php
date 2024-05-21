@@ -12,24 +12,29 @@
 </div>
 <div class="container-fluid mt-4 mb-4">
     <div class="container">
-        <table cellpadding="10" style=" border: 2px solid rgb(140 140 140);" class="col-lg-12">
-            <tr class="bg-warning">
-                <th>Sr. No.</th>
-                <th>Name</th>
-                <th>Designation</th>
-            </tr>
-            <tr>
-                <td>1</td>
-                <td>Prof. (Dr.) Laxmikant  B. Borse</td>
-                <td>Chairperson</td>
-            </tr>
-            <tr>
-                <td>2</td>
-                <td>Dr. Swati G. Talele</td>
-                <td>Member</td>
-            </tr>
+        <table cellpadding="10" style=" border: 2px solid rgb(140 140 140);" class="col-lg-12 table table-bordered">
+            <thead>
+                <tr>
+                    <th>Sr. No.</th>
+                    <th>Name</th>
+                    <th>Designation</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>1</td>
+                    <td>Prof. (Dr.) Laxmikant B. Borse</td>
+                    <td>Chairperson</td>
+                </tr>
+                <tr>
+                    <td>2</td>
+                    <td>Dr. Swati G. Talele</td>
+                    <td>Member</td>
+                </tr>
+            </tbody>
         </table><br>
-        <h6>Objective of Research and Recognition Committee:</h6><hr>
+        <h6>Objective of Research and Recognition Committee:</h6>
+        <hr>
         <ul class="list-unstyled p-0 list-icon-4 ps-4 mt-3">
             <li>To motivate the faculty members to undertake research projects, present papers and publish articles in peer reviewed journals.</li>
             <li>To apply for research grants and improve our instrument facility along with quality of research.</li>

@@ -33,7 +33,7 @@
                                             <div class="wpb_widgetised_column wpb_content_element">
                                                 <div class="wpb_wrapper">
                                                     <aside id="scrolltick-2" class="widget widget_scrolltick">
-                                                        <h3 class="widget-title">General Notices</h3>
+                                                        <h3 class="widget-title" style="background: #3abefe; color: var(--text-white);">General Notices</h3>
                                                         <div class="scrolltick" data-direction="up" data-startvisible="1" style="height: 120px;">
                                                             <div class="js-marquee-wrapper">
                                                                 <div class="js-marquee">
@@ -57,7 +57,7 @@
                                             <div class="wpb_widgetised_column wpb_content_element">
                                                 <div class="wpb_wrapper">
                                                     <aside id="scrolltick-3" class="widget widget_scrolltick">
-                                                        <h3 class="widget-title">Exam Notices</h3>
+                                                        <h3 class="widget-title" style="background: #3abefe; color: var(--text-white);">Exam Notices</h3>
                                                         <div class="scrolltick" data-direction="up" data-startvisible="1" style="height: 120px;">
                                                             <div class="js-marquee-wrapper">
                                                                 <div class="js-marquee">
@@ -83,7 +83,7 @@
                                             <div class="wpb_widgetised_column wpb_content_element">
                                                 <div class="wpb_wrapper">
                                                     <aside id="scrolltick-4" class="widget widget_scrolltick">
-                                                        <h3 class="widget-title">University Circular</h3>
+                                                        <h3 class="widget-title" style="background: #3abefe; color: var(--text-white);">University Circular</h3>
                                                         <div class="scrolltick" data-direction="up" data-startvisible="1" style="height: 120px;">
                                                             <div class="js-marquee-wrapper">
                                                                 <div class="js-marquee">

@@ -13,30 +13,34 @@
 
 <div class="container-fluid mt-4 mb-4">
     <div class="container">
-         <div class="tablecontainer">
-             <table cellpadding="10" style=" border: 2px solid rgb(140 140 140);" class="col-lg-12">
-                <tr class="bg-warning">
-                    <th>Sr No.</th>
-                    <th>Programme Name</th>
-                    <th>Programme Code</th>
-                </tr>
-                <tr>
-                    <td>1</td>
-                    <td>D. Pharmacy</td>
-                    <td>539182310</td>
-                </tr>
-                <tr>
-                    <td>2</td>
-                    <td>B. Pharmacy</td>
-                    <td>539182310</td>
-                </tr>
-                <tr>
-                    <td>3</td>
-                    <td>M. Pharmacy</td>
-                    <td>539182310</td>
-                </tr>
-             </table>
-         </div>
+        <div class="tablecontainer">
+            <table cellpadding="10" style=" border: 2px solid rgb(140 140 140);" class="col-lg-12 table table-bordered">
+                <thead>
+                    <tr class="bg-warning">
+                        <th>Sr No.</th>
+                        <th>Programme Name</th>
+                        <th>Programme Code</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>1</td>
+                        <td>D. Pharmacy</td>
+                        <td>539182310</td>
+                    </tr>
+                    <tr>
+                        <td>2</td>
+                        <td>B. Pharmacy</td>
+                        <td>539182310</td>
+                    </tr>
+                    <tr>
+                        <td>3</td>
+                        <td>M. Pharmacy</td>
+                        <td>539182310</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
     </div>
 </div>
 
