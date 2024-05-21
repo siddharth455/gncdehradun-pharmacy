@@ -35,210 +35,210 @@
                 <td>Academic Research & Report Writing</td>
                 <td>VAC -ARRW1819</b></td>
                 <td>Dr. Vishal Deshwal</td> 
-                <td><a class="btn btn-primary" href="assets/syllabusfiles/Academic-Research-Report-Writing.pdf">Syllabus</a></td>
+                <td><a class="btn btn-primary" target="_blank" href="assets/syllabusfiles/Academic-Research-Report-Writing.pdf">Syllabus</a></td>
             </tr>
             <tr>
                 <th scope="row">2</th>
                 <td>Research Ethics</td>
                 <td>VAC -RE2223</td>
                 <td>Dr. Nidhi Chatarjee</td> 
-                <td><a class="btn btn-primary" href="assets/syllabusfiles/Research-Ethics.pdf">Syllabus</a></td>
+                <td><a class="btn btn-primary" target="_blank" href="assets/syllabusfiles/Research-Ethics.pdf">Syllabus</a></td>
             </tr>
             <tr>
                 <th scope="row">3</th>
                 <td>Emotional Intelligence</td>
                 <td>VAC -EI2223</td>
                 <td>Dr. C Subramanian</td> 
-                <td><a class="btn btn-primary" href="assets/syllabusfiles/Emotional-Intelligence.pdf">Syllabus</a></td>
+                <td><a class="btn btn-primary" target="_blank" href="assets/syllabusfiles/Emotional-Intelligence.pdf">Syllabus</a></td>
             </tr>
             <tr>
                 <th scope="row">4</th>
                 <td>Water Resource Management</td>
                 <td>VAC -WRM2223</td>
                 <td>Mrs. Yashika Uniyal</td> 
-                <td><a class="btn btn-primary" href="assets/syllabusfiles/Water-Resource-Management.pdf">Syllabus</a></td>
+                <td><a class="btn btn-primary" target="_blank" href="assets/syllabusfiles/Water-Resource-Management.pdf">Syllabus</a></td>
             </tr>
             <tr>
                 <th scope="row">5</th>
                 <td>Hill Agriculture</td>
                 <td>VAC -HI1819</td>
                 <td>Dr. Vishal Deshwal</td> 
-                <td><a class="btn btn-primary" href="assets/syllabusfiles/Hill-Agriculture.pdf">Syllabus</a></td>
+                <td><a class="btn btn-primary" target="_blank" href="assets/syllabusfiles/Hill-Agriculture.pdf">Syllabus</a></td>
             </tr>
             <tr>
                 <th scope="row">6</th>
                 <td>Communication Skills</td>
                 <td>VAC -CS2223</td>
                 <td>Dr. C Subramanian</td> 
-                <td><a class="btn btn-primary" href="assets/syllabusfiles/Communication-Skills.pdf">Syllabus</a></td>
+                <td><a class="btn btn-primary" target="_blank" href="assets/syllabusfiles/Communication-Skills.pdf">Syllabus</a></td>
             </tr>
             <tr>
                 <th scope="row">7</th>
                 <td>Health Education and First Aid</td>
                 <td>VAC -HEFA1920</td>
                 <td>Ms. Kriti Dabral</td> 
-                <td><a class="btn btn-primary" href="assets/syllabusfiles/Health-Education-and-First-Aid.pdf">Syllabus</a></td>
+                <td><a class="btn btn-primary" target="_blank" href="assets/syllabusfiles/Health-Education-and-First-Aid.pdf">Syllabus</a></td>
             </tr>
             <tr>
                 <th scope="row">8</th>
                 <td>Marketing Skills</td>
                 <td>VAC -MS1920</td>
                 <td>Dr. Vishal Deshwal</td> 
-                <td><a class="btn btn-primary" href="assets/syllabusfiles/Marketing-Skills.pdf">Syllabus</a></td>
+                <td><a class="btn btn-primary" target="_blank" href="assets/syllabusfiles/Marketing-Skills.pdf">Syllabus</a></td>
             </tr>
             <tr>
                 <th scope="row">9</th>
                 <td>Patent/IPR</td>
                 <td>VAC -PI2122</td>
                 <td>Ms. Kriti Dabral</td> 
-                <td><a class="btn btn-primary" href="assets/syllabusfiles/Patent-IPR.pdf">Syllabus</a></td>
+                <td><a class="btn btn-primary" target="_blank" href="assets/syllabusfiles/Patent-IPR.pdf">Syllabus</a></td>
             </tr>
             <tr>
                 <th scope="row">10</th>
                 <td>Fundamentals of Computing</td>
                 <td>VAC -FC2122</td>
                 <td>Mrs. Yashika Uniyal</td> 
-                <td><a class="btn btn-primary" href="assets/syllabusfiles/Fundamentals-of-Computing.pdf">Syllabus</a></td>
+                <td><a class="btn btn-primary" target="_blank" href="assets/syllabusfiles/Fundamentals-of-Computing.pdf">Syllabus</a></td>
             </tr>
             <tr>
                 <th scope="row">11</th>
                 <td>Innovation & Entrepreneurship</td>
                 <td>VAC -IE1920</td>
                 <td>Dr. Nidhi Chatarjee</td> 
-                <td><a class="btn btn-primary" href="assets/syllabusfiles/Innovation-&-Entrepreneurship.pdf">Syllabus</a></td>
+                <td><a class="btn btn-primary" target="_blank" href="assets/syllabusfiles/Innovation-&-Entrepreneurship.pdf">Syllabus</a></td>
             </tr>
             <tr>
                 <th scope="row">12</th>
                 <td>Time Management</td>
                 <td>VAC -TM1920</td>
                 <td>Ms. Kriti Dabral</td> 
-                <td><a class="btn btn-primary" href="assets/syllabusfiles/Time-Management.pdf">Syllabus</a></td>
+                <td><a class="btn btn-primary" target="_blank" href="assets/syllabusfiles/Time-Management.pdf">Syllabus</a></td>
             </tr>
             <tr>
                 <th scope="row">13</th>
                 <td>Managerial Economics and Financial Management</td>
                 <td>VAC -MEFM2021</td>
                 <td>Dr. Vishal Deshwal</td> 
-                <td><a class="btn btn-primary" href="assets/syllabusfiles/Managerial-Economics-and-Financial-Management.pdf">Syllabus</a></td>
+                <td><a class="btn btn-primary" target="_blank" href="assets/syllabusfiles/Managerial-Economics-and-Financial-Management.pdf">Syllabus</a></td>
             </tr>
             <tr>
                 <th scope="row">14</th>
                 <td>Basics of Sanitation, Safety and Hygiene</td>
                 <td>VAC -BSSH2021</td>
                 <td>Dr. Nidhi Chatarjee</td> 
-                <td><a class="btn btn-primary" href="assets/syllabusfiles/Basics-of-Sanitation-Safety-and-Hygiene.pdf">Syllabus</a></td>
+                <td><a class="btn btn-primary" target="_blank" href="assets/syllabusfiles/Basics-of-Sanitation-Safety-and-Hygiene.pdf">Syllabus</a></td>
             </tr>
             <tr>
                 <th scope="row">15</th>
                 <td>Creating and Managing New Ventures</td>
                 <td>VAC -CMNV2021</td>
                 <td>Ms. Kriti Dabral</td> 
-                <td><a class="btn btn-primary" href="assets/syllabusfiles/Creating-and-Managing-New-Ventures.pdf">Syllabus</a></td>
+                <td><a class="btn btn-primary" target="_blank" href="assets/syllabusfiles/Creating-and-Managing-New-Ventures.pdf">Syllabus</a></td>
             </tr>
             <tr>
                 <th scope="row">16</th>
                 <td>Employability Skills</td>
                 <td>VAC -ES2021</td>
                 <td>Dr. Nidhi Chatarjee</td> 
-                <td><a class="btn btn-primary" href="assets/syllabusfiles/Employability-Skills.pdf">Syllabus</a></td>
+                <td><a class="btn btn-primary" target="_blank" href="assets/syllabusfiles/Employability-Skills.pdf">Syllabus</a></td>
             </tr>
             <tr>
                 <th scope="row">17</th>
                 <td>Quantitative Aptitude</td>
                 <td>VAC -QA2021</td>
                 <td>Ms. Kriti Dabral</td> 
-                <td><a class="btn btn-primary" href="assets/syllabusfiles/QUANTITATIVE-APTITUDE.pdf">Syllabus</a></td>
+                <td><a class="btn btn-primary" target="_blank" href="assets/syllabusfiles/QUANTITATIVE-APTITUDE.pdf">Syllabus</a></td>
             </tr>
             <tr>
                 <th scope="row">18</th>
                 <td>Health and Nutrition</td>
                 <td>VAC -HN2021</td>
                 <td>Dr. Vishal Deshwal</td> 
-                <td><a class="btn btn-primary" href="assets/syllabusfiles/HEALTH-AND-NUTRITION.pdf">Syllabus</a></td>
+                <td><a class="btn btn-primary" target="_blank" href="assets/syllabusfiles/HEALTH-AND-NUTRITION.pdf">Syllabus</a></td>
             </tr>
             <tr>
                 <th scope="row">19</th>
                 <td>Industry 4.0</td>
                 <td>VAC -IND2122</td>
                 <td>Dr. Nidhi Chatarjee</td> 
-                <td><a class="btn btn-primary" href="assets/syllabusfiles/Industry-4.0.pdf">Syllabus</a></td>
+                <td><a class="btn btn-primary" target="_blank" href="assets/syllabusfiles/Industry-4.0.pdf">Syllabus</a></td>
             </tr>
             <tr>
                 <th scope="row">20</th>
                 <td>Ecology and Waste Management</td>
                 <td>VAC -EWM2122</td>
                 <td>Dr. Vishal Deshwal</td>
-                <td><a class="btn btn-primary" href="assets/syllabusfiles/ECOLOGY-AND-MANAGEMENT.pdf">Syllabus</a></td>
+                <td><a class="btn btn-primary" target="_blank" href="assets/syllabusfiles/ECOLOGY-AND-MANAGEMENT.pdf">Syllabus</a></td>
             </tr>
             <tr>
                <th scope="row">21</th>
                 <td>Script Writing</td>
                 <td>VAC -SW2122</td>
                 <td>Mrs. Yashika Uniyal</td>
-                <td><a class="btn btn-primary" href="assets/syllabusfiles/SCRIPT-WRITING.pdf">Syllabus</a></td>
+                <td><a class="btn btn-primary" target="_blank" href="assets/syllabusfiles/SCRIPT-WRITING.pdf">Syllabus</a></td>
             </tr>
             <tr>
                <th scope="row">22</th>
                 <td>Interpersonal Skills</td>
                 <td>VAC -IS2122</td>
                 <td>Ms. Kriti Dabral</td>
-                <td><a class="btn btn-primary" href="assets/syllabusfiles/Interpersonal-Skills.pdf">Syllabus</a></td>
+                <td><a class="btn btn-primary" target="_blank" href="assets/syllabusfiles/Interpersonal-Skills.pdf">Syllabus</a></td>
             </tr>
             <tr>
                <th scope="row">23</th>
                 <td>Basics of Laboratory Practice</td>
                 <td>VAC -BLP2122</td>
                 <td>Dr. Vishal Deshwal</td>
-                <td><a class="btn btn-primary" href="assets/syllabusfiles/Basics-of-Laboratory-Practice.pdf">Syllabus</a></td>
+                <td><a class="btn btn-primary" target="_blank" href="assets/syllabusfiles/Basics-of-Laboratory-Practice.pdf">Syllabus</a></td>
             </tr>
             <tr>
                <th scope="row">24</th>
                 <td>Bio-fertilizer Production Technology</td>
                 <td>VAC -BFPT2122</td>
                 <td>Dr. Nidhi Chatarjee</td>
-                <td><a class="btn btn-primary" href="assets/syllabusfiles/Bio-fertilizer-Production-Technology.pdf">Syllabus</a></td>
+                <td><a class="btn btn-primary" target="_blank" href="assets/syllabusfiles/Bio-fertilizer-Production-Technology.pdf">Syllabus</a></td>
             </tr>
             <tr>
                <th scope="row">25</th>
                 <td>Economic prospects of Medicinal and Aromatic Plants</td>
                 <td>VAC -EPMA2223</td>
                 <td>Dr. Vishal Deshwal</td>
-                <td><a class="btn btn-primary" href="assets/syllabusfiles/Economic-prospects-of-Medicinal-and-Aromatic-Plants.pdf">Syllabus</a></td>
+                <td><a class="btn btn-primary" target="_blank" href="assets/syllabusfiles/Economic-prospects-of-Medicinal-and-Aromatic-Plants.pdf">Syllabus</a></td>
             </tr>
             <tr>
                <th scope="row">26</th>
                 <td>Presentation Skill</td>
                 <td>VAC -PS2223</td>
                 <td>Mrs. Yashika Uniyal</td>
-                <td><a class="btn btn-primary" href="assets/syllabusfiles/Presentation-Skill.pdf">Syllabus</a></td>
+                <td><a class="btn btn-primary" target="_blank" href="assets/syllabusfiles/Presentation-Skill.pdf">Syllabus</a></td>
             </tr>
             <tr>
                <th scope="row">27</th>
                 <td>Sports for Life</td>
                 <td>VAC -SL2223</td>
                 <td>Ms. Kriti Dabral</td>
-                <td><a class="btn btn-primary" href="assets/syllabusfiles/Sports-for-Life.pdf">Syllabus</a></td>
+                <td><a class="btn btn-primary" target="_blank" href="assets/syllabusfiles/Sports-for-Life.pdf">Syllabus</a></td>
             </tr>
             <tr>
                <th scope="row">28</th>
                 <td>The Art of Being Happy</td>
                 <td>VAC -ABH2223</td>
                 <td>Dr. Vishal Deshwal</td>
-                <td><a class="btn btn-primary" href="assets/syllabusfiles/The-Art-of-Being-Happy.pdf">Syllabus</a></td>
+                <td><a class="btn btn-primary" target="_blank" href="assets/syllabusfiles/The-Art-of-Being-Happy.pdf">Syllabus</a></td>
             </tr>
             <tr>
                <th scope="row">29</th>
                 <td>Ethics and Human values </td>
                 <td>VAC -EHV2223</td>
                 <td>Ms. Kriti Dabral</td>
-                <td><a class="btn btn-primary" href="assets/syllabusfiles/Ethics-and-Human-Values.pdf">Syllabus</a></td>
+                <td><a class="btn btn-primary" target="_blank" href="assets/syllabusfiles/Ethics-and-Human-Values.pdf">Syllabus</a></td>
             </tr>
             <tr>
                <th scope="row">30</th>
                 <td>Fire Safety & Training</td>
                 <td>VAC -FST2223</td>
                 <td>Dr. Nidhi Chatarjee</td>
-                <td><a class="btn btn-primary" href="assets/syllabusfiles/Fire-Safety-&-Training.pdf">Syllabus</a></td>
+                <td><a class="btn btn-primary" target="_blank" href="assets/syllabusfiles/Fire-Safety-&-Training.pdf">Syllabus</a></td>
             </tr>
         </tbody>
     </table>
