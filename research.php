@@ -10,15 +10,16 @@
         </div>
     </div>
 </div>
-<section class="know-about-section pt-5 pb-5 text-center">
+<section class="know-about-section pt-5 pb-3 text-center">
     <div class="container">
         <div class="section-heading">
             <h2 class="mb-3">Innovative Research and Development</h2>
         </div>
-        <p class="mb-3" style="text-align: left;">Guru Nanak College of Pharmaceutical Sciences has strategically aligned its research areas with emerging local and national priorities in pharmacy, biotechnology and climate change challenges. This comprehensive approach ensures its work addresses global challenges while fostering pharmaceutical innovation.</p>
+        <p class="" style="text-align: left;">Guru Nanak College of Pharmaceutical Sciences has strategically aligned its research areas with emerging local and national priorities in pharmacy, biotechnology and climate change challenges. This comprehensive approach ensures its work addresses global challenges while fostering pharmaceutical innovation.</p>
     </div>
 </section>
 <section class="container">
+<h4>Research Papars</h4>
     <table class="table table-bordered">
         <thead>
             <tr class="heading">
@@ -470,4 +471,5 @@
         </tbody>
     </table>
 </section>
+
 <?php require "common/footer.php" ?>

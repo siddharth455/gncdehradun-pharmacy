@@ -20,9 +20,9 @@
                 <div class="col-lg-6 col-md-6 col-12">
                     <div class="home-choose-content">
                         <div class="section-tittle">
-                            <h2>School of Pharmacy at Guru Nanak College of Pharmaceutical Sciences</h2>
-                            <p>Welcome to the School of Pharmacy at Guru Nanak College of Pharmaceutical Sciences, a leading institution dedicated to excellence in pharmaceutical education.</p>
-                            <p>Affiliated with the prestigious Uttarakhand Technical University (UTU), our school offers a range of comprehensive pharmaceutical programs, including Bachelor of Pharmacy (B.Pharma) and Diploma in Pharmacy (D.Pharm). These programs are meticulously designed to equip students with the knowledge and skills necessary for a successful career in the pharmaceutical industry.</p>
+                            <h2>Guru Nanak College of Pharmaceutical Sciences</h2>
+                            <p>At Guru Nanak College Of Pharmaceutical Sciences, we are inspired by the timeless teachings of Guru Nanak Dev Ji. His emphasis on selfless service – SEVA, devotion to the divine - SIMRAN, and earning an honest living - KIRAT-KARNI shapes everything we do.</p>
+                            <p>Guru Nanak Dev Ji believed in the equality of all human beings, regardless of caste, creed, or gender. This belief is at the heart of our college, creating a welcoming and inclusive environment where everyone is valued and respected. We strive to live in harmony with each other and with nature, adopting a sense of unity and peace within our community.</p>
                         </div>
                     </div>
                 </div>
@@ -41,9 +41,9 @@
             <div class="col-lg-6 home-choose">
                 <div class="home-choose-content">
                     <div class="section-tittle">
-                        <h2>Why Study at GNC, Dehradun?</h2>
-                        <p>To facilitate hands-on learning, our campus boasts state-of-the-art laboratories and research facilities. These resources enable students to gain practical experience in pharmaceutical formulation, analysis, and research, allowing them to develop the skills necessary to excel in the industry.</p>
-                        <p>If you aspire to make a meaningful impact in the pharmaceutical field and are passionate about the science of pharmacy, our programs provide the education and training needed to excel in this dynamic and critical profession.</p>
+                        <h2>Why Study at Guru Nanak College of Pharmaceutical Sciences, Dehradun?</h2>
+                        <p>Our college is dedicated to the principles of righteousness and service to others. We aim to impart these values to our students, helping them become not just skilled professionals but also compassionate and ethical individuals. By following the path laid out by Guru Nanak Dev Ji, we hope to inspire our students to lead meaningful and fulfilling lives.</p>
+                        <p>Guru Nanak College Of Pharmaceutical Sciences is more than just a place of learning; it is a community where the teachings of Guru Nanak Dev Ji guide us in everything we do, helping us all to strive for excellence, kindness, and a life of service.</p>
                     </div>
                     <!-- <div class="row">
                         <div class="col-lg-4 col-sm-12 col-md-5">
