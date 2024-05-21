@@ -114,6 +114,9 @@
                                     <li class="nav-item">
                                         <a href="libraries.php" class="nav-link">Library</a>
                                     </li>
+                                    <li class="nav-item">
+                                        <a href="value-added-courses.php" class="nav-link">Value Added Courses</a>
+                                    </li>
                                 </ul>
                             </li>
                             <li class="nav-item">
@@ -152,13 +155,11 @@
                                 <a href="#" class="nav-link dropdown-toggle">Research</a>
                                 <ul class="dropdown-menu">
                                     <li class="nav-item">
-                                        <a href="research-committee.php" class="nav-link">Research Committee</a>
+                                        <a href="research-committee.php" class="nav-link">Research &amp; Development Cell</a>
                                     </li>
-
                                     <li class="nav-item">
                                         <a href="research.php" class="nav-link">Research Paper</a>
                                     </li>
-
                                     <li class="nav-item">
                                         <a href="career-development.php" class="nav-link">Reserch & Career Development Initiatives</a>
                                     </li>
@@ -167,6 +168,12 @@
                                     </li>
                                     <li class="nav-item">
                                         <a href="books.php" class="nav-link">Books &amp; Book Chapters</a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a href="incubation-center.php" class="nav-link">Incubation Center</a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a href="seminar-research-workshop.php" class="nav-link">Research/Seminar/Workshop</a>
                                     </li>
                                 </ul>
                             </li>

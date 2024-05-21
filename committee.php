@@ -49,8 +49,8 @@
                             <tr>
                                 <th scope="row">1</th>
                                 <td>Dr. Vishal Kumar Deshwal</td>
-                                <td></td>
-                                <td></td>
+                                <td>Professor</td>
+                                <td>9897538555</td>
                                 <td></td>
                             </tr>
                             <tr>
