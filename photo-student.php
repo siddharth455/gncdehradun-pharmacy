@@ -27,9 +27,7 @@
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     text-align: center;
 }
-
 </style>
-
 <?php require "common/header.php" ?>
 <div class="banner-area about" style="background-image: url(assets/images/d-2.webp);">
     <div class="d-table">

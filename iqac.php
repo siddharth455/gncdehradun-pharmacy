@@ -148,9 +148,9 @@
                         <div class="row">
                             <div class="col-lg-3 mb-5">
                                 <div class="card">
-                                    <img class="card-img-top" src="assets/images/khelo.webp" alt="Card image cap">
+                                    <img class="card-img-top" src="assets/images/khelo.webp" alt="Card image cap" style="height: 160px;">
                                     <div class="card-body">
-                                        <a href="https://kheloindia.gov.in/" class="btn btn-primary col-lg-12">KHELO INDIA</a>
+                                        <a href="https://kheloindia.gov.in/" class="btn btn-primary col-lg-12">Khelo India</a>
                                     </div>
                                 </div>
                             </div>
@@ -158,15 +158,15 @@
                                 <div class="card">
                                     <img class="card-img-top" src="assets/images/ministry.webp" alt="Card image cap">
                                     <div class="card-body">
-                                        <a href="https://dbtyas-sports.gov.in/" class="btn btn-primary col-lg-12">MINISTRY</a>
+                                        <a href="https://dbtyas-sports.gov.in/" class="btn btn-primary col-lg-12">Ministry of Youth Affairs and Sports</a>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-lg-3 mb-5">
                                 <div class="card">
-                                    <img class="card-img-top" src="assets/images/pharmacy council of india (1).webp" alt="Card image cap">
+                                    <img class="card-img-top" src="assets/images/pharmacy-council.webp" alt="Card image cap" style="height: 134px;">
                                     <div class="card-body">
-                                        <a href="https://www.pci.nic.in/" class="btn btn-primary col-lg-12">PHARMACY COUNCIL OF INDIA</a>
+                                        <a href="https://www.pci.nic.in/" class="btn btn-primary col-lg-12">Pharmacy Council of India</a>
                                     </div>
                                 </div>
                             </div>
@@ -174,15 +174,15 @@
                                 <div class="card">
                                     <img class="card-img-top" src="assets/images/radhakrishnan (1).webp" alt="Card image cap">
                                     <div class="card-body">
-                                        <a href="http://naac.gov.in/images/docs/DrRadhakrishnanCommittee-FinalReport.pdf" class="btn btn-primary col-lg-12">RADHAKRISHNAN</a>
+                                        <a href="http://naac.gov.in/images/docs/DrRadhakrishnanCommittee-FinalReport.pdf" class="btn btn-primary col-lg-12">Dr. Radhakrishnan Committee Report</a>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-lg-3 mb-5">
                                 <div class="card">
-                                    <img class="card-img-top" src="assets/images/ugc.webp" alt="Card image cap">
+                                    <img class="card-img-top" src="assets/images/ugc.webp" alt="Card image cap" style="height: 180px;" >
                                     <div class="card-body">
-                                        <a href="https://www.ugc.gov.in/" class="btn btn-primary col-lg-12">UGC</a>
+                                        <a href="https://www.ugc.gov.in/" class="btn btn-primary col-lg-12">UGC Notices</a>
                                     </div>
                                 </div>
                             </div>
@@ -190,23 +190,23 @@
                                 <div class="card">
                                     <img class="card-img-top" src="assets/images/uttarakhand.webp" alt="Card image cap">
                                     <div class="card-body">
-                                        <a href="https://sports.uk.gov.in/" class="btn btn-primary col-lg-12">UTTARAKHAND</a>
+                                        <a href="https://sports.uk.gov.in/" class="btn btn-primary col-lg-12">Uttarakhand Department of Sports</a>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-lg-3">
                                 <div class="card">
-                                    <img class="card-img-top" src="assets/images/youth.webp" alt="Card image cap">
+                                    <img class="card-img-top" src="assets/images/youth.webp" alt="Card image cap" style="height: 180px;">
                                     <div class="card-body">
-                                        <a href="https://www.india.gov.in/topics/youth-sports" class="btn btn-primary col-lg-12">YOUTH</a>
+                                        <a href="https://www.india.gov.in/topics/youth-sports" class="btn btn-primary col-lg-12">Youth & Sports</a>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-lg-3">
                                 <div class="card">
-                                    <img class="card-img-top" src="assets/images/sports1.webp" alt="Card image cap">
+                                    <img class="card-img-top" src="assets/images/sports1.webp" alt="Card image cap" style="height: 150px;">
                                     <div class="card-body">
-                                        <a href="https://sportsauthorityofindia.nic.in/sai/" class="btn btn-primary col-lg-12">SPORTS</a>
+                                        <a href="https://sportsauthorityofindia.nic.in/sai/" class="btn btn-primary col-lg-12">Sports Authority of India</a>
                                     </div>
                                 </div>
                             </div>

@@ -12,37 +12,43 @@
 </div>
 <div class="container-fluid mt-4 mb-4">
     <div class="container">
-        <table cellpadding="10" style=" border: 2px solid rgb(140 140 140);" class="col-lg-12">
-            <tr class="bg-warning">
-                <th>Sr No.</th>
-                <th>Courses</th>
-                <th>Student Intake</th>
-                <th>Student Admitted</th>
-            </tr>
-            <tr>
-                <td>1</td>
-                <td>D. Pharmacy</td>
-                <td>60</td>
-                <td>65</td>
-            </tr>
-            <tr>
-                <td>2</td>
-                <td>B. Pharmacy</td>
-                <td>100</td>
-                <td>65</td>
-            </tr>
-            <tr>
-                <td>3</td>
-                <td>M. Pharmacy</td>
-                <td>100</td>
-                <td>65</td>
-            </tr>
-            <tr>
-                <td>4</td>
-                <td>M. Pharmacy</td>
-                <td>100</td>
-                <td>65</td>
-            </tr>
+        <table cellpadding="10" style=" border: 2px solid rgb(140 140 140);" class="col-lg-12 table table-bordered">
+            <thead>
+                <tr>
+                    <th>Sr No.</th>
+                    <th>Courses</th>
+                    <th>Student Intake</th>
+                    <th>Student Admitted</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>1</td>
+                    <td>D. Pharmacy</td>
+                    <td>60</td>
+                    <td>65</td>
+                </tr>
+                <tr>
+                    <td>2</td>
+                    <td>B. Pharmacy</td>
+                    <td>100</td>
+                    <td>65</td>
+                </tr>
+                <tr>
+                    <td>3</td>
+                    <td>M. Pharmacy</td>
+                    <td>100</td>
+                    <td>65</td>
+                </tr>
+                <tr>
+                    <td>4</td>
+                    <td>M. Pharmacy</td>
+                    <td>100</td>
+                    <td>65</td>
+                </tr>
+            </tbody>
+
+
         </table><br>
         <ul class="list-unstyled p-0 list-icon-4 ps-4 mt-3">
             <li>Information Brochure for Admission 2023-24</li>
