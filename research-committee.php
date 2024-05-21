@@ -4,7 +4,7 @@
         <div class="d-table-cell">
             <div class="container">
                 <div class="page-title-content">
-                    <h2>Research</h2>
+                    <h2>Research &amp; Development Cell</h2>
                 </div>
             </div>
         </div>
@@ -13,7 +13,7 @@
 <section class="know-about-section pt-5 pb-3 text-center">
     <div class="container">
         <div class="section-heading">
-            <h2 class="mb-3">Research and Development Cell</h2>
+            <h2 class="mb-3"></h2>
         </div>
         <p class="" style="text-align: left;">Guru Nanak College of Pharmaceutical Sciences has strategically aligned its Research and Development Cell with emerging local and national priorities in pharmacy, biotechnology, and climate change challenges. This comprehensive approach ensures that our research addresses global challenges while fostering pharmaceutical innovation and development.</p>
     </div>
