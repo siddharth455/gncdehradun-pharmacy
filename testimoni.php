@@ -20,8 +20,8 @@
                             GNC College has been an exceptional institution that has provided us with a transformative educational experience. The college is known for its dedicated faculty members who possess deep knowledge in their respective fields. They go above and beyond to ensure that we receive a well-rounded education and are always available to support us in our academic endeavors.
                         </p>
                         <div class="course-slider-btn">
-                            <strong>Mrs. Rasika Bhardwaj</strong>
-                            <p>B.pharma</p>
+                            <strong>Ms. Rasika Bhardwaj</strong>
+                            <p>B.Pharm</p>
                         </div>
                     </div>
                 </div>
@@ -41,7 +41,7 @@
 
                         <div class="course-slider-btn">
                             <strong>Mr. Amit Biswas</strong>
-                            <p>B.pharm.</p>
+                            <p>B.Pharm</p>
                         </div>
                     </div>
                 </div>
@@ -61,7 +61,7 @@
 
                         <div class="course-slider-btn">
                             <strong>Mr. Abbas Alam</strong>
-                            <p>B.pharm.</p>
+                            <p>B.Pharm</p>
                         </div>
                     </div>
                 </div>
