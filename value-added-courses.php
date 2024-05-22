@@ -77,7 +77,7 @@
                 <td>Health Education and First Aid</td>
                 <td>VAC -HEFA1920</td>
                 <td>Ms. Kriti Dabral</td>
-                <td><a class="btn btn-primary" target="_blank" href="assets/syllabusfiles/Health-Education-and-First Aid.pdf">Syllabus</a></td>
+                <td><a class="btn btn-primary" target="_blank" href="assets/syllabusfiles/Health-Education-and-First-Aid.pdf">Syllabus</a></td>
             </tr>
             <tr>
                 <th scope="row">8</th>
@@ -168,7 +168,7 @@
                 <td>Ecology and Waste Management</td>
                 <td>VAC -EWM2122</td>
                 <td>Dr. Vishal Deshwal</td>
-                <td><a class="btn btn-primary" target="_blank" href="assets/syllabusfiles/ECOLOGY-AND-WASTE-MANAGEMENT.pdf">Syllabus</a></td>
+                <td><a class="btn btn-primary" target="_blank" href="assets/syllabusfiles/ECOLOGY-AND-MANAGEMENT.pdf">Syllabus</a></td>
             </tr>
             <tr>
                 <th scope="row">21</th>
