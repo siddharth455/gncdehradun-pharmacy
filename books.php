@@ -19,7 +19,14 @@
     </div>
 </section>
 <div class="container">
-    <h4>Text Book of Pharmacognosy 2023</h4>
+<div class="tabs"> 
+            <button class="tablink" onclick="openTab(event, 'GirlsHostel')">2023</button>
+            <button class="tablink" onclick="openTab(event, 'BoysHostel')">2022</button>
+            <button class="tablink" onclick="openTab(event, 'Book2021')">2021</button>
+            <button class="tablink" onclick="openTab(event, 'Book2020')">2020</button>
+            <button class="tablink" onclick="openTab(event, 'Book2019')">2019</button>
+        </div>
+        <div id="GirlsHostel" class="tabcontent">
     <table class="table table-bordered">
         <thead>
             <tr class="heading">
@@ -325,8 +332,9 @@
         </tbody>
     </table>
 </div>
+</div>
 <div class="container mt-5">
-    <h4>HAP Pharmacology 2022</h4>
+<div id="BoysHostel" class="tabcontent">
     <table class="table table-bordered">
         <thead>
             <tr class="heading">
@@ -620,8 +628,9 @@
         <tbody>
         </table>
 </div>   
+</div>
 <div class="container mt-5">
-    <h4>Pharmaceutical Product Development With Engineering Techniques 2021</h4>
+<div id="Book2021" class="tabcontent">
     <table class="table table-bordered">
         <thead>
             <tr class="heading">
@@ -885,9 +894,10 @@
             </tr>
         <tbody>
         </table>
-</div>   
+</div> 
+</div>  
 <div class="container mt-5">
-    <h4>Basic Techniques in Biochemistry, Microbiology and Biotechnology 2020</h4>
+<div id="Book2020" class="tabcontent">
     <table class="table table-bordered">
         <thead>
             <tr class="heading">
@@ -1146,4 +1156,308 @@
         <tbody>
         </table>
 </div>   
+</div>
+<div class="container mt-5">
+<div id="Book2019" class="tabcontent">
+    <table class="table table-bordered">
+        <thead>
+            <tr class="heading">
+                <th scope="col"><b>S.No.</b></th>
+                <th scope="col"><b>Chapter Name</b></th>
+                <th scope="col"><b>Author Name</b></th>
+                <th scope="col"><b>Book Name </b></th>
+            </tr>
+        </thead>
+        <tr>
+                <th scope="row">1</th>
+                <td>Tracing the Threads: The Interconnected Evolution of Pharmacy
+Education, Industry Dynamics, and Organizational Structures
+in India
+</td>
+                <td>Dr. Jyoti Sinha </td>
+                <td>Text Book of Pharmaceutics</td>
+            </tr>
+            <tr>
+                <th scope="row">2</th>
+                <td>Navigating Pharmacy as a Dynamic Career Path: An In-depth
+Exploration of Opportunities and Pharmacopoeial Standards
+</td>
+                <td>Ms. Kriti Dabral</td>
+                <td>Text Book of Pharmaceutics</td>
+            </tr>
+            <tr>
+                <th scope="row">3</th>
+                <td>Navigating the Landscape of Dosage Forms: A Comprehensive
+Exploration of Classification, Definitions, and Practical
+Considerations
+</td>
+                <td>Ms. Yashika Uniyal</td>
+                <td>Text Book of Pharmaceutics</td>
+            </tr>
+            <tr>
+                <th scope="row">4</th>
+                <td>Comprehensive Insights into Prescriptions: Understanding
+Definitions, Components, Handling, and Strategies for Error
+Prevention
+</td>
+                <td>Ms. Kanchan Singh</td>
+                <td>Text Book of Pharmaceutics</td>
+            </tr>
+            <tr>
+                <th scope="row">5</th>
+                <td>Insights into Posology and Pediatric Dose Calculations</td>
+                <td>Ms. Kriti Dabral</td>
+                <td>Text Book of Pharmaceutics</td>
+            </tr>
+            <tr>
+                <th scope="row">6</th>
+                <td>Navigating Pharmaceutical Calculations</td>
+                <td>Ms. Yashika Uniyal :</td>
+                <td>Text Book of Pharmaceutics</td>
+            </tr>
+            <tr>
+                <th scope="row">7</th>
+                <td>Exploring the World of Powders</td>
+                <td>Dr. Jyoti Sinha</td>
+                <td>Text Book of Pharmaceutics</td>
+            </tr>
+            <tr>
+                <th scope="row">8</th>
+                <td>A Comprehensive Exploration of Liquid Dosage Forms</td>
+                <td>Ms. Kanchan Singh</td>
+                <td>Text Book of Pharmaceutics</td>
+            </tr>
+            <tr>
+                <th scope="row">9</th>
+                <td>Monophasic Liquid Dosage Forms</td>
+                <td>Ms. Kriti Dabral</td>
+                <td>Text Book of Pharmaceutics</td>
+            </tr>
+            <tr>
+                <th scope="row">10</th>
+                <td>Biphasic Liquid Dosage Forms</td>
+                <td>Ms. Yashika Uniyal </td>
+                <td>Text Book of Pharmaceutics</td>
+            </tr>
+            <tr>
+                <th scope="row">11</th>
+                <td>Understanding Pharmaceutical Incompatibilities</td>
+                <td>Dr. Jyoti Sinha</td>
+                <td>Text Book of Pharmaceutics</td>
+            </tr>
+            <tr>
+                <th scope="row">12</th>
+                <td>Exploring Semisolid Dosage Forms in Pharmaceutical Science</td>
+                <td>Dr. Jyoti Sinha</td>
+                <td>Text Book of Pharmaceutics</td>
+            </tr>
+            <tr>
+                <th scope="row">13</th>
+                <td>Unveiling the Foundations of Preformulation Studies in
+Pharmaceutical Science</td>
+                <td>Ms. Yashika Uniyal </td>
+                <td>Text Book of Pharmaceutics</td>
+            </tr>
+            <tr>
+                <th scope="row">14</th>
+                <td>Harnessing Preformulation Considerations for the Development
+of Solid, Liquid Oral, and Parenteral Dosage Forms:
+A Comprehensive Analysis
+</td>
+                <td>Ms. Kanchan Singh </td>
+                <td>Text Book of Pharmaceutics</td>
+            </tr>
+            <tr>
+                <th scope="row">15</th>
+                <td>Mastering the Art of Tablet Formulation: A Comprehensive Guide</td>
+                <td>Dr. Jyoti Sinha</td>
+                <td>Text Book of Pharmaceutics</td>
+            </tr>
+            <tr>
+                <th scope="row">16</th>
+                <td>Mastering Tablet Coating Techniques and Quality Control
+Measures
+</td>
+                <td>Ms. Kanchan Singh</td>
+                <td>Text Book of Pharmaceutics</td>
+            </tr>
+            <tr>
+                <th scope="row">17</th>
+                <td>Mastering the Art of Liquid Orals: Formulation, Manufacturing,
+and Quality Assurance
+</td>
+                <td>Ms. Kriti Dabral</td>
+                <td>Text Book of Pharmaceutics</td>
+            </tr>
+            <tr>
+                <th scope="row">18</th>
+                <td>Hard Gelatin Capsules: Production, Formulation, and Quality
+Assurance
+</td>
+                <td>Ms. Yashika Uniyal</td>
+                <td>Text Book of Pharmaceutics</td>
+            </tr>
+            <tr>
+                <th scope="row">19</th>
+                <td>Potential of Soft Gelatin Capsules: Production, Quality Control,
+and Applications
+</td>
+                <td>Dr. Jyoti Sinha</td>
+                <td>Text Book of Pharmaceutics</td>
+            </tr>
+            <tr>
+                <th scope="row">20</th>
+                <td>Embracing the Realm of Pellets: Exploring Formulation, Process,
+and Equipment
+</td>
+                <td>Ms. Kriti Dabral</td>
+                <td>Text Book of Pharmaceutics</td>
+            </tr>
+            <tr>
+                <th scope="row">21</th>
+                <td>Mastering Parenteral Products: Formulation, Production, and
+Quality Control
+</td>
+                <td>Ms. Yashika Uniyal </td>
+                <td>Text Book of Pharmaceutics</td>
+            </tr>
+            <tr>
+                <th scope="row">22</th>
+                <td>Ophthalmic Preparations: Formulation and Evaluation</td>
+                <td>Ms. Kanchan Singh</td>
+                <td>Text Book of Pharmaceutics</td>
+            </tr>
+            <tr>
+                <th scope="row">23</th>
+                <td>Cosmetics Formulation and Preparation</td>
+                <td>Dr. Jyoti Sinha</td>
+                <td>Text Book of Pharmaceutics</td>
+            </tr>
+            <tr>
+                <th scope="row">24</th>
+                <td>Pharmaceutical Aerosols: Formulation, Manufacture, and
+Evaluation
+</td>
+                <td>Ms. Kriti Dabral </td>
+                <td>Text Book of Pharmaceutics</td>
+            </tr>
+            <tr>
+                <th scope="row">25</th>
+                <td>Packaging Materials Science: Pharmaceutical Industry</td>
+                <td>Ms. Yashika Uniyal</td>
+                <td>Text Book of Pharmaceutics</td>
+            </tr>
+            <tr>
+                <th scope="row">26</th>
+                <td>Controlled Drug Delivery Systems: Design, Principles, and
+Applications
+</td>
+                <td>Ms. Kanchan Singh</td>
+                <td>Text Book of Pharmaceutics</td>
+            </tr>
+            <tr>
+                <th scope="row">27</th>
+                <td>Microencapsulation in Drug Delivery Systems</td>
+                <td>Dr. Jyoti Sinha</td>
+                <td>Text Book of Pharmaceutics</td>
+            </tr>
+            <tr>
+                <th scope="row">28</th>
+                <td>Mucosal Drug Delivery Systems: Enhancing Therapeutic Efficacy
+through Bioadhesion</td>
+                <td>Ms. Kriti Dabral </td>
+                <td>Text Book of Pharmaceutics</td>
+            </tr>
+            <tr>
+                <th scope="row">29</th>
+                <td>Implantable Drug Delivery Systems: Pioneering Therapeutic
+Solutions</td>
+                <td>Ms. Yashika Uniyal </td>
+                <td>Text Book of Pharmaceutics</td>
+            </tr>
+            <tr>
+                <th scope="row">30</th>
+                <td>Informatics and Methods in Drug Design: Harnessing Data
+for Therapeutic Innovation
+</td>
+                <td>Ms. Kanchan Singh </td>
+                <td>Text Book of Pharmaceutics</td>
+            </tr>
+
+            <tbody>
+        </table>
+</div>
+</div>
 <?php require "common/footer.php" ?>
+
+<script>
+
+function openTab(evt, tabName) {
+    var i, tabcontent, tablinks;
+    
+    tabcontent = document.getElementsByClassName("tabcontent");
+    for (i = 0; i < tabcontent.length; i++) {
+        tabcontent[i].style.display = "none";
+    }
+    
+    tablinks = document.getElementsByClassName("tablink");
+    for (i = 0; i < tablinks.length; i++) {
+        tablinks[i].className = tablinks[i].className.replace(" active", "");
+    }
+    
+    document.getElementById(tabName).style.display = "block";
+    evt.currentTarget.className += " active";
+}
+
+// By default, open the Boys Hostel tab
+document.addEventListener("DOMContentLoaded", function() {
+    document.querySelector(".tablink").click();
+});
+
+
+</script>
+<style>
+    .tabs {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.tablink {
+    background-color: orange;
+    border: none;
+    outline: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 16px;
+    margin: 0 5px;
+}
+
+.tablink:hover {
+    background-color: #ddd;
+}
+
+.tablink.active {
+    background-color: lightpink;
+}
+
+.tabcontent {
+    display: none;
+}
+
+.tabcontent table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+
+.tabcontent th, .tabcontent td {
+    border: 1px solid #ccc;
+    padding: 8px;
+    text-align: left;
+}
+
+.tabcontent th {
+    background-color: #f2f2f2;
+}
+</style>

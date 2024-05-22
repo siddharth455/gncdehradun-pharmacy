@@ -244,7 +244,7 @@
                 <td>Life skills - entrepreneurial skills</td>
             </tr>
             <tr>
-                <th scope="row">444</th>
+                <th scope="row">44</th>
                 <td>"Reseacrh workshop on ""Pharmacy: Opportunities & Challenges"""</td>
                 <td>Life skills - Self employment</td>
             </tr>

@@ -4,31 +4,68 @@
         <div class="d-table-cell">
             <div class="container">
                 <div class="page-title-content">
-                    <h2>Career Development</h2>
+                    <h2>Rules & Regulations</h2>
                 </div>
             </div>
         </div>
     </div>
 </div>
+<div class="container mt-5 mb-5">
 
-<div class="accordion-container">
-        <h2>Rules & Regulations</h2>
+    <h2>Rules & Regulations</h2>
+    <p>Students are required to uphold strict discipline and conduct themselves with dignity at all times, whether in the classroom, workshop, library, laboratories, or elsewhere. Adherence to prescribed rules is mandatory. Students should also present themselves politely in both dress and behavior. Any reported or observed misconduct, whether within or outside the Institute, will lead to disciplinary action.</p>
+
+    <h4>Attendance Policy:</h4>
+
+    <p>Students must maintain at least 75% attendance in both theory and practical classes for each subject.</p>
+    <p>Attendance at Sessional Tests, Unit Tests, and Preliminary Examinations is compulsory. Failure to attend these exams will result in disqualification from appearing in the final Examination.</p>
+
+    <h4>Notice Board:</h4>
+
+    <p>Students must regularly check the Notice Boards for updates. The college is not responsible for any missed opportunities due to a student's failure to read notices in a timely manner.</p>
+
+    <h4>Class Representatives:</h4>
+
+    <p>The Class Representative (CR) for each class will be nominated based strictly on merit, following University guidelines.</p>
+
+    <h4>Anti-Ragging Policy:</h4>
+
+    <p>Ragging in any form is strictly prohibited. Any student found guilty of ragging will face immediate expulsion and further legal action as per the Anti-Ragging Law of Maharashtra State.</p>
+
+    <h4>Admission Integrity:</h4>
+
+    <p>Students admitted with false or incorrect information will be expelled, and their fees will be forfeited.</p>
+
+    <h4>Property Damage:</h4>
+
+    <p>Any damage to Institute property, including fixtures, equipment, furniture, books, periodicals, wall paint, computers, and machinery, will be taken very seriously and may result in the expulsion of the responsible student(s).</p>
+
+    <h4>Prohibited Activities:</h4>
+
+    <p>Smoking, drug addiction, narcotics, alcohol consumption, chewing tobacco, spitting, writing on walls, and other such behaviors are strictly forbidden on Institute and Hostel premises.</p>
+
+    <h4>Fees and Dues:</h4>
+
+    <p>The Principal has the authority to remove a student from the roll call for non-payment of tuition fees, hostel dues, fines for damages, or other Institute dues in a timely manner.</p>
+
+    <h4>Expulsion Policy:</h4>
+
+    <p>The Principal can expel students involved in anti-national activities without prior notice.</p>
+
+    <h4>Examination Requirements:</h4>
+
+    <p>Students must clear all dues and complete their Journals, Term Work, and Drawing Sheets as required before the examination begins.</p>
+
+    <h4>Discipline:</h4>
+
+    <p>The directives of the Principal regarding discipline are final and binding.</p>
+
+    <h4>Rule Changes:</h4>
+
+    <p>The Institute reserves the right to change, amend, add, or cancel any rules without prior notice.</p>
+
+    <h4>Ragging Undertaking:</h4>
+
+    <p>A combined undertaking regarding ragging must be submitted on the day of admission to the administrative office.</p>
 </div>
-<div class="rules-list">
-                    <ul class="list-unstyled p-0 list-icon-4 ps-4 mt-3">
-                        <li>1. A student seeking admission to the hostel must apply in the application (prescribed format). A passport size photograph must be affixed in the application form along with an undertaking in writing that he will abide by the rules of the hostel, duly endorsed by the parent or guardian must be submitted to the Hostel Rector / IN charge.</li>
-                        <li>2. Applicants are also required to submit a fitness certificate issued by a Registered Medical Practitioner along with the application form.</li>
-                    
-                   
-                        <li>3. Based on the availability of the rooms and the requirement (Triple sharing) an appropriate room is allotted by the Hotel Rector / IN charge.</li>
-                        <li>4. The Management reserves the right to refuse admission in the hostels to any student without assigning any reason, or to expel any resident in the interest and the welfare of the campus.</li>
-                        <li>5. A student admitted to the hostel will have no claim to any particular room. He / She will have to stay in the room allotted to him / her with other residents in the room.</li>
-                   
-
-                        <li>6. A student admitted to the hostel for a particular year should pay the fees for the entire period in advance.</li>
-                        <li>7. On payment of fees the student is allowed to occupy the allotted room along with the furniture fixtures and other belongings offered by the hostel are then handed over to him/ her and documented.</li>
-                        <li>8. Late fee charges will be applicable.</li>
-                    </ul>
-</div>
-<?php require "common/footer.php"?>
-
+<?php require "common/footer.php" ?>
