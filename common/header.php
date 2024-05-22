@@ -123,10 +123,10 @@
                                 <a href="#" class="nav-link dropdown-toggle">Admission</a>
                                 <ul class="dropdown-menu">
                                 <li class="nav-item">
-                                        <a href="../c" class="nav-link">D.Pharm</a>
+                                        <a href="programme-details.php" class="nav-link">Courses</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a href="fee-structure.php" class="nav-link">Fee Structure &amp; Syllabus</a>
+                                        <a href="feeStructure-eligibility.php" class="nav-link">Fee Structure &amp; Syllabus</a>
                                     </li>
                                     <li class="nav-item">
                                         <a href="d-pharmacy.php" class="nav-link">D.Pharm</a>
