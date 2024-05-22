@@ -96,6 +96,40 @@
     </div>
 </section>
 <?php require "company-logo.php" ?>
+<section class="container">
+    <h4>Training & Placement Committee</h4>
+    <table class="table table-bordered">
+        <thead>
+            <tr class="heading">
+                <th scope="col"><b>S.No.</b></th>
+                <th scope="col"><b>Name</b></th>
+                <th scope="col"><b>Designation</b></th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <th scope="row">1</th>
+                <td>Mr. Sunil Kumar Malik</td>
+                <td>Chairperson </b></td>
+            </tr>
+            <tr>
+                <th scope="row">2</th>
+                <td>Mr. Anupam</td>
+                <td>Placement Cell Head</b></td>
+            </tr>
+            <tr>
+                <th scope="row">3</th>
+                <td>Dr. Nidhi Chatterjee</td>
+                <td>Placement Executives</b></td>
+            </tr>
+            <tr>
+                <th scope="row">4</th>
+                <td>Dr. Vishal Kamboj</td>
+                <td>Faculty In-charge</b></td>
+            </tr>
+        </tbody>
+    </table>
+</section>
 <section class="placementSupport-section position-relative mt-5 mb-5">
     <div class="container p-0">
         <div class="row g-0">

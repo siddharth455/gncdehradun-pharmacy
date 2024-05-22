@@ -74,7 +74,7 @@ table td {
         <div class="d-table-cell">
             <div class="container">
                 <div class="page-title-content">
-                    <h2>Career Development</h2>
+                    <h2>Training & Placement</h2>
                 </div>
             </div>
         </div>
