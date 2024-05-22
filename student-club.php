@@ -70,59 +70,28 @@
                                 <th scope="col"><b>S.No.</b></th>
                                 <th scope="col"><b>Name</b></th>
                                 <th scope="col"><b>Designation</b></th>
-                                <th scope="col"><b>Contact No. </b></th>
-                                <th scope="col"><b>Mail ID </b></th>
                             </tr>
                         </thead>
                         <tbody>
                             <tr>
                                 <th scope="row">1</th>
-                                <td>Dr. Vishal Kumar Deshwal</td>
-                                <td>Professor</td>
-                                <td>9897538555</td>
-                                <td></td>
+                                <td>Mr. Jai Nehra</td>
+                                <td>Faculty Coordinator</td>
                             </tr>
                             <tr>
                                 <th scope="row">2</th>
-                                <td>Dr. Lalit Kumar</td>
-                                <td></td>
-                                <td></td>
-                                <td></td>
+                                <td>Mr. Aamir Rehman</td>
+                                <td>Member</td>
                             </tr>
                             <tr>
                                 <th scope="row">3</th>
-                                <td>Prof. (Dr.) Deepak Sharma</td>
-                                <td></td>
-                                <td></td>
-                                <td></td>
+                                <td>Mr. Avinash Kumar</td>
+                                <td>Member</td>
                             </tr>
                             <tr>
                                 <th scope="row">4</th>
-                                <td>Dr. Vishal kamboj</td>
-                                <td></td>
-                                <td></td>
-                                <td></td>
-                            </tr>
-                            <tr>
-                                <th scope="row">5</th>
-                                <td>Mr. Ankur Jaiswal</td>
-                                <td></td>
-                                <td></td>
-                                <td></td>
-                            </tr>
-                            <tr>
-                                <th scope="row">6</th>
-                                <td>Mrs. Kriti Dabral</td>
-                                <td></td>
-                                <td></td>
-                                <td></td>
-                            </tr>
-                            <tr>
-                                <th scope="row">7</th>
-                                <td>Mr. Tarun Verma</td>
-                                <td></td>
-                                <td></td>
-                                <td></td>
+                                <td>Ms. Shivani</td>
+                                <td>Member</td>
                             </tr>
                         </tbody>
                     </table>
@@ -144,45 +113,28 @@
                                 <th scope="col"><b>S.No.</b></th>
                                 <th scope="col"><b>Name</b></th>
                                 <th scope="col"><b>Designation</b></th>
-                                <th scope="col"><b>Contact No. </b></th>
-                                <th scope="col"><b>Mail ID </b></th>
                             </tr>
                         </thead>
                         <tbody>
                             <tr>
                                 <th scope="row">1</th>
-                                <td>Dr. Nidhi Chatterjee</td>
-                                <td></td>
-                                <td></td>
-                                <td></td>
+                                <td>Mrs. Bhawna Bora</td>
+                                <td>Faculty Coordinator</td>
                             </tr>
                             <tr>
                                 <th scope="row">2</th>
-                                <td>Dr. Vishal Kumar Deshwal</td>
-                                <td></td>
-                                <td></td>
-                                <td></td>
+                                <td>Mrs. Sameeksha Chandra</td>
+                                <td>Member</td>
                             </tr>
                             <tr>
                                 <th scope="row">3</th>
-                                <td>Dr. Vishal Kamboj</td>
-                                <td></td>
-                                <td></td>
-                                <td></td>
+                                <td>Mr. Sunil Jamita</td>
+                                <td>Member</td>
                             </tr>
                             <tr>
                                 <th scope="row">4</th>
-                                <td>Mrs. Priti Sood</td>
-                                <td></td>
-                                <td></td>
-                                <td></td>
-                            </tr>
-                            <tr>
-                                <th scope="row">5</th>
-                                <td>Mrs. Bhawana Bora</td>
-                                <td></td>
-                                <td></td>
-                                <td></td>
+                                <td>Ms. Sweety G Momin</td>
+                                <td>Member</td>
                             </tr>
                         </tbody>
                     </table>
@@ -204,45 +156,28 @@
                                 <th scope="col"><b>S.No.</b></th>
                                 <th scope="col"><b>Name</b></th>
                                 <th scope="col"><b>Designation</b></th>
-                                <th scope="col"><b>Contact No. </b></th>
-                                <th scope="col"><b>Mail ID </b></th>
                             </tr>
                         </thead>
                         <tbody>
                             <tr>
                                 <th scope="row">1</th>
-                                <td>Dr. Lalit Kumar</td>
-                                <td></td>
-                                <td></td>
-                                <td></td>
+                                <td>Mr. Vishal Kumar Deshwal</td>
+                                <td>Faculty Coordinator</td>
                             </tr>
                             <tr>
                                 <th scope="row">2</th>
-                                <td>Prof. (Dr.) Deepak Sharma</td>
-                                <td></td>
-                                <td></td>
-                                <td></td>
+                                <td>Mr. Aman Singh</td>
+                                <td>Member</td>
                             </tr>
                             <tr>
                                 <th scope="row">3</th>
-                                <td>Dr. Nidhi Chatterjee</td>
-                                <td></td>
-                                <td></td>
-                                <td></td>
+                                <td>Mr. Aman Raj</td>
+                                <td>Member</td>
                             </tr>
                             <tr>
                                 <th scope="row">4</th>
-                                <td>Dr. Vishal Kumar Deshwal</td>
-                                <td></td>
-                                <td></td>
-                                <td></td>
-                            </tr>
-                            <tr>
-                                <th scope="row">5</th>
-                                <td>Mr. Sunil Kumar Malik</td>
-                                <td></td>
-                                <td></td>
-                                <td></td>
+                                <td>Mrs. Kaniska</td>
+                                <td>Member</td>
                             </tr>
                         </tbody>
                     </table>
@@ -264,73 +199,28 @@
                                 <th scope="col"><b>S.No.</b></th>
                                 <th scope="col"><b>Name</b></th>
                                 <th scope="col"><b>Designation</b></th>
-                                <th scope="col"><b>Contact No. </b></th>
-                                <th scope="col"><b>Mail ID </b></th>
                             </tr>
                         </thead>
                         <tbody>
                             <tr>
                                 <th scope="row">1</th>
-                                <td>Dr. Lalit Kumar</td>
-                                <td></td>
-                                <td></td>
-                                <td></td>
+                                <td>Prof. (Dr.) Deepak Sharma</td>
+                                <td>Faculty Coordinator</td>
                             </tr>
                             <tr>
                                 <th scope="row">2</th>
-                                <td>Prof. (Dr.) Deepak Sharma</td>
-                                <td></td>
-                                <td></td>
-                                <td></td>
+                                <td>Mr. Amit Thakur</td>
+                                <td>Member</td>
                             </tr>
                             <tr>
                                 <th scope="row">3</th>
-                                <td>Dr. Nidhi Chatterjee</td>
-                                <td></td>
-                                <td></td>
-                                <td></td>
+                                <td>Mrs. Aastha Singh</td>
+                                <td>Member</td>
                             </tr>
                             <tr>
                                 <th scope="row">4</th>
-                                <td>Dr. Vishal Kumar Deshwal</td>
-                                <td></td>
-                                <td></td>
-                                <td></td>
-                            </tr>
-                            <tr>
-                                <th scope="row">5</th>
-                                <td>Dr. Vishal Kamboj</td>
-                                <td></td>
-                                <td></td>
-                                <td></td>
-                            </tr>
-                            <tr>
-                                <th scope="row">6</th>
-                                <td>Mrs. Priti Sood</td>
-                                <td></td>
-                                <td></td>
-                                <td></td>
-                            </tr>
-                            <tr>
-                                <th scope="row">7</th>
-                                <td>Mr. Achintya Vashishta</td>
-                                <td></td>
-                                <td></td>
-                                <td></td>
-                            </tr>
-                            <tr>
-                                <th scope="row">8</th>
-                                <td>Mr. Jai Nehra</td>
-                                <td></td>
-                                <td></td>
-                                <td></td>
-                            </tr>
-                            <tr>
-                                <th scope="row">9</th>
-                                <td>Ms. Karishma Puri</td>
-                                <td></td>
-                                <td></td>
-                                <td></td>
+                                <td>Mrs. Hemanti Bist</td>
+                                <td>Member</td>
                             </tr>
                         </tbody>
                     </table>

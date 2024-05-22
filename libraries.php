@@ -74,36 +74,36 @@
                 <th scope="row">1</th>
                 <td>Prof. (Dr.) Deepak Sharma</td>
                 <td>Principal</td>
-                <td></td>
-                <td></td>
+                <td>7300777721</td>
+                <td>principalpharmacy@gnc.edu.in</td>
             </tr>
             <tr>
                 <th scope="row">2</th>
                 <td>Ms. Karishma Puri</td>
                 <td>Librarian</td>
-                <td></td>
-                <td></td>
+                <td>7302021995</td>
+                <td>Karishmapuri@gnc.edu.in</td>
             </tr>
             <tr>
                 <th scope="row">3</th>
                 <td>Ms. Hemlata Pal</td>
                 <td>Librarian</td>
-                <td></td>
-                <td></td>
+                <td>6395905010</td>
+                <td>hemlatapal@gnc.edu.in</td>
             </tr>
             <tr>
                 <th scope="row">4</th>
                 <td>Ms. Swati kanchan</td>
                 <td>Librarian</td>
-                <td></td>
-                <td></td>
+                <td>9760486770</td>
+                <td>swatikanchan@gnc.edu.in</td>
             </tr>
             <tr>
                 <th scope="row">5</th>
                 <td>Mrs. Kriti Dabral</td>
                 <td>Assitant Professor</td>
-                <td></td>
-                <td></td>
+                <td>9467545933</td>
+                <td>kritidabral@gnc.edu.in</td>
             </tr>
         </tbody>
     </table>
