@@ -415,7 +415,7 @@
                                 <th scope="row">5</th>
                                 <td>Mr. Anupam Singh</td>
                                 <td>Member</td>
-                                <td></td>
+                                <td>9720800909</td>
                                 <td>anupamsingh@gnc.edu.in</td>
                             </tr>
                         </tbody>
