@@ -49,49 +49,49 @@
                             <tr>
                                 <th scope="row">1</th>
                                 <td>Dr. Vishal Kumar Deshwal</td>
-                                <td>Professor</td>
+                                <td>Chairperson</td>
                                 <td>9897538555</td>
                                 <td></td>
                             </tr>
                             <tr>
                                 <th scope="row">2</th>
                                 <td>Dr. Lalit Kumar</td>
-                                <td></td>
+                                <td>Member Secretary</td>
                                 <td></td>
                                 <td></td>
                             </tr>
                             <tr>
                                 <th scope="row">3</th>
                                 <td>Prof. (Dr.) Deepak Sharma</td>
-                                <td></td>
+                                <td>Member</td>
                                 <td></td>
                                 <td></td>
                             </tr>
                             <tr>
                                 <th scope="row">4</th>
                                 <td>Dr. Vishal kamboj</td>
-                                <td></td>
+                                <td>Member</td>
                                 <td></td>
                                 <td></td>
                             </tr>
                             <tr>
                                 <th scope="row">5</th>
                                 <td>Mr. Ankur Jaiswal</td>
-                                <td></td>
+                                <td>Member</td>
                                 <td></td>
                                 <td></td>
                             </tr>
                             <tr>
                                 <th scope="row">6</th>
                                 <td>Mrs. Kriti Dabral</td>
-                                <td></td>
+                                <td>Member</td>
                                 <td></td>
                                 <td></td>
                             </tr>
                             <tr>
                                 <th scope="row">7</th>
                                 <td>Mr. Tarun Verma</td>
-                                <td></td>
+                                <td>Member</td>
                                 <td></td>
                                 <td></td>
                             </tr>
