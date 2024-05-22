@@ -15,7 +15,7 @@
         <h2>Rules & Regulations</h2>
 </div>
 <div class="rules-list">
-                    <ul>
+                    <ul class="list-unstyled p-0 list-icon-4 ps-4 mt-3">
                         <li>1. A student seeking admission to the hostel must apply in the application (prescribed format). A passport size photograph must be affixed in the application form along with an undertaking in writing that he will abide by the rules of the hostel, duly endorsed by the parent or guardian must be submitted to the Hostel Rector / IN charge.</li>
                         <li>2. Applicants are also required to submit a fitness certificate issued by a Registered Medical Practitioner along with the application form.</li>
                     

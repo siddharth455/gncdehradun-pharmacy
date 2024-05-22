@@ -71,37 +71,33 @@
                                 <h4 class="h4-heading">INTERNAL QUALITY ASSURANCE CELL</h4>
                                 <div class="data-block">
                                     <h3>About IQAC ( Internal Quality Assurance Cell )</h3>
-                                    <p>The Internal Quality Assurance Cell (IQAC) is the cell that is formulated for monitoring the quality parameters in CU. The Composition of IQAC members as per the recommendations given by National Assessment Accreditation Committee.</p>
+                                    <p>The Internal Quality Assurance Cell (IQAC) is a vital component established in accredited institutions to ensure continuous quality enhancement and sustenance. At Guru Nanak College of Pharmaceutical Sciences, Dehradun, the IQAC aims to develop a system for conscious, consistent, and catalytic improvement in overall institutional performance. It integrates various activities to promote holistic academic excellence and fosters a quality culture. The IQAC also facilitates the adoption of modern teaching methods, ensures the credibility of evaluation procedures, and maintains a learner-centric environment conducive to quality education.</p>
                                 </div>
-
                                 <hr>
 
                                 <div class="data-block">
-                                    <h3>IQAC shall evolve mechanisms and procedures for:</h3>
-                                    <ul>
-                                        <li>Ensuring timely, efficient and progressive performance of academic, administrative and financial tasks</li>
-                                        <li>The relevance and quality of academic and research programmes</li>
-                                        <li>Equitable access to and affordability of academic programmes for various sections of society</li>
-                                        <li>Optimization and integration of modern methods of teaching and learning</li>
-                                        <li>The credibility of evaluation procedures</li>
-                                        <li>Ensuring the adequacy, maintenance and functioning of the support structure and services</li>
-                                        <li>Research sharing and networking with other institutions in India and abroad.</li>
-                                    </ul>
+                                    <h3>IQAC Guidelines:</h3>
+                                   <p>In line with its Action Plan for performance evaluation, assessment, accreditation, and quality improvement of higher education 
+                                    institutions, NAAC recommends that every accredited institution establish an Internal Quality Assurance Cell (IQAC) as a post-accreditation 
+                                    quality sustenance measure. Since quality enhancement is a continuous process, the IQAC will become a part of Guru Nanak College of 
+                                    Pharmaceutical Sciences, Dehradun’s system and work towards achieving the goals of quality enhancement and sustenance. The main task
+                                     of the IQAC is to develop a system for conscious, consistent, and catalytic improvement in the overall performance of institutions. 
+                                     During the post-accreditation period, it will channelize all efforts and measures of the institution towards promoting holistic academic 
+                                     excellence.</p>
                                 </div>
                                 <hr>
                                 <div class="data-block">
                                     <h3>Some of the functions expected of the IQAC are:</h3>
-                                    <ul>
-                                        <li>Development and application of quality benchmarks/parameters for various academic and administrative activities of the institution</li>
-                                        <li>Facilitating the creation of a learner-centric environment conducive to quality education and faculty maturation to adopt the required knowledge and technology for participatory teaching and learning process</li>
-                                        <li>Arrangement for feedback response from students, parents and other stakeholders on quality-related institutional processes</li>
-                                        <li>Dissemination of information on various quality parameters of higher education</li>
-                                        <li>Organization of inter and intra institutional workshops, seminars on quality related themes and promotion of quality circles</li>
-                                        <li>Documentation of the various programmes/activities leading to quality improvement.</li>
-                                        <li>Acting as a nodal agency of the Institution for coordinating quality-related activities, including adoption and dissemination of best practices.</li>
-                                        <li>Development and maintenance of institutional database through MIS for the purpose of maintaining /enhancing the institutional quality.</li>
-                                        <li>Development of Quality Culture in the institution.</li>
-                                        <li>Preparation of the Annual Quality Assurance Report (AQAR) as per guidelines and parameters of NAAC, to be submitted to NAAC</li>
+                                    <ul class="list-unstyled p-0 list-icon-4 ps-4 mt-3">
+                                        <li>Developing and applying quality benchmarks/parameters for various academic and administrative activities of the institution.</li>
+                                        <li>Creating a learner-centric environment conducive to quality education and helping faculty adopt the required knowledge and technology for participatory teaching and learning processes.</li>
+                                        <li>Arranging for feedback from students, parents, and other stakeholders on quality-related institutional processes.</li>
+                                        <li>Disseminating information on various quality parameters of higher education.</li>
+                                        <li>Organizing inter and intra-institutional workshops and seminars on quality-related themes and promoting quality circles.</li>
+                                        <li>Documenting various programs/activities leading to quality improvement.</li>
+                                        <li>Acting as a nodal agency for coordinating quality-related activities, including the adoption and dissemination of best practices.</li>
+                                        <li>Developing and maintaining an institutional database through MIS to enhance institutional quality.</li>
+                                        <li>Cultivating a quality culture within the institution.</li>
                                     </ul>
                                 </div>
 
@@ -109,27 +105,13 @@
 
                                 <div class="data-block">
                                     <h3>IQAC will facilitate / contribute:</h3>
-                                    <ul>
-                                        <li>Ensure heightened level of clarity and focus in institutional functioning towards quality enhancement</li>
-                                        <li>Ensure internalization of the quality culture.</li>
-                                        <li>Ensure enhancement and coordination among various activities of the institution and institutionalize all good practices.</li>
-                                        <li>Provide a sound basis for decision-making to improve institutional functioning.</li>
-                                        <li>Act as a dynamic system for quality changes in HEIs.</li>
-                                        <li>Build an organised methodology of documentation and internal communication.</li>
-                                    </ul>
-                                </div>
-
-                                <hr>
-
-                                <div class="data-block">
-                                    <h3>Outcomes of Activities of IQAC at CU</h3>
-                                    <ul>
-                                        <li>NAAC Accreditation</li>
-                                        <li>Ranking by NIRF</li>
-                                        <li>Annual reports of the University</li>
-                                        <li>Ranking by Media House(s) conducted through questionnaire and/or surveys</li>
-                                        <li>Continous improvement in academic and non-academic activities of university</li>
-                                        <li>Analysis of Student/alumni/faculty/employer/parent feedbacks</li>
+                                    <ul class="list-unstyled p-0 list-icon-4 ps-4 mt-3">
+                                        <li>Ensuring a heightened level of clarity and focus in institutional functioning towards quality enhancement.</li>
+                                        <li>Promoting the internalization of a quality culture within the college.</li>
+                                        <li>Enhancing coordination among various activities of the institution and institutionalizing all good practices.</li>
+                                        <li>Providing a sound basis for decision-making to improve institutional functioning.</li>
+                                        <li>Acting as a dynamic system for initiating and implementing quality changes in the college.</li>
+                                        <li>Building an organized methodology for documentation and internal communication, thereby fostering a structured approach to quality improvement.</li>
                                     </ul>
                                 </div>
 
