@@ -106,7 +106,7 @@ p {
         <p>The club members will come together to identify & develop skills through practical based learning, activity based learning, communication skills, competency & confidence building, team work, social awareness camps etc. The purpose of formation of SIPS CLUBS is to increase students’ awareness of technical or non-technical education and their uses in daily life, with a view to prepare citizens of tomorrow who are better suited to deal with current technological trends. In addition to this, students can also benefit themselves to explore interests they have never encountered, thereby exposing to a more diverse range of interests in them. The Clubs activities are <strong>*For the Students & By the Students*</strong>.</p>
         <h2>The main objectives of GNC Students CLUBS are:</h2>
         <p>We, at Sandip Institute of Pharmaceutical Sciences, Nashik envisage the sustainable growth of stake holders:</p>
-        <ul>
+        <ul class="list-unstyled p-0 list-icon-4 ps-4 mt-3">
             <li>To identify & bring out the innate qualities in the students.</li>
             <li>To develop the overall personality of the students.</li>
             <li>To create awareness towards diverse global culture</li>

@@ -130,3 +130,4 @@ Mr. Pranav Shinde</td>
                 </tbody>
         </table>
     </div>
+    <?php require "common/footer.php"?>
