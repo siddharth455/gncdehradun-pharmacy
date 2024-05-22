@@ -190,8 +190,7 @@
             </tr>
             <tr>
                 <th scope="row">33</th>
-                <td>"Seminar for pharmacy students on 
-Converting Innovation into Entrepreneurship"</td>
+                <td>"Seminar for pharmacy students on Converting Innovation into Entrepreneurship"</td>
                 <td>Life skills - entrepreneurial skillss</td>
             </tr>
             <tr>
@@ -216,8 +215,7 @@ Converting Innovation into Entrepreneurship"</td>
             </tr>
             <tr>
                 <th scope="row">38</th>
-                <td>"Pharma Seminar on 
-IPR and Patent Laws "</td>
+                <td>"Pharma Seminar on IPR and Patent Laws "</td>
                 <td>Awareness of trends in technology</td>
             </tr>
             <tr>
@@ -247,8 +245,7 @@ IPR and Patent Laws "</td>
             </tr>
             <tr>
                 <th scope="row">444</th>
-                <td>"Reseacrh workshop on
- ""Pharmacy: Opportunities & Challenges"""</td>
+                <td>"Reseacrh workshop on ""Pharmacy: Opportunities & Challenges"""</td>
                 <td>Life skills - Self employment</td>
             </tr>
             <tr>
