@@ -122,6 +122,12 @@
                             <li class="nav-item">
                                 <a href="#" class="nav-link dropdown-toggle">Admission</a>
                                 <ul class="dropdown-menu">
+                                <li class="nav-item">
+                                        <a href="../c" class="nav-link">D.Pharm</a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a href="fee-structure.php" class="nav-link">Fee Structure &amp; Syllabus</a>
+                                    </li>
                                     <li class="nav-item">
                                         <a href="d-pharmacy.php" class="nav-link">D.Pharm</a>
                                     </li>
@@ -148,6 +154,12 @@
                                     </li>
                                     <li class="nav-item">
                                         <a href="disabled.php" class="nav-link">Disabled-Friendly Environment </a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a href="student-council-committee.php" class="nav-link">Student Council Committee</a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a href="hostel-overview.php" class="nav-link">Hostel Overview</a>
                                     </li>
                                 </ul>
                             </li>

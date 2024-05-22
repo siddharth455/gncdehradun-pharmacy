@@ -60,7 +60,7 @@
                             <a href="research.php">Research Paper</a>
                         </li>
                         <li> <a href="contact.php">Connect with us</a></li>
-                        
+
                     </ul>
                 </div>
             </div>
@@ -220,6 +220,24 @@
             autoplay: true,
             autoplaySpeed: 2500,
             arrows: false,
+            responsive: [{
+                breakpoint: 768,
+                settings: {
+                    slidesToShow: 1
+                }
+            }]
+        });
+    });
+</script>
+<script>
+    $(document).ready(function() {
+        $('.vertical-slider').slick({
+            vertical: true,
+            verticalSwiping: true,
+            slidesToShow: 3,
+            slidesToScroll: 1,
+            autoplay: true,
+            autoplaySpeed: 1000,
             responsive: [{
                 breakpoint: 768,
                 settings: {

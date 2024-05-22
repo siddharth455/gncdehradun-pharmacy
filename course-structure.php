@@ -1,8 +1,3 @@
-<style>
-
-
-</style>
-
 <?php require "common/header.php" ?>
 <div class="banner-area about" style="background-image: url(assets/images/d-2.webp);">
     <div class="d-table">
