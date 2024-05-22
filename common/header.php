@@ -76,7 +76,10 @@
                                         <a href="about.php" class="nav-link">About GNC</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a href="principal-message.php" class="nav-link">Principal Message</a>
+                                        <a href="principal-message.php" class="nav-link">Our Leadership</a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a href="404.php" class="nav-link">Organogram</a>
                                     </li>
                                     <li class="nav-item">
                                         <a href="approvals.php" class="nav-link">Approvals &amp; Accreditation</a>
@@ -122,7 +125,7 @@
                             <li class="nav-item">
                                 <a href="#" class="nav-link dropdown-toggle">Admission</a>
                                 <ul class="dropdown-menu">
-                                <li class="nav-item">
+                                    <li class="nav-item">
                                         <a href="programme-details.php" class="nav-link">Courses</a>
                                     </li>
                                     <li class="nav-item">
@@ -136,6 +139,9 @@
                                     </li>
                                     <li class="nav-item">
                                         <a href="rules-regulation.php" class="nav-link">Rules &amp; Regulations</a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a href="scholarship-section.php" class="nav-link">Scholarship</a>
                                     </li>
                                     <!-- <li class="nav-item">
                         <a href="b-pharmacy-le.php" class="nav-link">B.Pharm (LE)</a>
@@ -173,14 +179,14 @@
                                 <a href="#" class="nav-link dropdown-toggle">Research</a>
                                 <ul class="dropdown-menu">
                                     <li class="nav-item">
-                                        <a href="research-committee.php" class="nav-link">Research &amp; Development Cell</a>
+                                        <a href="research-committee.php" class="nav-link">R&amp;D Cell and Code of Ethics</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a href="research.php" class="nav-link">Research Paper</a>
+                                        <a href="research.php" class="nav-link">Research Papers</a>
                                     </li>
-                                    <li class="nav-item">
+                                    <!-- <li class="nav-item">
                                         <a href="career-development.php" class="nav-link">Reserch & Career Development Initiatives</a>
-                                    </li>
+                                    </li> -->
                                     <li class="nav-item">
                                         <a href="mou.php" class="nav-link">Industry Collaborations / MOU Signed</a>
                                     </li>
@@ -193,13 +199,23 @@
                                     <li class="nav-item">
                                         <a href="seminar-research-workshop.php" class="nav-link">Research/Seminar/Workshop</a>
                                     </li>
+
                                 </ul>
                             </li>
                             <li class="nav-item">
                                 <a href="iqac.php" class="nav-link"> IQAC</a>
                             </li>
+
                             <li class="nav-item">
-                                <a href="placement.php" class="nav-link">Placement</a>
+                                <a href="#" class="nav-link dropdown-toggle">Placement</a>
+                                <ul class="dropdown-menu">
+                                    <li class="nav-item">
+                                        <a href="placement.php" class="nav-link">Placement Overview</a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a href="industry-collaboration.php" class="nav-link">Industry Collaboration - CBC</a>
+                                    </li>
+                                </ul>
                             </li>
                             <li class="nav-item">
                                 <a href="contact.php" class="nav-link">Contact US</a>

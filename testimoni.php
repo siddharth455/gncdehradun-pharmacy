@@ -7,61 +7,71 @@
             </p>
         </div>
         <div class="course-slider owl-carousel owl-theme ">
-            <div class="row align-items-center">
-                <div class="col-lg-5 col-md-5">
-                    <div class="course-slider-img">
-                        <img src="assets/images/Rasika.webp" alt="course" />
-                    </div>
-                </div>
-                <div class="col-lg-7 col-md-7">
-                    <div class="course-slider-content">
-                        <h2>Rewarded with the best!</h2>
-                        <p>
-                            GNC College has been an exceptional institution that has provided us with a transformative educational experience. The college is known for its dedicated faculty members who possess deep knowledge in their respective fields. They go above and beyond to ensure that we receive a well-rounded education and are always available to support us in our academic endeavors.
-                        </p>
-                        <div class="course-slider-btn">
-                            <strong>Ms. Rasika Bhardwaj</strong>
-                            <p>B.Pharm</p>
+            <div id="carouselExampleFade" class="carousel slide carousel-fade" data-bs-ride="carousel">
+                <div class="carousel-inner">
+                    <div class="carousel-item active">
+                        <div class="row align-items-center">
+                            <div class="col-lg-5 col-md-5">
+                                <div class="course-slider-img">
+                                    <img src="assets/images/Rasika.webp" alt="course" />
+                                </div>
+                            </div>
+                            <div class="col-lg-7 col-md-7">
+                                <div class="course-slider-content">
+                                    <h2>Rewarded with the best!</h2>
+                                    <p>
+                                        GNC College has been an exceptional institution that has provided us with a transformative educational experience. The college is known for its dedicated faculty members who possess deep knowledge in their respective fields. They go above and beyond to ensure that we receive a well-rounded education and are always available to support us in our academic endeavors.
+                                    </p>
+                                    <div class="course-slider-btn">
+                                        <strong>Ms. Rasika Bhardwaj</strong>
+                                        <p>B.Pharm</p>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
                     </div>
-                </div>
-            </div>
-            <div class="row align-items-center">
-                <div class="col-lg-5 col-md-5">
-                    <div class="course-slider-img">
-                        <img src="assets/images/amit.webp" alt="course" />
-                    </div>
-                </div>
-                <div class="col-lg-7 col-md-7">
-                    <div class="course-slider-content">
-                        <h2>It is the epitome of learning</h2>
-                        <p>
-                            GNC College also places great emphasis on co-curricular and extracurricular activities. The college organizes various events, sports competitions, and cultural festivals throughout the year. These activities have not only helped us develop our skills and talents but have also fostered a sense of camaraderie among the students.
-                        </p>
+                    <div class="carousel-item">
+                        <div class="row align-items-center">
+                            <div class="col-lg-5 col-md-5">
+                                <div class="course-slider-img">
+                                    <img src="assets/images/amit.webp" alt="course" />
+                                </div>
+                            </div>
+                            <div class="col-lg-7 col-md-7">
+                                <div class="course-slider-content">
+                                    <h2>It is the epitome of learning</h2>
+                                    <p>
+                                        GNC College also places great emphasis on co-curricular and extracurricular activities. The college organizes various events, sports competitions, and cultural festivals throughout the year. These activities have not only helped us develop our skills and talents but have also fostered a sense of camaraderie among the students.
+                                    </p>
 
-                        <div class="course-slider-btn">
-                            <strong>Mr. Amit Biswas</strong>
-                            <p>B.Pharm</p>
+                                    <div class="course-slider-btn">
+                                        <strong>Mr. Amit Biswas</strong>
+                                        <p>B.Pharm</p>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
                     </div>
-                </div>
-            </div>
-            <div class="row align-items-center">
-                <div class="col-lg-5 col-md-5">
-                    <div class="course-slider-img">
-                        <img src="assets/images/abbas.webp" alt="course" />
-                    </div>
-                </div>
-                <div class="col-lg-7 col-md-7">
-                    <div class="course-slider-content">
-                        <h2>Helped me identify my hidden potential</h2>
-                        <p>
-                            We received a transforming educational experience from GNC College, an amazing school. The college is renowned for its devoted professors who are highly knowledgeable in their professions. They go above and beyond to make sure we have a well-rounded education, and they are always there to help us out with our schoolwork.
-                        </p>
+                    <div class="carousel-item">
+                        <div class="row align-items-center">
+                            <div class="col-lg-5 col-md-5">
+                                <div class="course-slider-img">
+                                    <img src="assets/images/abbas.webp" alt="course" />
+                                </div>
+                            </div>
+                            <div class="col-lg-7 col-md-7">
+                                <div class="course-slider-content">
+                                    <h2>Helped me identify my hidden potential</h2>
+                                    <p>
+                                        We received a transforming educational experience from GNC College, an amazing school. The college is renowned for its devoted professors who are highly knowledgeable in their professions. They go above and beyond to make sure we have a well-rounded education, and they are always there to help us out with our schoolwork.
+                                    </p>
 
-                        <div class="course-slider-btn">
-                            <strong>Mr. Abbas Alam</strong>
-                            <p>B.Pharm</p>
+                                    <div class="course-slider-btn">
+                                        <strong>Mr. Abbas Alam</strong>
+                                        <p>B.Pharm</p>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
