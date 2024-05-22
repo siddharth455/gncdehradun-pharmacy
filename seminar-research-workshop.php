@@ -259,4 +259,4 @@ IPR and Patent Laws "</td>
         </tbody>
     </table>
 </div>
-<?php require "common/footer.php" ?>
+<?php require "common/footer.php"?>
