@@ -1,150 +1,342 @@
-<style>
-
-.club-container {
-    width: 80%;
-    margin: 20px auto;
-    background-color: #fff;
-    padding: 20px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-}
-.club-container h1 {
-    color: #333;
-    margin-bottom: 20px;
-    background-color: #F8D19E;
-    padding: 10px;
-    border-radius: 5px;
-}
-
-h1 {
-    text-align: center;
-    color: #d4a45f;
-}
-
-h2 {
-    color: #d4a45f;
-}
-
-p {
-    font-size: 16px;
-    line-height: 1.6;
-    color: #333;
-}
-
-.club-container ul {
-    list-style-type: none;
-    padding: 0;
-}
-
-.club-container ul li {
-    font-size: 16px;
-    line-height: 1.6;
-    color: #333;
-    padding-left: 1.2em;
-    text-indent: -1.2em;
-}
-
-.club-container ul li::before {
-    content: "•";
-    color: #d4a45f;
-    display: inline-block;
-    width: 1.2em;
-}
-
-.clubs {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 20px;
-    margin-top: 20px;
-}
-
-.club {
-    flex: 1 1 calc(33% - 20px);
-    background-color: #fff;
-    padding: 20px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    text-align: center;
-}
-
-.club img {
-    max-width: 100%;
-    height: auto;
-}
-
-.club h3 {
-    color: #d32f2f;
-}
-
-.club p {
-    font-size: 14px;
-    color: #333;
-}
-
-.club a {
-    color: #d32f2f;
-    text-decoration: none;
-    font-weight: bold;
-}
-
-    </style>
-
 <?php require "common/header.php" ?>
+<style>
+    .accordion-header button {
+        background-color: #00bcfb;
+        font-weight: bolder;
+        font-size: 18px;
+        color: white;
+        border-radius: 10px;
+    }
+
+    .accordion-button:not(.collapsed) {
+        background-color: #eb7a3d;
+        color: white;
+        border-radius: 10px;
+    }
+</style>
 <div class="banner-area about" style="background-image: url(assets/images/d-2.webp);">
     <div class="d-table">
         <div class="d-table-cell">
             <div class="container">
                 <div class="page-title-content">
-                    <h2>Career Development</h2>
+                    <h2>Students Club</h2>
                 </div>
             </div>
         </div>
     </div>
 </div>
 
-<div class="club-container">
-        <h1>GNC Students Club</h1>
-        <p>We, at Sandip Institute of Pharmaceutical Sciences, Nashik strive to empower our students to converge into capable leaders & responsible citizens bearing high ethical values. With a view to fulfil this mission, Sandip Institute of Pharmaceutical Sciences, Nashik (SIPS) introduced various CLUBS for the overall development of the students.</p>
-        <p>The club members will come together to identify & develop skills through practical based learning, activity based learning, communication skills, competency & confidence building, team work, social awareness camps etc. The purpose of formation of SIPS CLUBS is to increase students’ awareness of technical or non-technical education and their uses in daily life, with a view to prepare citizens of tomorrow who are better suited to deal with current technological trends. In addition to this, students can also benefit themselves to explore interests they have never encountered, thereby exposing to a more diverse range of interests in them. The Clubs activities are <strong>*For the Students & By the Students*</strong>.</p>
-        <h2>The main objectives of GNC Students CLUBS are:</h2>
-        <p>We, at Sandip Institute of Pharmaceutical Sciences, Nashik envisage the sustainable growth of stake holders:</p>
-        <ul class="list-unstyled p-0 list-icon-4 ps-4 mt-3">
-            <li>To identify & bring out the innate qualities in the students.</li>
-            <li>To develop the overall personality of the students.</li>
-            <li>To create awareness towards diverse global culture</li>
-            <li>To provide a healthy, pragmatic & innovative learning atmosphere</li>
-            <li>Under the Student’s Welfare, various Student’s Clubs were inaugurated</li>
-        </ul>
-    <div class="clubs">
-            <div class="club">
-            <img src="https://via.placeholder.com/150" class="club-image" alt="Dummy Image 1">
-                <h3>RESEARCH CLUB</h3>
-                <p>Faculty Advisors<br>Dr. Sarika Kamble<br><a href="#">Read More</a></p>
-            </div>
-            <div class="club">
-            <img src="https://via.placeholder.com/150" class="club-image" alt="Dummy Image 1">
-                <h3>MUSIC CLUB</h3>
-                <p>Faculty Advisors : Shivani Patil<br><a href="#">Read More</a></p>
-            </div>
-            <div class="club">
-            <img src="https://via.placeholder.com/150" class="club-image" alt="Dummy Image 1">
-                <h3>DRAMA CLUB</h3>
-                <p>Faculty Advisors : Dr. Rahul Mehta<br><a href="#">Read More</a></p>
-            </div>
-            <div class="club">
-            <img src="https://via.placeholder.com/150" class="club-image" alt="Dummy Image 1">
-                <h3>SPORTS CLUB</h3>
-                <p>Faculty Advisors : Ms. Anjali Singh<br><a href="#">Read More</a></p>
-            </div>
-            <div class="club">
-            <img src="https://via.placeholder.com/150" class="club-image" alt="Dummy Image 1">
-                <h3>LITERATURE CLUB</h3>
-                <p>Faculty Advisors : Mr. Ramesh Kulkarni<br><a href="#">Read More</a></p>
-            </div>
-            <div class="club">
-            <img src="https://via.placeholder.com/150" class="club-image" alt="Dummy Image 1">
-                <h3>SCIENCE CLUB</h3>
-                <p>Faculty Advisors : Dr. Neha Sharma<br><a href="#">Read More</a></p>
+<div class="container mt-5 mb-5">
+    <div class="row">
+        <div class="col-md-8 col-sm-12">
+            <h1>Students Club at GNC</h1>
+            <p>At Guru Nanak College of Pharmaceutical Sciences (GNC), we are dedicated to empowering our students to become capable leaders and responsible citizens with high ethical values. To fulfill this mission, GNC has introduced various clubs to promote the overall development of our students.</p>
+            <h3>Purpose and Activities</h3>
+            <p>The club members come together to identify and develop skills through practical-based learning, activity-based learning, communication skills, competency and confidence building, teamwork, and social awareness initiatives. The purpose of forming these clubs is to enhance students’ awareness of both technical and non-technical education and their applications in daily life. This prepares students to become future-ready citizens, well-equipped to handle current technological trends. Additionally, students have the opportunity to explore new interests, exposing them to a diverse range of activities. The club activities are organized by the students and for the students.</p>
+            <h3>Objectives of GNC Students Clubs</h3>
+            <p>At Guru Nanak College of Pharmaceutical Sciences, we envision the sustainable growth of our stakeholders through the following objectives:</p>
+            <ul class="list-unstyled p-0 list-icon-4 ps-4 mt-3">
+                <li><b>Identify and Develop Innate Qualities:</b> Uncover and nurture the inherent talents of students.</li>
+                <li><b>Overall Personality Development:</b> Foster the holistic growth of students.</li>
+                <li><b>Global Cultural Awareness:</b> Create awareness of diverse global cultures.</li>
+                <li><b>Innovative Learning Atmosphere:</b> Provide a healthy, practical, and innovative learning environment.</li>
+            </ul>
+        </div>
+        <div class="col-md-4 col-sm-12">
+            <div class="vertical-slider1">
+                <?php for ($i = 1; $i <= 15; $i++) : ?>
+                    <div class="hostel-overview">
+                        <img src="assets/images/club/cultural-<?php echo str_pad($i, 2, '0', STR_PAD_LEFT); ?>.webp" alt="Club Image <?php echo $i; ?>">
+                    </div>
+                <?php endfor; ?>
             </div>
         </div>
     </div>
-
-<?php require "common/footer.php"?>
+</div>
+<section class="container mt-5 mb-5">
+    <div class="accordion" id="accordionExample">
+        <div class="accordion-item">
+            <h2 class="accordion-header" id="headingTwo">
+                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                    Sports Club
+                </button>
+            </h2>
+            <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                <div class="accordion-body">
+                    <p>At Guru Nanak College of Pharmaceutical Sciences, our Sports Club is dedicated to promoting physical fitness, teamwork, and a healthy lifestyle among students. The club offers a variety of sports activities and facilities, encouraging students to participate in events, tournaments, and regular practice sessions. Whether you're a seasoned athlete or looking to try a new sport, our Sports Club provides the perfect environment to develop your skills, build friendships, and enhance your overall well-being. Join us to stay active, competitive, and engaged in campus life!</p>
+                    <table class="table table-bordered">
+                        <thead>
+                            <tr class="heading">
+                                <th scope="col"><b>S.No.</b></th>
+                                <th scope="col"><b>Name</b></th>
+                                <th scope="col"><b>Designation</b></th>
+                                <th scope="col"><b>Contact No. </b></th>
+                                <th scope="col"><b>Mail ID </b></th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <th scope="row">1</th>
+                                <td>Dr. Vishal Kumar Deshwal</td>
+                                <td>Professor</td>
+                                <td>9897538555</td>
+                                <td></td>
+                            </tr>
+                            <tr>
+                                <th scope="row">2</th>
+                                <td>Dr. Lalit Kumar</td>
+                                <td></td>
+                                <td></td>
+                                <td></td>
+                            </tr>
+                            <tr>
+                                <th scope="row">3</th>
+                                <td>Prof. (Dr.) Deepak Sharma</td>
+                                <td></td>
+                                <td></td>
+                                <td></td>
+                            </tr>
+                            <tr>
+                                <th scope="row">4</th>
+                                <td>Dr. Vishal kamboj</td>
+                                <td></td>
+                                <td></td>
+                                <td></td>
+                            </tr>
+                            <tr>
+                                <th scope="row">5</th>
+                                <td>Mr. Ankur Jaiswal</td>
+                                <td></td>
+                                <td></td>
+                                <td></td>
+                            </tr>
+                            <tr>
+                                <th scope="row">6</th>
+                                <td>Mrs. Kriti Dabral</td>
+                                <td></td>
+                                <td></td>
+                                <td></td>
+                            </tr>
+                            <tr>
+                                <th scope="row">7</th>
+                                <td>Mr. Tarun Verma</td>
+                                <td></td>
+                                <td></td>
+                                <td></td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+        <div class="accordion-item">
+            <h2 class="accordion-header" id="headingThree">
+                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                    Cultural Club
+                </button>
+            </h2>
+            <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
+                <div class="accordion-body">
+                    <p>The Cultural Club at Guru Nanak College of Pharmaceutical Sciences celebrates the rich diversity and vibrant traditions of our student community. This club provides a platform for students to express their creativity and talents through various cultural activities such as music, dance, drama, and art. By organizing events, festivals, and workshops, the Cultural Club fosters an inclusive and dynamic environment where students can showcase their artistic abilities and appreciate different cultures. Join us to immerse yourself in the arts, develop new skills, and create unforgettable memories!</p>
+                    <table class="table table-bordered">
+                        <thead>
+                            <tr class="heading">
+                                <th scope="col"><b>S.No.</b></th>
+                                <th scope="col"><b>Name</b></th>
+                                <th scope="col"><b>Designation</b></th>
+                                <th scope="col"><b>Contact No. </b></th>
+                                <th scope="col"><b>Mail ID </b></th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <th scope="row">1</th>
+                                <td>Dr. Nidhi Chatterjee</td>
+                                <td></td>
+                                <td></td>
+                                <td></td>
+                            </tr>
+                            <tr>
+                                <th scope="row">2</th>
+                                <td>Dr. Vishal Kumar Deshwal</td>
+                                <td></td>
+                                <td></td>
+                                <td></td>
+                            </tr>
+                            <tr>
+                                <th scope="row">3</th>
+                                <td>Dr. Vishal Kamboj</td>
+                                <td></td>
+                                <td></td>
+                                <td></td>
+                            </tr>
+                            <tr>
+                                <th scope="row">4</th>
+                                <td>Mrs. Priti Sood</td>
+                                <td></td>
+                                <td></td>
+                                <td></td>
+                            </tr>
+                            <tr>
+                                <th scope="row">5</th>
+                                <td>Mrs. Bhawana Bora</td>
+                                <td></td>
+                                <td></td>
+                                <td></td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+        <div class="accordion-item">
+            <h2 class="accordion-header" id="headingFour">
+                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                    Entrepreneurship Club
+                </button>
+            </h2>
+            <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordionExample">
+                <div class="accordion-body">
+                    <p>The Entrepreneurship Club at Guru Nanak College of Pharmaceutical Sciences is committed to fostering innovation and entrepreneurial thinking among students. This club provides a supportive environment where aspiring entrepreneurs can develop their business ideas, gain practical knowledge, and connect with industry leaders. Through a variety of activities such as workshops, seminars, pitch competitions, and networking events, the Entrepreneurship Club helps students build essential skills, find mentorship, and access resources to launch and grow successful ventures. Join us to explore your entrepreneurial potential, collaborate with like-minded peers, and turn your ideas into reality.</p>
+                    <table class="table table-bordered">
+                        <thead>
+                            <tr class="heading">
+                                <th scope="col"><b>S.No.</b></th>
+                                <th scope="col"><b>Name</b></th>
+                                <th scope="col"><b>Designation</b></th>
+                                <th scope="col"><b>Contact No. </b></th>
+                                <th scope="col"><b>Mail ID </b></th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <th scope="row">1</th>
+                                <td>Dr. Lalit Kumar</td>
+                                <td></td>
+                                <td></td>
+                                <td></td>
+                            </tr>
+                            <tr>
+                                <th scope="row">2</th>
+                                <td>Prof. (Dr.) Deepak Sharma</td>
+                                <td></td>
+                                <td></td>
+                                <td></td>
+                            </tr>
+                            <tr>
+                                <th scope="row">3</th>
+                                <td>Dr. Nidhi Chatterjee</td>
+                                <td></td>
+                                <td></td>
+                                <td></td>
+                            </tr>
+                            <tr>
+                                <th scope="row">4</th>
+                                <td>Dr. Vishal Kumar Deshwal</td>
+                                <td></td>
+                                <td></td>
+                                <td></td>
+                            </tr>
+                            <tr>
+                                <th scope="row">5</th>
+                                <td>Mr. Sunil Kumar Malik</td>
+                                <td></td>
+                                <td></td>
+                                <td></td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+        <div class="accordion-item">
+            <h2 class="accordion-header" id="headingFive">
+                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+                    Research Club
+                </button>
+            </h2>
+            <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#accordionExample">
+                <div class="accordion-body">
+                    <p>The Research Club at Guru Nanak College of Pharmaceutical Sciences is dedicated to promoting research culture and fostering a spirit of inquiry among students. This club provides a platform for students to engage in academic research, collaborate with faculty members, and contribute to the advancement of knowledge in pharmaceutical sciences. Through seminars, journal clubs, and research projects, the Research Club aims to develop students' research skills, critical thinking abilities, and scientific knowledge. Join us to explore new frontiers in research, make meaningful contributions to your field, and prepare for a successful career in academia or industry.</p>
+                    <table class="table table-bordered">
+                        <thead>
+                            <tr class="heading">
+                                <th scope="col"><b>S.No.</b></th>
+                                <th scope="col"><b>Name</b></th>
+                                <th scope="col"><b>Designation</b></th>
+                                <th scope="col"><b>Contact No. </b></th>
+                                <th scope="col"><b>Mail ID </b></th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <th scope="row">1</th>
+                                <td>Dr. Lalit Kumar</td>
+                                <td></td>
+                                <td></td>
+                                <td></td>
+                            </tr>
+                            <tr>
+                                <th scope="row">2</th>
+                                <td>Prof. (Dr.) Deepak Sharma</td>
+                                <td></td>
+                                <td></td>
+                                <td></td>
+                            </tr>
+                            <tr>
+                                <th scope="row">3</th>
+                                <td>Dr. Nidhi Chatterjee</td>
+                                <td></td>
+                                <td></td>
+                                <td></td>
+                            </tr>
+                            <tr>
+                                <th scope="row">4</th>
+                                <td>Dr. Vishal Kumar Deshwal</td>
+                                <td></td>
+                                <td></td>
+                                <td></td>
+                            </tr>
+                            <tr>
+                                <th scope="row">5</th>
+                                <td>Dr. Vishal Kamboj</td>
+                                <td></td>
+                                <td></td>
+                                <td></td>
+                            </tr>
+                            <tr>
+                                <th scope="row">6</th>
+                                <td>Mrs. Priti Sood</td>
+                                <td></td>
+                                <td></td>
+                                <td></td>
+                            </tr>
+                            <tr>
+                                <th scope="row">7</th>
+                                <td>Mr. Achintya Vashishta</td>
+                                <td></td>
+                                <td></td>
+                                <td></td>
+                            </tr>
+                            <tr>
+                                <th scope="row">8</th>
+                                <td>Mr. Jai Nehra</td>
+                                <td></td>
+                                <td></td>
+                                <td></td>
+                            </tr>
+                            <tr>
+                                <th scope="row">9</th>
+                                <td>Ms. Karishma Puri</td>
+                                <td></td>
+                                <td></td>
+                                <td></td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<?php require "common/footer.php" ?>

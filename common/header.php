@@ -134,6 +134,9 @@
                                     <li class="nav-item">
                                         <a href="b-pharmacy.php" class="nav-link">B.Pharm</a>
                                     </li>
+                                    <li class="nav-item">
+                                        <a href="rules-regulation.php" class="nav-link">Rules &amp; Regulations</a>
+                                    </li>
                                     <!-- <li class="nav-item">
                         <a href="b-pharmacy-le.php" class="nav-link">B.Pharm (LE)</a>
                     </li> -->
@@ -160,6 +163,9 @@
                                     </li>
                                     <li class="nav-item">
                                         <a href="hostel-overview.php" class="nav-link">Hostel Overview</a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a href="student-club.php" class="nav-link">Student Clubs</a>
                                     </li>
                                 </ul>
                             </li>

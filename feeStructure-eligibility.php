@@ -18,12 +18,12 @@
         <div class="row">
             <div class="col-lg-8">
                 <!-- <p class="btn btn-lg btn-primary btn-shadow"><input type="button" onclick="printDiv('printableArea')" value="Print Fee" style="border:0px; color:#fff; background:none" /></p> -->
-                <p class="btn btn-sm btn-shadow" style="background-color: #00bcfb;">
-                    <a target="_blank" id="printButton" style="border:0px; color:#fff; background:none;text-decoration: none;">Download Fee Structure</a>
-                </p>
-                <p class="btn btn-sm btn-shadow" style="background-color: #00bcfb;">
+                <!-- <p class="btn btn-sm btn-shadow" style="background-color: #00bcfb;">
+                    <a target="_blank" id="printButton1" style="border:0px; color:#fff; background:none;text-decoration: none;">Download Fee Structure</a>
+                </p> -->
+                <!-- <p class="btn btn-sm btn-shadow" style="background-color: #00bcfb;">
                 <a target="_blank" href="assets/images/D-Pharm-Syllabus.pdf" style="border:0px; color:#fff; background:none;text-decoration: none; margin-right: 20px;">Syllabus &amp; CO</a>
-                </p>
+                </p> -->
                 <!-- <p class="btn btn-sm btn-primary btn-shadow">
                 <a target="_blank" href="assets/images/PO-PSO.pdf" style="border:0px; color:#fff; background:none;text-decoration: none;">PO-PSO</a>
                 </p> -->
@@ -264,22 +264,22 @@
         </div>
         <div class="row">
             <div class="col-lg-8">
-                <p class="btn btn-sm  btn-shadow" style="background-color: #00bcfb;">
+                <!-- <p class="btn btn-sm  btn-shadow" style="background-color: #00bcfb;">
                     <a target="_blank" id="printButton" style="border:0px; color:#fff; background:none;text-decoration: none; margin-right: 20px;">Download Fee Structure</a>
-                </p>
-                <p class="btn btn-sm btn-shadow" style="background-color: #00bcfb;">
+                </p> -->
+                <!-- <p class="btn btn-sm btn-shadow" style="background-color: #00bcfb;">
                 <a target="_blank" href="assets/images/Syllabus_B_Pharm.pdf" style="border:0px; color:#fff; background:none;text-decoration: none; margin-right: 20px;">Syllabus &amp; CO</a>
                 </p>
                 <p class="btn btn-sm btn-shadow" style="background-color: #00bcfb;">
                 <a target="_blank" href="assets/images/PO-PSO.pdf" style="border:0px; color:#fff; background:none;text-decoration: none;">PO-PSO</a>
-                </p>
+                </p> -->
                 <div class="tabs-style mb-2">
                     <ul class="nav nav-tabs" id="myTab" role="tablist">
                         <li class="nav-item" role="presentation">
-                            <button class="nav-link active" id="home-tab" data-bs-toggle="tab" data-bs-target="#home-tab-pane" type="button" role="tab" aria-controls="home-tab-pane" aria-selected="true">Fee Structure</button>
+                            <button class="nav-link active" id="home-tab2" data-bs-toggle="tab" data-bs-target="#home-tab-pane2" type="button" role="tab" aria-controls="home-tab-pane2" aria-selected="true">Fee Structure</button>
                         </li>
                         <li class="nav-item" role="presentation">
-                            <button class="nav-link" id="contact-tab" data-bs-toggle="tab" data-bs-target="#contact-tab-pane" type="button" role="tab" aria-controls="contact-tab-pane" aria-selected="false" tabindex="-1">Other Fees</button>
+                            <button class="nav-link" id="contact-tab2" data-bs-toggle="tab" data-bs-target="#contact-tab-pane2" type="button" role="tab" aria-controls="contact-tab-pane2" aria-selected="false" tabindex="-1">Other Fees</button>
                         </li>
                     </ul>
                     <div id="printableArea">
@@ -287,7 +287,7 @@
                             <h2 style="text-align: center;">Bachelor in Pharmacy</h2>
                         </div>
                         <div class="tab-content mt-3" id="myTabContent">
-                            <div class="tab-pane fade show active" id="home-tab-pane" role="tabpanel" aria-labelledby="home-tab">
+                            <div class="tab-pane fade show active" id="home-tab-pane2" role="tabpanel" aria-labelledby="home-tab2">
                                 <div class="feeTables">
                                     <h5>All India Quota (Amount of fee details in INR)</h5>
                                     <div class="table-responsive">
@@ -361,7 +361,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="tab-pane fade" id="contact-tab-pane" role="tabpanel" aria-labelledby="contact-tab">
+                            <div class="tab-pane fade" id="contact-tab-pane2" role="tabpanel" aria-labelledby="contact-tab2">
                                 <div class="feeTables">
                                     <h5>One Time Payable Charges in 1st Year (INR)</h5>
                                     <div class="table-responsive">
@@ -502,4 +502,5 @@
         </div>
     </div>
 </section>
+
 <?php require "common/footer.php" ?>
