@@ -237,6 +237,28 @@
             slidesToShow: 3,
             slidesToScroll: 1,
             autoplay: true,
+            prevArrow: false,
+            nextArrow: false,
+            autoplaySpeed: 1000,
+            responsive: [{
+                breakpoint: 768,
+                settings: {
+                    slidesToShow: 1
+                }
+            }]
+        });
+    });
+</script>
+<script>
+    $(document).ready(function() {
+        $('.vertical-slider1').slick({
+            vertical: true,
+            verticalSwiping: true,
+            slidesToShow: 2,
+            slidesToScroll: 1,
+            autoplay: true,
+            prevArrow: false,
+            nextArrow: false,
             autoplaySpeed: 1000,
             responsive: [{
                 breakpoint: 768,

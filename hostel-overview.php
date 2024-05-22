@@ -24,21 +24,21 @@
             <h2>Hostel Overview</h2>
             <p>Our hostel facilities are designed to provide a comfortable and secure living environment for students. The hostels are equipped with modern amenities and offer a variety of services to ensure a conducive atmosphere for academic and personal growth. Key features include:</p>
             <ul class="list-unstyled p-0 list-icon-4 ps-4 mt-3">
-                <li>Well-Furnished Rooms: Spacious and well-ventilated rooms with necessary furnishings.</li>
-                <li>24/7 Security: Comprehensive security measures including CCTV surveillance and security personnel.</li>
-                <li>Dining Facilities: Hygienic and nutritious meals served in a well-maintained dining hall.</li>
-                <li>Wi-Fi Connectivity: High-speed internet access to support academic and recreational activities.</li>
-                <li>Recreational Areas: Common rooms, sports facilities, and entertainment options to promote a balanced lifestyle.</li>
-                <li>Health Services: On-campus medical support and regular health check-ups.</li>
+                <li><b>Well-Furnished Rooms:</b> Spacious and well-ventilated rooms with necessary furnishings.</li>
+                <li><b>24/7 Security:</b> Comprehensive security measures including CCTV surveillance and security personnel.</li>
+                <li><b>Dining Facilities:</b> Hygienic and nutritious meals served in a well-maintained dining hall.</li>
+                <li><b>Wi-Fi Connectivity:</b> High-speed internet access to support academic and recreational activities.</li>
+                <li><b>Recreational Areas:</b> Common rooms, sports facilities, and entertainment options to promote a balanced lifestyle.</li>
+                <li><b>Health Services:</b> On-campus medical support and regular health check-ups.</li>
             </ul>
             <h2>Hostel Life</h2>
             <p>Our hostel facilities are designed to provide a comfortable and secure living environment for students. The hostels are equipped with modern amenities and offer a variety of services to ensure a conducive atmosphere for academic and personal growth. Key features include:</p>
             <ul class="list-unstyled p-0 list-icon-4 ps-4 mt-3">
-                <li>Community Building: Regular events and activities to foster a sense of belonging and camaraderie among students.</li>
-                <li>Academic Support: Study groups, tutoring sessions, and quiet study areas to support academic success.</li>
-                <li>Sustainable Living: Initiatives promoting eco-friendly practices and sustainability within the hostel community.</li>
-                <li>Cultural and Sports Activities: Opportunities to participate in cultural events, sports, and other extracurricular activities.</li>
-                <li>Counseling Services: Access to counseling and mental health services to support overall well-being.</li>
+                <li><b>Community Building:</b> Regular events and activities to foster a sense of belonging and camaraderie among students.</li>
+                <li><b>Academic Support:</b> Study groups, tutoring sessions, and quiet study areas to support academic success.</li>
+                <li><b>Sustainable Living:</b> Initiatives promoting eco-friendly practices and sustainability within the hostel community.</li>
+                <li><b>Cultural and Sports Activities:</b> Opportunities to participate in cultural events, sports, and other extracurricular activities.</li>
+                <li><b>Counseling Services:</b> Access to counseling and mental health services to support overall well-being.</li>
             </ul>
         </div>
         <div class="col-md-4 col-sm-12">
