@@ -64,75 +64,63 @@ table td {
             <thead>
                 <tr>
                     <th>Sr. No.</th>
-                    <th>Name of Member</th>
+                    <th>Name</th>
                     <th>Designation</th>
+                    <th>Contact No.</th>
+                    <th>Mail ID</th>
                 </tr>
             </thead>
             <tbody>
-                <tr>
-                    <td>1.</td>
-                    <td>Dr. Laxmikant B. Borse (Principal)</td>
-                    <td>Chairman</td>
-                </tr>
-                <tr>
-                    <td>2.</td>
-                    <td>Dr. Kamlesh Dandgval</td>
-                    <td>Teacher nominated by Principal (Student Welfare Officer)</td>
-                </tr>
-                <tr>
-                    <td>3.</td>
-                    <td>Prof. Hemant U. Chikhale</td>
-                    <td>NSS Programme Officer</td>
-                </tr>
-                <tr>
-                    <td>4.</td>
-                    <td>
-                        a) Ms. Tanvi Bagul<br>
-                        b) Ms. Mrunal Patil
-                    </td>
-                    <td>Class Representative F.Y. B. Pharmacy (Div A/B)</td>
-                </tr>
-                <tr>
-                    <td>5.</td>
-                    <td>
-                        a) Mr. Sushant Chinchole<br>
-                        b) Ms. Nupur Mali
-                    </td>
-                    <td>Class Representative S.Y.B. Pharmacy (Div A/B)</td>
-                </tr>
-                <tr>
-                    <td>6.</td>
-                    <td>
-                        a) Mr. Pranav Shinde<br>
-                        b) Ms. Vedashree Patil
-                    </td>
-                    <td>Class Representative T. Y. B. Pharmacy (Div A/B)</td>
-                </tr>
-                <tr>
-                    <td>7.</td>
-                    <td>
-                        a) Mr. Ajinkya Dhumne<br>
-                        b) Ms. Shruti Mahale
-                    </td>
-                    <td>Class Representative Final Year B. Pharmacy (Div A/B)</td>
-                </tr>
-                <tr>
-                    <td>8.</td>
-                    <td>
-                        a) Ms. Tejaswini Daund<br>
-                        b) Ms. Shraddha Khokrale
-                    </td>
-                    <td>Class Representative F.Y.M. Pharmacy (Pharmaceutics and Quality Assurance)</td>
-                </tr>
-                <tr>
-                    <td>9.</td>
-                    <td>
-                        a) Ms. Shilpa Jumde<br>
-                        b) Ms. Yogeshwari Ambekar
-                    </td>
-                    <td>Class Representative S. Y. M. Pharmacy (Pharmaceutics and Quality Assurance)</td>
-                </tr>
-            </tbody>
+                            <tr>
+                                <th scope="row">1</th>
+                                <td>Dr. Vishal Kumar Deshwal</td>
+                                <td>Chairperson</td>
+                                <td>9897538555</td>
+                                <td>vishaldeshwal@gnc.edu.in</td>
+                            </tr>
+                            <tr>
+                                <th scope="row">2</th>
+                                <td>Dr. Lalit Kumar</td>
+                                <td>Member Secretary</td>
+                                <td>9758900404</td>
+                                <td>registrar@gnc.edu.in</td>
+                            </tr>
+                            <tr>
+                                <th scope="row">3</th>
+                                <td>Prof. (Dr.) Deepak Sharma</td>
+                                <td>Member</td>
+                                <td>7300777721</td>
+                                <td>principalpharmacy@gnc.edu.in</td>
+                            </tr>
+                            <tr>
+                                <th scope="row">4</th>
+                                <td>Dr. Vishal kamboj</td>
+                                <td>Member</td>
+                                <td>8295219491</td>
+                                <td>vishalkamboj@gnc.edu.in</td>
+                            </tr>
+                            <tr>
+                                <th scope="row">5</th>
+                                <td>Mr. Ankur Jaiswal</td>
+                                <td>Member</td>
+                                <td>9997810817</td>
+                                <td>ankurjaiswal@gnc.edu.in</td>
+                            </tr>
+                            <tr>
+                                <th scope="row">6</th>
+                                <td>Mrs. Kriti Dabral</td>
+                                <td>Member</td>
+                                <td>9467545933</td>
+                                <td>kritidabral@gnc.edu.in</td>
+                            </tr>
+                            <tr>
+                                <th scope="row">7</th>
+                                <td>Mr. Tarun Verma</td>
+                                <td>Member</td>
+                                <td>8979599993</td>
+                                <td>tarunverma@gnc.edu.in</td>
+                            </tr>
+                        </tbody>
         </table>
     </div>
 
