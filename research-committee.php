@@ -42,6 +42,8 @@
                 <th scope="col"><b>S.No.</b></th>
                 <th scope="col"><b>Name</b></th>
                 <th scope="col"><b>Designation</b></th>
+                <th scope="col"><b>Contact</b></th>
+                <th scope="col"><b>Email</b></th>
             </tr>
         </thead>
         <tbody>
