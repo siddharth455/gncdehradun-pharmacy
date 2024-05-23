@@ -1,3 +1,11 @@
+<style>
+        #chart-container {
+            width: 50%;
+            height: 50%;
+            margin: 20px 40% ;
+        }
+    </style>
+
 <?php require "common/header.php" ?>
 <div class="banner-area about" style="background-image: url(assets/images/reserch.webp);">
     <div class="d-table">
@@ -18,6 +26,58 @@
         <p class="" style="text-align: left;">At Guru Nanak College of Pharmaceutical Sciences, our esteemed professors are at the forefront of academic excellence, consistently publishing influential books and chapters. Their contributions span critical areas such as pharmacy, biotechnology, and climate change, aligning with both local and national priorities. Through their scholarly work, our faculty not only address global challenges but also drive pharmaceutical innovation and development, enriching our academic community and beyond.</p>
     </div>
 </section>
+<div id="chart-container">
+        <canvas id="bookChaptersChart"></canvas>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2"></script>
+    <script>
+        const ctx = document.getElementById('bookChaptersChart').getContext('2d');
+        const bookChaptersChart = new Chart(ctx, {
+            type: 'pie',
+            data: {
+                labels: ['2019', '2020', '2021', '2022', '2023'],
+                datasets: [{
+                    label: 'Book Chapters',
+                    data: [30, 41, 42, 47, 45], // Replace these numbers with your actual data
+                    backgroundColor: [
+                        'rgba(255, 99, 132, 1)',
+                        'rgba(54, 162, 235, 1)',
+                        'rgba(255, 206, 86, 1)',
+                        'rgba(75, 192, 192, 1)',
+                        'rgba(153, 102, 23, 1)',
+                    ],
+                    borderColor: [
+                        'rgba(255, 99, 132, 1)',
+                        'rgba(54, 162, 235, 1)',
+                        'rgba(255, 206, 86, 1)',
+                        'rgba(75, 192, 192, 1)',
+                        'rgba(153, 102, 255, 1)'
+                    ],
+                    borderWidth: 1
+                }]
+            },
+            options: {
+                responsive: true,
+                plugins: {
+                    legend: {
+                        position: 'top',
+                    },
+                    datalabels: {
+                        color: '#000',
+                        anchor: 'end',
+                        align: 'start',
+                        formatter: (value, context) => value,
+                        font: {
+                            weight: 'bold',
+                            size: 24
+                        }
+                    }
+                }
+            },
+            plugins: [ChartDataLabels]
+        });
+    </script>
 <div class="container">
 <div class="tabs"> 
             <button class="tablink" onclick="openTab(event, 'GirlsHostel')">2023</button>

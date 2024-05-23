@@ -1,3 +1,11 @@
+<style>
+        #chart-container {
+            width: 50%;
+            height: 50%;
+            margin: 20px 40% ;
+        }
+    </style>
+
 <?php require "common/header.php" ?>
 <div class="banner-area about" style="background-image: url(assets/images/reserch.webp);">
     <div class="d-table">
@@ -18,6 +26,58 @@
         <p class="mb-2" style="text-align: left;">At Guru Nanak College of Pharmaceutical Sciences, we offer a range of value-added courses designed to enhance our students' knowledge and skills beyond the standard curriculum. Our value-added courses aim to equip students with the latest industry knowledge, improve their employability, and prepare them to tackle real-world challenges effectively. Join us to gain a competitive edge and stay ahead in your professional journey.</p>
     </div>
 </section>
+<div id="chart-container">
+        <canvas id="bookChaptersChart"></canvas>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2"></script>
+    <script>
+        const ctx = document.getElementById('bookChaptersChart').getContext('2d');
+        const bookChaptersChart = new Chart(ctx, {
+            type: 'pie',
+            data: {
+                labels: ['2018-19','2019-20', '2020-21', '2021-22', '2022-23'],
+                datasets: [{
+                    label: 'Book Chapters',
+                    data: [2, 4, 6, 8, 10], // Replace these numbers with your actual data
+                    backgroundColor: [
+                        'rgba(255, 99, 132, 1)',
+                        'rgba(54, 162, 235, 1)',
+                        'rgba(255, 206, 86, 1)',
+                        'rgba(75, 192, 192, 1)',
+                        'rgba(153, 102, 23, 1)',
+                    ],
+                    borderColor: [
+                        'rgba(255, 99, 132, 1)',
+                        'rgba(54, 162, 235, 1)',
+                        'rgba(255, 206, 86, 1)',
+                        'rgba(75, 192, 192, 1)',
+                        'rgba(153, 102, 255, 1)'
+                    ],
+                    borderWidth: 1
+                }]
+            },
+            options: {
+                responsive: true,
+                plugins: {
+                    legend: {
+                        position: 'top',
+                    },
+                    datalabels: {
+                        color: '#000',
+                        anchor: 'end',
+                        align: 'start',
+                        formatter: (value, context) => value,
+                        font: {
+                            weight: 'bold',
+                            size: 24
+                        }
+                    }
+                }
+            },
+            plugins: [ChartDataLabels]
+        });
+    </script>
 <section class="container mb-4" style="filter: drop-shadow(3px 3px 5px black);">
     <table class="table table-bordered">
         <thead>

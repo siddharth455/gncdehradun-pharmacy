@@ -1,3 +1,11 @@
+<style>
+        #chart-container {
+            width: 50%;
+            height: 50%;
+            margin: 20px 40% ;
+        }
+    </style>
+
 <?php require "common/header.php" ?>
 <div class="banner-area about" style="background-image: url(assets/images/reserch.webp);">
     <div class="d-table">
@@ -18,6 +26,58 @@
         <p class="" style="text-align: left;">Guru Nanak College of Pharmaceutical Sciences has strategically aligned its research areas with emerging local and national priorities in pharmacy, biotechnology and climate change challenges. This comprehensive approach ensures its work addresses global challenges while fostering pharmaceutical innovation.</p>
     </div>
 </section>
+<div id="chart-container">
+        <canvas id="bookChaptersChart"></canvas>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2"></script>
+    <script>
+        const ctx = document.getElementById('bookChaptersChart').getContext('2d');
+        const bookChaptersChart = new Chart(ctx, {
+            type: 'pie',
+            data: {
+                labels: ['2018-19','2019-20', '2020-21', '2021-22', '2022-23'],
+                datasets: [{
+                    label: 'Book Chapters',
+                    data: [6, 8, 3, 13, 15], // Replace these numbers with your actual data
+                    backgroundColor: [
+                        'rgba(255, 99, 132, 1)',
+                        'rgba(54, 162, 235, 1)',
+                        'rgba(255, 206, 86, 1)',
+                        'rgba(75, 192, 192, 1)',
+                        'rgba(153, 102, 23, 1)',
+                    ],
+                    borderColor: [
+                        'rgba(255, 99, 132, 1)',
+                        'rgba(54, 162, 235, 1)',
+                        'rgba(255, 206, 86, 1)',
+                        'rgba(75, 192, 192, 1)',
+                        'rgba(153, 102, 255, 1)'
+                    ],
+                    borderWidth: 1
+                }]
+            },
+            options: {
+                responsive: true,
+                plugins: {
+                    legend: {
+                        position: 'top',
+                    },
+                    datalabels: {
+                        color: '#000',
+                        anchor: 'end',
+                        align: 'start',
+                        formatter: (value, context) => value,
+                        font: {
+                            weight: 'bold',
+                            size: 24
+                        }
+                    }
+                }
+            },
+            plugins: [ChartDataLabels]
+        });
+    </script>
 <div class="container mb-5">
     <table class="table table-bordered" style="filter: drop-shadow(3px 3px 4px black);">
         <thead>
