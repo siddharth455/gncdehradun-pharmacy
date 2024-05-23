@@ -19,7 +19,7 @@
     </div>
 </section>
 <section class="container">
-<h4>Research Papars</h4>
+<h4>Research Papers</h4>
     <table class="table table-bordered">
         <thead>
             <tr class="heading">

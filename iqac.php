@@ -39,6 +39,10 @@
         opacity: 0.5;
         cursor: not-allowed;
     }
+
+    .table th {
+        vertical-align: middle;
+    }
 </style>
 <div class="banner-area about" style="background-image: url(assets/images/iqac-head.webp); background-size: cover; background-position: center;">
     <div class="d-table">
@@ -59,7 +63,9 @@
                 <button class="nav-link main" id="v-pills-profile-tab" data-bs-toggle="pill" data-bs-target="#v-pills-profile" type="button" role="tab" aria-controls="v-pills-profile" aria-selected="false">Minutes of Meeting</button>
                 <button class="nav-link main" id="v-pills-disabled-tab" data-bs-toggle="pill" data-bs-target="#v-pills-disabled" type="button" role="tab" aria-controls="v-pills-disabled" aria-selected="false">Action Taken Report</button>
                 <button class="nav-link main" id="v-pills-messages-tab" data-bs-toggle="pill" data-bs-target="#v-pills-messages" type="button" role="tab" aria-controls="v-pills-messages" aria-selected="false">Other Links</button>
-                <button class="nav-link main" id="v-pills-settings-tab" data-bs-toggle="pill" data-bs-target="#v-pills-settings" type="button" role="tab" aria-controls="v-pills-settings" aria-selected="false">Settings</button>
+                <button class="nav-link main" id="v-pills-settings-tab" data-bs-toggle="pill" data-bs-target="#v-pills-settings" type="button" role="tab" aria-controls="v-pills-settings" aria-selected="false">IQAC Initiatives</button>
+                <button class="nav-link main" id="v-pills-team-tab" data-bs-toggle="pill" data-bs-target="#v-pills-team" type="button" role="tab" aria-controls="v-pills-team" aria-selected="false">IQAC - Team</button>
+
             </div>
         </div>
         <div class="col-lg-9 col-md-8 col-sm-7">
@@ -77,13 +83,13 @@
 
                                 <div class="data-block">
                                     <h3>IQAC Guidelines:</h3>
-                                   <p>In line with its Action Plan for performance evaluation, assessment, accreditation, and quality improvement of higher education 
-                                    institutions, NAAC recommends that every accredited institution establish an Internal Quality Assurance Cell (IQAC) as a post-accreditation 
-                                    quality sustenance measure. Since quality enhancement is a continuous process, the IQAC will become a part of Guru Nanak College of 
-                                    Pharmaceutical Sciences, Dehradun’s system and work towards achieving the goals of quality enhancement and sustenance. The main task
-                                     of the IQAC is to develop a system for conscious, consistent, and catalytic improvement in the overall performance of institutions. 
-                                     During the post-accreditation period, it will channelize all efforts and measures of the institution towards promoting holistic academic 
-                                     excellence.</p>
+                                    <p>In line with its Action Plan for performance evaluation, assessment, accreditation, and quality improvement of higher education
+                                        institutions, NAAC recommends that every accredited institution establish an Internal Quality Assurance Cell (IQAC) as a post-accreditation
+                                        quality sustenance measure. Since quality enhancement is a continuous process, the IQAC will become a part of Guru Nanak College of
+                                        Pharmaceutical Sciences, Dehradun’s system and work towards achieving the goals of quality enhancement and sustenance. The main task
+                                        of the IQAC is to develop a system for conscious, consistent, and catalytic improvement in the overall performance of institutions.
+                                        During the post-accreditation period, it will channelize all efforts and measures of the institution towards promoting holistic academic
+                                        excellence.</p>
                                 </div>
                                 <hr>
                                 <div class="data-block">
@@ -162,7 +168,7 @@
                             </div>
                             <div class="col-lg-3 mb-5">
                                 <div class="card">
-                                    <img class="card-img-top" src="assets/images/ugc.webp" alt="Card image cap" style="height: 180px;" >
+                                    <img class="card-img-top" src="assets/images/ugc.webp" alt="Card image cap" style="height: 180px;">
                                     <div class="card-body">
                                         <a href="https://www.ugc.gov.in/" class="btn btn-primary col-lg-12">UGC Notices</a>
                                     </div>
@@ -198,7 +204,203 @@
                     </div>
                 </div>
                 <div class="tab-pane fade" id="v-pills-settings" role="tabpanel" aria-labelledby="v-pills-settings-tab" tabindex="0">
-                    <!-- Content for Settings Tab -->
+                    <div class="container">
+                        <table class="table table-bordered">
+                            <thead>
+                                <tr class="heading">
+                                    <th scope="col"><b>S.No.</b></th>
+                                    <th scope="col"><b>IQAC Initiative</b></th>
+                                    <th scope="col"><b>Outcome</b></th>
+                                    <th scope="col"><b>Impact</b></th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <th rowspan="2">1</th>
+                                    <th rowspan="2">ERP Cell</th>
+                                    <td rowspan="2">The ERP Cell is structured to provide feedback to the management on key parameters and the input given assists the management in monitoring and decision-making.</td>
+                                    <td>
+                                        <li>Facilitating data interpretation & management.</li>
+                                    </td>
+                                </tr>
+
+                                <tr>
+                                    <td>
+                                        <li>Aids to get faculty feedback that helps management in decision making.</li>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <th rowspan="2">2</th>
+                                    <th rowspan="2">Feedback & survey of the college stakeholders</th>
+                                    <td rowspan="2">IQAC has transformed the manual input system of stakeholder’s feedback into an online system. The college stakeholders include faculty, students, employers and alumni. The relevant suggestions by the faculty and students are incorporated to redesign the course delivery and addition of new courses. </td>
+                                    <td>
+                                        <li>This has made the feedback process more transparent and genuine. It has also helped in augmenting the feedback’s data set and developed an approach towards sustainability.</li>
+                                    </td>
+                                </tr>
+
+                                <tr>
+                                    <td>
+                                        <li>Eased the process of data compilation as well as report generation.</li>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <th rowspan="">3</th>
+                                    <th rowspan="">PDP classes</th>
+                                    <td rowspan="">PDP classes were initiated in the college within the academic hours on the recommendation of IQAC. This imbibes the students with sense of self awareness, improved focus and effectiveness, self-confidence, more motivation and greater resilience to fulfilling commitments in life.</td>
+                                    <td>
+                                        <li>Boosted students' confidence thus assisting them in cracking company interviews to make progress.</li>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <th rowspan="2">4</th>
+                                    <th rowspan="2">Bridge/Remedial classes</th>
+                                    <td rowspan="2">Bridge courses are intended for students who do not have the basic background and remedial classes are intended for slow learners to assist them to achieve competencies in core academic subjects through the graduation programme.</td>
+                                    <td>
+                                        <li>Motivation to perform.</li>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <li>Imparted mandatory subjective knowledge.</li>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <th rowspan="2">5</th>
+                                    <th rowspan="2">Introduction of Value-added Courses</th>
+                                    <td rowspan="2">These imbibe the students to expectations of industry and bridge the skill gaps and make students industry ready for employability.</td>
+                                    <td>
+                                        <li>Multidisciplinary teaching.</li>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <li>Recent exposure of the trends in industry.</li>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <th rowspan="3">6</th>
+                                    <th rowspan="3">Teaching innovations</th>
+                                    <td rowspan="3">ICT facilities have been implemented which assist in the preparation of e-content on LMS based on ERP. The entire course material is uploaded into this interface to teach at scheduled lectures. The faculty has the option of updating the portion of lecture plan covered in that specific class with a choice to remain full or partial.</td>
+                                    <td>
+                                        <li>Time saving.</li>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <li>More compressive content.</li>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <li>Data base creation of study material.</li>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <th rowspan="2">7</th>
+                                    <th rowspan="2">Creation of Institutional Repository</th>
+                                    <td rowspan="2">On the recommendation of IQAC, the college library has established an Institutional Repository (IR) to handle the publication of faculty and academic scholars for the effective use of information sharing.</td>
+                                    <td>
+                                        <li>Quality data is easily accessible.</li>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <li>Step towards transparent honorarium policy.</li>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <th rowspan="2">8</th>
+                                    <th rowspan="2">Green practices including Green and Energy Audits</th>
+                                    <td rowspan="2">The Green and Energy Audits for Earth's sustainability and adoption of renewable energy sources were planned and organized.</td>
+                                    <td>
+                                        <li>Initiation towards major decision like installation of roof top solar panels.</li>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <li>Inculcating consciousness amongst faculty and students towards environment and green practices.</li>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <th rowspan="2">9</th>
+                                    <th rowspan="2">Honorarium Policy</th>
+                                    <td rowspan="2">On the recommendation of IQAC, faculty members engaged in research and publication work are rewarded by the provision of an honorarium to motivate them to continue their research contributions. In order to inspire faculty members to generate high-quality research papers indexed in the UGC CARE List, the acknowledged faculties are commended with an honorarium.</td>
+                                    <td>
+                                        <li>Promoting research activities.</li>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <li>Promoting researchers/faculty/ students to publish in quality journals.</li>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+                <div class="tab-pane fade" id="v-pills-team" role="tabpanel" aria-labelledby="v-pills-team-tab" tabindex="0">
+                    <table class="table table-bordered">
+                        <thead>
+                            <tr>
+                                <th>Sr. No.</th>
+                                <th>Name</th>
+                                <th>Designation</th>
+                                <th>Contact No.</th>
+                                <th>Mail ID</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <th scope="row">1</th>
+                                <td>Dr. Vishal Kumar Deshwal</td>
+                                <td>Chairperson</td>
+                                <td>9897538555</td>
+                                <td>vishaldeshwal@gnc.edu.in</td>
+                            </tr>
+                            <tr>
+                                <th scope="row">2</th>
+                                <td>Dr. Lalit Kumar</td>
+                                <td>Member Secretary</td>
+                                <td>9758900404</td>
+                                <td>registrar@gnc.edu.in</td>
+                            </tr>
+                            <tr>
+                                <th scope="row">3</th>
+                                <td>Prof. (Dr.) Deepak Sharma</td>
+                                <td>Member</td>
+                                <td>7300777721</td>
+                                <td>principalpharmacy@gnc.edu.in</td>
+                            </tr>
+                            <tr>
+                                <th scope="row">4</th>
+                                <td>Dr. Vishal kamboj</td>
+                                <td>Member</td>
+                                <td>8295219491</td>
+                                <td>vishalkamboj@gnc.edu.in</td>
+                            </tr>
+                            <tr>
+                                <th scope="row">5</th>
+                                <td>Mr. Ankur Jaiswal</td>
+                                <td>Member</td>
+                                <td>9997810817</td>
+                                <td>ankurjaiswal@gnc.edu.in</td>
+                            </tr>
+                            <tr>
+                                <th scope="row">6</th>
+                                <td>Mrs. Kriti Dabral</td>
+                                <td>Member</td>
+                                <td>9467545933</td>
+                                <td>kritidabral@gnc.edu.in</td>
+                            </tr>
+                            <tr>
+                                <th scope="row">7</th>
+                                <td>Mr. Tarun Verma</td>
+                                <td>Member</td>
+                                <td>8979599993</td>
+                                <td>tarunverma@gnc.edu.in</td>
+                            </tr>
+                        </tbody>
+                    </table>
                 </div>
             </div>
         </div>

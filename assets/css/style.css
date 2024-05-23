@@ -448,9 +448,10 @@ a.scroll-top i {
 }
 
 .navbar-area .main-nav {
-  background: #fff;
+  background: #ffffff00;
   -webkit-transition: 0.4s;
   transition: 0.4s;
+  backdrop-filter: blur(10px);
 }
 
 .navbar-area .main-nav .navbar {
