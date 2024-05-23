@@ -27,7 +27,7 @@
             <button class="tablink" onclick="openTab(event, 'Book2019')">2019</button>
         </div>
         <div id="GirlsHostel" class="tabcontent">
-    <table class="table table-bordered">
+    <table class="table table-bordered" style="filter: drop-shadow(3px 3px 4px black);">
         <thead>
             <tr class="heading">
                 <th scope="col"><b>S.No.</b></th>
@@ -335,7 +335,7 @@
 </div>
 <div class="container mt-5">
 <div id="BoysHostel" class="tabcontent">
-    <table class="table table-bordered">
+    <table class="table table-bordered" style="filter: drop-shadow(3px 3px 4px black);">
         <thead>
             <tr class="heading">
                 <th scope="col"><b>S.No.</b></th>
@@ -631,7 +631,7 @@
 </div>
 <div class="container mt-5">
 <div id="Book2021" class="tabcontent">
-    <table class="table table-bordered">
+    <table class="table table-bordered" style="filter: drop-shadow(3px 3px 4px black);">
         <thead>
             <tr class="heading">
                 <th scope="col"><b>S.No.</b></th>
@@ -898,7 +898,7 @@
 </div>  
 <div class="container mt-5">
 <div id="Book2020" class="tabcontent">
-    <table class="table table-bordered">
+    <table class="table table-bordered" style="filter: drop-shadow(3px 3px 4px black);">
         <thead>
             <tr class="heading">
                 <th scope="col"><b>S.No.</b></th>
@@ -1159,7 +1159,7 @@
 </div>
 <div class="container mt-5">
 <div id="Book2019" class="tabcontent">
-    <table class="table table-bordered">
+    <table class="table table-bordered" style="filter: drop-shadow(3px 3px 4px black);">
         <thead>
             <tr class="heading">
                 <th scope="col"><b>S.No.</b></th>

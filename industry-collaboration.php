@@ -395,7 +395,7 @@
                         </p>
                     </div>
                     <div class="row g-2">
-                        <div class="col-md-4 col-sm-6">
+                        <div class="col-md-4 col-sm-6" style="filter: drop-shadow(2px 2px 3px black);">
                             <div class="card h-100 border-0 shadow" style="background: #00b5fbf0;">
                                 <div class="card-body">
                                     <h4 style="color: #fff;">Partner with<br>100+ Schools <br> across India</h4>
@@ -406,7 +406,7 @@
                             </div>
                         </div>
                         <div class="col-md-4 col-sm-6">
-                            <div class="card h-100 border-0 shadow" style="background: #00b5fbf0;">
+                            <div class="card h-100 border-0 shadow" style="background: #00b5fbf0; filter: drop-shadow(2px 2px 3px black);">
                                 <div class="card-body">
                                     <h4 style="color: #fff;">Partner with<br>50+ University</h4>
                                 </div>
@@ -416,7 +416,7 @@
                             </div>
                         </div>
                         <div class="col-md-4 col-sm-6">
-                            <div class="card h-100 border-0 shadow" style="background: #00b5fbf0;">
+                            <div class="card h-100 border-0 shadow" style="background: #00b5fbf0; filter: drop-shadow(2px 2px 3px black);">
                                 <div class="card-body">
                                     <h4 style="color: #fff;">Partner with<br>150+ Companies</h4>
                                 </div>
@@ -461,7 +461,7 @@
                 </div>
             </div>
             <div class="col-lg-6 col-md-6 col-sm-12">
-                <img src="assets/images/Personalized-counseling.webp" alt="">
+                <img src="assets/images/Personalized-counseling.webp" alt="" style="filter: drop-shadow(3px 3px 4px black);">
             </div>
         </dev>
     </div>
@@ -492,7 +492,7 @@
                 </div>
             </div>
             <div class="col-lg-6 col-md-6 col-sm-12">
-                <img src="assets/images/Career-Aptitude-Test.webp" alt="">
+                <img src="assets/images/Career-Aptitude-Test.webp" alt="" style="filter: drop-shadow(3px 3px 4px black);">
             </div>
         </dev>
     </div>
@@ -521,7 +521,7 @@
         </div>
         <div class="speakers-section__slider">
             <div class="pl-item mt-3 mb-3">
-                <div class="speakers-image" style="background-image: url('assets/images/speakers/Ashok-Kumar.webp');">
+                <div class="speakers-image" style="background-image: url('assets/images/speakers/Ashok-Kumar.webp'); filter: drop-shadow(3px 3px 4px black);">
                     <div class="about-speakers text-left">
                         <p style="font-size: 24px; font-weight: bold;">Ashok Kumar</p>
                         <p style="font-size: 18px;">Director General of Police, Govt. of Uttarakhand</p>
@@ -529,7 +529,7 @@
                 </div>
             </div>
             <div class="pl-item mt-3 mb-3">
-                <div class="speakers-image" style="background-image: url('assets/images/speakers/Himadri\ Patel.webp');">
+                <div class="speakers-image" style="background-image: url('assets/images/speakers/Himadri\ Patel.webp'); filter: drop-shadow(3px 3px 4px black);"">
                     <div class="about-speakers text-left">
                         <p style="font-size: 24px; font-weight: bold;">Himadri Patel</p>
                         <p style="font-size: 18px;">Youtuber, Content Creator &amp; Fashion Influencer</p>
@@ -537,7 +537,7 @@
                 </div>
             </div>
             <div class="pl-item mt-3 mb-3">
-                <div class="speakers-image" style="background-image: url('assets/images/speakers/Dr.\ Himanshu\ Rai.webp');">
+                <div class="speakers-image" style="background-image: url('assets/images/speakers/Dr.\ Himanshu\ Rai.webp'); filter: drop-shadow(3px 3px 4px black);"">
                     <div class="about-speakers text-left">
                         <p style="font-size: 24px; font-weight: bold;">Dr. Himanshu Rai</p>
                         <p style="font-size: 18px;">Director - IIM Indore</p>
@@ -545,7 +545,7 @@
                 </div>
             </div>
             <div class="pl-item mt-3 mb-3">
-                <div class="speakers-image" style="background-image: url('assets/images/speakers/Abhay-Chawla.webp');">
+                <div class="speakers-image" style="background-image: url('assets/images/speakers/Abhay-Chawla.webp'); filter: drop-shadow(3px 3px 4px black);"">
                     <div class="about-speakers text-left">
                         <p style="font-size: 24px; font-weight: bold;">Abhay Chawla</p>
                         <p style="font-size: 18px;">Co-Founder &amp; CEO - <br>India Accelerator</p>
@@ -553,7 +553,7 @@
                 </div>
             </div>
             <div class="pl-item mt-3 mb-3">
-                <div class="speakers-image" style="background-image: url('assets/images/speakers/Maria-Goretti.webp');">
+                <div class="speakers-image" style="background-image: url('assets/images/speakers/Maria-Goretti.webp'); filter: drop-shadow(3px 3px 4px black);"">
                     <div class="about-speakers text-left">
                         <p style="font-size: 24px; font-weight: bold;">Ms. Maria Goretti</p>
                         <p style="font-size: 18px;">Chef - Author &amp; Former VJ</p>
@@ -561,7 +561,7 @@
                 </div>
             </div>
             <div class="pl-item mt-3 mb-3">
-                <div class="speakers-image" style="background-image: url('assets/images/speakers/Anurag\ Chauhan.webp');">
+                <div class="speakers-image" style="background-image: url('assets/images/speakers/Anurag\ Chauhan.webp'); filter: drop-shadow(3px 3px 4px black);"">
                     <div class="about-speakers text-left">
                         <p style="font-size: 24px; font-weight: bold;">Anurag Chauhan</p>
                         <p style="font-size: 18px;">Social Activist &amp; Art Impresario</p>
@@ -569,7 +569,7 @@
                 </div>
             </div>
             <div class="pl-item mt-3 mb-3">
-                <div class="speakers-image" style="background-image: url('assets/images/speakers/Ashwin-Joshi.webp');">
+                <div class="speakers-image" style="background-image: url('assets/images/speakers/Ashwin-Joshi.webp'); filter: drop-shadow(3px 3px 4px black);"">
                     <div class="about-speakers text-left">
                         <p style="font-size: 24px; font-weight: bold;">Ashwin Joshi</p>
                         <p style="font-size: 18px;">Head Strategic Growth &amp; Development, IIM Dubai</p>
@@ -577,7 +577,7 @@
                 </div>
             </div>
             <div class="pl-item mt-3 mb-3">
-                <div class="speakers-image" style="background-image: url('assets/images/speakers/Mohua-Chinappah.webp');">
+                <div class="speakers-image" style="background-image: url('assets/images/speakers/Mohua-Chinappah.webp'); filter: drop-shadow(3px 3px 4px black);"">
                     <div class="about-speakers text-left">
                         <p style="font-size: 24px; font-weight: bold;">Mohua Chinappah</p>
                         <p style="font-size: 18px;">Author of Nautanki Saala &amp; other Stories</p>
@@ -585,7 +585,7 @@
                 </div>
             </div>
             <div class="pl-item mt-3 mb-3">
-                <div class="speakers-image" style="background-image: url('assets/images/speakers/Aadil-Gurezi.webp');">
+                <div class="speakers-image" style="background-image: url('assets/images/speakers/Aadil-Gurezi.webp'); filter: drop-shadow(3px 3px 4px black);"">
                     <div class="about-speakers text-left">
                         <p style="font-size: 24px; font-weight: bold;">Aadil Gurezi</p>
                         <p style="font-size: 18px;">Singer &amp; Actor</p>
@@ -593,7 +593,7 @@
                 </div>
             </div>
             <div class="pl-item mt-3 mb-3">
-                <div class="speakers-image" style="background-image: url('assets/images/speakers/Anubhav\ Dubey.webp');">
+                <div class="speakers-image" style="background-image: url('assets/images/speakers/Anubhav\ Dubey.webp'); filter: drop-shadow(3px 3px 4px black);"">
                     <div class="about-speakers text-left">
                         <p style="font-size: 24px; font-weight: bold;">Anubhav Dubey</p>
                         <p style="font-size: 18px;">CEO - Chai Sutta Bar</p>
@@ -601,7 +601,7 @@
                 </div>
             </div>
             <div class="pl-item mt-3 mb-3">
-                <div class="speakers-image" style="background-image: url('assets/images/speakers/Nisha-Narayanan.webp');">
+                <div class="speakers-image" style="background-image: url('assets/images/speakers/Nisha-Narayanan.webp'); filter: drop-shadow(3px 3px 4px black);"">
                     <div class="about-speakers text-left">
                         <p style="font-size: 24px; font-weight: bold;">Ms. Nisha Narayanan</p>
                         <p style="font-size: 18px;">CEO - Red FM</p>
@@ -609,7 +609,7 @@
                 </div>
             </div>
             <div class="pl-item mt-3 mb-3">
-                <div class="speakers-image" style="background-image: url('assets/images/speakers/Deepak-Sharma.webp');">
+                <div class="speakers-image" style="background-image: url('assets/images/speakers/Deepak-Sharma.webp'); filter: drop-shadow(3px 3px 4px black);"">
                     <div class="about-speakers text-left">
                         <p style="font-size: 24px; font-weight: bold;">Deepak Sharma</p>
                         <p style="font-size: 18px;">Founder - IA-LABS</p>
@@ -617,7 +617,7 @@
                 </div>
             </div>
             <div class="pl-item mt-3 mb-3">
-                <div class="speakers-image" style="background-image: url('assets/images/speakers/Maninder-Singh.webp');">
+                <div class="speakers-image" style="background-image: url('assets/images/speakers/Maninder-Singh.webp'); filter: drop-shadow(3px 3px 4px black);"">
                     <div class="about-speakers text-left">
                         <p style="font-size: 24px; font-weight: bold;">Maninder Singh</p>
                         <p style="font-size: 18px;">Senior Engineering Manager - Classplus</p>
@@ -625,7 +625,7 @@
                 </div>
             </div>
             <div class="pl-item mt-3 mb-3">
-                <div class="speakers-image" style="background-image: url('assets/images/speakers/Venu\ Agrahari\ Dhingra.webp');">
+                <div class="speakers-image" style="background-image: url('assets/images/speakers/Venu\ Agrahari\ Dhingra.webp'); filter: drop-shadow(3px 3px 4px black);"">
                     <div class="about-speakers text-left">
                         <p style="font-size: 24px; font-weight: bold;">Venu Agrahari Dhingra</p>
                         <p style="font-size: 18px;">Social Activist &amp; Author</p>
@@ -633,7 +633,7 @@
                 </div>
             </div>
             <div class="pl-item mt-3 mb-3">
-                <div class="speakers-image" style="background-image: url('assets/images/speakers/Shoaib-Kabeer.webp');">
+                <div class="speakers-image" style="background-image: url('assets/images/speakers/Shoaib-Kabeer.webp'); filter: drop-shadow(3px 3px 4px black);"">
                     <div class="about-speakers text-left">
                         <p style="font-size: 24px; font-weight: bold;">Shoaib Kabeer</p>
                         <p style="font-size: 18px;">Actor</p>
@@ -641,7 +641,7 @@
                 </div>
             </div>
             <div class="pl-item mt-3 mb-3">
-                <div class="speakers-image" style="background-image: url('assets/images/speakers/Mr\ Vishal\ Sehgal.webp');">
+                <div class="speakers-image" style="background-image: url('assets/images/speakers/Mr\ Vishal\ Sehgal.webp'); filter: drop-shadow(3px 3px 4px black);"">
                     <div class="about-speakers text-left">
                         <p style="font-size: 24px; font-weight: bold;">Mr Vishal Sehgal</p>
                         <p style="font-size: 18px;">President - Harvard University club, India</p>
@@ -649,7 +649,7 @@
                 </div>
             </div>
             <div class="pl-item mt-3 mb-3">
-                <div class="speakers-image" style="background-image: url('assets/images/speakers/Ms\ Vasudha\ Rai.webp');">
+                <div class="speakers-image" style="background-image: url('assets/images/speakers/Ms\ Vasudha\ Rai.webp'); filter: drop-shadow(3px 3px 4px black);"">
                     <div class="about-speakers text-left">
                         <p style="font-size: 24px; font-weight: bold;">Ms Vasudha Rai </p>
                         <p style="font-size: 18px;">Author - Beauty &amp; Wellness Expert</p>
@@ -657,7 +657,7 @@
                 </div>
             </div>
             <div class="pl-item mt-3 mb-3">
-                <div class="speakers-image" style="background-image: url('assets/images/speakers/Munish\ Bhatia.webp');">
+                <div class="speakers-image" style="background-image: url('assets/images/speakers/Munish\ Bhatia.webp'); filter: drop-shadow(3px 3px 4px black);"">
                     <div class="about-speakers text-left">
                         <p style="font-size: 24px; font-weight: bold;">Munish Bhatia</p>
                         <p style="font-size: 18px;">Co-Founder &amp; Director - India Accelerator</p>
@@ -665,7 +665,7 @@
                 </div>
             </div>
             <div class="pl-item mt-3 mb-3">
-                <div class="speakers-image" style="background-image: url('assets/images/speakers/Akash\ Gupta.webp');">
+                <div class="speakers-image" style="background-image: url('assets/images/speakers/Akash\ Gupta.webp'); filter: drop-shadow(3px 3px 4px black);"">
                     <div class="about-speakers text-left">
                         <p style="font-size: 24px; font-weight: bold;">Akash Gupta</p>
                         <p style="font-size: 18px;"> Founder - ZYPP</p>
@@ -673,7 +673,7 @@
                 </div>
             </div>
             <div class="pl-item mt-3 mb-3">
-                <div class="speakers-image" style="background-image: url('assets/images/speakers/Ashish\ Khare.webp');">
+                <div class="speakers-image" style="background-image: url('assets/images/speakers/Ashish\ Khare.webp'); filter: drop-shadow(3px 3px 4px black);"">
                     <div class="about-speakers text-left">
                         <p style="font-size: 24px; font-weight: bold;">Ashish Khare</p>
                         <p style="font-size: 18px;">CEO &amp; Founder - <br>India Accelerator</p>
@@ -681,7 +681,7 @@
                 </div>
             </div>
             <div class="pl-item mt-3 mb-3">
-                <div class="speakers-image" style="background-image: url('assets/images/speakers/IRA\ Singhal.webp');">
+                <div class="speakers-image" style="background-image: url('assets/images/speakers/IRA\ Singhal.webp'); filter: drop-shadow(3px 3px 4px black);"">
                     <div class="about-speakers text-left">
                         <p style="font-size: 24px; font-weight: bold;">IRA Singhal</p>
                         <p style="font-size: 18px;">IAS Topper (2014)</p>
@@ -689,7 +689,7 @@
                 </div>
             </div>
             <div class="pl-item mt-3 mb-3">
-                <div class="speakers-image" style="background-image: url('assets/images/speakers/Himanshu\ Gupta.webp');">
+                <div class="speakers-image" style="background-image: url('assets/images/speakers/Himanshu\ Gupta.webp'); filter: drop-shadow(3px 3px 4px black);"">
                     <div class="about-speakers text-left">
                         <p style="font-size: 24px; font-weight: bold;">Himanshu Gupta</p>
                         <p style="font-size: 18px;">Founder - Lawyered</p>
@@ -697,7 +697,7 @@
                 </div>
             </div>
             <div class="pl-item mt-3 mb-3">
-                <div class="speakers-image" style="background-image: url('assets/images/speakers/Jitender\ Panihar.webp');">
+                <div class="speakers-image" style="background-image: url('assets/images/speakers/Jitender\ Panihar.webp'); filter: drop-shadow(3px 3px 4px black);"">
                     <div class="about-speakers text-left">
                         <p style="font-size: 24px; font-weight: bold;">Jitender Panihar</p>
                         <p style="font-size: 18px;">CEO - Fitelo</p>
@@ -705,7 +705,7 @@
                 </div>
             </div>
             <div class="pl-item mt-3 mb-3">
-                <div class="speakers-image" style="background-image: url('assets/images/speakers/Romik\ Rai.webp');">
+                <div class="speakers-image" style="background-image: url('assets/images/speakers/Romik\ Rai.webp'); filter: drop-shadow(3px 3px 4px black);"">
                     <div class="about-speakers text-left">
                         <p style="font-size: 24px; font-weight: bold;">Romik Rai</p>
                         <p style="font-size: 18px;">CEO - Green Assets</p>
@@ -713,7 +713,7 @@
                 </div>
             </div>
             <div class="pl-item mt-3 mb-3">
-                <div class="speakers-image" style="background-image: url('assets/images/speakers/Mona\ Singh.webp');">
+                <div class="speakers-image" style="background-image: url('assets/images/speakers/Mona\ Singh.webp'); filter: drop-shadow(3px 3px 4px black);"">
                     <div class="about-speakers text-left">
                         <p style="font-size: 24px; font-weight: bold;">Mona Singh</p>
                         <p style="font-size: 18px;">Founder - India Accelerator</p>
@@ -721,7 +721,7 @@
                 </div>
             </div>
             <div class="pl-item mt-3 mb-3">
-                <div class="speakers-image" style="background-image: url('assets/images/speakers/Ankit\ Machhar.webp');">
+                <div class="speakers-image" style="background-image: url('assets/images/speakers/Ankit\ Machhar.webp'); filter: drop-shadow(3px 3px 4px black);" ">
                     <div class="about-speakers text-left">
                         <p style="font-size: 24px; font-weight: bold;">Ankit Machhar</p>
                         <p style="font-size: 18px;"> Director - Ecosystem Nen Wadhwani Foundation</p>
