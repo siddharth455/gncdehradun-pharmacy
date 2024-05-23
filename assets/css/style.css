@@ -448,7 +448,7 @@ a.scroll-top i {
 }
 
 .navbar-area .main-nav {
-  background: #ffffff00;
+  background: #ffffffbd;
   -webkit-transition: 0.4s;
   transition: 0.4s;
   backdrop-filter: blur(10px);

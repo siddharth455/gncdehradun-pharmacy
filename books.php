@@ -19,332 +19,332 @@
     </div>
 </section>
 <div class="container">
-<div class="tabs"> 
-            <button class="tablink" onclick="openTab(event, 'GirlsHostel')">2023</button>
-            <button class="tablink" onclick="openTab(event, 'BoysHostel')">2022</button>
-            <button class="tablink" onclick="openTab(event, 'Book2021')">2021</button>
-            <button class="tablink" onclick="openTab(event, 'Book2020')">2020</button>
-            <button class="tablink" onclick="openTab(event, 'Book2019')">2019</button>
-        </div>
-        <div id="GirlsHostel" class="tabcontent">
-    <table class="table table-bordered">
-        <thead>
-            <tr class="heading">
-                <th scope="col"><b>S.No.</b></th>
-                <th scope="col"><b>Chapter Name</b></th>
-                <th scope="col"><b>Author Name</b></th>
-                <th scope="col"><b>Book Name </b></th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <th scope="row">1</th>
-                <td>Introduction to Pharmacognosy</td>
-                <td>Ms. Kriti Dabral</td>
-                <td>Text Book of Pharmacognosy</td>
-            </tr>
-            <tr>
-                <th scope="row">2</th>
-                <td>Understanding the Diversity of Medicinal Substances</td>
-                <td>Ms. Yashika Uniyal</td>
-                <td>Text Book of Pharmacognosy
-                </td>
-            </tr>
-            <tr>
-                <th scope="row">3</th>
-                <td>Comprehensive Exploration of Drug Classification: A Multifaceted Approach</td>
-                <td>Ms. Yashika Uniyal</td>
-                <td>Text Book of Pharmacognosy</td>
-            </tr>
-            <tr>
-                <th scope="row">4</th>
-                <td>Ensuring Quality in Drugs of Natural Origin: Comprehensive Approaches to Adulteration Detection and Evaluation Methods</td>
-                <td>Dr. Vishal Kumar Deshwal</td>
-                <td>Text Book of Pharmacognosy
-                </td>
-            </tr>
-            <tr>
-                <th scope="row">5</th>
-                <td>Cultivation, Collection, Processing, and Storage of Drugs of Natural Origin</td>
-                <td>Ms. Kriti Dabral</td>
-                <td>Text Book of Pharmacognosy
-                </td>
-            </tr>
-            <tr>
-                <th scope="row">6</th>
-                <td>Plant Hormones and Their Applications</td>
-                <td>Dr. Vishal Kumar Deshwal</td>
-                <td>Text Book of Pharmacognosy
-                </td>
-            </tr>
-            <tr>
-                <th scope="row">7</th>
-                <td>Unveiling the Nexus of Polyploidy, Mutation, and Hybridization in Medicinal Plants: A Comprehensive Exploration</td>
-                <td>Dr. Nidhi Chatterjee</td>
-                <td>Text Book of Pharmacognosy
-                </td>
-            </tr>
-            <tr>
-                <th scope="row">8</th>
-                <td>Conservation of Medicinal Plants: Preserving Nature's Pharmacy</td>
-                <td>Ms. Yashika Uniyal</td>
-                <td>Text Book of Pharmacognosy
-                </td>
-            </tr>
-            <tr>
-                <th scope="row">9</th>
-                <td>Nurturing Growth: A Comprehensive Exploration of Plant Tissue Culture</td>
-                <td>Dr. Vishal Kumar Deshwal</td>
-                <td>Text Book of Pharmacognosy
-                </td>
-            </tr>
-            <tr>
-                <th scope="row">10</th>
-                <td>Harnessing Nature's Pharmacy: Unveiling the Vast Potential of Plant Tissue Culture in Pharmacognosy</td>
-                <td>Dr. Vishal Kumar Deshwal</td>
-                <td>Text Book of Pharmacognosy
-                </td>
-            </tr>
-            <tr>
-                <th scope="row">11</th>
-                <td>Harnessing Nature's Bounty: Exploring the Potential of Edible Vaccines</td>
-                <td>Dr. Vishal Kumar Deshwal</td>
-                <td>Text Book of Pharmacognosy
-                </td>
-            </tr>
-            <tr>
-                <th scope="row">12</th>
-                <td>Pharmacognosy Across Diverse Systems of Medicine</td>
-                <td>Ms. Yashika Uniyal</td>
-                <td>Text Book of Pharmacognosy
-                </td>
-            </tr>
-            <tr>
-                <th scope="row">13</th>
-                <td>Exploring Pharmacognosy Across Diverse Systems of Medicine</td>
-                <td>Ms. Kriti Dabral</td>
-                <td>Text Book of Pharmacognosy
-                </td>
-            </tr>
-            <tr>
-                <th scope="row">14</th>
-                <td>Understanding Flavonoids and Tannins: Definition, Classification, Properties, and Identification Tests</td>
-                <td>Dr. Vishal Kumar Deshwal</td>
-                <td>Text Book of Pharmacognosy
-                </td>
-            </tr>
-            <tr>
-                <th scope="row">15</th>
-                <td>Understanding Volatile Oils & Resins: Definition, Classification, Properties, and Identification Tests</td>
-                <td>Dr. Vishal Kumar Deshwal</td>
-                <td>Text Book of Pharmacognosy
-                </td>
-            </tr>
-            <tr>
-                <th scope="row">16</th>
-                <td>Exploring Pharmacognosy: Fibers in Various Systems of Medicine</td>
-                <td>Dr. Nidhi Chatterjee</td>
-                <td>Text Book of Pharmacognosy
-                </td>
-            </tr>
-            <tr>
-                <th scope="row">17</th>
-                <td>Exploring Pharmacognosy Across Medical Systems: Hallucinogens Teratogens & Natural allergens</td>
-                <td>Dr. Vishal Kumar Deshwal</td>
-                <td>Text Book of Pharmacognosy
-                </td>
-            </tr>
-            <tr>
-                <th scope="row">18</th>
-                <td>Pharmacognosy in Various Systems of Medicine</td>
-                <td>Ms. Yashika Uniyal</td>
-                <td>Text Book of Pharmacognosy
-                </td>
-            </tr>
-            <tr>
-                <th scope="row">19</th>
-                <td>Exploring Pharmacognosy Across Medical Systems: Proteins and Enzymes</td>
-                <td>Ms. Yashika Uniyal</td>
-                <td>Text Book of Pharmacognosy
-                </td>
-            </tr>
-            <tr>
-                <th scope="row">20</th>
-                <td>Unraveling the Potential of Bromelain & Serratiopeptidase: A Comprehensive Exploration in Pharmaceutical Applications</td>
-                <td>Dr. Vishal Kumar Deshwal</td>
-                <td>Text Book of Pharmacognosy
-                </td>
-            </tr>
-            <tr>
-                <th scope="row">21</th>
-                <td>Introduction to Urokinase Streptokinase & Pepsin : Chemistry, Sources, Preparation, and Applications</td>
-                <td>Dr. Vishal Kumar Deshwal</td>
-                <td>Text Book of Pharmacognosy
-                </td>
-            </tr>
-            <tr>
-                <th scope="row">22</th>
-                <td>Unveiling the World of Castor Oil & Chaulmoogra oil: Chemistry, Preparation, and Therapeutic Marvels</td>
-                <td>Ms. Yashika Uniyal</td>
-                <td>Text Book of Pharmacognosy
-                </td>
-            </tr>
-            <tr>
-                <th scope="row">23</th>
-                <td>Delving into Wool Fat: Chemistry, Applications, and Pharmaceutical Marvels</td>
-                <td>Dr. Nidhi Chatterjee</td>
-                <td>Text Book of Pharmacognosy
-                </td>
-            </tr>
-            <tr>
-                <th scope="row">24</th>
-                <td>Unveiling Nature's Pharmacy: Marine Drugs as Novel Medicinal Agents</td>
-                <td>Ms. Kriti Dabral</td>
-                <td>Text Book of Pharmacognosy
-                </td>
-            </tr>
-            <tr>
-                <th scope="row">25</th>
-                <td>Metabolic Pathways in Higher Plants and their Determination</td>
-                <td>Dr. Vishal Kumar Deshwal</td>
-                <td>Text Book of Pharmacognosy</td>
-            </tr>
-            <tr>
-                <th scope="row">26</th>
-                <td>Unraveling Nature's Mysteries: Exploring the Role of Radioactive Isotopes in Biogenetic Studies</td>
-                <td>Dr. Vishal Kumar Deshwal</td>
-                <td>Text Book of Pharmacognosy</td>
-            </tr>
-            <tr>
-                <th scope="row">27</th>
-                <td>Industrial Production and Utilization of Phytoconstituents: A Comprehensive Overview</td>
-                <td>Ms. Yashika Uniyal</td>
-                <td>Text Book of Pharmacognosy</td>
-            </tr>
-            <tr>
-                <th scope="row">28</th>
-                <td>Delving Deeper into Phytochemistry: Unraveling the Intricacies of Extraction and Analysis Techniques</td>
-                <td>Ms. Kriti Dabral</td>
-                <td>Text Book of Pharmacognosy</td>
-            </tr>
-            <tr>
-                <th scope="row">29</th>
-                <td>Unveiling Nature's Abundance: Exploring the Depths of Herbs as Essential Raw Materials</td>
-                <td>Ms. Yashika Uniyal</td>
-                <td>Text Book of Pharmacognosy</td>
-            </tr>
-            <tr>
-                <th scope="row">30</th>
-                <td>Preparation and Standardization of Ayurvedic Formulations</td>
-                <td>Ms. Yashika Uniyal</td>
-                <td>Text Book of Pharmacognosy</td>
-            </tr>
-            <tr>
-                <th scope="row">31</th>
-                <td>Understanding the Landscape of Markets and Products</td>
-                <td>Ms. Yashika Uniyal</td>
-                <td>Text Book of Pharmacognosy</td>
-            </tr>
-            <tr>
-                <th scope="row">32</th>
-                <td>Exploring the Health Benefits and Role of Nutraceuticals in Ailments</td>
-                <td>Ms. Kriti Dabral</td>
-                <td>Text Book of Pharmacognosy</td>
-            </tr>
-            <tr>
-                <th scope="row">33</th>
-                <td>Cultivation and Management of Medicinal Plants</td>
-                <td>Dr. Vishal Kumar Deshwal</td>
-                <td>Text Book of Pharmacognosy</td>
-            </tr>
-            <tr>
-                <th scope="row">34</th>
-                <td>Navigating the Herbal Maze: Selection, Identification, and Authentication of Herbal Materials</td>
-                <td>Dr. Vishal Kumar Deshwal</td>
-                <td>Text Book of Pharmacognosy</td>
-            </tr>
-            <tr>
-                <th scope="row">35</th>
-                <td>Navigating the Complex Terrain of Herbal-Drug and Herb-Food Interactions: A Comprehensive Exploration</td>
-                <td>Dr. Vishal Kumar Deshwal</td>
-                <td>Text Book of Pharmacognosy</td>
-            </tr>
-            <tr>
-                <th scope="row">36</th>
-                <td>Embracing Nature's Bounty: A Comprehensive Exploration of Herbal Cosmetics and Their Raw Materials</td>
-                <td>Dr. Vishal Kumar Deshwal</td>
-                <td>Text Book of Pharmacognosy</td>
-            </tr>
-            <tr>
-                <th scope="row">37</th>
-                <td>Herbal Excipients: Harnessing Nature's Bounty in Pharmaceutical Formulations</td>
-                <td>Ms. Yashika Uniyal</td>
-                <td>Text Book of Pharmacognosy</td>
-            </tr>
-            <tr>
-                <th scope="row">38</th>
-                <td>Navigating the Landscape of Herbal Formulations: A Comprehensive Exploration</td>
-                <td>Ms. Yashika Uniyal</td>
-                <td>Text Book of Pharmacognosy</td>
-            </tr>
-            <tr>
-                <th scope="row">39</th>
-                <td>Evaluation of Herbal Drugs: Compliance with WHO & ICH Guidelines</td>
-                <td>Dr. Vishal Kumar Deshwal</td>
-                <td>Text Book of Pharmacognosy</td>
-            </tr>
-            <tr>
-                <th scope="row">40</th>
-                <td>Navigating the Terrain of Intellectual Property in Agriculture: A Comprehensive Exploration</td>
-                <td>Dr. Vishal Kumar Deshwal</td>
-                <td>Text Book of Pharmacognosy</td>
-            </tr>
-            <tr>
-                <th scope="row">41</th>
-                <td>Patenting Aspects of Traditional Knowledge and Natural Products: A Case Study of Curcuma and Neem</td>
-                <td>Ms. Yashika Uniyal</td>
-                <td>Text Book of Pharmacognosy</td>
-            </tr>
-            <tr>
-                <th scope="row">42</th>
-                <td> Navigating Regulatory Frameworks for Ayurvedic, Siddha, and Unani Drugs in India</td>
-                <td>Ms. Kriti Dabral</td>
-                <td>Text Book of Pharmacognosy</td>
-            </tr>
-            <tr>
-                <th scope="row">43</th>
-                <td>Unveiling the Herbal Renaissance: Exploring the Present Scope and Future Prospects of the Herbal Drugs Industry</td>
-                <td>Ms. Yashika Uniyal</td>
-                <td>Text Book of Pharmacognosy</td>
-            </tr>
-            <tr>
-                <th scope="row">44</th>
-                <td>The Flourishing Landscape of Medicinal and Aromatic Plants in India</td>
-                <td>Dr. Nidhi Chatterjee</td>
-                <td>Text Book of Pharmacognosy</td>
-            </tr>
-            <tr>
-                <th scope="row">45</th>
-                <td>Schedule T - Good Manufacturing Practice of Indian Systems of Medicine</td>
-                <td>Dr. Vishal Kumar Deshwal</td>
-                <td>Text Book of Pharmacognosy</td>
-            </tr>
-        </tbody>
-    </table>
-</div>
+    <div class="tabs">
+        <button class="tablink" onclick="openTab(event, 'GirlsHostel')">2023</button>
+        <button class="tablink" onclick="openTab(event, 'BoysHostel')">2022</button>
+        <button class="tablink" onclick="openTab(event, 'Book2021')">2021</button>
+        <button class="tablink" onclick="openTab(event, 'Book2020')">2020</button>
+        <button class="tablink" onclick="openTab(event, 'Book2019')">2019</button>
+    </div>
+    <div id="GirlsHostel" class="tabcontent mt-5">
+        <table class="table table-bordered">
+            <thead>
+                <tr class="heading">
+                    <th scope="col"><b>S.No.</b></th>
+                    <th scope="col"><b>Chapter Name</b></th>
+                    <th scope="col"><b>Author Name</b></th>
+                    <th scope="col"><b>Book Name </b></th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <th scope="row">1</th>
+                    <td>Introduction to Pharmacognosy</td>
+                    <td>Ms. Kriti Dabral</td>
+                    <td>Text Book of Pharmacognosy</td>
+                </tr>
+                <tr>
+                    <th scope="row">2</th>
+                    <td>Understanding the Diversity of Medicinal Substances</td>
+                    <td>Ms. Yashika Uniyal</td>
+                    <td>Text Book of Pharmacognosy
+                    </td>
+                </tr>
+                <tr>
+                    <th scope="row">3</th>
+                    <td>Comprehensive Exploration of Drug Classification: A Multifaceted Approach</td>
+                    <td>Ms. Yashika Uniyal</td>
+                    <td>Text Book of Pharmacognosy</td>
+                </tr>
+                <tr>
+                    <th scope="row">4</th>
+                    <td>Ensuring Quality in Drugs of Natural Origin: Comprehensive Approaches to Adulteration Detection and Evaluation Methods</td>
+                    <td>Dr. Vishal Kumar Deshwal</td>
+                    <td>Text Book of Pharmacognosy
+                    </td>
+                </tr>
+                <tr>
+                    <th scope="row">5</th>
+                    <td>Cultivation, Collection, Processing, and Storage of Drugs of Natural Origin</td>
+                    <td>Ms. Kriti Dabral</td>
+                    <td>Text Book of Pharmacognosy
+                    </td>
+                </tr>
+                <tr>
+                    <th scope="row">6</th>
+                    <td>Plant Hormones and Their Applications</td>
+                    <td>Dr. Vishal Kumar Deshwal</td>
+                    <td>Text Book of Pharmacognosy
+                    </td>
+                </tr>
+                <tr>
+                    <th scope="row">7</th>
+                    <td>Unveiling the Nexus of Polyploidy, Mutation, and Hybridization in Medicinal Plants: A Comprehensive Exploration</td>
+                    <td>Dr. Nidhi Chatterjee</td>
+                    <td>Text Book of Pharmacognosy
+                    </td>
+                </tr>
+                <tr>
+                    <th scope="row">8</th>
+                    <td>Conservation of Medicinal Plants: Preserving Nature's Pharmacy</td>
+                    <td>Ms. Yashika Uniyal</td>
+                    <td>Text Book of Pharmacognosy
+                    </td>
+                </tr>
+                <tr>
+                    <th scope="row">9</th>
+                    <td>Nurturing Growth: A Comprehensive Exploration of Plant Tissue Culture</td>
+                    <td>Dr. Vishal Kumar Deshwal</td>
+                    <td>Text Book of Pharmacognosy
+                    </td>
+                </tr>
+                <tr>
+                    <th scope="row">10</th>
+                    <td>Harnessing Nature's Pharmacy: Unveiling the Vast Potential of Plant Tissue Culture in Pharmacognosy</td>
+                    <td>Dr. Vishal Kumar Deshwal</td>
+                    <td>Text Book of Pharmacognosy
+                    </td>
+                </tr>
+                <tr>
+                    <th scope="row">11</th>
+                    <td>Harnessing Nature's Bounty: Exploring the Potential of Edible Vaccines</td>
+                    <td>Dr. Vishal Kumar Deshwal</td>
+                    <td>Text Book of Pharmacognosy
+                    </td>
+                </tr>
+                <tr>
+                    <th scope="row">12</th>
+                    <td>Pharmacognosy Across Diverse Systems of Medicine</td>
+                    <td>Ms. Yashika Uniyal</td>
+                    <td>Text Book of Pharmacognosy
+                    </td>
+                </tr>
+                <tr>
+                    <th scope="row">13</th>
+                    <td>Exploring Pharmacognosy Across Diverse Systems of Medicine</td>
+                    <td>Ms. Kriti Dabral</td>
+                    <td>Text Book of Pharmacognosy
+                    </td>
+                </tr>
+                <tr>
+                    <th scope="row">14</th>
+                    <td>Understanding Flavonoids and Tannins: Definition, Classification, Properties, and Identification Tests</td>
+                    <td>Dr. Vishal Kumar Deshwal</td>
+                    <td>Text Book of Pharmacognosy
+                    </td>
+                </tr>
+                <tr>
+                    <th scope="row">15</th>
+                    <td>Understanding Volatile Oils & Resins: Definition, Classification, Properties, and Identification Tests</td>
+                    <td>Dr. Vishal Kumar Deshwal</td>
+                    <td>Text Book of Pharmacognosy
+                    </td>
+                </tr>
+                <tr>
+                    <th scope="row">16</th>
+                    <td>Exploring Pharmacognosy: Fibers in Various Systems of Medicine</td>
+                    <td>Dr. Nidhi Chatterjee</td>
+                    <td>Text Book of Pharmacognosy
+                    </td>
+                </tr>
+                <tr>
+                    <th scope="row">17</th>
+                    <td>Exploring Pharmacognosy Across Medical Systems: Hallucinogens Teratogens & Natural allergens</td>
+                    <td>Dr. Vishal Kumar Deshwal</td>
+                    <td>Text Book of Pharmacognosy
+                    </td>
+                </tr>
+                <tr>
+                    <th scope="row">18</th>
+                    <td>Pharmacognosy in Various Systems of Medicine</td>
+                    <td>Ms. Yashika Uniyal</td>
+                    <td>Text Book of Pharmacognosy
+                    </td>
+                </tr>
+                <tr>
+                    <th scope="row">19</th>
+                    <td>Exploring Pharmacognosy Across Medical Systems: Proteins and Enzymes</td>
+                    <td>Ms. Yashika Uniyal</td>
+                    <td>Text Book of Pharmacognosy
+                    </td>
+                </tr>
+                <tr>
+                    <th scope="row">20</th>
+                    <td>Unraveling the Potential of Bromelain & Serratiopeptidase: A Comprehensive Exploration in Pharmaceutical Applications</td>
+                    <td>Dr. Vishal Kumar Deshwal</td>
+                    <td>Text Book of Pharmacognosy
+                    </td>
+                </tr>
+                <tr>
+                    <th scope="row">21</th>
+                    <td>Introduction to Urokinase Streptokinase & Pepsin : Chemistry, Sources, Preparation, and Applications</td>
+                    <td>Dr. Vishal Kumar Deshwal</td>
+                    <td>Text Book of Pharmacognosy
+                    </td>
+                </tr>
+                <tr>
+                    <th scope="row">22</th>
+                    <td>Unveiling the World of Castor Oil & Chaulmoogra oil: Chemistry, Preparation, and Therapeutic Marvels</td>
+                    <td>Ms. Yashika Uniyal</td>
+                    <td>Text Book of Pharmacognosy
+                    </td>
+                </tr>
+                <tr>
+                    <th scope="row">23</th>
+                    <td>Delving into Wool Fat: Chemistry, Applications, and Pharmaceutical Marvels</td>
+                    <td>Dr. Nidhi Chatterjee</td>
+                    <td>Text Book of Pharmacognosy
+                    </td>
+                </tr>
+                <tr>
+                    <th scope="row">24</th>
+                    <td>Unveiling Nature's Pharmacy: Marine Drugs as Novel Medicinal Agents</td>
+                    <td>Ms. Kriti Dabral</td>
+                    <td>Text Book of Pharmacognosy
+                    </td>
+                </tr>
+                <tr>
+                    <th scope="row">25</th>
+                    <td>Metabolic Pathways in Higher Plants and their Determination</td>
+                    <td>Dr. Vishal Kumar Deshwal</td>
+                    <td>Text Book of Pharmacognosy</td>
+                </tr>
+                <tr>
+                    <th scope="row">26</th>
+                    <td>Unraveling Nature's Mysteries: Exploring the Role of Radioactive Isotopes in Biogenetic Studies</td>
+                    <td>Dr. Vishal Kumar Deshwal</td>
+                    <td>Text Book of Pharmacognosy</td>
+                </tr>
+                <tr>
+                    <th scope="row">27</th>
+                    <td>Industrial Production and Utilization of Phytoconstituents: A Comprehensive Overview</td>
+                    <td>Ms. Yashika Uniyal</td>
+                    <td>Text Book of Pharmacognosy</td>
+                </tr>
+                <tr>
+                    <th scope="row">28</th>
+                    <td>Delving Deeper into Phytochemistry: Unraveling the Intricacies of Extraction and Analysis Techniques</td>
+                    <td>Ms. Kriti Dabral</td>
+                    <td>Text Book of Pharmacognosy</td>
+                </tr>
+                <tr>
+                    <th scope="row">29</th>
+                    <td>Unveiling Nature's Abundance: Exploring the Depths of Herbs as Essential Raw Materials</td>
+                    <td>Ms. Yashika Uniyal</td>
+                    <td>Text Book of Pharmacognosy</td>
+                </tr>
+                <tr>
+                    <th scope="row">30</th>
+                    <td>Preparation and Standardization of Ayurvedic Formulations</td>
+                    <td>Ms. Yashika Uniyal</td>
+                    <td>Text Book of Pharmacognosy</td>
+                </tr>
+                <tr>
+                    <th scope="row">31</th>
+                    <td>Understanding the Landscape of Markets and Products</td>
+                    <td>Ms. Yashika Uniyal</td>
+                    <td>Text Book of Pharmacognosy</td>
+                </tr>
+                <tr>
+                    <th scope="row">32</th>
+                    <td>Exploring the Health Benefits and Role of Nutraceuticals in Ailments</td>
+                    <td>Ms. Kriti Dabral</td>
+                    <td>Text Book of Pharmacognosy</td>
+                </tr>
+                <tr>
+                    <th scope="row">33</th>
+                    <td>Cultivation and Management of Medicinal Plants</td>
+                    <td>Dr. Vishal Kumar Deshwal</td>
+                    <td>Text Book of Pharmacognosy</td>
+                </tr>
+                <tr>
+                    <th scope="row">34</th>
+                    <td>Navigating the Herbal Maze: Selection, Identification, and Authentication of Herbal Materials</td>
+                    <td>Dr. Vishal Kumar Deshwal</td>
+                    <td>Text Book of Pharmacognosy</td>
+                </tr>
+                <tr>
+                    <th scope="row">35</th>
+                    <td>Navigating the Complex Terrain of Herbal-Drug and Herb-Food Interactions: A Comprehensive Exploration</td>
+                    <td>Dr. Vishal Kumar Deshwal</td>
+                    <td>Text Book of Pharmacognosy</td>
+                </tr>
+                <tr>
+                    <th scope="row">36</th>
+                    <td>Embracing Nature's Bounty: A Comprehensive Exploration of Herbal Cosmetics and Their Raw Materials</td>
+                    <td>Dr. Vishal Kumar Deshwal</td>
+                    <td>Text Book of Pharmacognosy</td>
+                </tr>
+                <tr>
+                    <th scope="row">37</th>
+                    <td>Herbal Excipients: Harnessing Nature's Bounty in Pharmaceutical Formulations</td>
+                    <td>Ms. Yashika Uniyal</td>
+                    <td>Text Book of Pharmacognosy</td>
+                </tr>
+                <tr>
+                    <th scope="row">38</th>
+                    <td>Navigating the Landscape of Herbal Formulations: A Comprehensive Exploration</td>
+                    <td>Ms. Yashika Uniyal</td>
+                    <td>Text Book of Pharmacognosy</td>
+                </tr>
+                <tr>
+                    <th scope="row">39</th>
+                    <td>Evaluation of Herbal Drugs: Compliance with WHO & ICH Guidelines</td>
+                    <td>Dr. Vishal Kumar Deshwal</td>
+                    <td>Text Book of Pharmacognosy</td>
+                </tr>
+                <tr>
+                    <th scope="row">40</th>
+                    <td>Navigating the Terrain of Intellectual Property in Agriculture: A Comprehensive Exploration</td>
+                    <td>Dr. Vishal Kumar Deshwal</td>
+                    <td>Text Book of Pharmacognosy</td>
+                </tr>
+                <tr>
+                    <th scope="row">41</th>
+                    <td>Patenting Aspects of Traditional Knowledge and Natural Products: A Case Study of Curcuma and Neem</td>
+                    <td>Ms. Yashika Uniyal</td>
+                    <td>Text Book of Pharmacognosy</td>
+                </tr>
+                <tr>
+                    <th scope="row">42</th>
+                    <td> Navigating Regulatory Frameworks for Ayurvedic, Siddha, and Unani Drugs in India</td>
+                    <td>Ms. Kriti Dabral</td>
+                    <td>Text Book of Pharmacognosy</td>
+                </tr>
+                <tr>
+                    <th scope="row">43</th>
+                    <td>Unveiling the Herbal Renaissance: Exploring the Present Scope and Future Prospects of the Herbal Drugs Industry</td>
+                    <td>Ms. Yashika Uniyal</td>
+                    <td>Text Book of Pharmacognosy</td>
+                </tr>
+                <tr>
+                    <th scope="row">44</th>
+                    <td>The Flourishing Landscape of Medicinal and Aromatic Plants in India</td>
+                    <td>Dr. Nidhi Chatterjee</td>
+                    <td>Text Book of Pharmacognosy</td>
+                </tr>
+                <tr>
+                    <th scope="row">45</th>
+                    <td>Schedule T - Good Manufacturing Practice of Indian Systems of Medicine</td>
+                    <td>Dr. Vishal Kumar Deshwal</td>
+                    <td>Text Book of Pharmacognosy</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
 </div>
 <div class="container mt-5">
-<div id="BoysHostel" class="tabcontent">
-    <table class="table table-bordered">
-        <thead>
-            <tr class="heading">
-                <th scope="col"><b>S.No.</b></th>
-                <th scope="col"><b>Chapter Name</b></th>
-                <th scope="col"><b>Author Name</b></th>
-                <th scope="col"><b>Book Name </b></th>
-            </tr>
-        </thead>
-        <tr>
+    <div id="BoysHostel" class="tabcontent">
+        <table class="table table-bordered">
+            <thead>
+                <tr class="heading">
+                    <th scope="col"><b>S.No.</b></th>
+                    <th scope="col"><b>Chapter Name</b></th>
+                    <th scope="col"><b>Author Name</b></th>
+                    <th scope="col"><b>Book Name </b></th>
+                </tr>
+            </thead>
+            <tr>
                 <th scope="row">1</th>
                 <td>Exploring the Wonders of the Human Body: An Introduction to Anatomy and Physiology</td>
                 <td>Dr. Nidhi Chatterjee</td>
@@ -559,7 +559,8 @@
                 <td>Pharmacology of Drugs Acting on the Cardiovascular System</td>
                 <td>Ms. Yashika Uniyal</td>
                 <td>Text Book of Human Anatomy Physiology and Pharmacology</td>
-            </tr> <tr>
+            </tr>
+            <tr>
                 <th scope="row">37</th>
                 <td>Pharmacology of Drugs Acting on the Urinary System</td>
                 <td>Ms. Yashika Uniyal</td>
@@ -625,22 +626,22 @@
                 <td>Dr. Vishal Kumar Deshwal</td>
                 <td>Text Book of Human Anatomy Physiology and Pharmacology</td>
             </tr>
-        <tbody>
+            <tbody>
         </table>
-</div>   
+    </div>
 </div>
 <div class="container mt-5">
-<div id="Book2021" class="tabcontent">
-    <table class="table table-bordered">
-        <thead>
-            <tr class="heading">
-                <th scope="col"><b>S.No.</b></th>
-                <th scope="col"><b>Chapter Name</b></th>
-                <th scope="col"><b>Author Name</b></th>
-                <th scope="col"><b>Book Name </b></th>
-            </tr>
-        </thead>
-        <tr>
+    <div id="Book2021" class="tabcontent">
+        <table class="table table-bordered">
+            <thead>
+                <tr class="heading">
+                    <th scope="col"><b>S.No.</b></th>
+                    <th scope="col"><b>Chapter Name</b></th>
+                    <th scope="col"><b>Author Name</b></th>
+                    <th scope="col"><b>Book Name </b></th>
+                </tr>
+            </thead>
+            <tr>
                 <th scope="row">1</th>
                 <td>Understanding Fluid Dynamics: Exploring Manometers, Reynolds Number, Bernoulli's Theorem, and Flow Measurement Devices</td>
                 <td>Ms. Kriti Dabral</td>
@@ -892,22 +893,22 @@
                 <td>Dr. Vishal Kumar Deshwal</td>
                 <td>Pharmaceutical Product Development With Engineering Techniques</td>
             </tr>
-        <tbody>
+            <tbody>
         </table>
-</div> 
-</div>  
+    </div>
+</div>
 <div class="container mt-5">
-<div id="Book2020" class="tabcontent">
-    <table class="table table-bordered">
-        <thead>
-            <tr class="heading">
-                <th scope="col"><b>S.No.</b></th>
-                <th scope="col"><b>Chapter Name</b></th>
-                <th scope="col"><b>Author Name</b></th>
-                <th scope="col"><b>Book Name </b></th>
-            </tr>
-        </thead>
-        <tr>
+    <div id="Book2020" class="tabcontent">
+        <table class="table table-bordered">
+            <thead>
+                <tr class="heading">
+                    <th scope="col"><b>S.No.</b></th>
+                    <th scope="col"><b>Chapter Name</b></th>
+                    <th scope="col"><b>Author Name</b></th>
+                    <th scope="col"><b>Book Name </b></th>
+                </tr>
+            </thead>
+            <tr>
                 <th scope="row">1</th>
                 <td>Fundamentals of Biomolecules: Exploring the Building Blocks of Life</td>
                 <td>Ms. Yashika Uniyal</td>
@@ -928,7 +929,7 @@
             <tr>
                 <th scope="row">4</th>
                 <td>Understanding Carbohydrate Metabolism</td>
-                <td>Ms. Kriti Dabral  </td>
+                <td>Ms. Kriti Dabral </td>
                 <td>Basic Techniques in Biochemistry, Microbiology and Biotechnology</td>
             </tr>
             <tr>
@@ -1000,7 +1001,7 @@
             <tr>
                 <th scope="row">16</th>
                 <td>Unraveling the Dynamic World of Animal Cell Cultures: A Gateway to Pharmaceutical Advancement and Research Exploration</td>
-                <td>Ms. Kriti Dabral  </td>
+                <td>Ms. Kriti Dabral </td>
                 <td>Basic Techniques in Biochemistry, Microbiology and Biotechnology</td>
             </tr>
             <tr>
@@ -1018,7 +1019,7 @@
             <tr>
                 <th scope="row">19</th>
                 <td>Biosensors in Pharmaceutical Industries: Revolutionizing Healthcare</td>
-                <td>Ms. Kriti Dabral  </td>
+                <td>Ms. Kriti Dabral </td>
                 <td>Basic Techniques in Biochemistry, Microbiology and Biotechnology</td>
             </tr>
             <tr>
@@ -1060,7 +1061,7 @@
             <tr>
                 <th scope="row">26</th>
                 <td>Understanding the Dynamic Nature of Immunity</td>
-                <td>Ms. Kriti Dabral  </td>
+                <td>Ms. Kriti Dabral </td>
                 <td>Basic Techniques in Biochemistry, Microbiology and Biotechnology</td>
             </tr>
             <tr>
@@ -1072,7 +1073,7 @@
             <tr>
                 <th scope="row">28</th>
                 <td>Unveiling the Intricacies of MHC: Structure and Function</td>
-                <td>Ms. Kriti Dabral  </td>
+                <td>Ms. Kriti Dabral </td>
                 <td>Basic Techniques in Biochemistry, Microbiology and Biotechnology</td>
             </tr>
             <tr>
@@ -1084,7 +1085,7 @@
             <tr>
                 <th scope="row">30</th>
                 <td>Storage Conditions and Stability of Official Vaccines</td>
-                <td>Ms. Kriti Dabral  </td>
+                <td>Ms. Kriti Dabral </td>
                 <td>Basic Techniques in Biochemistry, Microbiology and Biotechnology</td>
             </tr>
             <tr>
@@ -1096,7 +1097,7 @@
             <tr>
                 <th scope="row">32</th>
                 <td>Blood Products and Plasma Substitutes: Lifesaving Innovations in Medicine</td>
-                <td>Ms. Kriti Dabral  </td>
+                <td>Ms. Kriti Dabral </td>
                 <td>Basic Techniques in Biochemistry, Microbiology and Biotechnology</td>
             </tr>
             <tr>
@@ -1120,7 +1121,7 @@
             <tr>
                 <th scope="row">36</th>
                 <td>Exploring the Depths of Microbial Biotransformation: Principles, Applications, and Future Horizons</td>
-                <td>Ms. Kriti Dabral  </td>
+                <td>Ms. Kriti Dabral </td>
                 <td>Basic Techniques in Biochemistry, Microbiology and Biotechnology</td>
             </tr>
             <tr>
@@ -1144,7 +1145,7 @@
             <tr>
                 <th scope="row">40</th>
                 <td>Exploring the Bioproduction Landscape: From Microbial Metabolism to Industrial Innovation</td>
-                <td>Ms. Kriti Dabral  </td>
+                <td>Ms. Kriti Dabral </td>
                 <td>Basic Techniques in Biochemistry, Microbiology and Biotechnology</td>
             </tr>
             <tr>
@@ -1153,53 +1154,53 @@
                 <td>Dr. Vishal Kumar Deshwal</td>
                 <td>Basic Techniques in Biochemistry, Microbiology and Biotechnology</td>
             </tr>
-        <tbody>
+            <tbody>
         </table>
-</div>   
+    </div>
 </div>
 <div class="container mt-5">
-<div id="Book2019" class="tabcontent">
-    <table class="table table-bordered">
-        <thead>
-            <tr class="heading">
-                <th scope="col"><b>S.No.</b></th>
-                <th scope="col"><b>Chapter Name</b></th>
-                <th scope="col"><b>Author Name</b></th>
-                <th scope="col"><b>Book Name </b></th>
-            </tr>
-        </thead>
-        <tr>
+    <div id="Book2019" class="tabcontent">
+        <table class="table table-bordered">
+            <thead>
+                <tr class="heading">
+                    <th scope="col"><b>S.No.</b></th>
+                    <th scope="col"><b>Chapter Name</b></th>
+                    <th scope="col"><b>Author Name</b></th>
+                    <th scope="col"><b>Book Name </b></th>
+                </tr>
+            </thead>
+            <tr>
                 <th scope="row">1</th>
                 <td>Tracing the Threads: The Interconnected Evolution of Pharmacy
-Education, Industry Dynamics, and Organizational Structures
-in India
-</td>
+                    Education, Industry Dynamics, and Organizational Structures
+                    in India
+                </td>
                 <td>Dr. Jyoti Sinha </td>
                 <td>Text Book of Pharmaceutics</td>
             </tr>
             <tr>
                 <th scope="row">2</th>
                 <td>Navigating Pharmacy as a Dynamic Career Path: An In-depth
-Exploration of Opportunities and Pharmacopoeial Standards
-</td>
+                    Exploration of Opportunities and Pharmacopoeial Standards
+                </td>
                 <td>Ms. Kriti Dabral</td>
                 <td>Text Book of Pharmaceutics</td>
             </tr>
             <tr>
                 <th scope="row">3</th>
                 <td>Navigating the Landscape of Dosage Forms: A Comprehensive
-Exploration of Classification, Definitions, and Practical
-Considerations
-</td>
+                    Exploration of Classification, Definitions, and Practical
+                    Considerations
+                </td>
                 <td>Ms. Yashika Uniyal</td>
                 <td>Text Book of Pharmaceutics</td>
             </tr>
             <tr>
                 <th scope="row">4</th>
                 <td>Comprehensive Insights into Prescriptions: Understanding
-Definitions, Components, Handling, and Strategies for Error
-Prevention
-</td>
+                    Definitions, Components, Handling, and Strategies for Error
+                    Prevention
+                </td>
                 <td>Ms. Kanchan Singh</td>
                 <td>Text Book of Pharmaceutics</td>
             </tr>
@@ -1254,16 +1255,16 @@ Prevention
             <tr>
                 <th scope="row">13</th>
                 <td>Unveiling the Foundations of Preformulation Studies in
-Pharmaceutical Science</td>
+                    Pharmaceutical Science</td>
                 <td>Ms. Yashika Uniyal </td>
                 <td>Text Book of Pharmaceutics</td>
             </tr>
             <tr>
                 <th scope="row">14</th>
                 <td>Harnessing Preformulation Considerations for the Development
-of Solid, Liquid Oral, and Parenteral Dosage Forms:
-A Comprehensive Analysis
-</td>
+                    of Solid, Liquid Oral, and Parenteral Dosage Forms:
+                    A Comprehensive Analysis
+                </td>
                 <td>Ms. Kanchan Singh </td>
                 <td>Text Book of Pharmaceutics</td>
             </tr>
@@ -1276,48 +1277,48 @@ A Comprehensive Analysis
             <tr>
                 <th scope="row">16</th>
                 <td>Mastering Tablet Coating Techniques and Quality Control
-Measures
-</td>
+                    Measures
+                </td>
                 <td>Ms. Kanchan Singh</td>
                 <td>Text Book of Pharmaceutics</td>
             </tr>
             <tr>
                 <th scope="row">17</th>
                 <td>Mastering the Art of Liquid Orals: Formulation, Manufacturing,
-and Quality Assurance
-</td>
+                    and Quality Assurance
+                </td>
                 <td>Ms. Kriti Dabral</td>
                 <td>Text Book of Pharmaceutics</td>
             </tr>
             <tr>
                 <th scope="row">18</th>
                 <td>Hard Gelatin Capsules: Production, Formulation, and Quality
-Assurance
-</td>
+                    Assurance
+                </td>
                 <td>Ms. Yashika Uniyal</td>
                 <td>Text Book of Pharmaceutics</td>
             </tr>
             <tr>
                 <th scope="row">19</th>
                 <td>Potential of Soft Gelatin Capsules: Production, Quality Control,
-and Applications
-</td>
+                    and Applications
+                </td>
                 <td>Dr. Jyoti Sinha</td>
                 <td>Text Book of Pharmaceutics</td>
             </tr>
             <tr>
                 <th scope="row">20</th>
                 <td>Embracing the Realm of Pellets: Exploring Formulation, Process,
-and Equipment
-</td>
+                    and Equipment
+                </td>
                 <td>Ms. Kriti Dabral</td>
                 <td>Text Book of Pharmaceutics</td>
             </tr>
             <tr>
                 <th scope="row">21</th>
                 <td>Mastering Parenteral Products: Formulation, Production, and
-Quality Control
-</td>
+                    Quality Control
+                </td>
                 <td>Ms. Yashika Uniyal </td>
                 <td>Text Book of Pharmaceutics</td>
             </tr>
@@ -1336,8 +1337,8 @@ Quality Control
             <tr>
                 <th scope="row">24</th>
                 <td>Pharmaceutical Aerosols: Formulation, Manufacture, and
-Evaluation
-</td>
+                    Evaluation
+                </td>
                 <td>Ms. Kriti Dabral </td>
                 <td>Text Book of Pharmaceutics</td>
             </tr>
@@ -1350,8 +1351,8 @@ Evaluation
             <tr>
                 <th scope="row">26</th>
                 <td>Controlled Drug Delivery Systems: Design, Principles, and
-Applications
-</td>
+                    Applications
+                </td>
                 <td>Ms. Kanchan Singh</td>
                 <td>Text Book of Pharmaceutics</td>
             </tr>
@@ -1364,100 +1365,98 @@ Applications
             <tr>
                 <th scope="row">28</th>
                 <td>Mucosal Drug Delivery Systems: Enhancing Therapeutic Efficacy
-through Bioadhesion</td>
+                    through Bioadhesion</td>
                 <td>Ms. Kriti Dabral </td>
                 <td>Text Book of Pharmaceutics</td>
             </tr>
             <tr>
                 <th scope="row">29</th>
                 <td>Implantable Drug Delivery Systems: Pioneering Therapeutic
-Solutions</td>
+                    Solutions</td>
                 <td>Ms. Yashika Uniyal </td>
                 <td>Text Book of Pharmaceutics</td>
             </tr>
             <tr>
                 <th scope="row">30</th>
                 <td>Informatics and Methods in Drug Design: Harnessing Data
-for Therapeutic Innovation
-</td>
+                    for Therapeutic Innovation
+                </td>
                 <td>Ms. Kanchan Singh </td>
                 <td>Text Book of Pharmaceutics</td>
             </tr>
 
             <tbody>
         </table>
-</div>
+    </div>
 </div>
 <?php require "common/footer.php" ?>
 
 <script>
+    function openTab(evt, tabName) {
+        var i, tabcontent, tablinks;
 
-function openTab(evt, tabName) {
-    var i, tabcontent, tablinks;
-    
-    tabcontent = document.getElementsByClassName("tabcontent");
-    for (i = 0; i < tabcontent.length; i++) {
-        tabcontent[i].style.display = "none";
+        tabcontent = document.getElementsByClassName("tabcontent");
+        for (i = 0; i < tabcontent.length; i++) {
+            tabcontent[i].style.display = "none";
+        }
+
+        tablinks = document.getElementsByClassName("tablink");
+        for (i = 0; i < tablinks.length; i++) {
+            tablinks[i].className = tablinks[i].className.replace(" active", "");
+        }
+
+        document.getElementById(tabName).style.display = "block";
+        evt.currentTarget.className += " active";
     }
-    
-    tablinks = document.getElementsByClassName("tablink");
-    for (i = 0; i < tablinks.length; i++) {
-        tablinks[i].className = tablinks[i].className.replace(" active", "");
-    }
-    
-    document.getElementById(tabName).style.display = "block";
-    evt.currentTarget.className += " active";
-}
 
-// By default, open the Boys Hostel tab
-document.addEventListener("DOMContentLoaded", function() {
-    document.querySelector(".tablink").click();
-});
-
-
+    // By default, open the Boys Hostel tab
+    document.addEventListener("DOMContentLoaded", function() {
+        document.querySelector(".tablink").click();
+    });
 </script>
 <style>
     .tabs {
-    display: flex;
-    justify-content: center;
-    margin-bottom: 20px;
-}
+        display: flex;
+        justify-content: center;
+        margin-bottom: 20px;
+    }
 
-.tablink {
-    background-color: orange;
-    border: none;
-    outline: none;
-    padding: 10px 20px;
-    cursor: pointer;
-    font-size: 16px;
-    margin: 0 5px;
-}
+    .tablink {
+        background-color: orange;
+        border: none;
+        outline: none;
+        padding: 10px 20px;
+        cursor: pointer;
+        font-size: 16px;
+        margin: 0 5px;
+    }
 
-.tablink:hover {
-    background-color: #ddd;
-}
+    .tablink:hover {
+        background-color: #ddd;
+    }
 
-.tablink.active {
-    background-color: lightpink;
-}
+    .tablink.active {
+        background-color: lightpink;
+    }
 
-.tabcontent {
-    display: none;
-}
+    .tabcontent {
+        display: none;
+    }
 
-.tabcontent table {
-    width: 100%;
-    border-collapse: collapse;
-    margin-bottom: 20px;
-}
+    .tabcontent table {
+        width: 100%;
+        border-collapse: collapse;
+        margin-bottom: 20px;
+    }
 
-.tabcontent th, .tabcontent td {
-    border: 1px solid #ccc;
-    padding: 8px;
-    text-align: left;
-}
+    .tabcontent th,
+    .tabcontent td {
+        border: 1px solid #ccc;
+        padding: 8px;
+        text-align: left;
+    }
 
-.tabcontent th {
-    background-color: #f2f2f2;
-}
+    .tabcontent th {
+        background-color: #f2f2f2;
+    }
 </style>
