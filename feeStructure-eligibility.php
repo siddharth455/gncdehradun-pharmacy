@@ -45,7 +45,7 @@
                             <div class="tab-pane fade show active" id="home-tab-pane" role="tabpanel" aria-labelledby="home-tab">
                                 <div class="feeTables">
                                     <h5>All India Quota (Amount of fee details in INR)</h5>
-                                    <div class="table-responsive">
+                                    <div class="table-responsive" style="filter: drop-shadow(4px 3px 4px black);">
                                         <table class="table table-bordered">
                                             <thead>
                                                 <tr>
@@ -85,7 +85,7 @@
 
                                     </div>
                                     <h5>Tuition Fee Waiver on Percentage(Class 12th Results) only one Applicable</h5>
-                                    <div class="table-responsive">
+                                    <div class="table-responsive" style="filter: drop-shadow(4px 3px 4px black);">
                                         <table class="table table-bordered">
                                             <thead>
                                                 <tr>
@@ -119,7 +119,7 @@
                             <div class="tab-pane fade" id="contact-tab-pane" role="tabpanel" aria-labelledby="contact-tab">
                                 <div class="feeTables">
                                     <h5>One Time Payable Charges in 1st Year (INR)</h5>
-                                    <div class="table-responsive">
+                                    <div class="table-responsive" style="filter: drop-shadow(4px 3px 4px black);">
                                         <table class="table table-bordered">
                                             <thead>
                                                 <tr>
@@ -139,7 +139,7 @@
                                     </div>
 
                                     <h5>Other Charges Per Year (INR)</h5>
-                                    <div class="table-responsive">
+                                    <div class="table-responsive" style="filter: drop-shadow(4px 3px 4px black);">
                                         <table class="table table-bordered">
                                             <thead>
                                                 <tr>
@@ -162,7 +162,7 @@
                                     </div>
 
                                     <h5>Optional Fee Par Year (INR)</h5>
-                                    <div class="table-responsive">
+                                    <div class="table-responsive" style="filter: drop-shadow(4px 3px 4px black);">
                                         <table class="table table-bordered">
                                             <thead>
                                                 <tr>
@@ -290,7 +290,7 @@
                             <div class="tab-pane fade show active" id="home-tab-pane2" role="tabpanel" aria-labelledby="home-tab2">
                                 <div class="feeTables">
                                     <h5>All India Quota (Amount of fee details in INR)</h5>
-                                    <div class="table-responsive">
+                                    <div class="table-responsive" style="filter: drop-shadow(4px 3px 4px black);">
                                         <table class="table table-bordered">
                                             <thead>
                                                 <tr>
@@ -330,7 +330,7 @@
 
                                     </div>
                                     <h5>Tuition Fee Waiver on Percentage(Class 12th Results) only one Applicable</h5>
-                                    <div class="table-responsive">
+                                    <div class="table-responsive" style="filter: drop-shadow(4px 3px 4px black);">
                                         <table class="table table-bordered">
                                             <thead>
                                                 <tr>
@@ -364,7 +364,7 @@
                             <div class="tab-pane fade" id="contact-tab-pane2" role="tabpanel" aria-labelledby="contact-tab2">
                                 <div class="feeTables">
                                     <h5>One Time Payable Charges in 1st Year (INR)</h5>
-                                    <div class="table-responsive">
+                                    <div class="table-responsive" style="filter: drop-shadow(4px 3px 4px black);">
                                         <table class="table table-bordered">
                                             <thead>
                                                 <tr>
@@ -384,7 +384,7 @@
                                     </div>
 
                                     <h5>Other Charges Per Year (INR)</h5>
-                                    <div class="table-responsive">
+                                    <div class="table-responsive" style="filter: drop-shadow(4px 3px 4px black);">
                                         <table class="table table-bordered">
                                             <thead>
                                                 <tr>
@@ -407,7 +407,7 @@
                                     </div>
 
                                     <h5>Optional Fee Par Year (INR)</h5>
-                                    <div class="table-responsive">
+                                    <div class="table-responsive" style="filter: drop-shadow(4px 3px 4px black);">
                                         <table class="table table-bordered">
                                             <thead>
                                                 <tr>

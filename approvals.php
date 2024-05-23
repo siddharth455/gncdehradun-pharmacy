@@ -43,7 +43,7 @@
     <div class="padding-section-equal-3">
         <div class="container-fluid ">
             <div class="row justify-content-center">
-                <div class="col-xl-11">
+                <div class="col-xl-11" >
                     <div class="row justify-content-center animatedParent" data-sequence="500">
                         <div class="col-md-4  p-2">
                             <div class="mb-4 animated fadeInUpShort go" data-id="0">

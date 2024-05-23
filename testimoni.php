@@ -6,9 +6,9 @@
                 Discover What Our Students Have to Say About Their Journey.
             </p>
         </div>
-        <div class="course-slider owl-carousel owl-theme ">
+        <div class="course-slider owl-carousel owl-theme">
             <div class="row align-items-center">
-                <div class="col-lg-5 col-md-5">
+                <div class="col-lg-5 col-md-5">""
                     <div class="course-slider-img">
                         <img src="assets/images/Rasika.webp" alt="course" />
                     </div>

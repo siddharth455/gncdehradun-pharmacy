@@ -15,7 +15,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-6">
-                    <div class="vision-block" style="background-image: url(images/vision);background-repeat: no-repeat;background-position: center;">
+                    <div class="vision-block" style="background-image: url(images/vision);background-repeat: no-repeat;background-position: center; border-radius: 10px;">
                         <div class="main-heading-vision">
                             <div class="row">
                                 <div class="col-8">
@@ -32,7 +32,7 @@
                         </ul>
                     </div>
 
-                    <div class="vision-block" style="background-image: url(images/mission); margin-top: 72px;background-repeat: no-repeat;background-position: center;">
+                    <div class="vision-block" style="background-image: url(images/mission); margin-top: 72px;background-repeat: no-repeat;background-position: center; border-radius: 10px;">
                         <div class="main-heading-vision">
                             <div class="row">
                                 <div class="col-8">
@@ -57,7 +57,7 @@
                     </div>
                 </div>
                 <div class="col-md-6">
-                    <div class="vision-block" style="background-image: url(images/core-value);background-repeat: no-repeat;background-position: center;">
+                    <div class="vision-block" style="background-image: url(images/core-value);background-repeat: no-repeat;background-position: center; border-radius: 10px;">
                         <div class="main-heading-vision">
                             <div class="row">
                                 <div class="col-8">

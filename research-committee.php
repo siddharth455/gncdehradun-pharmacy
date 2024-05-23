@@ -20,7 +20,7 @@
 </section>
 <div class="container">
     <h4>Research Committee</h4>
-    <table class="table table-bordered">
+    <table class="table table-bordered" style="filter: drop-shadow(3px 3px 4px black);">
         <thead>
             <tr class="heading">
                 <th scope="col"><b>S.No.</b></th>

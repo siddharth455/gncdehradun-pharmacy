@@ -42,7 +42,7 @@
             </ul>
         </div>
         <div class="col-md-4 col-sm-12">
-            <div class="vertical-slider">
+            <div class="vertical-slider" style="filter: drop-shadow(3px 3px 4px black);">
                 <?php for ($i = 1; $i <= 10; $i++) : ?>
                     <div class="hostel-overview">
                         <img src="assets/images/hostel/<?php echo str_pad($i, 2, '0', STR_PAD_LEFT); ?>.webp" alt="Exam Image <?php echo $i; ?>">

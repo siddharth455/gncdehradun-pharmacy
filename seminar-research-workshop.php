@@ -19,7 +19,7 @@
     </div>
 </section>
 <div class="container mb-5">
-    <table class="table table-bordered">
+    <table class="table table-bordered" style="filter: drop-shadow(3px 3px 4px black);">
         <thead>
             <tr class="heading">
                 <th scope="col"><b>S.No.</b></th>

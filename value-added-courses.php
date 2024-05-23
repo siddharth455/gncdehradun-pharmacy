@@ -18,7 +18,7 @@
         <p class="mb-2" style="text-align: left;">At Guru Nanak College of Pharmaceutical Sciences, we offer a range of value-added courses designed to enhance our students' knowledge and skills beyond the standard curriculum. Our value-added courses aim to equip students with the latest industry knowledge, improve their employability, and prepare them to tackle real-world challenges effectively. Join us to gain a competitive edge and stay ahead in your professional journey.</p>
     </div>
 </section>
-<section class="container mb-4">
+<section class="container mb-4" style="filter: drop-shadow(3px 3px 5px black);">
     <table class="table table-bordered">
         <thead>
             <tr class="heading">

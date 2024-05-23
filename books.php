@@ -20,7 +20,7 @@
 </section>
 <div class="container">
     <h4>Text Book of Pharmacognosy 2023</h4>
-    <table class="table table-bordered">
+    <table class="table table-bordered" style="filter: drop-shadow(3px 3px 4px black);">
         <thead>
             <tr class="heading">
                 <th scope="col"><b>S.No.</b></th>
@@ -327,7 +327,7 @@
 </div>
 <div class="container mt-5">
     <h4>HAP Pharmacology 2022</h4>
-    <table class="table table-bordered">
+    <table class="table table-bordered" style="filter: drop-shadow(3px 3px 4px black);">
         <thead>
             <tr class="heading">
                 <th scope="col"><b>S.No.</b></th>
@@ -622,7 +622,7 @@
 </div>   
 <div class="container mt-5">
     <h4>Pharmaceutical Product Development With Engineering Techniques 2021</h4>
-    <table class="table table-bordered">
+    <table class="table table-bordered" style="filter: drop-shadow(3px 3px 4px black);">
         <thead>
             <tr class="heading">
                 <th scope="col"><b>S.No.</b></th>
@@ -888,7 +888,7 @@
 </div>   
 <div class="container mt-5">
     <h4>Basic Techniques in Biochemistry, Microbiology and Biotechnology 2020</h4>
-    <table class="table table-bordered">
+    <table class="table table-bordered" style="filter: drop-shadow(3px 3px 4px black);">
         <thead>
             <tr class="heading">
                 <th scope="col"><b>S.No.</b></th>

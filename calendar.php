@@ -11,7 +11,7 @@
     </div>
 </div>
 <section class="container mt-5 mb-5">
-    <table class="table table-bordered">
+    <table class="table table-bordered" style="filter: drop-shadow(3px 3px 4px black);">
         <thead class="text-center">
             <tr class="heading">
                 <th colspan="4">Academic Calendar Session 2023-24</th>

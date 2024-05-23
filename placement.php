@@ -36,7 +36,7 @@
             <div class="col-lg-8">
                 <div class="programVideo">
                     <div class="gdlr-core-fluid-video-wrapper">
-                        <iframe src="https://www.youtube.com/embed/7hk7G0SEhZ0?autoplay=1&amp;mute=1&amp;playlist=7hk7G0SEhZ0&amp;loop=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" id="gdlr-video-561164" width="560" height="315">
+                        <iframe src="https://www.youtube.com/embed/7hk7G0SEhZ0?autoplay=1&amp;mute=1&amp;playlist=7hk7G0SEhZ0&amp;loop=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" id="gdlr-video-561164" width="560" height="315" style="filter: drop-shadow(4px 4px 5px black);">
                         </iframe>
                     </div>
                 </div>
@@ -109,7 +109,7 @@
                 <div class="choose-section__content">
                     <div class="row g-0">
                         <div class="col-xxl-4 col-sm-6">
-                            <div class="card h-100 border-1">
+                            <div class="card h-100 border-1" style="filter: drop-shadow(3px 3px 4px black);">
                                 <div class="card-body academics-objective">
                                     <h4 style="color: black !important;">Internships and On-the-job Trainings</h4>
                                     <p style="color: black !important;">During your course of studies, you will have ample opportunities to gain industry experience through internships and on-the-job training.</p>
@@ -117,7 +117,7 @@
                             </div>
                         </div>
                         <div class="col-xxl-4 col-sm-6">
-                            <div class="card h-100 border-1">
+                            <div class="card h-100 border-1" style="filter: drop-shadow(3px 3px 4px black);">
                                 <div class="card-body academics-objective">
                                     <h4 style="color: black !important;">Corporate Connect Program</h4>
                                     <p style="color: black !important;">We have established the Career Competency Program (CCP) at Guru Nanak College of Pharmaceutical Sciences with the aim of boosting our graduates' job prospects and creating an environment that attracts a greater number of multinational corporations (MNCs).</p>
@@ -125,7 +125,7 @@
                             </div>
                         </div>
                         <div class="col-xxl-4 col-sm-6">
-                            <div class="card h-100 border-1">
+                            <div class="card h-100 border-1" style="filter: drop-shadow(3px 3px 4px black);">
                                 <div class="card-body academics-objective">
                                     <h4 style="color: black !important;">Career Resource Centre</h4>
                                     <p style="color: black !important;">Empowerment comes through awareness. At Guru Nanak College of Pharmaceutical Sciences, the Career Resource Centre is dedicated to enlightening, linking, and offering guidance to students regarding placement prospects.</p>
@@ -133,7 +133,7 @@
                             </div>
                         </div>
                         <div class="col-xxl-4 col-sm-6">
-                            <div class="card h-100 border-1">
+                            <div class="card h-100 border-1" style="filter: drop-shadow(3px 3px 4px black);">
                                 <div class="card-body academics-objective">
                                     <h4 style="color: black !important;">Accreditations &amp; Validations</h4>
                                     <p style="color: black !important;">Accreditations and validations stand as the foundational pillars of accuracy and trustworthiness, playing a pivotal role in attracting multinational corporations to our campus for recruitment purposes.</p>
@@ -141,7 +141,7 @@
                             </div>
                         </div>
                         <div class="col-xxl-4 col-sm-6">
-                            <div class="card h-100 border-1">
+                            <div class="card h-100 border-1" style="filter: drop-shadow(3px 3px 4px black);">
                                 <div class="card-body academics-objective">
                                     <h4 style="color: black !important;">Placement Cell</h4>
                                     <p style="color: black !important;">GNC's Placement Cell is available year-round to facilitate your connections with leading multinational corporations (MNCs).</p>
@@ -149,7 +149,7 @@
                             </div>
                         </div>
                         <div class="col-xxl-4 col-sm-6">
-                            <div class="card h-100 border-1">
+                            <div class="card h-100 border-1" style="filter: drop-shadow(3px 3px 4px black);">
                                 <div class="card-body academics-objective">
                                     <h4 style="color: black !important;">Foreign Internships &amp; Semester Exchange</h4>
                                     <p style="color: black !important;">Participating in Global Internships and Semester Exchange programs enhances your marketability by providing you with a unique blend of international exposure, hands-on experience, and a wealth of knowledge and skills acquired on the job.</p>

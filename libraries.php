@@ -50,14 +50,14 @@
                 <a href="https://ndl.iitkgp.ac.in/" class="btn btn-primary" style="background-color: rgb(255, 123, 50); color: #fff; border: none; padding: 10px 20px; text-decoration: none; border-radius: 5px; transition: background-color 0.3s ease;" target="_blank">Explore E-Library</a>
             </div>
             <div class="col-sm-12 col-md-5">
-                <div class="chancellor-top-row">
+                <div class="chancellor-top-row" style="filter: drop-shadow(5px 6px 5px black);">
                     <img src="assets/images/e-library.webp" class="img-fluid" alt="E-Library Image">
                 </div>
             </div>
         </div>
     </div>
 </section>
-<div class="container mt-5 mb-5">
+<div class="container mt-5 mb-5" style="filter: drop-shadow(4px 3px 5px black);">
     <h4>Library Committee</h4>
     <table class="table table-bordered">
         <thead>
