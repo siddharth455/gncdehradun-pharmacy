@@ -34,7 +34,7 @@
                 </button>
             </h2>
             <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
-                <div class="accordion-body">
+                <div class="accordion-body" style="filter: drop-shadow(3px 3px 5px black);">
                     <table class="table table-bordered">
                         <thead>
                             <tr class="heading">
@@ -107,7 +107,7 @@
                 </button>
             </h2>
             <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
-                <div class="accordion-body">
+                <div class="accordion-body" style="filter: drop-shadow(3px 3px 5px black);">
                     <table class="table table-bordered">
                         <thead>
                             <tr class="heading">
@@ -166,7 +166,7 @@
                 </button>
             </h2>
             <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordionExample">
-                <div class="accordion-body">
+                <div class="accordion-body" style="filter: drop-shadow(3px 3px 5px black);">
                     <table class="table table-bordered">
                         <thead>
                             <tr class="heading">
@@ -218,7 +218,7 @@
                 </button>
             </h2>
             <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#accordionExample">
-                <div class="accordion-body">
+                <div class="accordion-body" style="filter: drop-shadow(3px 3px 5px black);">
                     <table class="table table-bordered">
                         <thead>
                             <tr class="heading">
@@ -298,7 +298,7 @@
                 </button>
             </h2>
             <div id="collapseSix" class="accordion-collapse collapse" aria-labelledby="headingSix" data-bs-parent="#accordionExample">
-                <div class="accordion-body">
+                <div class="accordion-body" style="filter: drop-shadow(3px 3px 5px black);">
                     <table class="table table-bordered">
                         <thead>
                             <tr class="heading">
@@ -371,7 +371,7 @@
                 </button>
             </h2>
             <div id="collapseSeven" class="accordion-collapse collapse" aria-labelledby="headingSeven" data-bs-parent="#accordionExample">
-                <div class="accordion-body">
+                <div class="accordion-body" style="filter: drop-shadow(3px 3px 5px black);">
                     <table class="table table-bordered">
                         <thead>
                             <tr class="heading">
@@ -430,7 +430,7 @@
                 </button>
             </h2>
             <div id="collapseEight" class="accordion-collapse collapse" aria-labelledby="headingEight" data-bs-parent="#accordionExample">
-                <div class="accordion-body">
+                <div class="accordion-body" style="filter: drop-shadow(3px 3px 5px black);">
                     <table class="table table-bordered">
                         <thead>
                             <tr class="heading">
@@ -489,7 +489,7 @@
                 </button>
             </h2>
             <div id="collapseNine" class="accordion-collapse collapse" aria-labelledby="headingNine" data-bs-parent="#accordionExample">
-                <div class="accordion-body">
+                <div class="accordion-body" style="filter: drop-shadow(3px 3px 5px black);">
                     <table class="table table-bordered">
                         <thead>
                             <tr class="heading">
@@ -555,7 +555,7 @@
                 </button>
             </h2>
             <div id="collapseTen" class="accordion-collapse collapse" aria-labelledby="headingTen" data-bs-parent="#accordionExample">
-                <div class="accordion-body">
+                <div class="accordion-body" style="filter: drop-shadow(3px 3px 5px black);">
                     <table class="table table-bordered">
                         <thead>
                             <tr class="heading">
@@ -607,7 +607,7 @@
                 </button>
             </h2>
             <div id="collapseEleven" class="accordion-collapse collapse" aria-labelledby="headingEleven" data-bs-parent="#accordionExample">
-                <div class="accordion-body">
+                <div class="accordion-body" style="filter: drop-shadow(3px 3px 5px black);">
                     <table class="table table-bordered">
                         <thead>
                             <tr class="heading">
@@ -667,7 +667,7 @@
                 </button>
             </h2>
             <div id="collapseTwelve" class="accordion-collapse collapse" aria-labelledby="headingTwelve" data-bs-parent="#accordionExample">
-                <div class="accordion-body">
+                <div class="accordion-body" style="filter: drop-shadow(3px 3px 5px black);">
                     <table class="table table-bordered">
                         <thead>
                             <tr class="heading">
@@ -719,7 +719,7 @@
                 </button>
             </h2>
             <div id="collapseThirteen" class="accordion-collapse collapse" aria-labelledby="headingThirteen" data-bs-parent="#accordionExample">
-                <div class="accordion-body">
+                <div class="accordion-body" style="filter: drop-shadow(3px 3px 5px black);">
                     <table class="table table-bordered">
                         <thead>
                             <tr class="heading">

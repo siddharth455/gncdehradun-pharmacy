@@ -21,7 +21,7 @@
                 <p>The primary mission of the Centre is to inspire and assist students and faculty in generating innovative ideas and transforming them into commercial products. This effort effectively bridges the gap between industry and academia.</p>
 
             </div>
-            <div class="col-md-5 col-sm-12">
+            <div class="col-md-5 col-sm-12" style="filter: drop-shadow(4px 4px 4px black);">
                 <img src="assets/images/Incubation-images.webp" alt="" style="border-radius: 10px;">
             </div>
         </div>

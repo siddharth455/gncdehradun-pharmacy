@@ -66,7 +66,7 @@
         <p class="mb-3" style="text-align: left;">Guru Nanak College of Pharmaceutical Sciences emphasizes holistic development through its Cultural and Sports Development Department, offering initiatives such as cultural activities (arts, music, dance, drama), diverse sports programs, life skills workshops (yoga, fitness, health), and community engagement opportunities, ensuring students are well-rounded, culturally enriched, and physically fit, preparing them for balanced professional and personal lives.</p>
     </div>
 </section>
-<section class="container mb-5">
+<section class="container mb-5" style="filter: drop-shadow(3px 3px 4px black);">
     <table class="table table-bordered">
         <thead>
 

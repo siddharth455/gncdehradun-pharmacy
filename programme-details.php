@@ -34,7 +34,7 @@
 
                 </div>
             </div>
-            <div class="col-lg-6">
+            <div class="col-lg-6" style="filter: drop-shadow(5px 5px 4px black);">
                 <iframe src="https://www.youtube.com/embed/3bVTeWA9mjU?autoplay=1&amp;mute=1&amp;playlist=3bVTeWA9mjU&amp;loop=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" id="gdlr-video-411196" width="100%" height="100%"></iframe>
             </div>
         </div>
@@ -60,7 +60,7 @@
                     <a href="https://gnc.edu.in/pharmacy-college?utm_source=Pharmacy-website&utm_medium=Online&utm_campaign=Pharmacy-website" class="btn btn-lg btn-shadow applyNow_button" style="background-color: #00bcfb;">Apply Now </a>
                 </div>
             </div>
-            <div class="col-lg-6">
+            <div class="col-lg-6" style="filter: drop-shadow(5px 5px 4px black);">
                 
                 <iframe src="https://www.youtube.com/embed/7hk7G0SEhZ0?autoplay=1&amp;mute=1&amp;playlist=7hk7G0SEhZ0&amp;loop=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" id="gdlr-video-411196" width="100%" height="100%"></iframe>
 
