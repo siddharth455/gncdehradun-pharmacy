@@ -4,6 +4,28 @@
             height: 50%;
             margin: 20px 40% ;
         }
+        @media (max-width: 768px) {
+            #chart-container {
+                max-width: 600px; /* Adjust as needed */
+            }
+        }
+
+        /* Styles for Mobile */
+        @media (max-width: 480px) {
+            #chart-container {
+                max-width: 350px; /* Add some padding to prevent the chart from touching the edges */
+                margin: 0 50px ;
+                
+            }
+
+            canvas {
+                height: 350px !important;
+                width: 400px !important;
+            }
+            .mobile-font-size .datalabels {
+            font-size: 10px !important;
+        }
+        }
     </style>
 
 <?php require "common/header.php" ?>
@@ -32,6 +54,11 @@
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2"></script>
     <script>
+          function adjustFontSize(chart) {
+            const mobileFontSize = window.innerWidth <= 480 ? 10 : 24;
+            chart.options.plugins.datalabels.font.size = mobileFontSize;
+            chart.update();
+        }
         const ctx = document.getElementById('bookChaptersChart').getContext('2d');
         const bookChaptersChart = new Chart(ctx, {
             type: 'pie',
@@ -77,6 +104,11 @@
             },
             plugins: [ChartDataLabels]
         });
+        adjustFontSize(bookChaptersChart);
+
+window.addEventListener('resize', () => {
+    adjustFontSize(bookChaptersChart);
+});
     </script>
 <section class="container mb-4" style="filter: drop-shadow(3px 3px 5px black);">
     <table class="table table-bordered">
