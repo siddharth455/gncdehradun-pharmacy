@@ -95,7 +95,6 @@
         <div class="row justify-content-around">
             <div class="col-lg-4">
                 <div class="card shadow-lg border-0">
-                <div class="card shadow-lg border-0" style="filter: drop-shadow(2px 2px 3px black); border-radius: 7px;">
                     <img src="assets/images/princpal.webp" alt="Prof. (Dr.) Deepak Sharma">
                     <div class="card-body">
                         <h5 class="card-title">Prof. (Dr.) Deepak Sharma</h5>
@@ -125,13 +124,8 @@
                 <p>
                     Join us in our mission to redefine the future of pharmacy education and make a positive impact on global healthcare. Welcome to Guru Nanak College of Pharmaceutical Sciences, where excellence meets innovation.”
                 </p>
-
             </div>
         </div>
     </div>
 </div>
-
-
-
-
 <?php require "common/footer.php" ?>
