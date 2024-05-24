@@ -69,7 +69,6 @@
 <section class="container mb-5" style="filter: drop-shadow(3px 3px 4px black);">
     <table class="table table-bordered">
         <thead>
-
             <tr class="heading">
                 <th><b>S.No.</b></th>
                 <th><b>Event Name</b></th>
@@ -245,28 +244,16 @@
         </tbody>
     </table>
 </section>
- <section class="row mt-5 mb-5">
+ <!-- <section class="row mt-5 mb-5">
 <div class="row justify-content-center">
     <div class="col-lg-auto mx-2 text-center">
         <div class="page-title-content1">
             <h2 style="color: black;">Gallery</h2>
         </div>
     </div>
-</div>
-<?php
-// Read the JSON file
-$news_data = file_get_contents('campus-data.json');
+</div> -->
 
-// Decode JSON data into a PHP array
-$news_array = json_decode($news_data, true);
-?>
-<?php foreach ($news_array as $index => $news_item) { ?>
-    <div class="col-lg-2 col-md-3 col-4">
-        <div class="single-home-news1">
-            <img src="<?php echo $news_item['image']; ?>" alt="news" />
-        </div>
-    </div>
-<?php } ?>
-</section>
+
+
 
 <?php require "common/footer.php" ?>
