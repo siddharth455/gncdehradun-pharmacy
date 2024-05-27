@@ -179,6 +179,9 @@
                                     <li class="nav-item">
                                         <a href="student-club.php" class="nav-link">Student Clubs</a>
                                     </li>
+                                    <li class="nav-item">
+                                        <a href="alumni.php" class="nav-link">Alumni</a>
+                                    </li>
                                 </ul>
                             </li>
                             <li class="nav-item">

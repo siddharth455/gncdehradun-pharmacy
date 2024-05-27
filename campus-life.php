@@ -20,7 +20,7 @@
         </div>
     </div>
 </section>
-<section class="row">
+<section class="row"> 
     <?php
     // Read the JSON file
     $news_data = file_get_contents('campus-data.json');
