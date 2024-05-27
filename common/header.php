@@ -180,6 +180,9 @@
                                         <a href="student-club.php" class="nav-link">Student Clubs</a>
                                     </li>
                                     <li class="nav-item">
+                                        <a href="sports.php" class="nav-link">Sports Infrastructure</a>
+                                    </li>
+                                    <li class="nav-item">
                                         <a href="alumni.php" class="nav-link">Alumni</a>
                                     </li>
                                 </ul>
@@ -208,6 +211,9 @@
                                     <li class="nav-item">
                                         <a href="seminar-research-workshop.php" class="nav-link">Research/Seminar/Workshop</a>
                                     </li>
+                                    <!-- <li class="nav-item">
+                                        <a href="research-infrastructure.php" class="nav-link">Research Infrastructure</a>
+                                    </li> -->
 
                                 </ul>
                             </li>
