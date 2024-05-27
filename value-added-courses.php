@@ -127,7 +127,7 @@ window.addEventListener('resize', () => {
                 <td>Academic Research & Report Writing</td>
                 <td>VAC -ARRW1819</b></td>
                 <td>Dr. Vishal Deshwal</td>
-                <td><a class="btn btn-primary" target="_blank" href="assets/syllabusfiles/Academic-Research-Report-Writing.pdf">Syllabus</a></td>
+                <td><a class="btn btn-primary" target="_blank" href="assets/syllabusfiles/Academic-Research-&-Report-Writing.pdf">Syllabus</a></td>
             </tr>
             <tr>
                 <th scope="row">2</th>
