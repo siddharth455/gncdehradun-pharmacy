@@ -51,7 +51,7 @@ $events = json_decode($jsonData, true);
             </div>
             <div class="col-lg-6">
                 <div class="imageboxe" style="border-style: solid; padding: 5px;">
-                    <img src="assets/images/gnc-news-update-image-awards.webp" alt="" style="height: 78vh;">
+                    <img src="assets/images/gnc-news-update-image-awards.webp" alt="">
                 </div>
             </div>
         </div>
