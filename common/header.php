@@ -219,6 +219,9 @@
                                         <a href="placement.php" class="nav-link">Placement Overview</a>
                                     </li>
                                     <li class="nav-item">
+                                        <a href="placement-drive.php" class="nav-link">Placement Drive</a>
+                                    </li>
+                                    <li class="nav-item">
                                         <a href="industry-collaboration.php" class="nav-link">Industry Collaboration - CBC</a>
                                     </li>
                                 </ul>
