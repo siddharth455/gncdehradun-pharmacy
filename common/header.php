@@ -186,6 +186,9 @@
                                         <a href="student-club.php" class="nav-link">Student Clubs</a>
                                     </li>
                                     <li class="nav-item">
+                                        <a href="sports.php" class="nav-link">Sports Infrastructures</a>
+                                    </li>
+                                    <li class="nav-item">
                                         <a href="alumni.php" class="nav-link">Alumni</a>
                                     </li>
                                 </ul>
@@ -199,9 +202,9 @@
                                     <li class="nav-item">
                                         <a href="research.php" class="nav-link">Research Papers</a>
                                     </li>
-                                    <!-- <li class="nav-item">
+                                     <li class="nav-item">
                                         <a href="career-development.php" class="nav-link">Reserch & Career Development Initiatives</a>
-                                    </li> -->
+                                    </li> 
                                     <li class="nav-item">
                                         <a href="mou.php" class="nav-link">Industry Collaborations / MOU Signed</a>
                                     </li>
@@ -213,6 +216,9 @@
                                     </li>
                                     <li class="nav-item">
                                         <a href="seminar-research-workshop.php" class="nav-link">Research/Seminar/Workshop</a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a href="research-infrastructure.php" class="nav-link">Research Infrastructures</a>
                                     </li>
 
                                 </ul>
@@ -232,6 +238,9 @@
                                     </li>
                                     <li class="nav-item">
                                         <a href="industry-collaboration.php" class="nav-link">Industry Collaboration - CBC</a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a href="training-Internship.php" class="nav-link">Training &amp; Internship</a>
                                     </li>
                                 </ul>
                             </li>

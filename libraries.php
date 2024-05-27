@@ -20,7 +20,7 @@
 <!-- First Section: Library -->
 <section style="background-color: #00b5fbf0;">
     <div class="container">
-        
+
         <div class="row pt-5 pb-5">
             <div class="col-sm-12 col-md-5">
                 <div class="chancellor-top-row">
@@ -38,24 +38,23 @@
 </section>
 
 <!-- Second Section: E-Library -->
-<section>
-    <div class="container">
-        <div class="row mt-5 mb-5">
-            <div class="col-sm-12 col-md-7">
-                <h2 style="color: black;">Expanding Knowledge Beyond the Library</h2>
-                <h5 style="color: black;">E-Library</h5>
-                <p style="color: black;">
-                    An e-library, or electronic library, is a digital repository of information and resources accessible through electronic devices. It provides 24/7 access to a wide range of digital materials, including e-books, research papers, multimedia content, and more. E-libraries offer advantages like convenient accessibility, efficient searchability, space savings, interactive features, support for remote learning, preservation of knowledge, and cost-effectiveness. They cater to various users, from students and researchers to the general public, and continue to evolve as technology advances, offering an ever-expanding wealth of digital resources for lifelong learning and research.
-                </p>
-                <a href="https://ndl.iitkgp.ac.in/" class="btn btn-primary" style="background-color: rgb(255, 123, 50); color: #fff; border: none; padding: 10px 20px; text-decoration: none; border-radius: 5px; transition: background-color 0.3s ease;" target="_blank">Explore E-Library</a>
-            </div>
-            <div class="col-sm-12 col-md-5">
-                <div class="chancellor-top-row" style="filter: drop-shadow(5px 6px 5px black);">
-                    <img src="assets/images/e-library.webp" class="img-fluid" alt="E-Library Image">
-                </div>
+<section class="container">
+    <div class="row mt-5 mb-5">
+        <div class="col-sm-12 col-md-7">
+            <h2 style="color: black;">Expanding Knowledge Beyond the Library</h2>
+            <h5 style="color: black;">E-Library</h5>
+            <p style="color: black;">
+                An e-library, or electronic library, is a digital repository of information and resources accessible through electronic devices. It provides 24/7 access to a wide range of digital materials, including e-books, research papers, multimedia content, and more. E-libraries offer advantages like convenient accessibility, efficient searchability, space savings, interactive features, support for remote learning, preservation of knowledge, and cost-effectiveness. They cater to various users, from students and researchers to the general public, and continue to evolve as technology advances, offering an ever-expanding wealth of digital resources for lifelong learning and research.
+            </p>
+            <a href="https://ndl.iitkgp.ac.in/" class="btn btn-primary" style="background-color: rgb(255, 123, 50); color: #fff; border: none; padding: 10px 20px; text-decoration: none; border-radius: 5px; transition: background-color 0.3s ease;" target="_blank">Explore E-Library</a>
+        </div>
+        <div class="col-sm-12 col-md-5">
+            <div class="chancellor-top-row" style="filter: drop-shadow(5px 6px 5px black);">
+                <img src="assets/images/e-library.webp" class="img-fluid" alt="E-Library Image">
             </div>
         </div>
     </div>
+
 </section>
 <div class="container mt-5 mb-5" style="filter: drop-shadow(4px 3px 5px black);">
     <h4>Library Committee</h4>
