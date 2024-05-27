@@ -119,7 +119,7 @@ window.addEventListener('resize', () => {
         <button class="tablink" onclick="openTab(event, 'Book2019')">2019</button>
     </div>
     <div id="GirlsHostel" class="tabcontent mt-5">
-        <table class="table table-bordered">
+        <table class="table table-bordered" style="filter: drop-shadow(3px 3px 4px black);">
             <thead>
                 <tr class="heading">
                     <th scope="col"><b>S.No.</b></th>
@@ -426,17 +426,17 @@ window.addEventListener('resize', () => {
     </div>
 </div>
 <div class="container mt-5">
-    <div id="BoysHostel" class="tabcontent">
-        <table class="table table-bordered">
-            <thead>
-                <tr class="heading">
-                    <th scope="col"><b>S.No.</b></th>
-                    <th scope="col"><b>Chapter Name</b></th>
-                    <th scope="col"><b>Author Name</b></th>
-                    <th scope="col"><b>Book Name </b></th>
-                </tr>
-            </thead>
-            <tr>
+<div id="BoysHostel" class="tabcontent">
+    <table class="table table-bordered">
+        <thead>
+            <tr class="heading">
+                <th scope="col"><b>S.No.</b></th>
+                <th scope="col"><b>Chapter Name</b></th>
+                <th scope="col"><b>Author Name</b></th>
+                <th scope="col"><b>Book Name </b></th>
+            </tr>
+        </thead>
+        <tr>
                 <th scope="row">1</th>
                 <td>Exploring the Wonders of the Human Body: An Introduction to Anatomy and Physiology</td>
                 <td>Dr. Nidhi Chatterjee</td>
@@ -724,7 +724,7 @@ window.addEventListener('resize', () => {
 </div>
 <div class="container mt-5">
     <div id="Book2021" class="tabcontent">
-        <table class="table table-bordered">
+        <table class="table table-bordered" style="filter: drop-shadow(3px 3px 4px black);">
             <thead>
                 <tr class="heading">
                     <th scope="col"><b>S.No.</b></th>
@@ -991,7 +991,7 @@ window.addEventListener('resize', () => {
 </div>
 <div class="container mt-5">
     <div id="Book2020" class="tabcontent">
-        <table class="table table-bordered">
+        <table class="table table-bordered" style="filter: drop-shadow(3px 3px 4px black);">
             <thead>
                 <tr class="heading">
                     <th scope="col"><b>S.No.</b></th>
@@ -1252,7 +1252,7 @@ window.addEventListener('resize', () => {
 </div>
 <div class="container mt-5">
     <div id="Book2019" class="tabcontent">
-        <table class="table table-bordered">
+        <table class="table table-bordered" style="filter: drop-shadow(3px 3px 4px black);">
             <thead>
                 <tr class="heading">
                     <th scope="col"><b>S.No.</b></th>
