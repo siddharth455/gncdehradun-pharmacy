@@ -2,6 +2,8 @@
 <style>
     img{
         border-radius: 10px;
+        border: 2px solid;
+
     }
 </style>
 <div class="banner-area about" style="background-image: url(assets/images/reserch.webp);">
@@ -31,7 +33,7 @@
             </div>
             <div class="col-md-6 col-sm-12 text-white">
                 <h2>Pharmaceutics-I</h2>
-                <p>
+                <p style="color:white;">
                     At Guru Nanak College of Pharmaceutical Sciences, our Pharmaceutics-I lab is dedicated to providing students with hands-on experience in the fundamental aspects of pharmaceutics. This lab is equipped with advanced instruments and technology to facilitate comprehensive learning and experimentation. Students engage in practical exercises that cover various formulations, including tablets, capsules, and liquid preparations. Under the guidance of experienced faculty, students develop critical skills in formulation, compounding, and quality control. Our Pharmaceutics-I lab aims to bridge the gap between theoretical knowledge and practical application, ensuring that students are well-prepared for their future careers in the pharmaceutical industry. Join us to gain invaluable laboratory experience and enhance your understanding of pharmaceutics.
                 </p>
             </div>
@@ -60,7 +62,7 @@
             </div>
             <div class="col-md-6 col-sm-12 text-white">
                 <h2>Pharmaceutics-III</h2>
-                <p>
+                <p style="color:white;">
                     At Guru Nanak College of Pharmaceutical Sciences, our Pharmaceutics-III lab is dedicated to providing students with hands-on experience and a deeper understanding of advanced pharmaceutical formulations. Equipped with the latest technology and state-of-the-art equipment, our lab enables students to explore the intricacies of drug development, formulation techniques, and quality control processes. Under the guidance of experienced faculty, students engage in practical experiments that bridge the gap between theoretical knowledge and real-world application. Our Pharmaceutics-III lab not only enhances technical skills but also fosters critical thinking and innovation, preparing students to excel in the dynamic field of pharmaceutical sciences. Join us to gain practical expertise and advance your professional journey in pharmaceutics.
                 </p>
             </div>
@@ -88,7 +90,7 @@
             </div>
             <div class="col-md-6 col-sm-12 text-white">
                 <h2>Pharmaceutical Chemistry-I</h2>
-                <p>
+                <p style="color:white;">
                     At Guru Nanak College of Pharmaceutical Sciences, our Pharmaceutical Chemistry-I lab is a cornerstone of our commitment to providing hands-on, practical learning experiences. This state-of-the-art lab is equipped with the latest instruments and technology to ensure students gain a deep understanding of the chemical principles underlying pharmaceutical sciences. In this lab, students engage in experiments that illustrate key concepts in organic and inorganic chemistry, learning to synthesize, analyze, and characterize various pharmaceutical compounds. Our dedicated faculty guide students through each experiment, emphasizing safety, precision, and analytical thinking. By working in the Pharmaceutical Chemistry-I lab, students develop essential skills that prepare them for advanced studies and professional careers in the pharmaceutical industry. Join us to explore the fascinating world of pharmaceutical chemistry and enhance your scientific expertise.
                 </p>
             </div>
@@ -116,7 +118,7 @@
             </div>
             <div class="col-md-6 col-sm-12 text-white">
                 <h2>Pharmaceutical Chemistry-III</h2>
-                <p>
+                <p style="color:white;">
                     At Guru Nanak College of Pharmaceutical Sciences, our Pharmaceutical Chemistry-III lab is meticulously designed to provide students with hands-on experience in advanced chemical analysis and synthesis. This lab is equipped with modern instrumentation and technology, allowing students to conduct experiments and research in areas such as medicinal chemistry, drug development, and chemical synthesis. Under the guidance of our expert faculty, students learn to apply theoretical knowledge to practical scenarios, enhancing their analytical and problem-solving skills. Our Pharmaceutical Chemistry-III lab aims to prepare students for the dynamic field of pharmaceutical sciences, ensuring they are well-equipped to meet industry standards and excel in their professional careers. Join us to gain a deeper understanding of pharmaceutical chemistry and develop the expertise needed to thrive in this ever-evolving field.
                 </p>
             </div>
@@ -144,7 +146,7 @@
             </div>
             <div class="col-md-6 col-sm-12 text-white">
                 <h2>Pharmacology-II</h2>
-                <p>
+                <p style="color:white;">
                     At Guru Nanak College of Pharmaceutical Sciences, our Pharmacology-II lab is a hub of experiential learning and practical application. Equipped with advanced instruments and guided by experienced faculty, this lab offers students hands-on experience in drug testing, analysis, and research. Our lab curriculum is designed to complement theoretical knowledge with real-world experimentation, allowing students to understand pharmacological principles in depth. Through practical sessions, students learn essential techniques in drug formulation, dosage calculation, and pharmacokinetics, preparing them for careers in pharmaceutical research, development, and clinical practice. Join us in exploring the fascinating world of pharmacology and honing your skills in our state-of-the-art Pharmacology-II lab.
                 </p>
             </div>
@@ -172,7 +174,7 @@
             </div>
             <div class="col-md-6 col-sm-12 text-white">
                 <h2>Machine Room</h2>
-                <p>
+                <p style="color:white;">
                     At Guru Nanak College of Pharmaceutical Sciences, our Machine Room Lab is a state-of-the-art facility designed to provide students with hands-on experience in pharmaceutical manufacturing processes. Equipped with the latest machinery and technology, the lab enables students to learn and practice essential skills in tablet compression, capsule filling, coating, granulation, and other key pharmaceutical operations. Under the guidance of experienced faculty, students gain practical insights into the functioning and maintenance of various pharmaceutical equipment. This real-world exposure ensures that our graduates are well-prepared to meet industry standards and excel in their professional careers. Join us to bridge the gap between theoretical knowledge and practical application in the field of pharmaceutical sciences.
                 </p>
             </div>

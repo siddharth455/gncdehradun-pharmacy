@@ -2,6 +2,8 @@
 <style>
     img{
         border-radius: 10px;
+        border: 2px solid;
+
     }
 </style>
 <div class="banner-area about" style="background-image: url(assets/images/reserch.webp);">
@@ -31,7 +33,7 @@
             </div>
             <div class="col-md-6 col-sm-12 text-white">
                 <h2>Cricket: Smash Boundaries & Chase Dreams</h2>
-                <p>At Guru Nanak College of Pharmaceutical Sciences, cricket is not just a sport but a passion that unites our students in a spirit of camaraderie and excellence. Our cricket program is designed to nurture budding talent, develop skills, and promote a love for the game among our students. With top-notch coaching staff and modern facilities, we provide a platform for students to hone their batting, bowling, and fielding techniques. Through regular practice sessions, intercollegiate tournaments, and friendly matches, we aim to foster a competitive yet supportive environment where students can showcase their cricketing prowess and learn invaluable lessons in sportsmanship and teamwork. Join us on the field and be part of our cricketing legacy at Guru Nanak College of Pharmaceutical Sciences.</p>
+                <p style="color:white;">At Guru Nanak College of Pharmaceutical Sciences, cricket is not just a sport but a passion that unites our students in a spirit of camaraderie and excellence. Our cricket program is designed to nurture budding talent, develop skills, and promote a love for the game among our students. With top-notch coaching staff and modern facilities, we provide a platform for students to hone their batting, bowling, and fielding techniques. Through regular practice sessions, intercollegiate tournaments, and friendly matches, we aim to foster a competitive yet supportive environment where students can showcase their cricketing prowess and learn invaluable lessons in sportsmanship and teamwork. Join us on the field and be part of our cricketing legacy at Guru Nanak College of Pharmaceutical Sciences.</p>
             </div>
         </div>
     </div>
@@ -58,7 +60,7 @@
             </div>
             <div class="col-md-6 col-sm-12 text-white">
                 <h2>Badminton: Fly High & Hit Hard</h2>
-                <p>
+                <p style="color:white;">
                     At Guru Nanak College of Pharmaceutical Sciences, our commitment to sports extends to specialized programs like badminton, offering students a platform to hone their skills and passion for this dynamic sport. Our badminton facilities are equipped with modern amenities and supervised by experienced coaches who guide players at every level, from beginners to advanced enthusiasts. Through regular practice sessions, competitive tournaments, and specialized training programs, we cultivate a culture of excellence and sportsmanship among our badminton players. Join us in the pursuit of sporting excellence and experience the thrill of badminton at its finest while fostering teamwork, discipline, and resilience on and off the court.
                 </p>
             </div>
@@ -86,7 +88,7 @@
             </div>
             <div class="col-md-6 col-sm-12 text-white">
                 <h2>High Jump:Sky's The Limit</h2>
-                <p>
+                <p style="color:white;">
                     At Guru Nanak College of Pharmaceutical Sciences, our commitment to holistic development extends to sports like high jump, where students can push their physical boundaries and cultivate resilience. Our high jump program is tailored to cater to both beginners and seasoned athletes, offering specialized coaching, top-notch equipment, and a supportive environment for athletes to thrive. Through rigorous training sessions and regular competitions, students not only improve their high jump techniques but also develop essential skills such as focus, perseverance, and goal-setting. Join us to soar to new heights in high jump and experience the thrill of athletic achievement while nurturing a strong sense of sportsmanship and camaraderie.
                 </p>
             </div>
@@ -115,7 +117,7 @@
             </div>
             <div class="col-md-6 col-sm-12 text-white">
                 <h2>Discus Throw:Spin, Launch & Conquer</h2>
-                <p>
+                <p style="color:white;">
                     At Guru Nanak College of Pharmaceutical Sciences, our commitment to comprehensive student development extends to specialized sports like Discus Throw. Our Discus Throw program is designed to hone athletes' technique, strength, and precision in this challenging sport. With access to professional coaching, top-notch training facilities, and a supportive environment, our students have the opportunity to excel in Discus Throw competitions at both national and international levels. Beyond physical skills, our program fosters qualities such as focus, determination, and resilience, essential for success on and off the field. Join us to unleash your potential in Discus Throw and become a champion in this dynamic sport while pursuing your academic goals.
                 </p>
             </div>
@@ -144,7 +146,7 @@
             </div>
             <div class="col-md-6 col-sm-12 text-white">
                 <h2>Shot Put: Launch to Victory</h2>
-                <p>
+                <p style="color:white;">
                     At Guru Nanak College of Pharmaceutical Sciences, we take pride in our comprehensive sports programs, including a dedicated focus on shot put. Our state-of-the-art facilities and experienced coaches ensure that students interested in shot put receive the best training and support to excel in this field. Shot put is not just a sport; it's a test of strength, technique, and determination. Through rigorous training sessions and personalized guidance, our students develop their skills in shot put, learning the nuances of proper form, power generation, and precision throwing. Competitions and intercollegiate events further enhance their experience, allowing them to showcase their talent and represent our college with pride. Join us in the shot put journey to unleash your potential, push your limits, and be a champion both on and off the field.
                 </p>
             </div>
