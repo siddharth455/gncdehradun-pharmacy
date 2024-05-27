@@ -126,6 +126,9 @@
                                     <li class="nav-item">
                                         <a href="value-added-courses.php" class="nav-link">Value Added Courses</a>
                                     </li>
+                                    <li class="nav-item">
+                                        <a href="PCI-handbook.php" class="nav-link">PCI-Handbook</a>
+                                    </li>
                                 </ul>
                             </li>
                             <li class="nav-item">
@@ -148,6 +151,9 @@
                                     </li>
                                     <li class="nav-item">
                                         <a href="scholarship-section.php" class="nav-link">Scholarship</a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a href="Prospectus.php" class="nav-link">Prospectus</a>
                                     </li>
                                     <!-- <li class="nav-item">
                         <a href="b-pharmacy-le.php" class="nav-link">B.Pharm (LE)</a>
