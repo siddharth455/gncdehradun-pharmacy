@@ -39,6 +39,24 @@ $events = json_decode($jsonData, true);
         </div>
     </div>
 </div>
+<div class="container-fluid mt-4">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6">
+                <div class="imageboxe" style="border-style: solid; padding: 5px;">
+                    <img src="assets/images/gnc-news-update-image.webp" alt="">
+
+
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <div class="imageboxe" style="border-style: solid; padding: 5px;">
+                    <img src="assets/images/gnc-news-update-image-awards.webp" alt="" style="height: 78vh;">
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 <div class="container mt-5 mb-5">
 <div class="row">
     <?php foreach ($events as $index => $event) : ?>
