@@ -65,7 +65,7 @@
             data: {
                 labels: ['2018-19','2019-20', '2020-21', '2021-22', '2022-23'],
                 datasets: [{
-                    label: 'Book Chapters',
+                    label: 'Research/Seminar',
                     data: [6, 8, 3, 13, 15], // Replace these numbers with your actual data
                     backgroundColor: [
                         'rgba(255, 99, 132, 1)',
