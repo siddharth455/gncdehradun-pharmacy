@@ -147,7 +147,121 @@ a.meanmenu-reveal {
 
 
 /* Fix for box sizing on Foundation Framework etc. */
+.header__top {
+    background-color: #ff7e37; /* Updated background color */
+    border-bottom: 1px solid #000000;
+    padding-top: 6px;
+    padding-bottom: 6px;
+}
 
+.header__top .container {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.header__top--right {
+    display: flex;
+    align-items: center;
+    gap: 20px; /* Space between social links and menu links */
+    flex-wrap: wrap;
+}
+
+.header-social a {
+    color: #ffffff; /* Icon color */
+    font-size: 18px;
+    margin: 0 8px;
+    transition: color 0.3s;
+}
+
+.header-social a:hover {
+    color: #d4d4d4; /* Icon hover color */
+}
+
+.header__top--links ul {
+    display: flex;
+    gap: 15px; /* Space between menu items */
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.header__top--links ul li {
+    display: inline-block;
+}
+
+.header__top--links ul li a {
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 14px;
+    transition: color 0.3s;
+}
+
+.header__top--links ul li a:hover {
+    color: #d4d4d4; /* Link hover color */
+}
+
+@media (max-width: 1200px) {
+    .header__top .container {
+        justify-content: center;
+    }
+
+    .header__top--right {
+        justify-content: center;
+    }
+}
+
+@media (max-width: 992px) {
+    .header__top--right {
+        gap: 15px;
+    }
+}
+
+@media (max-width: 768px) {
+    .header__top .container {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .header__top--right {
+        flex-direction: column;
+        align-items: center;
+        gap: 10px;
+    }
+
+    .header__top--links ul {
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .header__top--links ul li {
+        margin-bottom: 5px;
+    }
+}
+
+@media (max-width: 576px) {
+    .header__top {
+        padding: 10px 0;
+    }
+
+    .header__top--right {
+        gap: 8px;
+    }
+
+    .header-social a {
+        font-size: 16px;
+        margin: 0 5px;
+    }
+
+    .header__top--links ul {
+        gap: 8px;
+    }
+
+    .header__top--links ul li a {
+        font-size: 13px;
+    }
+}
 .mean-container .mean-bar,
 .mean-container .mean-bar * {
     -webkit-box-sizing: content-box;
@@ -169,7 +283,7 @@ a.meanmenu-reveal {
 
 .main-nav {
     background: #000;
-    position: absolute;
+    position: relative;
     top: 0;
     left: 0;
     padding-top: 15px;

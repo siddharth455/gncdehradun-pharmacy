@@ -318,7 +318,7 @@ Innovation in college and pharmacy education involves deliberately enhancing the
 
                     <p class="text-white">Our Industrial Collaborations ensure that students are well supported and guided for internships and placements. Our history speaks for itself. Our students are placed at lucrative packages in top-notch industries.</p>
 
-                    <a href="https://gnc.edu.in/pharmacy-college?utm_source=Pharmacy-website&utm_medium=Online&utm_campaign=Pharmacy-website" class="btn btn-lg btn-shadow">Apply Now <i class="fa fa-long-arrow-right ms-1" aria-hidden="true"></i></a>
+                    <a href="https://gncdehradun.com/pharmacy-college.php?utm_source=Pharmacy-website&utm_medium=Online&utm_campaign=Pharmacy-website" class="btn btn-lg btn-shadow">Apply Now <i class="fa fa-long-arrow-right ms-1" aria-hidden="true"></i></a>
                 </div>
             </div>
             <div class="col-lg-6">
