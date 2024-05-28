@@ -303,7 +303,7 @@
         <div class="accordion-item">
             <h2 class="accordion-header" id="headingSix">
                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
-                grievance &amp; Redressal Committee
+                Grievance &amp; Redressal Committee
                 </button>
             </h2>
             <div id="collapseSix" class="accordion-collapse collapse" aria-labelledby="headingSix" data-bs-parent="#accordionExample">
@@ -671,7 +671,7 @@
                 </div>
             </div>
         </div>
-        <div class="accordion-item">
+        <!-- <div class="accordion-item">
             <h2 class="accordion-header" id="headingTwelve">
                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwelve" aria-expanded="false" aria-controls="collapseTwelve">
                     Faculty Grievance Redressal Committee
@@ -723,11 +723,11 @@
                     </table>
                 </div>
             </div>
-        </div>
+        </div> -->
         <div class="accordion-item">
             <h2 class="accordion-header" id="headingThirteen">
                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThirteen" aria-expanded="false" aria-controls="collapseThirteen">
-                    Student Council Committee
+                    Student Council 
                 </button>
             </h2>
             <div id="collapseThirteen" class="accordion-collapse collapse" aria-labelledby="headingThirteen" data-bs-parent="#accordionExample">

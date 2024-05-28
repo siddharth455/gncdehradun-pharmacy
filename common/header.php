@@ -240,7 +240,7 @@
                                         <a href="industry-collaboration.php" class="nav-link">Industry Collaboration - CBC</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a href="training-Internship.php" class="nav-link">Training &amp; Internship</a>
+                                        <a href="training-Internship.php" class="nav-link">Project &amp; Internship</a>
                                     </li>
                                 </ul>
                             </li>

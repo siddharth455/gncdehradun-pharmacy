@@ -69,7 +69,7 @@
                     <h5 style="color: white;">Mandatory&nbsp;Disclosure</h5>
                     <ul>
                         <li>
-                            <a href="anti-ragging.php"> Anti Ragging Cell</a>
+                            <a href="anti-ragging.php"> Anti Ragging Committee</a>
                         </li>
                         <li>
                             <a href="icc.php"> Internal Complaint Committee</a>
@@ -81,7 +81,7 @@
                             <a href="grc.php"> Grievance Redressal</a>
                         </li>
                         <li>
-                            <a href="cbd.php"> Caste Based Discrimination</a>
+                            <a href="cbd.php"> SC/ST Committee</a>
                         </li>
                         <li>
                             <a href="feedback.php"> Feedback</a>

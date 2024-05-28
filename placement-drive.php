@@ -4,6 +4,12 @@
         border-radius: 10px;
         border: 2px solid;
     }
+    .geek1 img {
+        width: 450px; /* Adjust the width as needed */
+        height: 350px; /* Adjust the height as needed */
+        object-fit: fill; /* Ensures the image covers the specified dimensions */
+        margin-right: 15px;
+    }
 </style>
 <div class="banner-area about" style="background-image: url(assets/images/d-2.webp);">
     <div class="d-table">
@@ -24,6 +30,16 @@
         <p class="mb-3" style="text-align: left;">The Training and Placement Drive at Guru Nanak College of Pharmaceutical Sciences is a comprehensive program designed to prepare students for successful careers in the pharmaceutical industry. Through industry-oriented training modules, mock interviews, resume building workshops, and guest lectures by industry experts, we aim to equip our students with the necessary skills and knowledge to excel in their professional endeavors. Our strong industry connections and placement assistance ensure that students have access to a wide range of job opportunities and internships, allowing them to kick-start their careers with confidence and competence. At Guru Nanak College of Pharmaceutical Sciences, we are committed to nurturing talent and facilitating meaningful career transitions for our students.</p>
     </div>
 </section>
+ <marquee class="marq" direction="left" loop="" >
+        <div class="geek1">
+        <img src="assets/images/placement/student-placement-2.webp" alt="student-placed">
+        <img src="assets/images/placement/student-placement-3.webp" alt="student-placed">
+        <img src="assets/images/placement/student-placement-4.webp" alt="student-placed">
+         <img src="assets/images/placement/student-placement-5.webp" alt="student-placed">
+        <img src="assets/images/placement/student-placement-6.webp" alt="student-placed">
+        <img src="assets/images/placement/student-placement-7.webp" alt="student-placed">
+        </marquee>
+ </div>
 <section style="background-color: #00bcfb;">
     <div class="container">
         <div class="row d-flex align-items-center pt-5 pb-5">
