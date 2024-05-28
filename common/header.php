@@ -127,12 +127,12 @@
                                     <li class="nav-item">
                                         <a href="calendar.php" class="nav-link">Academics Calendar</a>
                                     </li>
-                                    <li class="nav-item">
+                                    <!-- <li class="nav-item">
                                         <a href="https://student.gncdehradun.com/" class="nav-link">Student-ERP Login</a>
                                     </li>
                                     <li class="nav-item">
                                         <a href="https://staff.gncdehradun.com/" class="nav-link">Staff-ERP Login</a>
-                                    </li>
+                                    </li> -->
                                     <li class="nav-item">
                                         <a href="co-peo-pso.php" class="nav-link">CO-PO-PSO</a>
                                     </li>
@@ -204,9 +204,9 @@
                                     <li class="nav-item">
                                         <a href="sports.php" class="nav-link">Sports Infrastructures</a>
                                     </li>
-                                    <li class="nav-item">
+                                    <!-- <li class="nav-item">
                                         <a href="alumni.php" class="nav-link">Alumni</a>
-                                    </li>
+                                    </li> -->
                                 </ul>
                             </li>
                             <li class="nav-item">
