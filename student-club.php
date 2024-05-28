@@ -44,7 +44,7 @@
         </div>
         <div class="col-md-4 col-sm-12">
             <div class="vertical-slider1" style="filter: drop-shadow(4px 4px 4px black);">
-                <?php for ($i = 1; $i <= 15; $i++) : ?>
+                <?php for ($i = 1; $i <= 14; $i++) : ?>
                     <div class="hostel-overview">
                         <img src="assets/images/club/cultural-<?php echo str_pad($i, 2, '0', STR_PAD_LEFT); ?>.webp" alt="Club Image <?php echo $i; ?>">
                     </div>
