@@ -4,7 +4,7 @@
         <div class="d-table-cell">
             <div class="container">
                 <div class="page-title-content">
-                    <h2>Trainings &amp; Internships</h2>
+                    <h2>Projects &amp; Trainings</h2>
                 </div>
             </div>
         </div>
@@ -40,9 +40,8 @@
             <tr>
                 <th scope="row">2</th>
                 <td>Abbas Alam</td>
-                <th>"To develop the herbal soap by using natural ingredients like Karela,
-papaya, white turmeric and Vitamin E."</th>
-<td>Project</td>
+                <th>"To develop the herbal soap by using natural ingredients like Karela,papaya, white turmeric and Vitamin E."</th>
+                <td>Project</td>
                 <td>Ms. Gulafshan Parveen</td>
             </tr>
             <tr>
@@ -202,7 +201,7 @@ papaya, white turmeric and Vitamin E."</th>
             <tr>
                 <th scope="row">25</th>
                 <td>Mohd. Aalam</td>
-                <th>Formulation and Evalution  OF Transsdermal patch of calotropis procera for the management of Diabetes</th>
+                <th>Formulation and Evalution OF Transsdermal patch of calotropis procera for the management of Diabetes</th>
                 <td>Project</td>
                 <td>Dr. Prachi Sood </td>
             </tr>
@@ -421,12 +420,12 @@ papaya, white turmeric and Vitamin E."</th>
                 <td>Rohit Kumar</td>
                 <th>Marketing Report Of Antacid Drugs In Dehradun City</th>
                 <td>Project</td>
-                <td>  Mrs. Yashika Uniyal</td>
+                <td> Mrs. Yashika Uniyal</td>
             </tr>
             <tr>
                 <th scope="row">57</th>
                 <td>Samsuddin Khan</td>
-                <th>Perform Market Survey Of  Tuberculosis And  Anti- Tubercular Drugs In Uttrakhand Region  </th>
+                <th>Perform Market Survey Of Tuberculosis And Anti- Tubercular Drugs In Uttrakhand Region </th>
                 <td>Project</td>
                 <td>Ms. Kriti Dabral </td>
             </tr>
@@ -441,63 +440,63 @@ papaya, white turmeric and Vitamin E."</th>
                 <th scope="row">59</th>
                 <td>Aastha Singh</td>
                 <th>Industrial training</th>
-                <td>Training</td>
+                <td>Internship</td>
                 <td>Unimedicos Lab</td>
             </tr>
             <tr>
                 <th scope="row">60</th>
                 <td>Hemanti Bist</td>
                 <th>Industrial training</th>
-                <td>Training</td>
+                <td>Internship</td>
                 <td>Unimedicos Lab</td>
             </tr>
             <tr>
                 <th scope="row">61</th>
                 <td>Ishrat Akbar</td>
                 <th>Industrial training</th>
-                <td>Training</td>
+                <td>Internship</td>
                 <td>Unimedicos Lab</td>
             </tr>
             <tr>
                 <th scope="row">62</th>
                 <td>Nitesh Kumar</td>
                 <th>Industrial training</th>
-                <td>Training</td>
+                <td>Internship</td>
                 <td>Supermax Laboratory</td>
             </tr>
             <tr>
                 <th scope="row">63</th>
                 <td>Pal Sachin Bhullar</td>
                 <th>Industrial training</th>
-                <td>Training</td>
+                <td>Internship</td>
                 <td>Supermax Laboratory</td>
             </tr>
             <tr>
                 <th scope="row">64</th>
                 <td>Saloni Priya</td>
                 <th>Industrial training</th>
-                <td>Training</td>
+                <td>Internship</td>
                 <td>Unimedicos Lab</td>
             </tr>
             <tr>
                 <th scope="row">65</th>
                 <td>Satyam Kumar</td>
                 <th>Hospital training</th>
-                <td>Training</td>
+                <td>Internship</td>
                 <td>Graphic Era Hospital</td>
             </tr>
             <tr>
                 <th scope="row">66</th>
                 <td>Sujit Kumar</td>
                 <th>Industrial training</th>
-                <td>Training</td>
+                <td>Internship</td>
                 <td>Suncare Formulation PVT LTD</td>
             </tr>
             <tr>
                 <th scope="row">67</th>
                 <td>Shubham Singh</td>
                 <th>Hospital training</th>
-                <td>Training</td>
+                <td>Internship</td>
                 <td>Nobel Medical College & Teaching Hospital PVT LTD</td>
             </tr>
         </tbody>
