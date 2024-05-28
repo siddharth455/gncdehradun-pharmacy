@@ -32,12 +32,15 @@
 </section>
  <marquee class="marq" direction="left" loop="" >
         <div class="geek1">
-        <img src="assets/images/placement/student-placement-2.webp" alt="student-placed">
-        <img src="assets/images/placement/student-placement-3.webp" alt="student-placed">
-        <img src="assets/images/placement/student-placement-4.webp" alt="student-placed">
-         <img src="assets/images/placement/student-placement-5.webp" alt="student-placed">
-        <img src="assets/images/placement/student-placement-6.webp" alt="student-placed">
-        <img src="assets/images/placement/student-placement-7.webp" alt="student-placed">
+        <img src="assets/images/placement/placed/student-placement-2.webp" alt="student-placed">
+        <img src="assets/images/placement/placed/student-placement-3.webp" alt="student-placed">
+        <img src="assets/images/placement/placed/student-placement-4.webp" alt="student-placed">
+         <img src="assets/images/placement/placed/student-placement-5.webp" alt="student-placed">
+        <img src="assets/images/placement/placed/student-placement-6.webp" alt="student-placed">
+        <img src="assets/images/placement/placed/student-placement-7.webp" alt="student-placed">
+        <img src="assets/images/placement/placed/student-placement-8.webp" alt="student-placed">
+        <img src="assets/images/placement/placed/student-placement-9.webp" alt="student-placed">
+        <img src="assets/images/placement/placed/student-placement-10.webp" alt="student-placed">
         </marquee>
  </div>
 <section style="background-color: #00bcfb;">
