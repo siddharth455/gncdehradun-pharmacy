@@ -24,7 +24,7 @@
             </div>
             <div class="col-lg-8">
                 <p>
-                    Dear Students.
+                    Dear Students,
                 </p>
                 <p>
                     "Innovating tradition, shaping futures."
@@ -48,7 +48,7 @@
             </div>
             <div class="col-lg-8">
                 <p>
-                    Dear Students.
+                    Dear Students,
                 </p>
                 <p>Welcome to our college! Here, academic excellence meets transparent operations, creating an environment where your growth is our priority. Our diverse disciplines, taught by experts, promise a dynamic learning experience. With our digital ERP system, accessing resources and services is a breeze, ensuring efficiency at every step. </p>
                 <p>But it's not just about academics; we value holistic development. Sports facilities await to unleash your athletic prowess, while our labs offer hands-on learning for real-world experience. Need to delve into research or expand your knowledge? Our library is your gateway to endless resources.</p>
@@ -73,7 +73,7 @@
             </div>
             <div class="col-lg-8">
                 <p>
-                    Welcome to Guru Nanak College.
+                    Welcome to Guru Nanak College,
                 </p>
                 <p>
                     As the Registrar of Guru Nanak College, it is with great pleasure that I extend a sincere welcome to all our esteemed students, distinguished faculty, dedicated staff, and esteemed visitors. Our unwavering commitment to academic excellence serves as the cornerstone of our institution. We offer a comprehensive array of programs meticulously crafted to equip students with a robust foundation in their chosen fields. </p>
