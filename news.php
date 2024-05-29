@@ -104,9 +104,10 @@ $events = json_decode($jsonData, true);
     <div class="row event-container">
         <?php $counter = 1; ?>
         <?php foreach ($events as $index => $event) : ?>
-            <div class="col-lg-4 col-12 event" data-category="<?= $event['category'] ?>" data-month="<?= date('m', strtotime($event['date'])) ?>" data-year="<?= date('Y', strtotime($event['date'])) ?>">
-                <div class="event-news">
-                    <a href="news-page.php?id=<?= $counter ?>" class="news-link">
+                <div class="col-lg-4 col-12 event" data-category="<?= $event['category'] ?>" data-month="<?= date('m', strtotime($event['date'])) ?>" data-year="<?= date('Y', strtotime($event['date'])) ?>">
+            
+                <div class="event-news" data-category="<?= $event['category'] ?>" data-month="<?= date('m', strtotime($event['date'])) ?>" data-year="<?= date('Y', strtotime($event['date'])) ?>">
+                    <a href="news-page.php?id=<?= $counter-1 ?>" class="news-link">
                         <img src="<?= htmlspecialchars($event['image']) ?>" alt="<?= htmlspecialchars($event['title']) ?>">
                         <div class="title"><?= htmlspecialchars($event['title']) ?></div>
                         <?php if (!empty($event['subtitle'])) : ?>

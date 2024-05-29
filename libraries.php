@@ -100,7 +100,7 @@
             <tr>
                 <th scope="row">5</th>
                 <td>Mrs. Kriti Dabral</td>
-                <td>Assitant Professor</td>
+                <td>Assistant Professor</td>
                 <td>9467545933</td>
                 <td>kritidabral@gnc.edu.in</td>
             </tr>
