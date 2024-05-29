@@ -35,14 +35,25 @@ $events = json_decode($jsonData, true);
     }
     @media (max-width: 992px) {
         .event {
-            width: 300px; /* Adjust width for tablet view */
+            width: 100%; /* Adjust width for tablet view */
+        }
+        .col-12 label{
+            display: inline-block;
+            margin: 5px;
         }
     }
 
     /* Media query for mobile view */
     @media (max-width: 576px) {
         .event {
-            width: 300px; /* Full width for mobile view */
+            width: 80%; /* Full width for mobile view */
+        }
+        .event-container{
+            margin-left:3rem ;
+        }
+        .col-12 label{
+            display: inline-block;
+            margin: 5px;
         }
     }
 </style>
@@ -76,7 +87,15 @@ $events = json_decode($jsonData, true);
                 <option value="01">January</option>
                 <option value="02">February</option>
                 <option value="03">March</option>
-                <!-- Add more options for other months -->
+                <option value="04">April</option>
+                <option value="05">May</option>
+                <option value="06">June</option>
+                <option value="07">July</option>
+                <option value="08">August</option>
+                <option value="09">September</option>
+                <option value="10">October</option>
+                <option value="11">November</option>
+                <option value="12">December</option>
             </select>
             <label for="year-filter">Filter by Year:</label>
             <input type="number" id="year-filter" placeholder="YYYY">
@@ -85,10 +104,8 @@ $events = json_decode($jsonData, true);
     <div class="row event-container">
         <?php $counter = 1; ?>
         <?php foreach ($events as $index => $event) : ?>
-           
-                <div class="col-lg-4 col-12 event" data-category="<?= $event['category'] ?>" data-month="<?= date('m', strtotime($event['date'])) ?>" data-year="<?= date('Y', strtotime($event['date'])) ?>">
-            
-                <div class="event-news" data-category="<?= $event['category'] ?>" data-month="<?= date('m', strtotime($event['date'])) ?>" data-year="<?= date('Y', strtotime($event['date'])) ?>">
+            <div class="col-lg-4 col-12 event" data-category="<?= $event['category'] ?>" data-month="<?= date('m', strtotime($event['date'])) ?>" data-year="<?= date('Y', strtotime($event['date'])) ?>">
+                <div class="event-news">
                     <a href="news-page.php?id=<?= $counter ?>" class="news-link">
                         <img src="<?= htmlspecialchars($event['image']) ?>" alt="<?= htmlspecialchars($event['title']) ?>">
                         <div class="title"><?= htmlspecialchars($event['title']) ?></div>
@@ -105,42 +122,40 @@ $events = json_decode($jsonData, true);
 </div>
 
 <script>
-    document.addEventListener('DOMContentLoaded', function() {
-        const categoryFilter = document.getElementById('category-filter');
-        const monthFilter = document.getElementById('month-filter');
-        const yearFilter = document.getElementById('year-filter');
-        const events = document.querySelectorAll('.event');
+   document.addEventListener('DOMContentLoaded', function() {
+    const categoryFilter = document.getElementById('category-filter');
+    const monthFilter = document.getElementById('month-filter');
+    const yearFilter = document.getElementById('year-filter');
+    const events = document.querySelectorAll('.event');
 
-        const filterEvents = function() {
-            const selectedCategory = categoryFilter.value;
-            const selectedMonth = monthFilter.value;
-            const selectedYear = yearFilter.value;
+    const filterEvents = function() {
+        const selectedCategory = categoryFilter.value;
+        const selectedMonth = monthFilter.value;
+        const selectedYear = yearFilter.value;
 
-            let visibleEvents = Array.from(events).filter(event => {
-                const eventCategory = event.getAttribute('data-category');
-                const eventMonth = event.getAttribute('data-month');
-                const eventYear = event.getAttribute('data-year');
-                return (selectedCategory === 'all' || selectedCategory === eventCategory) &&
-                       (selectedMonth === 'all' || selectedMonth === eventMonth) &&
-                       (selectedYear === '' || selectedYear === eventYear);
-            });
+        events.forEach((event, index) => {
+            const eventCategory = event.getAttribute('data-category');
+            const eventMonth = event.getAttribute('data-month');
+            const eventYear = event.getAttribute('data-year');
+            
+            const matchesCategory = (selectedCategory === 'all' || selectedCategory === eventCategory);
+            const matchesMonth = (selectedMonth === 'all' || selectedMonth === eventMonth);
+            const matchesYear = (selectedYear === '' || selectedYear === eventYear);
 
-            visibleEvents.forEach((event, index) => {
+            if (matchesCategory && matchesMonth && matchesYear) {
                 event.style.display = 'block';
-                event.querySelector('.news-link').setAttribute('href', 'news-page.php?id=' + index);
-            });
+                event.querySelector('.news-link').setAttribute('href', 'news-page.php?id=' + (index + 1));
+            } else {
+                event.style.display = 'none';
+            }
+        });
+    };
 
-            Array.from(events).forEach(event => {
-                if (!visibleEvents.includes(event)) {
-                    event.style.display = 'none';
-                }
-            });
-        };
+    categoryFilter.addEventListener('change', filterEvents);
+    monthFilter.addEventListener('change', filterEvents);
+    yearFilter.addEventListener('input', filterEvents);
+});
 
-        categoryFilter.addEventListener('change', filterEvents);
-        monthFilter.addEventListener('change', filterEvents);
-        yearFilter.addEventListener('input', filterEvents);
-    });
 </script>
 
 
