@@ -1,7 +1,7 @@
 <?php require "common/header.php" ?>
 <div class="banner-area1 about1">
     <div class="map-container">
-        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3443.210853748424!2d77.9070873!3d30.344956899999993!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390f2b308a7f7bc7%3A0xdd1898ddcd5d933c!2sGNC%20Dehradun!5e0!3m2!1sen!2sin!4v1713170987704!5m2!1sen!2sin" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3443.210853748424!2d77.9070873!3d30.344956899999993!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390f2b308a7f7bc7%3A0xdd1898ddcd5d933c!2sGNC%20Dehradun!5e0!3m2!1sen!2sin!4v1713170987704!5m2!1sen!2sin" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
     </div>
 </div>
 <section class="padding-section bg-red">

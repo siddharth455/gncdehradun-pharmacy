@@ -1,4 +1,19 @@
 <?php require "common/header.php" ?>
+<style>
+    .alumni-association {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Adjust height as needed */
+}
+
+.centered-image {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+}
+
+</style>
 <div class="banner-area about" style="background-image: url(assets/images/reserch.webp);">
     <div class="d-table">
         <div class="d-table-cell">
@@ -65,5 +80,10 @@
             </tr>
         </tbody>
     </table>
+    <div class="alumni-association">
+    <img src="assets/images/alumni-assocation.jpg" alt="" class="centered-image">
+</div>
+
+
 </div>
 <?php require "common/footer.php" ?>

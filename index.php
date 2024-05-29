@@ -225,7 +225,7 @@
                                         <span>Year of<br>Excellence</span>
                                     </li>
                                 </ul>
-                                <a href="https://gnc.edu.in/pharmacy-college?utm_source=Pharmacy-website&utm_medium=Online&utm_campaign=Pharmacy-website" class="box-btn">Apply Now</a>
+                                <a href="https://gncdehradun.com/pharmacy-college.php?utm_source=Pharmacy-website&utm_medium=Online&utm_campaign=Pharmacy-website" class="box-btn">Apply Now</a>
                             </div>
                         </div>
                     </div>

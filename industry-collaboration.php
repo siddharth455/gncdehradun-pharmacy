@@ -277,16 +277,16 @@
         </div>
     </div>
 </div>
-<section class="aboutNumber-section position-relative" style="background-image: url('images/cbc-about.webp'); background-repeat: no-repeat; background-position: center; background-size: cover;">
-    <div style="background-color: rgba(0, 181, 251, 0.7);">
+<section class="aboutNumber-section position-relative" >
+    <div style="background-color: #00bcfb">
         <div class="container pt-5">
             <h2 style="text-align: center; color:#f4f8fa"><span style="color:#eee30d; font-weight:bold">Career Buddy Club</span> : A high professional and experienced management which assists you to get your dream job in your field of interest.</h2>
             <div class="row  pt-3 pb-3 text-white ">
                 <div class="col-lg-4 col-md-4 col-sm-none">
-                    <img src="assets/images/about-cbc.webp" alt="About GNC">
+                    <img src="assets/images/about-cbc.webp" alt="About GNC" style="border-radius: 10px;">
                 </div>
                 <div class="col-lg-8 col-md-8 col-sm-12">
-                    <p style="font-size:17px; line-height: 1.6; color:#fff  ">
+                    <p style="font-size:17px; line-height: 1.6;color:#fff">
                         CBC is an end-to-end career services management solution that provides personalized career development plans, networking opportunities, training and mentorship programs, job and internship opportunities, and resources for budding entrepreneurs. Career Buddy Club is your go-to platform for your career evolution and furtherance. We aim to connect professionals from different industrial backgrounds to the students, thereby bestowing them with the support, knowledge, experience, and resources that they would require to accomplish their career goals. Whether you are seeking jobs, resume tips, or growth strategies, we are here to help you out. Career Buddy Club is more than just a resource hub - it's a community where students connect with like-minded industry experts, mentors, and professionals who help them traverse a career transition. Our best part is Mentorship Programs. From webinars to workshops to career analytics and strategies, Career Buddy Club equips students with knowledge and skills that they might require to succeed in their career. We work on four cohorts i.e., Career, Campus, Course, and Corporate. We work on the basis of community and collaboration. We believe in connecting, learning, and progressing.
                     </p>
                 </div>

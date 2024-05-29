@@ -30,7 +30,7 @@
                         <h3>Career Prospects:</h3>
                     </div>
                     <p>Graduates of the Diploma in Pharmacy (D.Pharm) program can explore several career paths in the pharmaceutical and healthcare sectors. They can work as Pharmacy Technicians, supporting pharmacists in dispensing medications and providing patient care. Another avenue is as Medical Representatives, where they promote and sell pharmaceutical products. Opportunities also exist in clinical research as assistants, contributing to the management and execution of clinical trials.</p>
-                    <a href="https://gnc.edu.in/pharmacy-college?utm_source=Pharmacy-website&utm_medium=Online&utm_campaign=Pharmacy-website" class="btn btn-lg btn-shadow applyNow_button">Apply Now <i class="fa fa-long-arrow-right ms-1" aria-hidden="true"></i></a>
+                    <a href="https://gncdehradun.com/pharmacy-college.php?utm_source=Pharmacy-website&utm_medium=Online&utm_campaign=Pharmacy-website" class="btn btn-lg btn-shadow applyNow_button">Apply Now <i class="fa fa-long-arrow-right ms-1" aria-hidden="true"></i></a>
 
                 </div>
             </div>
@@ -57,7 +57,7 @@
                     </div>
                     <p>After completing a Bachelor of Pharmacy (B.Pharm), graduates have diverse career paths available. They can work as pharmacists in retail or hospital pharmacies, advising on and dispensing medications. Opportunities also exist in the pharmaceutical industry, including roles in drug manufacturing, quality control, and marketing. B.Pharm graduates can engage in research and development, contributing to the creation of new drugs, or enter the academic field as educators and researchers. Regulatory roles in agencies like the FDA are another option, focusing on drug compliance and safety.</p>
 
-                    <a href="https://gnc.edu.in/pharmacy-college?utm_source=Pharmacy-website&utm_medium=Online&utm_campaign=Pharmacy-website" class="btn btn-lg btn-shadow applyNow_button" style="background-color: #00bcfb;">Apply Now </a>
+                    <a href="https://gncdehradun.com/pharmacy-college.php?utm_source=Pharmacy-website&utm_medium=Online&utm_campaign=Pharmacy-website" class="btn btn-lg btn-shadow applyNow_button" style="background-color: #00bcfb;">Apply Now </a>
                 </div>
             </div>
             <div class="col-lg-6" style="filter: drop-shadow(5px 5px 4px black);">

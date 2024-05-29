@@ -65,7 +65,7 @@
             data: {
                 labels: ['2018-19','2019-20', '2020-21', '2021-22', '2022-23'],
                 datasets: [{
-                    label: 'Book Chapters',
+                    label: 'Value Added Course',
                     data: [2, 4, 6, 8, 10], // Replace these numbers with your actual data
                     backgroundColor: [
                         'rgba(255, 99, 132, 1)',
@@ -75,11 +75,11 @@
                         'rgba(153, 102, 23, 1)',
                     ],
                     borderColor: [
-                        'rgba(255, 99, 132, 1)',
-                        'rgba(54, 162, 235, 1)',
-                        'rgba(255, 206, 86, 1)',
-                        'rgba(75, 192, 192, 1)',
-                        'rgba(153, 102, 255, 1)'
+                        'rgb(0, 0, 0)',
+                        'rgb(0, 0, 0)',
+                        'rgb(0, 0, 0)',
+                        'rgb(0, 0, 0)',
+                        'rgb(0, 0, 0)',
                     ],
                     borderWidth: 1
                 }]

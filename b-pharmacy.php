@@ -25,7 +25,7 @@
                     </div>
                     <p>After completing a Bachelor of Pharmacy (B.Pharm), graduates have diverse career paths available. They can work as pharmacists in retail or hospital pharmacies, advising on and dispensing medications. Opportunities also exist in the pharmaceutical industry, including roles in drug manufacturing, quality control, and marketing. B.Pharm graduates can engage in research and development, contributing to the creation of new drugs, or enter the academic field as educators and researchers. Regulatory roles in agencies like the FDA are another option, focusing on drug compliance and safety.</p>
 
-                    <a href="https://gnc.edu.in/pharmacy-college?utm_source=Pharmacy-website&utm_medium=Online&utm_campaign=Pharmacy-website" class="btn btn-lg btn-shadow applyNow_button" style="background-color: #00bcfb;">Apply Now </a>
+                    <a href="https://gncdehradun.com/pharmacy-college.php?utm_source=Pharmacy-website&utm_medium=Online&utm_campaign=Pharmacy-website" class="btn btn-lg btn-shadow applyNow_button" style="background-color: #00bcfb;">Apply Now </a>
                 </div>
             </div>
             <div class="col-lg-6" style="filter: drop-shadow(5px 4px 4px black);">
@@ -329,7 +329,7 @@
                         </li>
                         <li>We focus on value-based education, aiming to develop critical thinking, problem-solving skills, and a knack for innovation and research in our students. Recognizing the importance of career readiness in the dynamic field of pharmacy, we offer extensive placement training to prepare our students for successful careers in the pharmaceutical and healthcare sectors.</li>
                     </ul>
-                    <a href="https://gnc.edu.in/pharmacy-college?utm_source=Pharmacy-website&utm_medium=Online&utm_campaign=Pharmacy-website" class="btn btn-lg btn-shadow mt-4 applyNow_button">Apply Now <i class="fa fa-long-arrow-right ms-1" aria-hidden="true"></i></a>
+                    <a href="https://gncdehradun.com/pharmacy-college.php?utm_source=Pharmacy-website&utm_medium=Online&utm_campaign=Pharmacy-website" class="btn btn-lg btn-shadow mt-4 applyNow_button">Apply Now <i class="fa fa-long-arrow-right ms-1" aria-hidden="true"></i></a>
                 </div>
             </div>
             <div class="col-lg-6 col-md-8 col-sm-10">

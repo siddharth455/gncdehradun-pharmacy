@@ -119,19 +119,20 @@
                             </tr>
                         </thead>
                         <tbody>
+                           
                             <tr>
                                 <th scope="row">1</th>
-                                <td>Dr. Nidhi Chatterjee</td>
-                                <td>Member</td>
-                                <td>7300777721</td>
-                                <td>principalpharmacy@gnc.edu.in</td>
-                            </tr>
-                            <tr>
-                                <th scope="row">2</th>
                                 <td>Dr. Vishal Kumar Deshwal</td>
                                 <td>Chairperson</td>
                                 <td>9897538555</td>
                                 <td>vishaldeshwal@gnc.edu.in</td>
+                            </tr>
+                            <tr>
+                                <th scope="row">2</th>
+                                <td>Dr. Nidhi Chatterjee</td>
+                                <td>Member Secretary</td>
+                                <td>7300777721</td>
+                                <td>principalpharmacy@gnc.edu.in</td>
                             </tr>
                             <tr>
                                 <th scope="row">3</th>
@@ -181,14 +182,14 @@
                             <tr>
                                 <th scope="row">1</th>
                                 <td>Dr. Lalit Kumar</td>
-                                <td>Member Secretary</td>
+                                <td>Chairperson</td>
                                 <td>9758900404</td>
                                 <td>registrar@gnc.edu.in</td>
                             </tr>
                             <tr>
                                 <th scope="row">2</th>
                                 <td>Prof. (Dr.) Deepak Sharma</td>
-                                <td>Member</td>
+                                <td>Member Secretary</td>
                                 <td>7300777721</td>
                                 <td>principalpharmacy@gnc.edu.in</td>
                             </tr>
@@ -202,9 +203,16 @@
                             <tr>
                                 <th scope="row">4</th>
                                 <td>Dr. Vishal Kumar Deshwal</td>
-                                <td>Chairperson</td>
+                                <td>Member</td>
                                 <td>9897538555</td>
                                 <td>vishaldeshwal@gnc.edu.in</td>
+                            </tr>
+                            <tr>
+                                <th scope="row">5</th>
+                                <td>Dr. R.D. Saklani</td>
+                                <td>Member</td>
+                                <td>7456000110</td>
+                                <td>coe@gnc.edu.in</td>
                             </tr>
                         </tbody>
                     </table>
@@ -230,27 +238,28 @@
                             </tr>
                         </thead>
                         <tbody>
-                            <tr>
+                        <tr>
                                 <th scope="row">1</th>
+                                <td>Dr. Vishal Kumar Deshwal</td>
+                                <td>Chairperson</td>
+                                <td>9897538555</td>
+                                <td>vishaldeshwal@gnc.edu.in</td>
+                            </tr>
+                            <tr>
+                                <th scope="row">2</th>
                                 <td>Dr. Lalit Kumar</td>
                                 <td>Member Secretary</td>
                                 <td>9758900404</td>
                                 <td>registrar@gnc.edu.in</td>
                             </tr>
                             <tr>
-                                <th scope="row">2</th>
+                                <th scope="row">3</th>
                                 <td>Prof. (Dr.) Deepak Sharma</td>
                                 <td>Member</td>
                                 <td>7300777721</td>
                                 <td>principalpharmacy@gnc.edu.in</td>
                             </tr>
-                            <tr>
-                                <th scope="row">3</th>
-                                <td>Dr. Vishal Kumar Deshwal</td>
-                                <td>Chairperson</td>
-                                <td>9897538555</td>
-                                <td>vishaldeshwal@gnc.edu.in</td>
-                            </tr>
+                          
                             <tr>
                                 <th scope="row">4</th>
                                 <td>Dr. Vishal Kamboj</td>
@@ -294,7 +303,7 @@
         <div class="accordion-item">
             <h2 class="accordion-header" id="headingSix">
                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
-                    Grivience &amp; Redressal Committee
+                Grievance &amp; Redressal Committee
                 </button>
             </h2>
             <div id="collapseSix" class="accordion-collapse collapse" aria-labelledby="headingSix" data-bs-parent="#accordionExample">
@@ -313,14 +322,14 @@
                             <tr>
                                 <th scope="row">1</th>
                                 <td>Dr. Lalit Kumar</td>
-                                <td>Member Secretary</td>
+                                <td>Chairperson</td>
                                 <td>9758900404</td>
                                 <td>registrar@gnc.edu.in</td>
                             </tr>
                             <tr>
                                 <th scope="row">2</th>
                                 <td>Prof. (Dr.) Deepak Sharma</td>
-                                <td>Member</td>
+                                <td>Member Secretary</td>
                                 <td>7300777721</td>
                                 <td>principalpharmacy@gnc.edu.in</td>
                             </tr>
@@ -383,19 +392,20 @@
                             </tr>
                         </thead>
                         <tbody>
+                            
                             <tr>
                                 <th scope="row">1</th>
-                                <td>Prof. (Dr.) Deepak Sharma</td>
-                                <td>Member</td>
-                                <td>7300777721</td>
-                                <td>principalpharmacy@gnc.edu.in</td>
-                            </tr>
-                            <tr>
-                                <th scope="row">2</th>
                                 <td>Dr. Vishal Kumar Deshwal</td>
                                 <td>Chairperson</td>
                                 <td>9897538555</td>
                                 <td>vishaldeshwal@gnc.edu.in</td>
+                            </tr>
+                            <tr>
+                                <th scope="row">2</th>
+                                <td>Prof. (Dr.) Deepak Sharma</td>
+                                <td>Member Secretary</td>
+                                <td>7300777721</td>
+                                <td>principalpharmacy@gnc.edu.in</td>
                             </tr>
                             <tr>
                                 <th scope="row">3</th>
@@ -445,14 +455,14 @@
                             <tr>
                                 <th scope="row">1</th>
                                 <td>Dr. Lalit Kumar</td>
-                                <td>Member Secretary</td>
+                                <td>Chairperson</td>
                                 <td>9758900404</td>
                                 <td>registrar@gnc.edu.in</td>
                             </tr>
                             <tr>
                                 <th scope="row">2</th>
                                 <td>Prof. (Dr.) Deepak Sharma</td>
-                                <td>Member</td>
+                                <td>Member Secretary</td>
                                 <td>7300777721</td>
                                 <td>principalpharmacy@gnc.edu.in</td>
                             </tr>
@@ -501,27 +511,28 @@
                             </tr>
                         </thead>
                         <tbody>
-                            <tr>
+                        <tr>
                                 <th scope="row">1</th>
+                                <td>Dr. Vishal Kumar Deshwal</td>
+                                <td>Chairperson</td>
+                                <td>9897538555</td>
+                                <td>vishaldeshwal@gnc.edu.in</td>
+                            </tr>
+                            <tr>
+                                <th scope="row">2</th>
                                 <td>Dr. Lalit Kumar</td>
                                 <td>Member Secretary</td>
                                 <td>9758900404</td>
                                 <td>registrar@gnc.edu.in</td>
                             </tr>
                             <tr>
-                                <th scope="row">2</th>
+                                <th scope="row">3</th>
                                 <td>Prof. (Dr.) Deepak Sharma</td>
                                 <td>Member</td>
                                 <td>7300777721</td>
                                 <td>principalpharmacy@gnc.edu.in</td>
                             </tr>
-                            <tr>
-                                <th scope="row">3</th>
-                                <td>Dr. Vishal Kumar Deshwal</td>
-                                <td>Chairperson</td>
-                                <td>9897538555</td>
-                                <td>vishaldeshwal@gnc.edu.in</td>
-                            </tr>
+                           
                             <tr>
                                 <th scope="row">4</th>
                                 <td>Dr. Nidhi Chatterjee</td>
@@ -622,14 +633,14 @@
                             <tr>
                                 <th scope="row">1</th>
                                 <td>Dr. Lalit Kumar</td>
-                                <td>Member Secretary</td>
+                                <td>Chairperson</td>
                                 <td>9758900404</td>
                                 <td>registrar@gnc.edu.in</td>
                             </tr>
                             <tr>
                                 <th scope="row">2</th>
                                 <td>Dr. Nidhi Chatterjee</td>
-                                <td>Member</td>
+                                <td>Member Secretary</td>
                                 <td>7300777701</td>
                                 <td>nidhichatterjee@gnc.edu.in</td>
                             </tr>
@@ -660,7 +671,7 @@
                 </div>
             </div>
         </div>
-        <div class="accordion-item">
+        <!-- <div class="accordion-item">
             <h2 class="accordion-header" id="headingTwelve">
                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwelve" aria-expanded="false" aria-controls="collapseTwelve">
                     Faculty Grievance Redressal Committee
@@ -679,43 +690,44 @@
                             </tr>
                         </thead>
                         <tbody>
-                            <tr>
+                        <tr>
                                 <th scope="row">1</th>
+                                <td>Dr. Vishal Kumar Deshwal</td>
+                                <td>Chairperson</td>
+                                <td>9897538555</td>
+                                <td>vishaldeshwal@gnc.edu.in</td>
+                            </tr>
+                            <tr>
+                                <th scope="row">2</th>
                                 <td>Dr. Lalit Kumar</td>
                                 <td>Member Secretary</td>
                                 <td>9758900404</td>
                                 <td>registrar@gnc.edu.in</td>
                             </tr>
                             <tr>
-                                <th scope="row">2</th>
+                                <th scope="row">3</th>
                                 <td>Prof. (Dr.) Deepak Sharma</td>
                                 <td>Member</td>
                                 <td>7300777721</td>
                                 <td>principalpharmacy@gnc.edu.in</td>
                             </tr>
                             <tr>
-                                <th scope="row">3</th>
+                                <th scope="row">4</th>
                                 <td>Dr. Nidhi Chatterjee</td>
                                 <td>Member</td>
                                 <td>7300777721</td>
                                 <td>principalpharmacy@gnc.edu.in</td>
                             </tr>
-                            <tr>
-                                <th scope="row">4</th>
-                                <td>Dr. Vishal Kumar Deshwal</td>
-                                <td>Chairperson</td>
-                                <td>9897538555</td>
-                                <td>vishaldeshwal@gnc.edu.in</td>
-                            </tr>
+                           
                         </tbody>
                     </table>
                 </div>
             </div>
-        </div>
+        </div> -->
         <div class="accordion-item">
             <h2 class="accordion-header" id="headingThirteen">
                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThirteen" aria-expanded="false" aria-controls="collapseThirteen">
-                    Student Council Committee
+                    Student Council 
                 </button>
             </h2>
             <div id="collapseThirteen" class="accordion-collapse collapse" aria-labelledby="headingThirteen" data-bs-parent="#accordionExample">
@@ -733,32 +745,33 @@
                         <tbody>
                         <tr>
                                 <th scope="row">1</th>
+                                <td>Dr. Vishal Kumar Deshwal</td>
+                                <td>Chairperson</td>
+                                <td>9897538555</td>
+                                <td>vishaldeshwal@gnc.edu.in</td>
+                            </tr>
+                        <tr>
+                                <th scope="row">2</th>
                                 <td>Dr. Lalit Kumar</td>
                                 <td>Member Secretary</td>
                                 <td>9758900404</td>
                                 <td>registrar@gnc.edu.in</td>
                             </tr>
                             <tr>
-                                <th scope="row">2</th>
+                                <th scope="row">3</th>
                                 <td>Prof. (Dr.) Deepak Sharma</td>
                                 <td>Member</td>
                                 <td>7300777721</td>
                                 <td>principalpharmacy@gnc.edu.in</td>
                             </tr>
                             <tr>
-                                <th scope="row">3</th>
+                                <th scope="row">4</th>
                                 <td>Dr. Nidhi Chatterjee</td>
                                 <td>Member</td>
                                 <td>7300777721</td>
                                 <td>principalpharmacy@gnc.edu.in</td>
                             </tr>
-                            <tr>
-                                <th scope="row">4</th>
-                                <td>Dr. Vishal Kumar Deshwal</td>
-                                <td>Chairperson</td>
-                                <td>9897538555</td>
-                                <td>vishaldeshwal@gnc.edu.in</td>
-                            </tr>
+                           
                             <tr>
                                 <th scope="row">5</th>
                                 <td>Mrs. Priti Sood</td>

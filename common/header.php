@@ -54,6 +54,22 @@
                 </li>
             </ul>
         </div>
+        <div class="header__top" style="padding-top: 6px;padding-bottom: 6px;">
+            <div class="container">
+                <div class="header__top--right d-flex justify-content-lg-end justify-content-md-center" style="padding-top: 5px;">
+                    <div class="header-social">
+
+                    </div>
+                    <div class="header__top--links">
+                        <ul class="d-flex justify-content-center list-unstyled m-0 p-0">
+                            <li class="menu-item kingster-normal-menu"><a href="https://student.gncdehradun.com/" target="_blank">Student ERP Login</a></li>
+                            <li class="menu-item kingster-normal-menu"><a href="https://staff.gncdehradun.com/" target="_blank">Staff ERP Login</a></li>
+                            <li><a href="alumni.php">Alumni</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
         <div class="mobile-nav">
             <a href="index.php" class="logo">
                 <img src="assets/images/logo-phone.webp" class="main-logo" alt="logo" />
@@ -96,7 +112,7 @@
                                     <li class="nav-item">
                                         <a href="strategic.php" class="nav-link">Strategic Plan</a>
                                     </li>
-                                   <li class="nav-item">
+                                    <li class="nav-item">
                                         <a href="awards-appreciation.php" class="nav-link">Awards &amp; Appreciation</a>
                                     </li>
                                 </ul>
@@ -111,12 +127,12 @@
                                     <li class="nav-item">
                                         <a href="calendar.php" class="nav-link">Academics Calendar</a>
                                     </li>
-                                    <li class="nav-item">
+                                    <!-- <li class="nav-item">
                                         <a href="https://student.gncdehradun.com/" class="nav-link">Student-ERP Login</a>
                                     </li>
                                     <li class="nav-item">
                                         <a href="https://staff.gncdehradun.com/" class="nav-link">Staff-ERP Login</a>
-                                    </li>
+                                    </li> -->
                                     <li class="nav-item">
                                         <a href="co-peo-pso.php" class="nav-link">CO-PO-PSO</a>
                                     </li>
@@ -125,6 +141,9 @@
                                     </li>
                                     <li class="nav-item">
                                         <a href="value-added-courses.php" class="nav-link">Value Added Courses</a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a href="PCI-handbook.php" class="nav-link">PCI-Handbook</a>
                                     </li>
                                 </ul>
                             </li>
@@ -148,6 +167,9 @@
                                     </li>
                                     <li class="nav-item">
                                         <a href="scholarship-section.php" class="nav-link">Scholarship</a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a href="Prospectus.php" class="nav-link">Prospectus</a>
                                     </li>
                                     <!-- <li class="nav-item">
                         <a href="b-pharmacy-le.php" class="nav-link">B.Pharm (LE)</a>
@@ -180,8 +202,11 @@
                                         <a href="student-club.php" class="nav-link">Student Clubs</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a href="alumni.php" class="nav-link">Alumni</a>
+                                        <a href="sports.php" class="nav-link">Sports Infrastructures</a>
                                     </li>
+                                    <!-- <li class="nav-item">
+                                        <a href="alumni.php" class="nav-link">Alumni</a>
+                                    </li> -->
                                 </ul>
                             </li>
                             <li class="nav-item">
@@ -193,9 +218,9 @@
                                     <li class="nav-item">
                                         <a href="research.php" class="nav-link">Research Papers</a>
                                     </li>
-                                    <!-- <li class="nav-item">
+                                    <li class="nav-item">
                                         <a href="career-development.php" class="nav-link">Reserch & Career Development Initiatives</a>
-                                    </li> -->
+                                    </li>
                                     <li class="nav-item">
                                         <a href="mou.php" class="nav-link">Industry Collaborations / MOU Signed</a>
                                     </li>
@@ -207,6 +232,9 @@
                                     </li>
                                     <li class="nav-item">
                                         <a href="seminar-research-workshop.php" class="nav-link">Research/Seminar/Workshop</a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a href="research-infrastructure.php" class="nav-link">Research Infrastructures</a>
                                     </li>
 
                                 </ul>
@@ -222,14 +250,20 @@
                                         <a href="placement.php" class="nav-link">Placement Overview</a>
                                     </li>
                                     <li class="nav-item">
+                                        <a href="placement-drive.php" class="nav-link">Placement Drive</a>
+                                    </li>
+                                    <li class="nav-item">
                                         <a href="industry-collaboration.php" class="nav-link">Industry Collaboration - CBC</a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a href="training-Internship.php" class="nav-link">Project &amp; Internship</a>
                                     </li>
                                 </ul>
                             </li>
                             <li class="nav-item">
                                 <a href="contact.php" class="nav-link">Contact US</a>
                             </li>
-                            <a href="https://gnc.edu.in/pharmacy-college?utm_source=Pharmacy-website&utm_medium=Online&utm_campaign=Pharmacy-website" class="applyNow_button">Apply Now</a>
+                            <a href="https://gncdehradun.com/pharmacy-college.php?utm_source=Pharmacy-website&utm_medium=Online&utm_campaign=Pharmacy-website" class="applyNow_button">Apply Now</a>
                         </ul>
                     </div>
                 </nav>

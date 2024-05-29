@@ -24,7 +24,7 @@
                         <h3>Career Prospects:</h3>
                     </div>
                     <p>Graduates of the Diploma in Pharmacy (D.Pharm) program can explore several career paths in the pharmaceutical and healthcare sectors. They can work as Pharmacy Technicians, supporting pharmacists in dispensing medications and providing patient care. Another avenue is as Medical Representatives, where they promote and sell pharmaceutical products. Opportunities also exist in clinical research as assistants, contributing to the management and execution of clinical trials.</p>
-                    <a href="https://gnc.edu.in/pharmacy-college?utm_source=Pharmacy-website&utm_medium=Online&utm_campaign=Pharmacy-website" class="btn btn-lg btn-shadow applyNow_button">Apply Now <i class="fa fa-long-arrow-right ms-1" aria-hidden="true"></i></a>
+                    <a href="https://gncdehradun.com/pharmacy-college.php?utm_source=Pharmacy-website&utm_medium=Online&utm_campaign=Pharmacy-website" class="btn btn-lg btn-shadow applyNow_button">Apply Now <i class="fa fa-long-arrow-right ms-1" aria-hidden="true"></i></a>
 
                 </div>
             </div>
@@ -328,7 +328,7 @@
                         </li>
                         <li>We focus on value-based education, aiming to develop critical thinking, problem-solving skills, and a knack for innovation and research in our students. Recognizing the importance of career readiness in the dynamic field of pharmacy, we offer extensive placement training to prepare our students for successful careers in the pharmaceutical and healthcare sectors.</li>
                     </ul>
-                    <a href="https://gnc.edu.in/pharmacy-college?utm_source=Pharmacy-website&utm_medium=Online&utm_campaign=Pharmacy-website" class="btn btn-lg btn-shadow mt-4 applyNow_button" style="background-color: #00bcfb;">Apply Now <i class="fa fa-long-arrow-right ms-1" aria-hidden="true"></i></a>
+                    <a href="https://gncdehradun.com/pharmacy-college.php?utm_source=Pharmacy-website&utm_medium=Online&utm_campaign=Pharmacy-website" class="btn btn-lg btn-shadow mt-4 applyNow_button" style="background-color: #00bcfb;">Apply Now <i class="fa fa-long-arrow-right ms-1" aria-hidden="true"></i></a>
                 </div>
             </div>
             <div class="col-lg-6 col-md-8 col-sm-10">

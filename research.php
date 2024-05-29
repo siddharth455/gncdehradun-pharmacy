@@ -65,7 +65,7 @@
             data: {
                 labels: ['2018','2019', '2020', '2021', '2022', '2023','2024'],
                 datasets: [{
-                    label: 'Book Chapters',
+                    label: 'Research Paper',
                     data: [3, 3, 9, 3, 20, 34, 1], // Replace these numbers with your actual data
                     backgroundColor: [
                         'rgba(255, 99, 132, 1)',
@@ -77,11 +77,12 @@
                         'rgba(155, 122, 189, 1)'
                     ],
                     borderColor: [
-                        'rgba(255, 99, 132, 1)',
-                        'rgba(54, 162, 235, 1)',
-                        'rgba(255, 206, 86, 1)',
-                        'rgba(75, 192, 192, 1)',
-                        'rgba(153, 102, 255, 1)'
+                        'rgb(0, 0, 0)',
+                        'rgb(0, 0, 0)',
+                        'rgb(0, 0, 0)',
+                        'rgb(0, 0, 0)',
+                        'rgb(0, 0, 0)',
+                        'rgb(0, 0, 0)',
                     ],
                     borderWidth: 1
                 }]
@@ -93,7 +94,7 @@
                         position: 'top',
                     },
                     datalabels: {
-                        color: '#000',
+                        color: 'black',
                         anchor: 'end',
                         align: 'start',
                         formatter: (value, context) => value,
