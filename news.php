@@ -77,9 +77,9 @@ $events = json_decode($jsonData, true);
             <select id="category-filter">
                 <option value="all">All</option>
                 <option value="Educational Visit">Educational Visit</option>
-                <option value="Music">Music</option>
+                <option value="Music">Training & Placement</option>
                 <option value="Sports">Sports</option>
-                <option value="Art">Art</option>
+                <option value="Art">Cultural</option>
             </select>
             <label for="month-filter">Filter by Month:</label>
             <select id="month-filter">
@@ -123,7 +123,8 @@ $events = json_decode($jsonData, true);
 </div>
 
 <script>
-   document.addEventListener('DOMContentLoaded', function() {
+    
+document.addEventListener('DOMContentLoaded', function() {
     const categoryFilter = document.getElementById('category-filter');
     const monthFilter = document.getElementById('month-filter');
     const yearFilter = document.getElementById('year-filter');
@@ -134,11 +135,21 @@ $events = json_decode($jsonData, true);
         const selectedMonth = monthFilter.value;
         const selectedYear = yearFilter.value;
 
+        console.log('Selected Category:', selectedCategory);
+        console.log('Selected Month:', selectedMonth);
+        console.log('Selected Year:', selectedYear);
+
         events.forEach((event, index) => {
             const eventCategory = event.getAttribute('data-category');
             const eventMonth = event.getAttribute('data-month');
             const eventYear = event.getAttribute('data-year');
-            
+
+            console.log('Event:', {
+                category: eventCategory,
+                month: eventMonth,
+                year: eventYear
+            });
+
             const matchesCategory = (selectedCategory === 'all' || selectedCategory === eventCategory);
             const matchesMonth = (selectedMonth === 'all' || selectedMonth === eventMonth);
             const matchesYear = (selectedYear === '' || selectedYear === eventYear);
