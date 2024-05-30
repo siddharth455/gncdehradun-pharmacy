@@ -3,10 +3,10 @@
         <div class="col-lg-6 col-md-12">
             <div class="steps-container">
                 <h3 class="section-title">How to Apply?</h3>
-                <p class="section-description">To embark on your educational journey at GNC, follow these essential steps whether you're enrolling yourself or assisting an applicant.</p>
+                <p class="section-description">To begin on your educational journey at GNC, follow these essential steps whether you're enrolling yourself or assisting an applicant.</p>
                 <!-- Step 1 -->
                 <div class="step-box">
-                    <a href="#" class="step-link">
+                    <a href="https://gncdehradun.com/pharmacy-college.php?utm_source=Pharmacy-website&utm_medium=Online&utm_campaign=Pharmacy-website" class="step-link">
                         <div class="icon-holder"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i></div>
                         <div class="step-details">
                             <strong class="step-title">Step 1: Registration</strong>
@@ -16,7 +16,7 @@
                 </div>
                 <!-- Step 2 -->
                 <div class="step-box">
-                    <a href="#" class="step-link">
+                    <a href="https://gncdehradun.com/pharmacy-college.php?utm_source=Pharmacy-website&utm_medium=Online&utm_campaign=Pharmacy-website" class="step-link">
                         <div class="icon-holder"><i class="fa fa-user" aria-hidden="true"></i></div>
                         <div class="step-details">
                             <strong class="step-title">Step 2: Application Form</strong>
@@ -26,7 +26,7 @@
                 </div>
                 <!-- Step 3 -->
                 <div class="step-box">
-                    <a href="#" class="step-link">
+                    <a href="https://gncdehradun.com/pharmacy-college.php?utm_source=Pharmacy-website&utm_medium=Online&utm_campaign=Pharmacy-website" class="step-link">
                         <div class="icon-holder"><i class="fa fa-file" aria-hidden="true"></i></div>
                         <div class="step-details">
                             <strong class="step-title">Step 3: Document Verification & Admission</strong>
