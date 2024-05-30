@@ -219,7 +219,7 @@
                                         <a href="research.php" class="nav-link">Research Papers</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a href="career-development.php" class="nav-link">Reserch & Career Development Initiatives</a>
+                                        <a href="career-development.php" class="nav-link">Research & Career Development Initiatives</a>
                                     </li>
                                     <li class="nav-item">
                                         <a href="mou.php" class="nav-link">Industry Collaborations / MOU Signed</a>

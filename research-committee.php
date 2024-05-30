@@ -47,20 +47,21 @@
             </tr>
         </thead>
         <tbody>
-            <tr>
+        <tr>
                 <th scope="row">1</th>
-                <td>Prof. (Dr.) Deepak Sharma</td>
-                <td>Member</td>
-                <td>7300777721</td>
-                <td>principalpharmacy@gnc.edu.in</td>
-            </tr>
-            <tr>
-                <th scope="row">2</th>
                 <td>Dr. Vishal Kumar Deshwal</td>
                 <td>Chairperson</td>
                 <td>9897538555</td>
                 <td>vishaldeshwal@gnc.edu.in</td>
             </tr>
+            <tr>
+                <th scope="row">2</th>
+                <td>Prof. (Dr.) Deepak Sharma</td>
+                <td>Member</td>
+                <td>7300777721</td>
+                <td>principalpharmacy@gnc.edu.in</td>
+            </tr>
+           
             <tr>
                 <th scope="row">3</th>
                 <td>Dr. Nidhi Chatterjee</td>
