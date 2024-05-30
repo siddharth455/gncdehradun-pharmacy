@@ -51,7 +51,7 @@ $events = json_decode($jsonData, true);
         <div class="d-table-cell">
             <div class="container">
                 <div class="page-title-content">
-                    <h2>News &amp; Updates</h2>
+                    <h1>News &amp; Updates</h1>
                 </div>
             </div>
         </div>

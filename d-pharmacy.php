@@ -4,7 +4,7 @@
         <div class="d-table-cell">
             <div class="container">
                 <div class="page-title-content">
-                    <h2>Diploma in Pharmacy</h2>
+                    <h1>Diploma in Pharmacy</h1>
                 </div>
             </div>
         </div>
@@ -21,7 +21,7 @@
                     <p>The Diploma in Pharmacy (D.Pharm) is a comprehensive two-year course designed for students interested in entering the pharmaceutical sector. This program provides a foundational understanding of pharmaceutical sciences, covering key areas such as pharmacology, pharmaceutical chemistry, pharmacognosy, and pharmaceutics.</p>
 
                     <div class="page-sub-heading mt-5">
-                        <h3>Career Prospects:</h3>
+                        <h2>Career Prospects:</h2>
                     </div>
                     <p>Graduates of the Diploma in Pharmacy (D.Pharm) program can explore several career paths in the pharmaceutical and healthcare sectors. They can work as Pharmacy Technicians, supporting pharmacists in dispensing medications and providing patient care. Another avenue is as Medical Representatives, where they promote and sell pharmaceutical products. Opportunities also exist in clinical research as assistants, contributing to the management and execution of clinical trials.</p>
                     <a href="https://gncdehradun.com/pharmacy-college.php?utm_source=Pharmacy-website&utm_medium=Online&utm_campaign=Pharmacy-website" class="btn btn-lg btn-shadow applyNow_button">Apply Now <i class="fa fa-long-arrow-right ms-1" aria-hidden="true"></i></a>

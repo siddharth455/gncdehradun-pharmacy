@@ -16,7 +16,7 @@
         <div class="d-table-cell">
             <div class="container">
                 <div class="page-title-content">
-                    <h2>PCI-Handbook</h2>
+                    <h1>PCI-Handbook</h1>
                 </div>
             </div>
         </div>

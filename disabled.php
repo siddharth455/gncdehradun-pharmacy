@@ -4,7 +4,7 @@
         <div class="d-table-cell">
             <div class="container">
                 <div class="page-title-content">
-                    <h2>Disabled-Friendly, Barrier Free Environment</h2>
+                    <h1>Disabled-Friendly, Barrier Free Environment</h1>
                 </div>
             </div>
         </div>

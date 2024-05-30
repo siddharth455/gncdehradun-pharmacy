@@ -9,7 +9,7 @@ vertical-align: middle;
         <div class="d-table-cell">
             <div class="container">
                 <div class="page-title-content">
-                    <h2>Strategic Plan</h2>
+                    <h1>Strategic Plan</h1>
                 </div>
             </div>
         </div>

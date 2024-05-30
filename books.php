@@ -34,7 +34,7 @@
         <div class="d-table-cell">
             <div class="container">
                 <div class="page-title-content">
-                    <h2>Books &amp; Book Chapters</h2>
+                    <h1>Books &amp; Book Chapters</h1>
                 </div>
             </div>
         </div>

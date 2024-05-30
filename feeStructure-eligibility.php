@@ -4,7 +4,7 @@
         <div class="d-table-cell">
             <div class="container">
                 <div class="page-title-content">
-                    <h2>Fee Structure &amp; Eligibility </h2>
+                    <h1>Fee Structure &amp; Eligibility </h1>
                 </div>
             </div>
         </div>
@@ -44,7 +44,7 @@
                         <div class="tab-content mt-3" id="myTabContent">
                             <div class="tab-pane fade show active" id="home-tab-pane" role="tabpanel" aria-labelledby="home-tab">
                                 <div class="feeTables">
-                                    <h5>All India Quota (Amount of fee details in INR)</h5>
+                                    <h5 class="">All India Quota (Amount of fee details in INR)</h5>
                                     <div class="table-responsive" style="filter: drop-shadow(4px 3px 4px black);">
                                         <table class="table table-bordered">
                                             <thead>

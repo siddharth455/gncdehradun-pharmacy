@@ -16,7 +16,7 @@
         <div class="d-table-cell">
             <div class="container">
                 <div class="page-title-content">
-                    <h2>Prospectus &amp; Brochure</h2>
+                    <h1>Prospectus &amp; Brochure</h1>
                 </div>
             </div>
         </div>

@@ -4,7 +4,7 @@
         <div class="d-table-cell">
             <div class="container">
                 <div class="page-title-content">
-                    <h2>Student Council Committee</h2>
+                    <h1>Student Council Committee</h1>
                 </div>
             </div>
         </div>
