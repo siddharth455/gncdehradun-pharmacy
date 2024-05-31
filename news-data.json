@@ -143,45 +143,27 @@
     "subtitle": "Pharmaceutical Sciences"
   },
   {
-    "id": "1",
-    "name": "Visit to Parliament of India",
-    "title": "Students Experience the Pulse of Indian Democracy",
-    "date": "26 April, 2024",
-    "about": "The Guru Nanak College of Pharmaceutical Sciences organized an enlightening visit to the Indian Parliament for its scholars on the 26th of April, 2024. This visit aimed to immerse students in the essence of governance and legislative discourse, thereby recognizing the importance of civic engagement in their holistic development. Nearly all the students from Pharmaceutical department participated in this unique experience.",
-    "image": "assets/images/events/gnc-image-events2.webp",
-    "image2": "assets/images/events/gnc-image-events1.webp",
-    "image3": "assets/images/events/gnc-image-events3.webp",
-    "category": "The Guru Nanak College of Pharmaceutical Sciences",
-    "description": "The event was graced by the presence of Mrs. Vineet Arora – COO, Guru Nanak College of Pharmaceutical Sciences. Along with the chief guest, faculty members from Pharmaceutical department were also present to support the students. The visit was designed to ignite a passion for active citizenship and provide firsthand experience of India's democratic processes. The event received positive feedback from both students and faculty members, with many expressing their appreciation for the college's efforts to organize such a captivating and educational visit. Overall, the Parliament visit served its purpose of fostering a sense of civic responsibility and engagement within the college community. In conclusion, this visit was a memorable and inspiring experience for all participants, contributing to their overall understanding of and commitment to active citizenship.",
-    "subtitle": "Pharmaceutical Sciences"
-  }
-  ,
-  {
     "id": "aaa",
-    "name": "Visit to Parliament of India",
-    "title": "Students Experience the Pulse of Indian Democracy",
-    "date": "26 April, 2024",
-    "about": "The Guru Nanak College of Pharmaceutical Sciences organized an enlightening visit to the Indian Parliament for its scholars on the 26th of April, 2024. This visit aimed to immerse students in the essence of governance and legislative discourse, thereby recognizing the importance of civic engagement in their holistic development. Nearly all the students from Pharmaceutical department participated in this unique experience.",
-    "image": "assets/images/events/gnc-image-events2.webp",
-    
-    "category": "The Guru Nanak College of Pharmaceutical Sciences",
-    "description": "The event was graced by the presence of Mrs. Vineet Arora – COO, Guru Nanak College of Pharmaceutical Sciences. Along with the chief guest, faculty members from Pharmaceutical department were also present to support the students. The visit was designed to ignite a passion for active citizenship and provide firsthand experience of India's democratic processes. The event received positive feedback from both students and faculty members, with many expressing their appreciation for the college's efforts to organize such a captivating and educational visit. Overall, the Parliament visit served its purpose of fostering a sense of civic responsibility and engagement within the college community. In conclusion, this visit was a memorable and inspiring experience for all participants, contributing to their overall understanding of and commitment to active citizenship.",
-    "subtitle": "Pharmaceutical Sciences"
-  }
-  ,
+    "name": "Poster Presentation",
+    "title": "Poster Presentation",
+    "date": "25 August, 2023",
+    "about": "On August 25, 2023, Guru Nanak College of Pharmaceutical Sciences organized a Poster Presentation Event, providing a platform for students to showcase their innovative projects. The event aimed to foster academic excellence, and promote scholarly communication among students and faculty members.The event venue was arranged with display boards and stands to accommodate the presentation of posters. Each participant was assigned a designated space to showcase their poster, along with accompanying materials such as charts, graphs, and visual aids to illustrate their research findings effectively. Participants had the opportunity to present their research posters on various topics related to pharmaceutical sciences, including drug discovery, pharmacology, pharmaceutical technology, and clinical pharmacy.",
+    "image": "assets/images/events/gnc-posterpresen-img1.webp",
+    "subtitle": "The Guru Nanak College of Pharmaceutical Sciences",
+    "description": "A diverse range of research topics were presented during the event, covering areas such as novel drug delivery systems, pharmacological mechanisms of action, therapeutic efficacy of pharmaceutical compounds, and clinical outcomes of patient interventions. Participants explored current trends and challenges in pharmaceutical research and proposed innovative solutions to address them. A panel of faculty members and experts in pharmaceutical sciences evaluated the poster presentations based on criteria such as scientific merit, clarity of presentation, originality of research, and depth of understanding. Participants were given the opportunity to present their posters and engage in discussions with the evaluators to further elaborate on their research findings. The Event facilitated knowledge sharing and participants exchanged ideas, insights, and feedback on their projects, fostering interdisciplinary collaboration and stimulating intellectual discourse within the college community.Outstanding poster presentations were recognized and awarded based on merit and innovation. Participants who demonstrated exceptional research skills, creativity, and scientific consistency were acknowledged for their contributions. Certificates were presented to winners during a closing ceremony, honouring their achievements and inspiring others to pursue excellence in research",
+    "category": "training"
+  },
   {
     "id": "bbb",
-    "name": "Visit to Parliament of India",
-    "title": "Students Experience the Pulse of Indian Democracy",
-    "date": "26 April, 2024",
+    "name": "Hospital Visit 2023 - CMI",
+    "title": "Hospital Visit 2023 - CMI",
+    "date": "17 August, 2023",
     "about": "The Guru Nanak College of Pharmaceutical Sciences organized an enlightening visit to the Indian Parliament for its scholars on the 26th of April, 2024. This visit aimed to immerse students in the essence of governance and legislative discourse, thereby recognizing the importance of civic engagement in their holistic development. Nearly all the students from Pharmaceutical department participated in this unique experience.",
-    "image": "assets/images/events/gnc-image-events2.webp",
-   
+    "image": "assets/images/events/gnc-hospitalvisit-img.webp",
     "category": "The Guru Nanak College of Pharmaceutical Sciences",
     "description": "The event was graced by the presence of Mrs. Vineet Arora – COO, Guru Nanak College of Pharmaceutical Sciences. Along with the chief guest, faculty members from Pharmaceutical department were also present to support the students. The visit was designed to ignite a passion for active citizenship and provide firsthand experience of India's democratic processes. The event received positive feedback from both students and faculty members, with many expressing their appreciation for the college's efforts to organize such a captivating and educational visit. Overall, the Parliament visit served its purpose of fostering a sense of civic responsibility and engagement within the college community. In conclusion, this visit was a memorable and inspiring experience for all participants, contributing to their overall understanding of and commitment to active citizenship.",
     "subtitle": "Pharmaceutical Sciences"
-  }
-  ,
+  },
   {
     "id": "ccc",
     "name": "Visit to Parliament of India",
@@ -189,12 +171,11 @@
     "date": "26 April, 2024",
     "about": "The Guru Nanak College of Pharmaceutical Sciences organized an enlightening visit to the Indian Parliament for its scholars on the 26th of April, 2024. This visit aimed to immerse students in the essence of governance and legislative discourse, thereby recognizing the importance of civic engagement in their holistic development. Nearly all the students from Pharmaceutical department participated in this unique experience.",
     "image": "assets/images/events/gnc-image-events2.webp",
-   
+
     "category": "The Guru Nanak College of Pharmaceutical Sciences",
     "description": "The event was graced by the presence of Mrs. Vineet Arora – COO, Guru Nanak College of Pharmaceutical Sciences. Along with the chief guest, faculty members from Pharmaceutical department were also present to support the students. The visit was designed to ignite a passion for active citizenship and provide firsthand experience of India's democratic processes. The event received positive feedback from both students and faculty members, with many expressing their appreciation for the college's efforts to organize such a captivating and educational visit. Overall, the Parliament visit served its purpose of fostering a sense of civic responsibility and engagement within the college community. In conclusion, this visit was a memorable and inspiring experience for all participants, contributing to their overall understanding of and commitment to active citizenship.",
     "subtitle": "Pharmaceutical Sciences"
-  }
-  ,
+  },
   {
     "id": "ddd",
     "name": "Visit to Parliament of India",
@@ -202,7 +183,7 @@
     "date": "26 April, 2024",
     "about": "The Guru Nanak College of Pharmaceutical Sciences organized an enlightening visit to the Indian Parliament for its scholars on the 26th of April, 2024. This visit aimed to immerse students in the essence of governance and legislative discourse, thereby recognizing the importance of civic engagement in their holistic development. Nearly all the students from Pharmaceutical department participated in this unique experience.",
     "image": "assets/images/events/gnc-image-events2.webp",
-   
+
     "category": "The Guru Nanak College of Pharmaceutical Sciences",
     "description": "The event was graced by the presence of Mrs. Vineet Arora – COO, Guru Nanak College of Pharmaceutical Sciences. Along with the chief guest, faculty members from Pharmaceutical department were also present to support the students. The visit was designed to ignite a passion for active citizenship and provide firsthand experience of India's democratic processes. The event received positive feedback from both students and faculty members, with many expressing their appreciation for the college's efforts to organize such a captivating and educational visit. Overall, the Parliament visit served its purpose of fostering a sense of civic responsibility and engagement within the college community. In conclusion, this visit was a memorable and inspiring experience for all participants, contributing to their overall understanding of and commitment to active citizenship.",
     "subtitle": "Pharmaceutical Sciences"

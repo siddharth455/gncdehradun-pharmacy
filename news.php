@@ -12,6 +12,7 @@ $events = json_decode($jsonData, true);
         margin:1rem 0 0 1rem;
         /* Add space between the rows */
         border-radius: 10px;
+        height: 100%;
     }
     .event-container {
         display: flex;
@@ -76,10 +77,10 @@ $events = json_decode($jsonData, true);
             <label for="category-filter">Filter by Category:</label>
             <select id="category-filter">
                 <option value="all">All</option>
-                <option value="Educational Visit">Educational Visit</option>
-                <option value="Music">Training & Placement</option>
+                <option value="Educational">Educational Visit</option>
+                <option value="training">Training & Placement</option>
                 <option value="Sports">Sports</option>
-                <option value="Art">Cultural</option>
+                <option value="clutural">Cultural</option>
             </select>
             <label for="month-filter">Filter by Month:</label>
             <select id="month-filter">
