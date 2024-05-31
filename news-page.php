@@ -17,7 +17,7 @@ if ($id !== null) {
       <div class="d-table">
         <div class="d-table-cell">
           <div class="page-title-content">
-            <h2><?= htmlspecialchars($selectedNewsItem['name']) ?></h2>
+            <h1><?= htmlspecialchars($selectedNewsItem['name']) ?></h1>
           </div>
         </div>
       </div>

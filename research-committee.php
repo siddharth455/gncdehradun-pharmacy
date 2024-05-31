@@ -4,7 +4,7 @@
         <div class="d-table-cell">
             <div class="container">
                 <div class="page-title-content">
-                    <h2>R&amp;D Cell and Code of Ethics</h2>
+                    <h1>R&amp;D Cell and Code of Ethics</h1>
                 </div>
             </div>
         </div>
@@ -47,41 +47,44 @@
             </tr>
         </thead>
         <tbody>
-            <tr>
+        <tr>
                 <th scope="row">1</th>
-                <td>Prof. (Dr.) Deepak Sharma</td>
-                <td>Member</td>
-                <td>7300777721</td>
-                <td>principalpharmacy@gnc.edu.in</td>
-            </tr>
-            <tr>
-                <th scope="row">2</th>
                 <td>Dr. Vishal Kumar Deshwal</td>
                 <td>Chairperson</td>
                 <td>9897538555</td>
                 <td>vishaldeshwal@gnc.edu.in</td>
             </tr>
             <tr>
-                <th scope="row">3</th>
-                <td>Dr. Nidhi Chatterjee</td>
-                <td>Member</td>
-                <td>7300777701</td>
-                <td>nidhichatterjee@gnc.edu.in</td>
-            </tr>
-            <tr>
-                <th scope="row">4</th>
+                <th scope="row">5</th>
                 <td>Dr. Vishal Kamboj</td>
-                <td>Member</td>
+                <td>Member Secretary</td>
                 <td>8295219491</td>
                 <td>vishalkamboj@gnc.edu.in</td>
             </tr>
+           
             <tr>
-                <th scope="row">5</th>
+                <th scope="row">2</th>
                 <td>Mrs. Kriti Dabral</td>
                 <td>Member</td>
                 <td>9467545933</td>
                 <td>kritidabral@gnc.edu.in</td>
             </tr>
+            <tr>
+                <th scope="row">3</th>
+                <td>Prof. (Dr.) Deepak Sharma</td>
+                <td>Member</td>
+                <td>7300777721</td>
+                <td>principalpharmacy@gnc.edu.in</td>
+            </tr>
+            
+            <tr>
+                <th scope="row">4</th>
+                <td>Dr. Nidhi Chatterjee</td>
+                <td>Member</td>
+                <td>7300777701</td>
+                <td>nidhichatterjee@gnc.edu.in</td>
+            </tr>
+           
         </tbody>
     </table>
 </div>

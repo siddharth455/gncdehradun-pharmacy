@@ -49,7 +49,7 @@
         <div class="d-table-cell">
             <div class="container">
                 <div class="page-title-content">
-                    <h2>IQAC - Internal<br>Quality Assurance Cell</h2>
+                    <h1>IQAC - Internal<br>Quality Assurance Cell</h1>
                 </div>
             </div>
         </div>
@@ -138,7 +138,7 @@
                                 <div class="card" style="filter: drop-shadow(3px 4px 6px black);">
                                     <img class="card-img-top" src="assets/images/khelo.webp" alt="Card image cap" style="height: 250px;">
                                     <div class="card-body">
-                                        <a href="https://kheloindia.gov.in/" class="btn btn-primary col-lg-12">Khelo India</a>
+                                        <a href="https://kheloindia.gov.in/" target="_blank" class="btn btn-primary col-lg-12">Khelo India</a>
                                     </div>
                                 </div>
                             </div>
@@ -146,7 +146,7 @@
                                 <div class="card" style="filter: drop-shadow(3px 4px 6px black);">
                                     <img class="card-img-top" src="assets/images/ministry.webp" alt="Card image cap" style="height: 250px;">
                                     <div class="card-body">
-                                        <a href="https://dbtyas-sports.gov.in/" class="btn btn-primary col-lg-12">Ministry of Youth Affairs and Sports</a>
+                                        <a href="https://dbtyas-sports.gov.in/" target="_blank" class="btn btn-primary col-lg-12">Ministry of Youth Affairs and Sports</a>
                                     </div>
                                 </div>
                             </div>
@@ -154,7 +154,7 @@
                                 <div class="card" style="filter: drop-shadow(3px 4px 6px black);">
                                     <img class="card-img-top" src="assets/images/pharmacy-council.webp" alt="Card image cap" style="height: 250px;">
                                     <div class="card-body">
-                                        <a href="https://www.pci.nic.in/" class="btn btn-primary col-lg-12">Pharmacy Council of India</a>
+                                        <a href="https://www.pci.nic.in/" target="_blank" class="btn btn-primary col-lg-12">Pharmacy Council of India</a>
                                     </div>
                                 </div>
                             </div>
@@ -162,7 +162,7 @@
                                 <div class="card" style="filter: drop-shadow(3px 4px 6px black);">
                                     <img class="card-img-top" src="assets/images/radhakrishnan (1).webp" alt="Card image cap" style="height: 250px;">
                                     <div class="card-body">
-                                        <a href="http://naac.gov.in/images/docs/DrRadhakrishnanCommittee-FinalReport.pdf" class="btn btn-primary col-lg-12">Dr. Radhakrishnan Committee Report</a>
+                                        <a href="http://naac.gov.in/images/docs/DrRadhakrishnanCommittee-FinalReport.pdf" target="_blank" class="btn btn-primary col-lg-12">Dr. Radhakrishnan Committee Report</a>
                                     </div>
                                 </div>
                             </div>
@@ -170,7 +170,7 @@
                                 <div class="card" style="filter: drop-shadow(3px 4px 6px black);">
                                     <img class="card-img-top" src="assets/images/ugc.webp" alt="Card image cap" style="height: 250px;" >
                                     <div class="card-body">
-                                        <a href="https://www.ugc.gov.in/" class="btn btn-primary col-lg-12">UGC Notices</a>
+                                        <a href="https://www.ugc.gov.in/" target="_blank" class="btn btn-primary col-lg-12">UGC Notices</a>
                                     </div>
                                 </div>
                             </div>
@@ -178,23 +178,31 @@
                                 <div class="card" style="filter: drop-shadow(3px 4px 6px black);">
                                     <img class="card-img-top" src="assets/images/uttarakhand.webp" alt="Card image cap" style="height: 250px; width: 77%; margin: auto;">
                                     <div class="card-body">
-                                        <a href="https://sports.uk.gov.in/" class="btn btn-primary col-lg-12">Uttarakhand Department of Sports</a>
+                                        <a href="https://sports.uk.gov.in/" target="_blank" class="btn btn-primary col-lg-12">Uttarakhand Department of Sports</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-6 mb-5">
+                                <div class="card" style="filter: drop-shadow(3px 4px 6px black);">
+                                    <img class="card-img-top" src="assets/images/youth.webp" alt="Card image cap" style="height: 250px;">
+                                    <div class="card-body">
+                                        <a href="https://www.india.gov.in/topics/youth-sports" target="_blank" class="btn btn-primary col-lg-12">Youth & Sports</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-6 mb-5">
+                                <div class="card" style="filter: drop-shadow(3px 4px 6px black);">
+                                    <img class="card-img-top" src="assets/images/sports1.webp" alt="Card image cap" style="height: 250px;">
+                                    <div class="card-body">
+                                        <a href="https://sportsauthorityofindia.nic.in/sai/" target="_blank" class="btn btn-primary col-lg-12">Sports Authority of India</a>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-lg-6">
                                 <div class="card" style="filter: drop-shadow(3px 4px 6px black);">
-                                    <img class="card-img-top" src="assets/images/youth.webp" alt="Card image cap" style="height: 250px;">
+                                    <img class="card-img-top" src="assets/images/NAAC-Accredition.webp" alt="Card image cap" style="height: 250px;">
                                     <div class="card-body">
-                                        <a href="https://www.india.gov.in/topics/youth-sports" class="btn btn-primary col-lg-12">Youth & Sports</a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-lg-6">
-                                <div class="card" style="filter: drop-shadow(3px 4px px black);">
-                                    <img class="card-img-top" src="assets/images/sports1.webp" alt="Card image cap" style="height: 250px;">
-                                    <div class="card-body">
-                                        <a href="https://sportsauthorityofindia.nic.in/sai/" class="btn btn-primary col-lg-12">Sports Authority of India</a>
+                                        <a href="http://www.naac.gov.in/index.php/en/?option=com_content&view=article&id=31:archive&catid=19:quick-links&Itemid=148#notification" target="_blank" class="btn btn-primary col-lg-12">NAAC</a>
                                     </div>
                                 </div>
                             </div>
@@ -357,39 +365,40 @@
                             </tr>
                             <tr>
                                 <th scope="row">2</th>
-                                <td>Dr. Lalit Kumar</td>
+                                <td>Mrs. Kriti Dabral</td>
                                 <td>Member Secretary</td>
+                                <td>9467545933</td>
+                                <td>kritidabral@gnc.edu.in</td>
+                            </tr>
+                            <tr>
+                                <th scope="row">3</th>
+                                <td>Dr. Lalit Kumar</td>
+                                <td>Member</td>
                                 <td>9758900404</td>
                                 <td>registrar@gnc.edu.in</td>
                             </tr>
                             <tr>
-                                <th scope="row">3</th>
+                                <th scope="row">4</th>
                                 <td>Prof. (Dr.) Deepak Sharma</td>
                                 <td>Member</td>
                                 <td>7300777721</td>
                                 <td>principalpharmacy@gnc.edu.in</td>
                             </tr>
                             <tr>
-                                <th scope="row">4</th>
+                                <th scope="row">5</th>
                                 <td>Dr. Vishal kamboj</td>
                                 <td>Member</td>
                                 <td>8295219491</td>
                                 <td>vishalkamboj@gnc.edu.in</td>
                             </tr>
                             <tr>
-                                <th scope="row">5</th>
+                                <th scope="row">6</th>
                                 <td>Mr. Ankur Jaiswal</td>
                                 <td>Member</td>
                                 <td>9997810817</td>
                                 <td>ankurjaiswal@gnc.edu.in</td>
                             </tr>
-                            <tr>
-                                <th scope="row">6</th>
-                                <td>Mrs. Kriti Dabral</td>
-                                <td>Member</td>
-                                <td>9467545933</td>
-                                <td>kritidabral@gnc.edu.in</td>
-                            </tr>
+                           
                             <tr>
                                 <th scope="row">7</th>
                                 <td>Mr. Tarun Verma</td>

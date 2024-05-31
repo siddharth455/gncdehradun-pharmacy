@@ -118,7 +118,7 @@
         <div class="d-table-cell">
             <div class="container">
                 <div class="page-title-content">
-                    <h2>Industry Collaborations / MOU</h2>
+                    <h1>Industry Collaborations / MOU</h1>
                 </div>
             </div>
         </div>

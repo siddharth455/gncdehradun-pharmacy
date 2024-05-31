@@ -24,7 +24,7 @@
         <div class="d-table-cell">
             <div class="container">
                 <div class="page-title-content">
-                    <h2>Placements <br>at GNC</h2>
+                    <h1>Placements <br>at GNC</h1>
                 </div>
             </div>
         </div>

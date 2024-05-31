@@ -118,7 +118,7 @@
         <div class="d-table-cell">
             <div class="container">
                 <div class="page-title-content">
-                    <h2>CO-PO-PSO</h2>
+                    <h1>CO-PO-PSO</h1>
                 </div>
             </div>
         </div>
@@ -156,7 +156,7 @@
                 <div class="col-md-8 col-12">
                     <div class="tab-content" id="v-pills-tabContent">
                         <div class="tab-pane fade show active" id="v-pills-home" role="tabpanel" aria-labelledby="v-pills-home-tab" tabindex="0">
-                            <h4 style="text-align: center;">Syllabus &amp; CO - B.Pharm</h4>
+                            <h2 style="text-align: center;">Syllabus &amp; CO - B.Pharm</h2>
                             <div class="pdf-container">
                                 <embed src="assets/images/Syllabus_B_Pharm.pdf" type="application/pdf" width="100%" height="100%">
                             </div>

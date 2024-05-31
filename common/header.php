@@ -146,7 +146,7 @@
                                     <li class="nav-item">
                                         <a href="co-peo-pso.php" class="nav-link">CO-PO-PSO</a>
                                     </li>
-                                    <li class="nav-item">
+                                    <li class="nav-item" style="position: relative;">
                                         <a href="libraries.php" class="nav-link">Library</a>
                                     </li>
                                     <li class="nav-item">

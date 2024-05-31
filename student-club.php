@@ -19,7 +19,7 @@
         <div class="d-table-cell">
             <div class="container">
                 <div class="page-title-content">
-                    <h2>Students Club</h2>
+                    <h1>Students Club</h1>
                 </div>
             </div>
         </div>

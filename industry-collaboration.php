@@ -271,7 +271,7 @@
         <div class="d-table-cell">
             <div class="container">
                 <div class="page-title-content">
-                    <h2>Industry Collaboration - CBC</h2>
+                    <h1>Industry Collaboration - CBC</h1>
                 </div>
             </div>
         </div>
