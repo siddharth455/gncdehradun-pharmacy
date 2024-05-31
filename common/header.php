@@ -153,7 +153,7 @@
                                                 <a href="libraries.php" class="nav-link">Library Overview</a>
                                             </li>
                                             <li class="nav-item">
-                                                <a href="b-pharmacy.php" class="nav-link">B.Pharm</a>
+                                                <a href="research-journal.php" class="nav-link">Research Journal</a>
                                             </li>
                                         </ul>
                                     </li>
