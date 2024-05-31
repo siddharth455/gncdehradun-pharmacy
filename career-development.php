@@ -15,7 +15,7 @@
         <div class="section-heading">
             <h2 class="mb-3">Research &amp; Career Development Initiatives</h2>
         </div>
-        <p class="mb-3" style="text-align: left;">Guru Nanak College of Pharmaceutical Sciences emphasizes career development through its Training and Development Department. Initiatives include soft skills, language and communication skills, life skills (yoga, fitness, health), technology trends awareness, and comprehensive career development programs. These efforts ensure students are well-prepared for their professional journeys.</p>
+        <p class="mb-3" style="text-align: left;">Guru Nanak College of Pharmaceutical Sciences emphasizes career development through its Training and Placement Department. Initiatives include soft skills, language and communication skills, life skills (yoga, fitness, health), technology trends awareness, and comprehensive career development programs. These efforts ensure students are well-prepared for their professional journeys.</p>
     </div>
 </section>
 <section class="container mb-5">

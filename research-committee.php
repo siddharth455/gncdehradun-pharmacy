@@ -48,6 +48,7 @@
         </thead>
         <tbody>
         <tr>
+        <tr>
                 <th scope="row">1</th>
                 <td>Dr. Vishal Kumar Deshwal</td>
                 <td>Chairperson</td>
@@ -55,7 +56,15 @@
                 <td>vishaldeshwal@gnc.edu.in</td>
             </tr>
             <tr>
-                <th scope="row">5</th>
+                <th scope="row">2</th>
+                <td>Prof. (Dr.) Deepak Sharma</td>
+                <td>Member</td>
+                <td>7300777721</td>
+                <td>principalpharmacy@gnc.edu.in</td>
+            </tr>
+           
+            <tr>
+                <th scope="row">2</th>
                 <td>Dr. Vishal Kamboj</td>
                 <td>Member Secretary</td>
                 <td>8295219491</td>
@@ -63,14 +72,14 @@
             </tr>
            
             <tr>
-                <th scope="row">2</th>
+                <th scope="row">3</th>
                 <td>Mrs. Kriti Dabral</td>
                 <td>Member</td>
                 <td>9467545933</td>
                 <td>kritidabral@gnc.edu.in</td>
             </tr>
             <tr>
-                <th scope="row">3</th>
+                <th scope="row">4</th>
                 <td>Prof. (Dr.) Deepak Sharma</td>
                 <td>Member</td>
                 <td>7300777721</td>
@@ -78,7 +87,7 @@
             </tr>
             
             <tr>
-                <th scope="row">4</th>
+                <th scope="row">5</th>
                 <td>Dr. Nidhi Chatterjee</td>
                 <td>Member</td>
                 <td>7300777701</td>

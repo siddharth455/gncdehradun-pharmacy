@@ -15,7 +15,7 @@
         <div class="section-heading">
             <h2 class="mb-3">Empowering Futures Through Practical Experience</h2>
         </div>
-        <p class="mb-3" style="text-align: left;">Guru Nanak College of Pharmaceutical Sciences emphasizes career development through its Training and Development Department. Our initiatives include comprehensive training programs, internship opportunities, and awareness of current technology trends. These efforts ensure that students gain practical experience and are well-prepared for their professional journeys.</p>
+        <p class="mb-3" style="text-align: left;">Guru Nanak College of Pharmaceutical Sciences emphasizes career development through its Training and Placement Department. Our initiatives include comprehensive training programs, internship opportunities, and awareness of current technology trends. These efforts ensure that students gain practical experience and are well-prepared for their professional journeys.</p>
     </div>
 </section>
 <section class="container">

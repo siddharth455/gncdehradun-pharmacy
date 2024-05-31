@@ -15,7 +15,7 @@
         <div class="section-heading">
             <h2 class="mb-3">Student Council Committee</h2>
         </div>
-        <p class="" style="text-align: left;">Guru Nanak College of Pharmaceutical Sciences has strategically aligned its research areas with emerging local and national priorities in pharmacy, biotechnology and climate change challenges. This comprehensive approach ensures its work addresses global challenges while fostering pharmaceutical innovation.</p>
+        <p class="" style="text-align: left;">The Student Council Committee at Guru Nanak College of Pharmaceutical Sciences plays a vital role in enhancing the overall student experience. Committed to fostering a vibrant campus life, the council organizes various cultural, academic, and social activities throughout the year. By acting as a bridge between the administration and the student body, the committee ensures that student voices are heard and their concerns addressed. It also promotes leadership, teamwork, and community service, empowering students to develop skills that will benefit them in their future careers. Overall, the Student Council Committee is dedicated to creating a dynamic and inclusive environment that supports the holistic development of every student.</p>
     </div>
 </section>
 <section class="container" style="filter: drop-shadow(3px 3px 4px black);">
@@ -37,9 +37,9 @@
                                 <td>9897538555</td>
                                 <td>vishaldeshwal@gnc.edu.in</td>
                             </tr>
-                            <tr>
+                        <tr>
                                 <th scope="row">2</th>
-                                <td>Mrs. Priti Sood</td>
+                                <td>Dr. Lalit Kumar</td>
                                 <td>Member Secretary</td>
                                 <td>7300777713</td>
                                 <td>pritisood@gnc.edu.in</td>
@@ -59,14 +59,20 @@
                                 <td>principalpharmacy@gnc.edu.in</td>
                             </tr>
                             <tr>
-                                <th scope="row">5</th>
+                                <th scope="row">4</th>
                                 <td>Dr. Nidhi Chatterjee</td>
                                 <td>Member</td>
                                 <td>7300777721</td>
                                 <td>principalpharmacy@gnc.edu.in</td>
                             </tr>
                            
-                           
+                            <tr>
+                                <th scope="row">5</th>
+                                <td>Mrs. Priti Sood</td>
+                                <td>Member</td>
+                                <td>7300777713</td>
+                                <td>pritisood@gnc.edu.in</td>
+                            </tr>
                         </tbody>
                     </table>
 </section>
