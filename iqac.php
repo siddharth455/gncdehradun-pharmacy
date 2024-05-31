@@ -365,39 +365,40 @@
                             </tr>
                             <tr>
                                 <th scope="row">2</th>
-                                <td>Dr. Lalit Kumar</td>
+                                <td>Mrs. Kriti Dabral</td>
                                 <td>Member Secretary</td>
+                                <td>9467545933</td>
+                                <td>kritidabral@gnc.edu.in</td>
+                            </tr>
+                            <tr>
+                                <th scope="row">3</th>
+                                <td>Dr. Lalit Kumar</td>
+                                <td>Member</td>
                                 <td>9758900404</td>
                                 <td>registrar@gnc.edu.in</td>
                             </tr>
                             <tr>
-                                <th scope="row">3</th>
+                                <th scope="row">4</th>
                                 <td>Prof. (Dr.) Deepak Sharma</td>
                                 <td>Member</td>
                                 <td>7300777721</td>
                                 <td>principalpharmacy@gnc.edu.in</td>
                             </tr>
                             <tr>
-                                <th scope="row">4</th>
+                                <th scope="row">5</th>
                                 <td>Dr. Vishal kamboj</td>
                                 <td>Member</td>
                                 <td>8295219491</td>
                                 <td>vishalkamboj@gnc.edu.in</td>
                             </tr>
                             <tr>
-                                <th scope="row">5</th>
+                                <th scope="row">6</th>
                                 <td>Mr. Ankur Jaiswal</td>
                                 <td>Member</td>
                                 <td>9997810817</td>
                                 <td>ankurjaiswal@gnc.edu.in</td>
                             </tr>
-                            <tr>
-                                <th scope="row">6</th>
-                                <td>Mrs. Kriti Dabral</td>
-                                <td>Member</td>
-                                <td>9467545933</td>
-                                <td>kritidabral@gnc.edu.in</td>
-                            </tr>
+                           
                             <tr>
                                 <th scope="row">7</th>
                                 <td>Mr. Tarun Verma</td>
