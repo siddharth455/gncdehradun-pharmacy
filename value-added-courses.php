@@ -34,7 +34,7 @@
         <div class="d-table-cell">
             <div class="container">
                 <div class="page-title-content">
-                    <h2>Value Added Courses &amp; Syllabus</h2>
+                    <h1>Value Added Courses &amp; Syllabus</h1>
                 </div>
             </div>
         </div>

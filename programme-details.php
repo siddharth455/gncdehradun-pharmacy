@@ -4,7 +4,7 @@
         <div class="d-table-cell">
             <div class="container">
                 <div class="page-title-content">
-                    <h2>Programme Details</h2>
+                    <h1>Programme Details</h1>
                 </div>
             </div>
         </div>
@@ -12,11 +12,11 @@
 </div>
 
 <div class="container-fluid mt-4 mb-4">
-    <div class="container">
+    <div class="container page-heading">
         <h2>Diploma in Pharmacy</h2>
     </div>
 </div>
-<section class="aboutProgram-section pt-5 pb-5">
+<section class="aboutProgram-section pt-1 pb-5">
     <div class="container">
         <div class="row">
             <div class="col-lg-6">
@@ -42,7 +42,7 @@
 </section>
 <hr>
 <section class="aboutProgram-section pt-5 pb-5">
-    <div class="container">
+    <div class="container page-heading">
         <h2>Bachelor in Pharmacy</h2><br>
         <div class="row">
             <div class="col-lg-6">

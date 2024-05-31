@@ -34,7 +34,7 @@
         <div class="d-table-cell">
             <div class="container">
                 <div class="page-title-content">
-                    <h2>Research Papers</h2>
+                    <h1>Research Papers</h1>
                 </div>
             </div>
         </div>

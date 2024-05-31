@@ -12,8 +12,8 @@
     <link rel="stylesheet" href="assets/css/dark.css" />
     <link rel="stylesheet" href="assets/css/responsive.css" />
     <link rel="stylesheet" href="assets/css/global.css" />
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" />
+    <link href="assets/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="assets/css/fontawesome.min.css" />
     <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.css">
     <title>GNC Dehradun</title>
     <link rel="icon" type="image/png" href="assets/images/gnc_black-logo.svg">
@@ -123,7 +123,17 @@
                                     <li class="nav-item">
                                         <a href="academics.php" class="nav-link">Academics Overview</a>
                                     </li>
-
+                                    <li class="nav-item">
+                                        <a href="#" class="nav-link dropdown-toggle">Courses</a>
+                                        <ul class="dropdown-menu">
+                                            <li class="nav-item">
+                                                <a href="d-pharmacy.php" class="nav-link">D.Pharm</a>
+                                            </li>
+                                            <li class="nav-item">
+                                                <a href="b-pharmacy.php" class="nav-link">B.Pharm</a>
+                                            </li>
+                                        </ul>
+                                    </li>
                                     <li class="nav-item">
                                         <a href="calendar.php" class="nav-link">Academics Calendar</a>
                                     </li>
@@ -137,7 +147,15 @@
                                         <a href="co-peo-pso.php" class="nav-link">CO-PO-PSO</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a href="libraries.php" class="nav-link">Library</a>
+                                        <a href="#" class="nav-link dropdown-toggle">Library</a>
+                                        <ul class="dropdown-menu">
+                                            <li class="nav-item">
+                                                <a href="libraries.php" class="nav-link">Library Overview</a>
+                                            </li>
+                                            <li class="nav-item">
+                                                <a href="b-pharmacy.php" class="nav-link">B.Pharm</a>
+                                            </li>
+                                        </ul>
                                     </li>
                                     <li class="nav-item">
                                         <a href="value-added-courses.php" class="nav-link">Value Added Courses</a>
@@ -151,17 +169,12 @@
                                 <a href="#" class="nav-link dropdown-toggle">Admission</a>
                                 <ul class="dropdown-menu">
                                     <li class="nav-item">
-                                        <a href="programme-details.php" class="nav-link">Courses</a>
+                                        <a href="programme-details.php" class="nav-link">Programme Details</a>
                                     </li>
                                     <li class="nav-item">
                                         <a href="feeStructure-eligibility.php" class="nav-link">Fee Structure &amp; Syllabus</a>
                                     </li>
-                                    <li class="nav-item">
-                                        <a href="d-pharmacy.php" class="nav-link">D.Pharm</a>
-                                    </li>
-                                    <li class="nav-item">
-                                        <a href="b-pharmacy.php" class="nav-link">B.Pharm</a>
-                                    </li>
+
                                     <li class="nav-item">
                                         <a href="rules-regulation.php" class="nav-link">Rules &amp; Regulations</a>
                                     </li>

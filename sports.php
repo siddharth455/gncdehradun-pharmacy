@@ -11,10 +11,10 @@
         <div class="d-table-cell">
             <div class="container">
                 <div class="page-title-content">
-                    <h2>Sports Infrastructure</h2>
+                    <h1>Sports Infrastructure</h1>
                 </div>
             </div>
-        </div>
+        </div>  
     </div>
 </div>
 <section class="know-about-section pt-5 pb-5 text-center">

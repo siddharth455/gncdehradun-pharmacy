@@ -4,7 +4,7 @@
         <div class="d-table-cell">
             <div class="container">
                 <div class="page-title-content">
-                    <h2>Scholarship</h2>
+                    <h1>Scholarship</h1>
                 </div>
             </div>
         </div>
@@ -79,7 +79,7 @@
 
     <p style="color: black;">Note :- The management and college authorities have the authority to make changes to scholarships, including withdrawal, cancellation, or modification. Scholarships are contingent upon seat availability in the selected course, and this statement is not legally binding for claiming scholarships.</p>
 </div>
-<section class="container">
+<section class="container page-heading">
 
     <h2>Terms &amp; Conditions for Scholarship</h2>
     <p style="color: black;">The scholarship shall be awarded based on aggregate marks of Class XII results. In the case of CGPA, it shall be converted according to CBSE/ICSE/National Board. If the conversion criteria are not mentioned in the mark sheet, then the following criteria shall be applicable</p>

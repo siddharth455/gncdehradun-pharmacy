@@ -4,7 +4,7 @@
         <div class="d-table-cell">
             <div class="container">
                 <div class="page-title-content">
-                    <h2>Library</h2>
+                    <h1>Library</h1>
                 </div>
             </div>
         </div>
@@ -42,7 +42,7 @@
     <div class="row mt-5 mb-5">
         <div class="col-sm-12 col-md-7">
             <h2 style="color: black;">Expanding Knowledge Beyond the Library</h2>
-            <h5 style="color: black;">E-Library</h5>
+            <h4 style="color: black;">E-Library</h4>
             <p style="color: black;">
                 An e-library, or electronic library, is a digital repository of information and resources accessible through electronic devices. It provides 24/7 access to a wide range of digital materials, including e-books, research papers, multimedia content, and more. E-libraries offer advantages like convenient accessibility, efficient searchability, space savings, interactive features, support for remote learning, preservation of knowledge, and cost-effectiveness. They cater to various users, from students and researchers to the general public, and continue to evolve as technology advances, offering an ever-expanding wealth of digital resources for lifelong learning and research.
             </p>
@@ -57,7 +57,7 @@
 
 </section>
 <div class="container mt-5 mb-5" style="filter: drop-shadow(4px 3px 5px black);">
-    <h4>Library Committee</h4>
+    <h2>Library Committee</h2>
     <table class="table table-bordered">
         <thead>
             <tr class="heading">

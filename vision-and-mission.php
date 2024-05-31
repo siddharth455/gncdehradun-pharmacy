@@ -4,7 +4,7 @@
         <div class="d-table-cell">
             <div class="container">
                 <div class="page-title-content">
-                    <h2>Vision &amp; Mission</h2>
+                    <h1>Vision &amp; Mission</h1>
                 </div>
             </div>
         </div>
@@ -13,7 +13,7 @@
 <section class="section-background" style="background: url('images/vision-mission-corevalue.w');">
     <div class="vison-sec">
         <div class="container">
-            <div class="row">
+            <div class="row">''
                 <div class="col-md-6">
                     <div class="vision-block" style="background-image: url(images/vision);background-repeat: no-repeat;background-position: center; border-radius: 10px;">
                         <div class="main-heading-vision">

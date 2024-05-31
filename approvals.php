@@ -33,7 +33,7 @@
         <div class="d-table-cell">
             <div class="container">
                 <div class="page-title-content">
-                    <h2>APPROVALS</h2>
+                    <h1>APPROVALS</h1>
                 </div>
             </div>
         </div>
