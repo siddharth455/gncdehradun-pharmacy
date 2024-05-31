@@ -159,7 +159,7 @@
                                     </li>
                                     <li class="nav-item">
                                         <a href="value-added-courses.php" class="nav-link">Value Added Courses</a>
-                                    </li>
+                                    </li>  
                                     <li class="nav-item">
                                         <a href="PCI-handbook.php" class="nav-link">PCI-Handbook</a>
                                     </li>

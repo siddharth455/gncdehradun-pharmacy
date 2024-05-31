@@ -92,7 +92,7 @@
             </tr>
             <tr>
                 <td>11</td>
-                <td></td>
+                <td>Indian Journal of Pharmaceutical Formulation and Analysis</td>
                 <td>Yearly</td>
                 <td>National</td>
             </tr>
