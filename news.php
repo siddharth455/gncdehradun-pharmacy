@@ -80,7 +80,7 @@ $events = json_decode($jsonData, true);
                 <option value="Educational">Educational Visit</option>
                 <option value="training">Training & Placement</option>
                 <option value="Sports">Sports</option>
-                <option value="clutural">Cultural</option>
+                <option value="cultural">Cultural</option>
             </select>
             <label for="month-filter">Filter by Month:</label>
             <select id="month-filter">
