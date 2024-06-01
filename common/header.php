@@ -127,10 +127,10 @@
                                         <a href="#" class="nav-link dropdown-toggle">Courses</a>
                                         <ul class="dropdown-menu">
                                             <li class="nav-item">
-                                                <a href="d-pharmacy.php" class="nav-link">D.Pharm</a>
+                                                <a href="b-pharmacy.php" class="nav-link">B.Pharm</a>
                                             </li>
                                             <li class="nav-item">
-                                                <a href="b-pharmacy.php" class="nav-link">B.Pharm</a>
+                                                <a href="d-pharmacy.php" class="nav-link">D.Pharm</a>
                                             </li>
                                         </ul>
                                     </li>
@@ -159,7 +159,7 @@
                                     </li>
                                     <li class="nav-item">
                                         <a href="value-added-courses.php" class="nav-link">Value Added Courses</a>
-                                    </li>  
+                                    </li>
                                     <li class="nav-item">
                                         <a href="PCI-handbook.php" class="nav-link">PCI-Handbook</a>
                                     </li>
@@ -172,18 +172,19 @@
                                         <a href="programme-details.php" class="nav-link">Programme Details</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a href="feeStructure-eligibility.php" class="nav-link">Fee Structure &amp; Syllabus</a>
+                                        <a href="feeStructure-eligibility.php" class="nav-link">Fee Structure &amp; Eligibility</a>
                                     </li>
 
                                     <li class="nav-item">
                                         <a href="rules-regulation.php" class="nav-link">Rules &amp; Regulations</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a href="scholarship-section.php" class="nav-link">Scholarship</a>
-                                    </li>
-                                    <li class="nav-item">
                                         <a href="Prospectus.php" class="nav-link">Prospectus</a>
                                     </li>
+                                    <li class="nav-item">
+                                        <a href="scholarship-section.php" class="nav-link">Scholarship</a>
+                                    </li>
+                                    
                                     <!-- <li class="nav-item">
                         <a href="b-pharmacy-le.php" class="nav-link">B.Pharm (LE)</a>
                     </li> -->

@@ -346,7 +346,7 @@
                             <div class="single-home-content">
                                 <h2><?php echo $news_item['title']; ?></h2>
                                 <p class="calender">
-                                    <i class="flaticon-calendar"></i> <?php echo $news_item['date']; ?>
+                                    <i class="flaticon-calendar"></i> <?php echo $news_item['eventdate']; ?>
                                 </p>
                                 <a href="news-page.php?id=<?php echo $index; ?>" class="line-bnt">Read More <i class="flaticon-next"></i></a> <!-- Pass news ID via URL -->
                             </div>

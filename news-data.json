@@ -1,96 +1,5 @@
 [
   {
-    "id": "11",
-    "name": "Happy Lohri",
-    "title": "Happy Lohri",
-    "date": "2024-01-14",
-    "about": "On the 14th of January, 2024, the Guru Nanak College of Pharmaceutical Sciences celebrated Lohri with vibrant enthusiasm and cultural richness. The college courtyard was transformed into a festive arena, beautifully decorated with traditional Punjabi motifs and filled with the joyous sounds of folk music. Central to the celebration was the lighting of a grand bonfire, around which students gathered to offer peanuts, popcorn, sesame seeds, and jaggery, symbolizing gratitude and the end of winter.",
-    "image": "assets/images/events/gnc-events-lohriimg1.webp",
-    "image2": "assets/images/events/gnc-events-lohriimg3.webp",
-    "image3": "assets/images/events/gnc-events-lohriimg2.webp",
-    "category": "cultural",
-    "description": "The event was marked by lively Bhangra and Gidda performances, accompanied by the rhythmic beats of the dhol, which enlivened the atmosphere and encouraged everyone to participate. Traditional Punjabi delicacies such as makki di roti and sarson da saag were served, enhancing the festive spirit with authentic flavors. Stories and legends, including the tale of Dulla Bhatti, were shared, enriching the cultural experience and connecting students with the festival's historical significance. Nearly all students from the Pharmaceutical department took part, fostering a sense of unity and cultural appreciation. The Lohri celebration was a memorable event, highlighting the importance of cultural traditions in enriching student life and contributing to their holistic development.",
-    "subtitle": "Pharmaceutical Sciences"
-  },
-  {
-    "id": "10",
-    "name": "Happy Republic Day",
-    "title": "Happy Republic Day",
-    "date": "2024-01-26",
-    "about": "On the 26th of January, 2024, the Guru Nanak College of Pharmaceutical Sciences celebrated Republic Day with immense pride and patriotic fervor. The college campus was adorned with the tricolor decorations, and the air resonated with patriotic songs. The event commenced with the hoisting of the national flag, followed by the singing of the national anthem, evoking a sense of unity and national pride.",
-    "image": "assets/images/events/gnc-events-republicimg1.webp",
-    "image2": "assets/images/events/gnc-events-republicimg3.webp",
-    "image3": "assets/images/events/gnc-events-republicimg2.webp",
-    "category": "cultural",
-    "description": "The celebration featured inspiring speeches by faculty members, highlighting the importance of the day and the values enshrined in the Constitution. Students showcased their talents through cultural performances, including traditional dances and patriotic songs, emphasizing the diversity and unity of the nation. Additionally, a special exhibition was organized, displaying projects and artworks created by students that depicted India's rich heritage and achievements. Nearly all students from the Pharmaceutical department participated, reflecting their respect for the nation and their commitment to civic engagement. The Republic Day celebration was a profound reminder of the importance of democracy, freedom, and responsibility, instilling a sense of national pride and unity among the students.",
-    "subtitle": "Pharmaceutical Sciences"
-  },
-  {
-    "id": "09",
-    "name": "Science Exhibition",
-    "title": "Science Exhibition",
-    "date": "2024-02-28",
-    "about": "On the 26th of April, the Guru Nanak College of Pharmaceutical Sciences hosted a dynamic Science Exhibition, showcasing the innovative spirit and scientific curiosity of its students. The college campus was abuzz with excitement as students from the Pharmaceutical department and other disciplines presented their research projects and experiments.",
-    "image": "assets/images/events/gnc-events-scienceexibition-img.webp",
-    "image2": "assets/images/events/gnc-events-scienceexibition-img1.webp",
-    "image3": "assets/images/events/gnc-events-scienceexibition-img2.webp",
-    "category": "Educational",
-    "description": "The exhibition featured a diverse range of displays, including cutting-edge pharmaceutical research, sustainable energy solutions, and advanced medical technologies. Faculty members and industry experts evaluated the projects, providing valuable feedback and encouragement to the young scientists. Interactive sessions and live demonstrations captivated the audience, highlighting the practical applications of scientific principles. This event not only provided a platform for students to exhibit their work but also fostered a collaborative environment for the exchange and development of ideas. Nearly all students from the Pharmaceutical department participated, demonstrating their commitment to scientific inquiry and innovation. The Science Exhibition was a resounding success, inspiring students to pursue excellence in their fields and contributing to their holistic development through experiential learning.",
-    "subtitle": "Pharmaceutical Sciences"
-  },
-  {
-    "id": "08",
-    "name": "World Glaucoma week",
-    "title": "World Glaucoma week",
-    "date": "2024-03-10",
-    "about": "The Guru Nanak College of Pharmaceutical Sciences organized an enlightening visit to the Indian Parliament for its scholars on the 10th of March, 2024. This visit aimed to immerse students in the essence of governance and legislative discourse, thereby recognizing the importance of civic engagement in their holistic development. Nearly all the students from Pharmaceutical department participated in this unique experience.",
-    "image": "assets/images/events/gnc-events-glacuoma-img.webp",
-    "image2": "assets/images/events/gnc-events-glacuoma-img1.webp",
-    "image3": "assets/images/events/gnc-events-glacuoma-img2.webp",
-    "category": "Educational",
-    "description": "The event was graced by the presence of Mrs. Vineet Arora – COO, Guru Nanak College of Pharmaceutical Sciences. Along with the chief guest, faculty members from Pharmaceutical department were also present to support the students. The visit was designed to ignite a passion for active citizenship and provide firsthand experience of India's democratic processes. The event received positive feedback from both students and faculty members, with many expressing their appreciation for the college's efforts to organize such a captivating and educational visit. Overall, the Parliament visit served its purpose of fostering a sense of civic responsibility and engagement within the college community. In conclusion, this visit was a memorable and inspiring experience for all participants, contributing to their overall understanding of and commitment to active citizenship.",
-    "subtitle": "Pharmaceutical Sciences"
-  },
-  {
-    "id": "07",
-    "name": "Women's Day Celebration",
-    "title": "Women's Day Celebration",
-    "date": "2024-03-08",
-    "about": "the Guru Nanak College of Pharmaceutical Sciences celebrated International Women’s Day On the 8th of March with great enthusiasm and reverence. The event was dedicated to honoring the achievements and contributions of women in various fields. The college campus was adorned with banners and posters highlighting the theme of gender equality and women's empowerment.",
-    "image": "assets/images/events/gnc-events-womencele-img.webp",
-    "image2": "assets/images/events/gnc-events-womencele-img1.webp",
-    "image3": "assets/images/events/gnc-events-womencele-img2.webp",
-    "category": "cultural",
-    "description": " The celebration began with an inspiring keynote speech by a renowned female leader, emphasizing the importance of women's rights and equality. This was followed by a series of activities, including panel discussions, workshops on women’s health and career development, and cultural performances showcasing the talents of female students. An exhibition was also organized, displaying the accomplishments of women scientists, entrepreneurs, and leaders. Nearly all students, along with faculty members, participated actively, reflecting the collective commitment to fostering an inclusive and supportive environment. The Women’s Day celebration was a resounding success, reinforcing the values of respect, equality, and empowerment, and contributing to the holistic development of students by promoting awareness and appreciation of gender issues.",
-    "subtitle": "Pharmaceutical Sciences"
-  },
-  {
-    "id": "06",
-    "name": "National Workshop",
-    "title": "National Workshop",
-    "date": "2024-03-14",
-    "about": "the Guru Nanak College of Pharmaceutical Sciences hosted a National Workshop  on the 14th of march that brought together scholars, industry experts, and students for a day of intensive learning and collaboration. The workshop focused on recent advancements in pharmaceutical sciences and their applications. The college campus was bustling with activity as participants from various institutions gathered to exchange knowledge and ideas.",
-    "image": "assets/images/events/gnc-events-workshopimg.webp",
-    "image2": "assets/images/events/gnc-events-workshopimg1.webp",
-    "image3": "assets/images/events/gnc-events-workshopimg2.webp",
-    "category": "Educational",
-    "description": "The event featured keynote addresses by prominent researchers, interactive sessions, and hands-on demonstrations of cutting-edge technologies. Workshops were conducted on topics such as drug development, biotechnology, and regulatory affairs, providing attendees with valuable insights and practical skills. Poster presentations and networking sessions allowed students to showcase their research and connect with professionals in their field. Nearly all students from the Pharmaceutical department participated, reflecting their eagerness to engage with the latest developments in their discipline. The National Workshop was a tremendous success, fostering a collaborative environment that encouraged innovation, professional growth, and a deeper understanding of pharmaceutical sciences.",
-    "subtitle": "Pharmaceutical Sciences"
-  },
-  {
-    "id": "05",
-    "name": "Colors of Unity: Pre-Holi Celebration",
-    "title": "Colors of Unity: Pre-Holi Celebration",
-    "date": "2024-03-24",
-    "about": "On 23-03-2024, Guru Nanak College in Dehradun came alive with the vibrant colors of Holi as students and faculty joined together for a joyous pre-Holi celebration. The campus was transformed into a kaleidoscope of hues, echoing with laughter, showcasing the unity and spirit of the college community.",
-    "image": "assets/images/events/gnc-events-holiimg.webp",
-    "image2": "assets/images/events/gnc-events-holiimg1.webp",
-    "image3": "assets/images/events/gnc-events-holiimg2.webp",
-    "category": "cultural",
-    "description": "The event was a true reflection of the college's ethos, where diversity is celebrated, and bonds are strengthened through shared experiences. Students and faculty alike participated in the festivities with great enthusiasm, embracing the joyous atmosphere and spreading the message of harmony and togetherness. From traditional music and dance performances to colorful rangoli and food stalls, every aspect of the celebration was meticulously planned to ensure a memorable experience for everyone. Students had the opportunity to not only enjoy the festivities but also learn about the cultural significance of Holi and its importance in Indian tradition. The highlight of the event was the spirit of inclusivity and unity that permeated throughout the campus. Regardless of background or beliefs, everyone came together as one big family, united by the joyous spirit of Holi. In conclusion, the pre-Holi celebration at Guru Nanak College was a resounding success, showcasing the rich cultural heritage of India and fostering a sense of unity and togetherness among the college community. It was a day filled with joy, laughter, and colorful memories that will be cherished for years to come.",
-    "subtitle": "Pharmaceutical Sciences"
-  },
-  {
     "id": "04",
     "name": "Techno Jashan: A Vibrant Celebration of Talent and Creativity",
     "title": "Techno Jashan: A Vibrant Celebration of Talent and Creativity",
@@ -101,7 +10,8 @@
     "image3": "assets/images/events/gnc-events-technoimgs4.webp",
     "category": "Educational",
     "description": "The day started with electrifying dance performances that set the stage on fire. From classical to contemporary, the dancers mesmerized the audience with their skill and passion. The music lovers were treated to soulful singing performances that touched the heart and uplifted the spirit. Adding to the excitement were the captivating fashion walks, where students strutted down the runway with style and confidence. The fashion show was a visual delight, highlighting the creativity and flair of the budding designers. Throughout the day, the atmosphere was filled with energy and excitement, as students and audience members alike were swept away by the talent on display. Whether you're a music lover, a fashion enthusiast, or simply looking for some entertainment, Techno Jashan had something for everyone. As the event unfolds over the coming days, we can expect more unforgettable moments that celebrate the talent and creativity of Guru Nanak College Dehradun's students. Stay tuned for more updates and get ready to be amazed!",
-    "subtitle": "Pharmaceutical Sciences"
+    "subtitle": "The Guru Nanak College of Pharmaceutical Sciences",
+    "eventdate": "30 April 2024"
   },
   {
     "id": "02",
@@ -114,7 +24,8 @@
     "image3": "assets/images/events/gnc-events-technoimg3.webp",
     "category": "Sports",
     "description": "The competition featured academic quizzes, debates, and poster presentations, allowing students to demonstrate their knowledge and expertise in their respective fields. Cultural events such as music performances, dance competitions, and art exhibitions added vibrancy to the atmosphere, showcasing the diverse talents of the participants. Sports enthusiasts engaged in friendly matches of cricket, football, and volleyball, fostering camaraderie and sportsmanship. Faculty members and industry professionals served as judges and mentors, providing guidance and encouragement to the participants. The Inter-College Competition was a celebration of talent, creativity, and teamwork, highlighting the spirit of excellence and collaboration that thrives within the academic community.",
-    "subtitle": "Pharmaceutical Sciences"
+    "subtitle": "The Guru Nanak College of Pharmaceutical Sciences",
+    "eventdate": "29 April 2024"
   },
   {
     "id": "01",
@@ -127,7 +38,106 @@
     "image3": "assets/images/events/gnc-image-events3.webp",
     "category": "Educational",
     "description": "The event was graced by the presence of Mrs. Vineet Arora – COO, Guru Nanak College of Pharmaceutical Sciences. Along with the chief guest, faculty members from Pharmaceutical department were also present to support the students. The visit was designed to ignite a passion for active citizenship and provide firsthand experience of India's democratic processes. The event received positive feedback from both students and faculty members, with many expressing their appreciation for the college's efforts to organize such a captivating and educational visit. Overall, the Parliament visit served its purpose of fostering a sense of civic responsibility and engagement within the college community. In conclusion, this visit was a memorable and inspiring experience for all participants, contributing to their overall understanding of and commitment to active citizenship.",
-    "subtitle": "Pharmaceutical Sciences"
+    "subtitle": "The Guru Nanak College of Pharmaceutical Sciences",
+    "eventdate": "26 April 2024"
+  },
+  {
+    "id": "05",
+    "name": "Colors of Unity: Pre-Holi Celebration",
+    "title": "Colors of Unity: Pre-Holi Celebration",
+    "date": "2024-03-24",
+    "about": "On 23-03-2024, Guru Nanak College in Dehradun came alive with the vibrant colors of Holi as students and faculty joined together for a joyous pre-Holi celebration. The campus was transformed into a kaleidoscope of hues, echoing with laughter, showcasing the unity and spirit of the college community.",
+    "image": "assets/images/events/gnc-events-holiimg.webp",
+    "image2": "assets/images/events/gnc-events-holiimg1.webp",
+    "image3": "assets/images/events/gnc-events-holiimg2.webp",
+    "category": "cultural",
+    "description": "The event was a true reflection of the college's ethos, where diversity is celebrated, and bonds are strengthened through shared experiences. Students and faculty alike participated in the festivities with great enthusiasm, embracing the joyous atmosphere and spreading the message of harmony and togetherness. From traditional music and dance performances to colorful rangoli and food stalls, every aspect of the celebration was meticulously planned to ensure a memorable experience for everyone. Students had the opportunity to not only enjoy the festivities but also learn about the cultural significance of Holi and its importance in Indian tradition. The highlight of the event was the spirit of inclusivity and unity that permeated throughout the campus. Regardless of background or beliefs, everyone came together as one big family, united by the joyous spirit of Holi. In conclusion, the pre-Holi celebration at Guru Nanak College was a resounding success, showcasing the rich cultural heritage of India and fostering a sense of unity and togetherness among the college community. It was a day filled with joy, laughter, and colorful memories that will be cherished for years to come.",
+    "subtitle": "The Guru Nanak College of Pharmaceutical Sciences",
+    "eventdate": "24 March 2024"
+  },
+  {
+    "id": "06",
+    "name": "National Workshop",
+    "title": "National Workshop",
+    "date": "2024-03-14",
+    "about": "the Guru Nanak College of Pharmaceutical Sciences hosted a National Workshop  on the 14th of march that brought together scholars, industry experts, and students for a day of intensive learning and collaboration. The workshop focused on recent advancements in pharmaceutical sciences and their applications. The college campus was bustling with activity as participants from various institutions gathered to exchange knowledge and ideas.",
+    "image": "assets/images/events/gnc-events-workshopimg.webp",
+    "image2": "assets/images/events/gnc-events-workshopimg1.webp",
+    "image3": "assets/images/events/gnc-events-workshopimg2.webp",
+    "category": "Educational",
+    "description": "The event featured keynote addresses by prominent researchers, interactive sessions, and hands-on demonstrations of cutting-edge technologies. Workshops were conducted on topics such as drug development, biotechnology, and regulatory affairs, providing attendees with valuable insights and practical skills. Poster presentations and networking sessions allowed students to showcase their research and connect with professionals in their field. Nearly all students from the Pharmaceutical department participated, reflecting their eagerness to engage with the latest developments in their discipline. The National Workshop was a tremendous success, fostering a collaborative environment that encouraged innovation, professional growth, and a deeper understanding of pharmaceutical sciences.",
+    "subtitle": "The Guru Nanak College of Pharmaceutical Sciences",
+    "eventdate": "14 March 2024"
+  },
+  {
+    "id": "08",
+    "name": "World Glaucoma week",
+    "title": "World Glaucoma week",
+    "date": "2024-03-10",
+    "about": "The Guru Nanak College of Pharmaceutical Sciences organized an enlightening visit to the Indian Parliament for its scholars on the 10th of March, 2024. This visit aimed to immerse students in the essence of governance and legislative discourse, thereby recognizing the importance of civic engagement in their holistic development. Nearly all the students from Pharmaceutical department participated in this unique experience.",
+    "image": "assets/images/events/gnc-events-glacuoma-img.webp",
+    "image2": "assets/images/events/gnc-events-glacuoma-img1.webp",
+    "image3": "assets/images/events/gnc-events-glacuoma-img2.webp",
+    "category": "Educational",
+    "description": "The event was graced by the presence of Mrs. Vineet Arora – COO, Guru Nanak College of Pharmaceutical Sciences. Along with the chief guest, faculty members from Pharmaceutical department were also present to support the students. The visit was designed to ignite a passion for active citizenship and provide firsthand experience of India's democratic processes. The event received positive feedback from both students and faculty members, with many expressing their appreciation for the college's efforts to organize such a captivating and educational visit. Overall, the Parliament visit served its purpose of fostering a sense of civic responsibility and engagement within the college community. In conclusion, this visit was a memorable and inspiring experience for all participants, contributing to their overall understanding of and commitment to active citizenship.",
+    "subtitle": "The Guru Nanak College of Pharmaceutical Sciences",
+    "eventdate": "10 March 2024"
+  },
+  {
+    "id": "07",
+    "name": "Women's Day Celebration",
+    "title": "Women's Day Celebration",
+    "date": "2024-03-08",
+    "about": "the Guru Nanak College of Pharmaceutical Sciences celebrated International Women’s Day On the 8th of March with great enthusiasm and reverence. The event was dedicated to honoring the achievements and contributions of women in various fields. The college campus was adorned with banners and posters highlighting the theme of gender equality and women's empowerment.",
+    "image": "assets/images/events/gnc-events-womencele-img.webp",
+    "image2": "assets/images/events/gnc-events-womencele-img1.webp",
+    "image3": "assets/images/events/gnc-events-womencele-img2.webp",
+    "category": "cultural",
+    "description": " The celebration began with an inspiring keynote speech by a renowned female leader, emphasizing the importance of women's rights and equality. This was followed by a series of activities, including panel discussions, workshops on women’s health and career development, and cultural performances showcasing the talents of female students. An exhibition was also organized, displaying the accomplishments of women scientists, entrepreneurs, and leaders. Nearly all students, along with faculty members, participated actively, reflecting the collective commitment to fostering an inclusive and supportive environment. The Women’s Day celebration was a resounding success, reinforcing the values of respect, equality, and empowerment, and contributing to the holistic development of students by promoting awareness and appreciation of gender issues.",
+    "subtitle": "The Guru Nanak College of Pharmaceutical Sciences",
+    "eventdate": "08 March 2024"
+  },
+  {
+    "id": "09",
+    "name": "Science Exhibition",
+    "title": "Science Exhibition",
+    "date": "2024-02-28",
+    "about": "On the 26th of April, the Guru Nanak College of Pharmaceutical Sciences hosted a dynamic Science Exhibition, showcasing the innovative spirit and scientific curiosity of its students. The college campus was abuzz with excitement as students from the Pharmaceutical department and other disciplines presented their research projects and experiments.",
+    "image": "assets/images/events/gnc-events-scienceexibition-img.webp",
+    "image2": "assets/images/events/gnc-events-scienceexibition-img1.webp",
+    "image3": "assets/images/events/gnc-events-scienceexibition-img2.webp",
+    "category": "Educational",
+    "description": "The exhibition featured a diverse range of displays, including cutting-edge pharmaceutical research, sustainable energy solutions, and advanced medical technologies. Faculty members and industry experts evaluated the projects, providing valuable feedback and encouragement to the young scientists. Interactive sessions and live demonstrations captivated the audience, highlighting the practical applications of scientific principles. This event not only provided a platform for students to exhibit their work but also fostered a collaborative environment for the exchange and development of ideas. Nearly all students from the Pharmaceutical department participated, demonstrating their commitment to scientific inquiry and innovation. The Science Exhibition was a resounding success, inspiring students to pursue excellence in their fields and contributing to their holistic development through experiential learning.",
+    "subtitle": "The Guru Nanak College of Pharmaceutical Sciences",
+    "eventdate": "28 February 2024"
+  },
+  {
+    "id": "10",
+    "name": "Happy Republic Day",
+    "title": "Happy Republic Day",
+    "date": "2024-01-26",
+    "about": "On the 26th of January, 2024, the Guru Nanak College of Pharmaceutical Sciences celebrated Republic Day with immense pride and patriotic fervor. The college campus was adorned with the tricolor decorations, and the air resonated with patriotic songs. The event commenced with the hoisting of the national flag, followed by the singing of the national anthem, evoking a sense of unity and national pride.",
+    "image": "assets/images/events/gnc-events-republicimg1.webp",
+    "image2": "assets/images/events/gnc-events-republicimg3.webp",
+    "image3": "assets/images/events/gnc-events-republicimg2.webp",
+    "category": "cultural",
+    "description": "The celebration featured inspiring speeches by faculty members, highlighting the importance of the day and the values enshrined in the Constitution. Students showcased their talents through cultural performances, including traditional dances and patriotic songs, emphasizing the diversity and unity of the nation. Additionally, a special exhibition was organized, displaying projects and artworks created by students that depicted India's rich heritage and achievements. Nearly all students from the Pharmaceutical department participated, reflecting their respect for the nation and their commitment to civic engagement. The Republic Day celebration was a profound reminder of the importance of democracy, freedom, and responsibility, instilling a sense of national pride and unity among the students.",
+    "subtitle": "The Guru Nanak College of Pharmaceutical Sciences",
+    "eventdate": "26 January 2024"
+  },
+  {
+    "id": "11",
+    "name": "Happy Lohri",
+    "title": "Happy Lohri",
+    "date": "2024-01-14",
+    "about": "On the 14th of January, 2024, the Guru Nanak College of Pharmaceutical Sciences celebrated Lohri with vibrant enthusiasm and cultural richness. The college courtyard was transformed into a festive arena, beautifully decorated with traditional Punjabi motifs and filled with the joyous sounds of folk music. Central to the celebration was the lighting of a grand bonfire, around which students gathered to offer peanuts, popcorn, sesame seeds, and jaggery, symbolizing gratitude and the end of winter.",
+    "image": "assets/images/events/gnc-events-lohriimg1.webp",
+    "image2": "assets/images/events/gnc-events-lohriimg3.webp",
+    "image3": "assets/images/events/gnc-events-lohriimg2.webp",
+    "category": "cultural",
+    "description": "The event was marked by lively Bhangra and Gidda performances, accompanied by the rhythmic beats of the dhol, which enlivened the atmosphere and encouraged everyone to participate. Traditional Punjabi delicacies such as makki di roti and sarson da saag were served, enhancing the festive spirit with authentic flavors. Stories and legends, including the tale of Dulla Bhatti, were shared, enriching the cultural experience and connecting students with the festival's historical significance. Nearly all students from the Pharmaceutical department took part, fostering a sense of unity and cultural appreciation. The Lohri celebration was a memorable event, highlighting the importance of cultural traditions in enriching student life and contributing to their holistic development.",
+    "subtitle": "The Guru Nanak College of Pharmaceutical Sciences",
+    "eventdate": "14 January 2024"
   },
   {
     "id": "aaa",
@@ -138,8 +148,9 @@
     "image": "assets/images/events/gnc-posterpresen-img1.webp",
     "subtitle": "The Guru Nanak College of Pharmaceutical Sciences",
     "description": "A diverse range of research topics were presented during the event, covering areas such as novel drug delivery systems, pharmacological mechanisms of action, therapeutic efficacy of pharmaceutical compounds, and clinical outcomes of patient interventions. Participants explored current trends and challenges in pharmaceutical research and proposed innovative solutions to address them. A panel of faculty members and experts in pharmaceutical sciences evaluated the poster presentations based on criteria such as scientific merit, clarity of presentation, originality of research, and depth of understanding. Participants were given the opportunity to present their posters and engage in discussions with the evaluators to further elaborate on their research findings. The Event facilitated knowledge sharing and participants exchanged ideas, insights, and feedback on their projects, fostering interdisciplinary collaboration and stimulating intellectual discourse within the college community.Outstanding poster presentations were recognized and awarded based on merit and innovation. Participants who demonstrated exceptional research skills, creativity, and scientific consistency were acknowledged for their contributions. Certificates were presented to winners during a closing ceremony, honouring their achievements and inspiring others to pursue excellence in research",
-    "category": "training"
-},
+    "category": "training",
+    "eventdate": "25 August 2023"
+  },
   {
     "id": "bbb",
     "name": "Hospital Visit 2023 - CMI",
@@ -148,7 +159,9 @@
     "about": "The visit to CMI Hospital organized by the Pharmacy Department of Guru Nanak College of Pharmaceutical Sciences on August 17, 2023, was a valuable learning experience for students, providing them with first-hand exposure to hospital pharmacy practices and interdisciplinary healthcare collaboration. It allowed students to gain practical insights into the role of pharmacists in patient care and medication management within a clinical setting, further enriching their education and preparing them for future careers in pharmacy practice.",
     "image": "assets/images/events/gnc-hospitalvisit-img.webp",
     "category": "Educational",
-    "description": "Throughout the visit, students were immersed in the bustling environment of a clinical setting, where they witnessed firsthand the pivotal role pharmacists play in patient care and medication management. By shadowing seasoned professionals and engaging in interactive sessions, they gained practical insights into the multifaceted responsibilities of pharmacists within the healthcare ecosystem. The experience not only broadened their academic horizons but also equipped them with tangible skills and knowledge essential for their future endeavors in pharmacy practice. Interactions with healthcare professionals facilitated a comprehensive understanding of collaborative approaches to patient care, emphasizing the crucial interplay between various healthcare disciplines. Overall, the visit to CMI Hospital served as a catalyst for the holistic development of the students, empowering them with the confidence and expertise needed to navigate the intricacies of contemporary pharmacy practice. It underscored the significance of experiential learning in augmenting traditional classroom education, thereby preparing them for the challenges and opportunities that lie ahead in their careers."
+    "subtitle": "The Guru Nanak College of Pharmaceutical Sciences",
+    "description": "Throughout the visit, students were immersed in the bustling environment of a clinical setting, where they witnessed firsthand the pivotal role pharmacists play in patient care and medication management. By shadowing seasoned professionals and engaging in interactive sessions, they gained practical insights into the multifaceted responsibilities of pharmacists within the healthcare ecosystem. The experience not only broadened their academic horizons but also equipped them with tangible skills and knowledge essential for their future endeavors in pharmacy practice. Interactions with healthcare professionals facilitated a comprehensive understanding of collaborative approaches to patient care, emphasizing the crucial interplay between various healthcare disciplines. Overall, the visit to CMI Hospital served as a catalyst for the holistic development of the students, empowering them with the confidence and expertise needed to navigate the intricacies of contemporary pharmacy practice. It underscored the significance of experiential learning in augmenting traditional classroom education, thereby preparing them for the challenges and opportunities that lie ahead in their careers.",
+    "eventdate": "17 August 2023"
   },
   {
     "id": "ccc",
@@ -158,7 +171,9 @@
     "about": "The Dengue Awareness Rally organized by NSS section of Guru Nanak College of Pharmaceutical Sciences in Jhajra was a commendable initiative aimed at raising awareness about dengue fever and promoting preventive measures. Through the rally, participants effectively disseminated information to the community, empowering them to take proactive steps to prevent the spread of dengue. The event exemplified the college's commitment to community health and disease prevention, and it highlighted the importance of collective action in combating public health challenges like dengue fever.",
     "image": "assets/images/events/gnc-fightogether-img.webp",
     "category": "Educational",
-    "description": "The rally saw enthusiastic participation from students, faculty, and members of the local community. As the procession wound its way through the streets, participants distributed informational pamphlets and engaged in conversations with residents, emphasizing the importance of maintaining clean surroundings, eliminating breeding sites for mosquitoes, and seeking timely medical attention in case of symptoms. The event not only educated the community about the dangers of dengue but also empowered them with practical knowledge to protect themselves and their families. It exemplified the college's commitment to community health and disease prevention, demonstrating the role of educational institutions in addressing public health challenges. By mobilizing collective action and fostering community participation, the Dengue Awareness Rally served as a shining example of proactive efforts to combat diseases and promote well-being."
+    "subtitle": "The Guru Nanak College of Pharmaceutical Sciences",
+    "description": "The rally saw enthusiastic participation from students, faculty, and members of the local community. As the procession wound its way through the streets, participants distributed informational pamphlets and engaged in conversations with residents, emphasizing the importance of maintaining clean surroundings, eliminating breeding sites for mosquitoes, and seeking timely medical attention in case of symptoms. The event not only educated the community about the dangers of dengue but also empowered them with practical knowledge to protect themselves and their families. It exemplified the college's commitment to community health and disease prevention, demonstrating the role of educational institutions in addressing public health challenges. By mobilizing collective action and fostering community participation, the Dengue Awareness Rally served as a shining example of proactive efforts to combat diseases and promote well-being.",
+    "eventdate": "01 August 2023"
   },
   {
     "id": "ddd",
@@ -168,16 +183,20 @@
     "about": "Yoga Day 2023 was celebrated with great fervor and enthusiasm at Guru Nanak College of Pharmaceutical Sciences on June 21, 2023. The event aimed to promote the ancient practice of yoga and its numerous benefits for physical, mental, and spiritual well-being. The event commenced with invigorating yoga sessions led by experienced instructors. Participants engaged in various yoga asanas (postures) and pranayama (breathing exercises) to rejuvenate their mind and body. Renowned yoga experts were invited to deliver enlightening lectures on the significance of yoga in modern-day life. They emphasized the importance of incorporating yoga into daily routines for stress management and holistic health.",
     "image": "assets/images/events/gnc-yogaday-img.webp",
     "category": "cultural",
-    "description": "Live demonstrations of advanced yoga poses were conducted to inspire participants to explore the depths of their physical capabilities and enhance their yoga practice.Interactive workshops were organized to educate attendees about the therapeutic aspects of yoga and its potential in alleviating common health issues such as anxiety, insomnia, and back pain. The event also included guided meditation sessions to cultivate inner peace and mindfulness among participants. Meditation is an integral aspect of yoga practice, promoting mental clarity and emotional balance. To add a touch of cultural richness to the event, traditional Indian dance and music performances were showcased, highlighting the spiritual essence of yoga. The event witnessed enthusiastic participation from students, faculty members, and staff, reflecting the growing interest in yoga among the college community. Participants expressed deep appreciation for the opportunity to learn and experience the transformative power of yoga firsthand. Positive feedback was received regarding the organization and execution of the event, indicating its success in achieving its objectives. Yoga Day 2023 at Guru Nanak College of Pharmaceutical Sciences was a resounding success, fostering a deeper understanding and appreciation for yoga as a holistic practice for physical, mental, and spiritual well-being. The event served as a reminder of the timeless wisdom of yoga and its relevance in the modern world."
+    "subtitle": "The Guru Nanak College of Pharmaceutical Sciences",
+    "description": "Live demonstrations of advanced yoga poses were conducted to inspire participants to explore the depths of their physical capabilities and enhance their yoga practice.Interactive workshops were organized to educate attendees about the therapeutic aspects of yoga and its potential in alleviating common health issues such as anxiety, insomnia, and back pain. The event also included guided meditation sessions to cultivate inner peace and mindfulness among participants. Meditation is an integral aspect of yoga practice, promoting mental clarity and emotional balance. To add a touch of cultural richness to the event, traditional Indian dance and music performances were showcased, highlighting the spiritual essence of yoga. The event witnessed enthusiastic participation from students, faculty members, and staff, reflecting the growing interest in yoga among the college community. Participants expressed deep appreciation for the opportunity to learn and experience the transformative power of yoga firsthand. Positive feedback was received regarding the organization and execution of the event, indicating its success in achieving its objectives. Yoga Day 2023 at Guru Nanak College of Pharmaceutical Sciences was a resounding success, fostering a deeper understanding and appreciation for yoga as a holistic practice for physical, mental, and spiritual well-being. The event served as a reminder of the timeless wisdom of yoga and its relevance in the modern world.",
+    "eventdate": "21 June 2023"
   },
   {
     "id": "eee",
     "name": "Pharmacy Department Students' Visit to Kailash Hospital, Dehradun",
     "title": "Pharmacy Department Students' Visit to Kailash Hospital, Dehradun",
-    "date": "2023-06-21",
+    "date": "2023-03-2",
     "about": "Yoga Day 2023 was celebrated with great fervor and enthusiasm at Guru Nanak College of Pharmaceutical Sciences on June 21, 2023. The event aimed to promote the ancient practice of yoga and its numerous benefits for physical, mental, and spiritual well-being. The event commenced with invigorating yoga sessions led by experienced instructors. Participants engaged in various yoga asanas (postures) and pranayama (breathing exercises) to rejuvenate their mind and body. Renowned yoga experts were invited to deliver enlightening lectures on the significance of yoga in modern-day life. They emphasized the importance of incorporating yoga into daily routines for stress management and holistic health.",
     "image": "assets/images/events/gnc-hospitalvisit2-img.webp",
     "category": "Educational",
-    "description": "Live demonstrations of advanced yoga poses were conducted to inspire participants to explore the depths of their physical capabilities and enhance their yoga practice.Interactive workshops were organized to educate attendees about the therapeutic aspects of yoga and its potential in alleviating common health issues such as anxiety, insomnia, and back pain. The event also included guided meditation sessions to cultivate inner peace and mindfulness among participants. Meditation is an integral aspect of yoga practice, promoting mental clarity and emotional balance. To add a touch of cultural richness to the event, traditional Indian dance and music performances were showcased, highlighting the spiritual essence of yoga. The event witnessed enthusiastic participation from students, faculty members, and staff, reflecting the growing interest in yoga among the college community. Participants expressed deep appreciation for the opportunity to learn and experience the transformative power of yoga firsthand. Positive feedback was received regarding the organization and execution of the event, indicating its success in achieving its objectives. Yoga Day 2023 at Guru Nanak College of Pharmaceutical Sciences was a resounding success, fostering a deeper understanding and appreciation for yoga as a holistic practice for physical, mental, and spiritual well-being. The event served as a reminder of the timeless wisdom of yoga and its relevance in the modern world."
+    "subtitle": "The Guru Nanak College of Pharmaceutical Sciences",
+    "description": "Live demonstrations of advanced yoga poses were conducted to inspire participants to explore the depths of their physical capabilities and enhance their yoga practice.Interactive workshops were organized to educate attendees about the therapeutic aspects of yoga and its potential in alleviating common health issues such as anxiety, insomnia, and back pain. The event also included guided meditation sessions to cultivate inner peace and mindfulness among participants. Meditation is an integral aspect of yoga practice, promoting mental clarity and emotional balance. To add a touch of cultural richness to the event, traditional Indian dance and music performances were showcased, highlighting the spiritual essence of yoga. The event witnessed enthusiastic participation from students, faculty members, and staff, reflecting the growing interest in yoga among the college community. Participants expressed deep appreciation for the opportunity to learn and experience the transformative power of yoga firsthand. Positive feedback was received regarding the organization and execution of the event, indicating its success in achieving its objectives. Yoga Day 2023 at Guru Nanak College of Pharmaceutical Sciences was a resounding success, fostering a deeper understanding and appreciation for yoga as a holistic practice for physical, mental, and spiritual well-being. The event served as a reminder of the timeless wisdom of yoga and its relevance in the modern world.",
+    "eventdate": "21 June 2023"
   }
 ]

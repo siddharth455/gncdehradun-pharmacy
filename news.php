@@ -113,7 +113,7 @@ $events = json_decode($jsonData, true);
                         <?php if (!empty($event['subtitle'])) :?>
                             <div class="subtitle"><?= htmlspecialchars($event['subtitle'])?></div>
                         <?php endif;?>
-                        <div class="date"><?= htmlspecialchars($event['date'])?></div>
+                        <div class="date"><?= htmlspecialchars($event['eventdate'])?></div>
                     </a>
                 </div>
             </div>
