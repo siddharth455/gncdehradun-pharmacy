@@ -75,7 +75,7 @@
         <div class="d-table-cell">
             <div class="container">
                 <div class="page-title-content">
-                    <h2>National Service Scheme (NSS)</h2>
+                    <h1>National Service Scheme (NSS)</h1>
                 </div>
             </div>
         </div>
@@ -94,7 +94,7 @@
             </div>
             <div class="nss-align">
         <div class="nss-image">
-                <img src="https://via.placeholder.com/400" alt="NSS Event Image">
+                <img src="assets/images/nss.webp" alt="NSS Event Image">
             </div>
             <div class="objectives-section">
             <h2>Objectives:</h2>
