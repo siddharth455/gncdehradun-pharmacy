@@ -4,7 +4,7 @@
         <div class="d-table-cell">
             <div class="container">
                 <div class="page-title-content">
-                    <h2>Research Patents</h2>
+                    <h1>Research Patents</h1>
                 </div>
             </div>
         </div>

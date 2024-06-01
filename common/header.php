@@ -220,6 +220,9 @@
                                     <!-- <li class="nav-item">
                                         <a href="alumni.php" class="nav-link">Alumni</a>
                                     </li> -->
+                                    <li class="nav-item">
+                                        <a href="nss.php" class="nav-link">NSS</a>
+                                    </li>
                                 </ul>
                             </li>
                             <li class="nav-item">

@@ -13,8 +13,8 @@
 <section class="section-background" style="background: url('images/vision-mission-corevalue.w');">
     <div class="vison-sec">
         <div class="container">
-            <div class="row">''
-                <div class="col-md-6">
+            <div class="row">
+                <div class="col-md-6 col-sm-12">
                     <div class="vision-block" style="background-image: url(images/vision);background-repeat: no-repeat;background-position: center; border-radius: 10px;">
                         <div class="main-heading-vision">
                             <div class="row">
@@ -56,7 +56,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-md-6">
+                <div class="col-md-6 col-sm-12">
                     <div class="vision-block" style="background-image: url(images/core-value);background-repeat: no-repeat;background-position: center; border-radius: 10px;">
                         <div class="main-heading-vision">
                             <div class="row">
@@ -83,7 +83,5 @@
             </div>
         </div>
     </div>
-    </div>
-
 </section>
 <?php require "common/footer.php" ?>

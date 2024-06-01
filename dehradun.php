@@ -17,7 +17,7 @@
         <div class="d-table-cell">
             <div class="container">
                 <div class="page-title-content">
-                    <h2>About Dehradun </h2>
+                    <h1>About Dehradun </h1>
                 </div>
             </div>
         </div>

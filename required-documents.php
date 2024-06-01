@@ -4,7 +4,7 @@
       <div class="d-table-cell">
          <div class="container">
             <div class="page-title-content">
-               <h2>REQUIRED DOCUMENTS</h2>
+               <h1>REQUIRED DOCUMENTS</h1>
             </div>
          </div>
       </div>

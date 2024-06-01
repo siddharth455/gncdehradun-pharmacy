@@ -4,7 +4,7 @@
         <div class="d-table-cell">
             <div class="container">
                 <div class="page-title-content">
-                    <h2>Constitution of Research & Recognition Committee</h2>
+                    <h1>Constitution of Research & Recognition Committee</h1>
                 </div>
             </div>
         </div>

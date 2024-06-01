@@ -4,7 +4,7 @@
         <div class="d-table-cell">
             <div class="container">
                 <div class="page-title-content">
-                    <h2>Eligibility</h2>
+                    <h1>Eligibility</h1>
                 </div>
             </div>
         </div>

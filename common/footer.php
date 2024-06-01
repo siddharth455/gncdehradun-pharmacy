@@ -310,6 +310,24 @@
         });
     });
 </script>
-</body>
+<script>
+    $(document).ready(function() {
+        $('.testimonial-slider').slick({
+            infinite: true,
+            slidesToShow: 3,
+            autoplay: true,
+            slidesToScroll: 1,
+            dots: false,
+            arrows: false,
+            prevArrow: false,
+            nextArrow: false,
+            responsive: [{
+                breakpoint: 768,
+                settings: {
+                    slidesToShow: 1
+                }
+            }]
 
-</html>
+        });
+    });
+</script>
