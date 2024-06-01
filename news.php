@@ -73,7 +73,7 @@ $events = json_decode($jsonData, true);
 
 <div class="container mt-5 mb-5">
     <div class="row">
-        <div class="col-12">
+        <div class= "col-12">
             <label for="category-filter">Filter by Category:</label>
             <select id="category-filter">
                 <option value="all">All</option>
@@ -103,72 +103,58 @@ $events = json_decode($jsonData, true);
         </div>
     </div>
     <div class="row event-container">
-        <?php $counter = 1; ?>
-        <?php foreach ($events as $index => $event) : ?>
-                <div class="col-lg-4 col-12 event" data-category="<?= $event['category'] ?>" data-month="<?= date('m', strtotime($event['date'])) ?>" data-year="<?= date('Y', strtotime($event['date'])) ?>">
-            
-                <div class="event-news" data-category="<?= $event['category'] ?>" data-month="<?= date('m', strtotime($event['date'])) ?>" data-year="<?= date('Y', strtotime($event['date'])) ?>">
-                    <a href="news-page.php?id=<?= $counter-1 ?>" class="news-link">
-                        <img src="<?= htmlspecialchars($event['image']) ?>" alt="<?= htmlspecialchars($event['title']) ?>">
-                        <div class="title"><?= htmlspecialchars($event['title']) ?></div>
-                        <?php if (!empty($event['subtitle'])) : ?>
-                            <div class="subtitle"><?= htmlspecialchars($event['subtitle']) ?></div>
-                        <?php endif; ?>
-                        <div class="date"><?= htmlspecialchars($event['date']) ?></div>
+        <?php $counter = 1;?>
+        <?php foreach ($events as $index => $event) :?>
+            <div class="col-lg-4 col-12 event" data-category="<?= $event['category']?>" data-date="<?= date('Y-m-d', strtotime($event['date']))?>">
+                <div class="event-news">
+                    <a href="news-page.php?id=<?= $counter - 1?>" class="news-link">
+                        <img src="<?= htmlspecialchars($event['image'])?>" alt="<?= htmlspecialchars($event['title'])?>">
+                        <div class="title"><?= htmlspecialchars($event['title'])?></div>
+                        <?php if (!empty($event['subtitle'])) :?>
+                            <div class="subtitle"><?= htmlspecialchars($event['subtitle'])?></div>
+                        <?php endif;?>
+                        <div class="date"><?= htmlspecialchars($event['date'])?></div>
                     </a>
                 </div>
             </div>
-            <?php $counter++; ?>
-        <?php endforeach; ?>
+            <?php $counter++;?>
+        <?php endforeach;?>
     </div>
 </div>
 
 <script>
-    
-document.addEventListener('DOMContentLoaded', function() {
-    const categoryFilter = document.getElementById('category-filter');
-    const monthFilter = document.getElementById('month-filter');
-    const yearFilter = document.getElementById('year-filter');
-    const events = document.querySelectorAll('.event');
+    document.addEventListener('DOMContentLoaded', function() {
+        const categoryFilter = document.getElementById('category-filter');
+        const monthFilter = document.getElementById('month-filter');
+        const yearFilter = document.getElementById('year-filter');
+        const events = document.querySelectorAll('.event');
 
-    const filterEvents = function() {
-        const selectedCategory = categoryFilter.value;
-        const selectedMonth = monthFilter.value;
-        const selectedYear = yearFilter.value;
+        const filterEvents = function() {
+            const selectedCategory = categoryFilter.value;
+            const selectedMonth = monthFilter.value;
+            const selectedYear = yearFilter.value;
 
-        console.log('Selected Category:', selectedCategory);
-        console.log('Selected Month:', selectedMonth);
-        console.log('Selected Year:', selectedYear);
+            events.forEach((event, index) => {
+                const eventCategory = event.getAttribute('data-category');
+                const eventDate = event.getAttribute('data-date');
+                const eventYear = eventDate.split('-')[0];
 
-        events.forEach((event, index) => {
-            const eventCategory = event.getAttribute('data-category');
-            const eventMonth = event.getAttribute('data-month');
-            const eventYear = event.getAttribute('data-year');
+                const matchesCategory = (selectedCategory === 'all' || selectedCategory === eventCategory);
+                const matchesMonth = (selectedMonth === 'all' || selectedMonth === eventDate.split('-')[1]);
+                const matchesYear = (selectedYear === '' || selectedYear === eventYear);
 
-            console.log('Event:', {
-                category: eventCategory,
-                month: eventMonth,
-                year: eventYear
+                if (matchesCategory && matchesMonth && matchesYear) {
+                    event.style.display = 'block';
+                } else {
+                    event.style.display = 'none';
+                }
             });
+        };
 
-            const matchesCategory = (selectedCategory === 'all' || selectedCategory === eventCategory);
-            const matchesMonth = (selectedMonth === 'all' || selectedMonth === eventMonth);
-            const matchesYear = (selectedYear === '' || selectedYear === eventYear);
-
-            if (matchesCategory && matchesMonth && matchesYear) {
-                event.style.display = 'block';
-                event.querySelector('.news-link').setAttribute('href', 'news-page.php?id=' + (index + 1));
-            } else {
-                event.style.display = 'none';
-            }
-        });
-    };
-
-    categoryFilter.addEventListener('change', filterEvents);
-    monthFilter.addEventListener('change', filterEvents);
-    yearFilter.addEventListener('input', filterEvents);
-});
-
+        categoryFilter.addEventListener('change', filterEvents);
+        monthFilter.addEventListener('change', filterEvents);
+        yearFilter.addEventListener('input', filterEvents);
+    });
 </script>
 
 
