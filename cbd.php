@@ -101,97 +101,54 @@
                                     <div class="page-sub-heading mb-2">
                                         <h3 class="mb-3">Committee For Prevention Of Caste Based Discrimination</h3>
                                     </div>
-                                    <!-- <div class="table-responsive">
-                                        <table class="table table-bordered">
-                                            <thead>
-                                                <tr>
-                                                    <th><b>Sr. No.</b></th>
-                                                    <th><b>Name &amp; Designation</b></th>
-                                                    <th><b>Membership</b></th>
-                                                </tr>
-                                            </thead>
-                                            <tbody>
-                                                <tr>
-                                                    <td>1.</td>
-                                                    <td>Prof. (Dr.) Minakshi Memoria, Professor, Uttaranchal Institute of Technology</td>
-                                                    <td>Chairperson</td>
-                                                </tr>
-                                                <tr>
-                                                    <td>2.</td>
-                                                    <td>Dr. Khaleeq Ahmad, Assistant Professor, Law College Dehradun</td>
-                                                    <td>Member</td>
-                                                </tr>
-                                                <tr>
-                                                    <td>3.</td>
-                                                    <td>Dr. Sandeep Kumar, Assistant Professor, School of Agricultrrre</td>
-                                                    <td>Member</td>
-                                                </tr>
-                                                <tr>
-                                                    <td>4.</td>
-                                                    <td>Mr. Vinod Balmiki, Assistant Professor, Uttaranchal Institute of Technology</td>
-                                                    <td>Member</td>
-                                                </tr>
-                                                <tr>
-                                                    <td>5.</td>
-                                                    <td>Ms. Sakshi Koli, Assistant Professor, Uttaranchal Institute of Techology</td>
-                                                    <td>Member</td>
-                                                </tr>
-                                                <tr>
-                                                    <td>6.</td>
-                                                    <td>Mr. Hitendra Singh Chauhan, Assistant Professor, Uttaranchal School of Hotel &amp; Hospitality Management</td>
-                                                    <td>Member</td>
-                                                </tr>
-
-                                                <tr>
-                                                    <td>7.</td>
-                                                    <td>Ms. Member Anbarasi L., Nursing Tutor, Uttaranchal College of Nursing</td>
-                                                    <td>Member</td>
-                                                </tr>
-
-                                                <tr>
-                                                    <td>8.</td>
-                                                    <td>Mr. Farman Ali, Assistant Professor, Uttaranchal Institute of Management</td>
-                                                    <td>Member</td>
-                                                </tr>
-                                                <tr>
-                                                    <td>9.</td>
-                                                    <td>Mr. Junaid Aman, Assistant Professor, School of Applied &amp; Life Sciences</td>
-                                                    <td>Member</td>
-                                                </tr>
-
-                                                <tr>
-                                                    <td>10.</td>
-                                                    <td>Mr. Jageshwar Ray, Assistant Professor, School of Liberal Arts</td>
-                                                    <td>Member</td>
-                                                </tr>
-
-                                                <tr>
-                                                    <td>11.</td>
-                                                    <td>Ms. Pallavi Chand, Assistant Professor, Uttaranchal Institute of Pharmaceutical Sciences</td>
-                                                    <td>Member</td>
-                                                </tr>
-                                                <tr>
-                                                    <td>12.</td>
-                                                    <td>Ms. Babita Rani Radwal, Assistant Professor, Uttaranchal School of Computing Sciences</td>
-                                                    <td>Member</td>
-                                                </tr>
-
-                                                <tr>
-                                                    <td>13.</td>
-                                                    <td>Ms. Vibha Singh Kanwar, Student, BA LLB (Hons.)</td>
-                                                    <td>Member</td>
-                                                </tr>
-
-                                                <tr>
-                                                    <td>14.</td>
-                                                    <td>Mr. Anil Kumar Saxena, Deputy Registrar (Administrytion)</td>
-                                                    <td>Member Secretary</td>
-                                                </tr>
-
-                                            </tbody>
-                                        </table>
-                                    </div> -->
-
+                                    <table class="table table-bordered" style="filter: drop-shadow(3px 3px 4px black);">
+        <thead>
+            <tr class="heading">
+                <th scope="col"><b>S.No.</b></th>
+                <th scope="col"><b>Title of Paper</b></th>
+                <th scope="col"><b>Name of the Author/s</b></th>
+                <th scope="col"><b>Article Link </b></th> 
+                <th scope="col"><b>Mail ID </b></th> 
+            </tr>
+        </thead>
+        <tbody>
+                            <tr>
+                                <th scope="row">1</th>
+                                <td>Dr. Lalit Kumar</td>
+                                <td>Chairperson</td>
+                                <td>9758900404</td>
+                                <td>registrar@gnc.edu.in</td>
+                            </tr>
+                            <tr>
+                                <th scope="row">2</th>
+                                <td>Dr. Nidhi Chatterjee</td>
+                                <td>Member Secretary</td>
+                                <td>7300777701</td>
+                                <td>nidhichatterjee@gnc.edu.in</td>
+                            </tr>
+                            <tr>
+                                <th scope="row">3</th>
+                                <td>Prof. (Dr.) Deepak Sharma</td>
+                                <td>Member</td>
+                                <td>7300777721</td>
+                                <td>principalpharmacy@gnc.edu.in</td>
+                            </tr>
+                            <tr>
+                                <th scope="row">4</th>
+                                <td>Dr. Vishal Kumar Deshwal</td>
+                                <td>Member</td>
+                                <td>9897538555</td>
+                                <td>vishaldeshwal@gnc.edu.in</td>
+                            </tr>
+                            <tr>
+                                <th scope="row">5</th>
+                                <td>Dr. R.D. Saklani</td>
+                                <td>Member</td>
+                                <td>7456000110</td>
+                                <td>coe@gnc.edu.in</td>
+                            </tr>
+                        </tbody>
+                                    </table>
                                 </div>
                             </div>
                         </div>
