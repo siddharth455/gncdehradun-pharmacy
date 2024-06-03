@@ -46,12 +46,12 @@
                             </tr>
                         </thead>
                         <tbody>
-                            <tr>
+                        <tr>
                                 <th scope="row">1</th>
-                                <td>Dr. Vishal Kumar Deshwal</td>
+                                <td>Mr. Saithjeet Arora</td>
                                 <td>Chairperson</td>
-                                <td>9897538555</td>
-                                <td>vishaldeshwal@gnc.edu.in</td>
+                                <td>9980085072</td>
+                                <td>iqac@gncdehradun.com</td>
                             </tr>
                             <tr>
                                 <th scope="row">2</th>
@@ -95,6 +95,13 @@
                                 <td>Member</td>
                                 <td>8979599993</td>
                                 <td>tarunverma@gnc.edu.in</td>
+                            </tr>
+                            <tr>
+                                <th scope="row">8</th>
+                                <td>Prof. (Dr.) C. Subramaniam</td>
+                                <td>Member</td>
+                                <td>8870249787</td>
+                                <td>subramaniam@gncdehradun.in</td>
                             </tr>
                         </tbody>
                     </table>
@@ -417,20 +424,13 @@
                             </tr>
                             <tr>
                                 <th scope="row">4</th>
-                                <td>Dr. Vishal Kamboj</td>
-                                <td>Member</td>
-                                <td>8295219491</td>
-                                <td>vishalkamboj@gnc.edu.in</td>
-                            </tr>
-                            <tr>
-                                <th scope="row">5</th>
                                 <td>Mr. Sunil Kumar Malik</td>
                                 <td>Member</td>
                                 <td>9518224679</td>
                                 <td>sunilkumarmalik@gnc.edu.in</td>
                             </tr>
                             <tr>
-                                <th scope="row">6</th>
+                                <th scope="row">5</th>
                                 <td>Mr. Anupam Singh</td>
                                 <td>Member</td>
                                 <td>9720800909</td>

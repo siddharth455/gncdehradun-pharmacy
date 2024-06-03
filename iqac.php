@@ -358,10 +358,10 @@
                         <tbody>
                             <tr>
                                 <th scope="row">1</th>
-                                <td>Dr. Vishal Kumar Deshwal</td>
+                                <td>Mr. Saithjeet Arora</td>
                                 <td>Chairperson</td>
-                                <td>9897538555</td>
-                                <td>vishaldeshwal@gnc.edu.in</td>
+                                <td>9980085072</td>
+                                <td>iqac@gncdehradun.com</td>
                             </tr>
                             <tr>
                                 <th scope="row">2</th>
@@ -398,13 +398,19 @@
                                 <td>9997810817</td>
                                 <td>ankurjaiswal@gnc.edu.in</td>
                             </tr>
-                           
                             <tr>
                                 <th scope="row">7</th>
                                 <td>Mr. Tarun Verma</td>
                                 <td>Member</td>
                                 <td>8979599993</td>
                                 <td>tarunverma@gnc.edu.in</td>
+                            </tr>
+                            <tr>
+                                <th scope="row">8</th>
+                                <td>Prof. (Dr.) C. Subramaniam</td>
+                                <td>Member</td>
+                                <td>8870249787</td>
+                                <td>subramaniam@gncdehradun.in</td>
                             </tr>
                         </tbody>
                     </table>
