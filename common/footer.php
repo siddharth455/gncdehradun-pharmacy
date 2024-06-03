@@ -86,6 +86,12 @@
                         <li>
                             <a href="feedback.php"> Feedback</a>
                         </li>
+                        <li>
+                            <a href="assets/images/statutory.pdf" target="_blank "> RTI - Statutory Decleration Under Section 4(1)(b) of the RTI Act 2005</a>
+                        </li>
+                        <li>
+                            <a href="assets/images/rti.pdf" target="_blank"> RTI - Undertaking</a>
+                        </li>
                     </ul>
                 </div>
             </div>
