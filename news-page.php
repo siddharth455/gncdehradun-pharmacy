@@ -10,7 +10,7 @@ if ($id !== null) {
 
     // Determine whether to display one image or three images
     $totalItems = count($newsData);
-    $displaySingleImage = $id >= $totalItems - 4;
+    $displaySingleImage = $id >= $totalItems - 5;
 
 ?>
     <div class="banner-area about" style="background-image: url(assets/images/news-update-head.webp);">
@@ -25,7 +25,7 @@ if ($id !== null) {
     <div class="container mt-5 mb-5">
       <div class="news-content">
         <h1><?= htmlspecialchars($selectedNewsItem['title']) ?></h1>
-        <h3><?= htmlspecialchars($selectedNewsItem['date']) ?></h3>
+        <h3><?= htmlspecialchars($selectedNewsItem['eventdate']) ?></h3>
         <p><?= htmlspecialchars($selectedNewsItem['about']) ?></p>
         <?php if ($displaySingleImage) { ?>
           <div class="row">
@@ -50,7 +50,7 @@ if ($id !== null) {
             </div>
           </div>
         <?php } ?>
-        <h2><?= htmlspecialchars($selectedNewsItem['category']) ?></h2>
+        <h2><?= htmlspecialchars($selectedNewsItem['subtitle']) ?></h2>
         <p><?= htmlspecialchars($selectedNewsItem['description']) ?></p>
       </div>
     </div>

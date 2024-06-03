@@ -80,7 +80,7 @@ $events = json_decode($jsonData, true);
                 <option value="Educational">Educational Visit</option>
                 <option value="training">Training & Placement</option>
                 <option value="Sports">Sports</option>
-                <option value="clutural">Cultural</option>
+                <option value="cultural">Cultural</option>
             </select>
             <label for="month-filter">Filter by Month:</label>
             <select id="month-filter">
@@ -113,7 +113,7 @@ $events = json_decode($jsonData, true);
                         <?php if (!empty($event['subtitle'])) :?>
                             <div class="subtitle"><?= htmlspecialchars($event['subtitle'])?></div>
                         <?php endif;?>
-                        <div class="date"><?= htmlspecialchars($event['date'])?></div>
+                        <div class="date"><?= htmlspecialchars($event['eventdate'])?></div>
                     </a>
                 </div>
             </div>
