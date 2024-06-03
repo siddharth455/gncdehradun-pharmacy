@@ -30,7 +30,7 @@
         </div>
         <div class="card-body">
             <div class="pdf-container">
-                <embed src="assets/images/prospectus.pdf#page=1" type="application/pdf" width="100%" height="100%">
+                <embed src="assets/images/prospectus.pdf" type="application/pdf" width="100%" height="100%">
             </div>
         </div>
     </div>
