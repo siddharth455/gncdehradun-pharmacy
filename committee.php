@@ -13,6 +13,9 @@
         color: white;
         border-radius: 10px;
     }
+    .pdf-container{
+        height: 600px;
+    }
 </style>
 <div class="banner-area about" style="background-image: url(assets/images/vision-mission-head.webp);">
     <div class="d-table">
@@ -69,6 +72,18 @@
                             </tr>
                         </tbody>
                     </table>
+                    <section class="container mt-5">
+    <div class="card mt-2 mb-2">
+        <div class="card-header  text-white" style="background-color: #00bcfb;">
+            <h2 style="text-align: center;">Grievance &amp; Redressal Committee</h2>
+        </div>
+        <div class="card-body">
+            <div class="pdf-container">
+                <embed src="assets/images/grivence.pdf#page=1" type="application/pdf" width="100%" height="100%">
+            </div>
+        </div>
+    </div>
+</section>
                 </div>
             </div>
         </div>
@@ -114,6 +129,18 @@
                             </tr>
                         </tbody>
                     </table>
+                    <section class="container mt-5">
+    <div class="card mt-2 mb-2">
+        <div class="card-header  text-white" style="background-color: #00bcfb;">
+            <h2 style="text-align: center;">Internal Complaint Committee (ICC)</h2>
+        </div>
+        <div class="card-body">
+            <div class="pdf-container">
+                <embed src="assets/images/icc-comp.pdf#page=1" type="application/pdf" width="100%" height="100%">
+            </div>
+        </div>
+    </div>
+</section>
                 </div>
             </div>
         </div>
@@ -159,6 +186,18 @@
                             </tr>
                         </tbody>
                     </table>
+                    <section class="container mt-5">
+    <div class="card mt-2 mb-2">
+        <div class="card-header  text-white" style="background-color: #00bcfb;">
+            <h2 style="text-align: center;">SC/ST Committee</h2>
+        </div>
+        <div class="card-body">
+            <div class="pdf-container">
+                <embed src="assets/images/sc.pdf#page=1" type="application/pdf" width="100%" height="100%">
+            </div>
+        </div>
+    </div>
+</section>
                 </div>
             </div>
         </div>
@@ -204,6 +243,18 @@
                             </tr>
                         </tbody>
                     </table>
+                    <section class="container mt-5">
+    <div class="card mt-2 mb-2">
+        <div class="card-header  text-white" style="background-color: #00bcfb;">
+            <h2 style="text-align: center;">OBC Cell</h2>
+        </div>
+        <div class="card-body">
+            <div class="pdf-container">
+                <embed src="assets/images/obc.pdf#page=1" type="application/pdf" width="100%" height="100%">
+            </div>
+        </div>
+    </div>
+</section>
                 </div>
             </div>
         </div>
@@ -249,6 +300,18 @@
                             </tr>
                         </tbody>
                     </table>
+                    <section class="container mt-5">
+    <div class="card mt-2 mb-2">
+        <div class="card-header  text-white" style="background-color: #00bcfb;">
+            <h2 style="text-align: center;">Anti Ragging</h2>
+        </div>
+        <div class="card-body">
+            <div class="pdf-container">
+                <embed src="assets/images/anti.pdf#page=1" type="application/pdf" width="100%" height="100%">
+            </div>
+        </div>
+    </div>
+</section>
                 </div>
             </div>
         </div>
