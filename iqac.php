@@ -65,6 +65,7 @@
                 <button class="nav-link main" id="v-pills-disabled-tab" data-bs-toggle="pill" data-bs-target="#v-pills-disabled" type="button" role="tab" aria-controls="v-pills-disabled" aria-selected="false">Action Taken Report</button>
                 <button class="nav-link main" id="v-pills-settings-tab" data-bs-toggle="pill" data-bs-target="#v-pills-settings" type="button" role="tab" aria-controls="v-pills-settings" aria-selected="false">IQAC Initiatives</button>
                 <button class="nav-link main" id="v-pills-messages-tab" data-bs-toggle="pill" data-bs-target="#v-pills-messages" type="button" role="tab" aria-controls="v-pills-messages" aria-selected="false">Other Links</button>
+                <button class="nav-link main"><a href="feedback-form.php">Feedback</a></button>
 
             </div>
         </div>
@@ -168,7 +169,7 @@
                             </div>
                             <div class="col-lg-6 mb-5">
                                 <div class="card" style="filter: drop-shadow(3px 4px 6px black);">
-                                    <img class="card-img-top" src="assets/images/ugc.webp" alt="Card image cap" style="height: 250px;" >
+                                    <img class="card-img-top" src="assets/images/ugc.webp" alt="Card image cap" style="height: 250px;">
                                     <div class="card-body">
                                         <a href="https://www.ugc.gov.in/" target="_blank" class="btn btn-primary col-lg-12">UGC Notices</a>
                                     </div>
@@ -398,6 +399,7 @@
                                 <td>9997810817</td>
                                 <td>ankurjaiswal@gncdehradun.com</td>
                             </tr>
+
                             <tr>
                                 <th scope="row">7</th>
                                 <td>Mr. Tarun Verma</td>

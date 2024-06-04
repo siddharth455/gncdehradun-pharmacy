@@ -6,6 +6,7 @@ Default CSS
   z-index: 1;
   left: 3%;
   bottom: 63px;
+  display: none;
 }
 
 .switch-box .switch {

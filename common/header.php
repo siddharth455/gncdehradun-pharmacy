@@ -163,6 +163,17 @@
                                     <li class="nav-item">
                                         <a href="PCI-handbook.php" class="nav-link">PCI-Handbook</a>
                                     </li>
+                                    <li class="nav-item">
+                                        <a href="#" class="nav-link dropdown-toggle">Staff Members</a>
+                                        <ul class="dropdown-menu">
+                                            <li class="nav-item">
+                                            <a href="faculty-member.php" class="nav-link">Teaching Staff</a>
+                                            </li>
+                                            <li class="nav-item">
+                                                <a href="non-teaching.php" class="nav-link">Non-Teaching Staff</a>
+                                            </li>
+                                        </ul>
+                                    </li>
                                 </ul>
                             </li>
                             <li class="nav-item">
@@ -179,7 +190,7 @@
                                         <a href="rules-regulation.php" class="nav-link">Rules &amp; Regulations</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a href="Prospectus.php" class="nav-link">Prospectus</a>
+                                        <a href="prospectus.php" class="nav-link">Prospectus</a>
                                     </li>
                                     <li class="nav-item">
                                         <a href="scholarship-section.php" class="nav-link">Scholarship</a>
@@ -216,7 +227,7 @@
                                         <a href="student-club.php" class="nav-link">Student Clubs</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a href="sports.php" class="nav-link">Sports Infrastructures</a>
+                                        <a href="sports.php" class="nav-link">Sports Infrastructure</a>
                                     </li>
                                     <!-- <li class="nav-item">
                                         <a href="alumni.php" class="nav-link">Alumni</a>
@@ -251,7 +262,7 @@
                                         <a href="seminar-research-workshop.php" class="nav-link">Research/Seminar/Workshop</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a href="research-infrastructure.php" class="nav-link">Research Infrastructures</a>
+                                        <a href="research-infrastructure.php" class="nav-link">Research Infrastructure</a>
                                     </li>
 
                                 </ul>
