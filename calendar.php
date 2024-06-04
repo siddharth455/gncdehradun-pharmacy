@@ -4,7 +4,7 @@
         <div class="d-table-cell">
             <div class="container">
                 <div class="page-title-content">
-                    <h1>Acadmic Calendar</h1>
+                    <h1>Academic Calendar</h1>
                 </div>
             </div>
         </div>
