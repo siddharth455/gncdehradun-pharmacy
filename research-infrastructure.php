@@ -50,7 +50,7 @@
             </p>
         </div>
         <div class="col-md-6 col-sm-12">
-            <img src="assets/images/Pharmaceutics-1.webp" alt="E-Library">
+            <img src="assets/images/pharmaceutics-1.webp" alt="E-Library">
         </div>
     </div>
 </section>

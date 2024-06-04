@@ -19,7 +19,7 @@
     <table class="table table-bordered">
         <thead>
             <tr>
-                <th>Slab</th>
+                <th>S.No.</th>
                 <th>Admission is taken</th>
                 <th>Percentage</th>
                 <th>Fee Waiver</th>
