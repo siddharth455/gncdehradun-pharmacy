@@ -117,35 +117,35 @@
                                 <td>Dr. Lalit Kumar</td>
                                 <td>Chairperson</td>
                                 <td>9758900404</td>
-                                <td>registrar@gnc.edu.in</td>
+                                <td>registrar@gncdehradun.com</td>
                             </tr>
                             <tr>
                                 <th scope="row">2</th>
                                 <td>Dr. Nidhi Chatterjee</td>
                                 <td>Member Secretary</td>
                                 <td>7300777701</td>
-                                <td>nidhichatterjee@gnc.edu.in</td>
+                                <td>nidhichatterjee@gncdehradun.com</td>
                             </tr>
                             <tr>
                                 <th scope="row">3</th>
                                 <td>Prof. (Dr.) Deepak Sharma</td>
                                 <td>Member</td>
                                 <td>7300777721</td>
-                                <td>principalpharmacy@gnc.edu.in</td>
+                                <td>principal@gncdehradun.com</td>
                             </tr>
                             <tr>
                                 <th scope="row">4</th>
                                 <td>Dr. Vishal Kumar Deshwal</td>
                                 <td>Member</td>
                                 <td>9897538555</td>
-                                <td>vishaldeshwal@gnc.edu.in</td>
+                                <td>vishaldeshwal@gncdehradun.com</td>
                             </tr>
                             <tr>
                                 <th scope="row">5</th>
                                 <td>Dr. R.D. Saklani</td>
                                 <td>Member</td>
                                 <td>7456000110</td>
-                                <td>coe@gnc.edu.in</td>
+                                <td>rdsaklani@gncdehradun.com</td>
                             </tr>
                         </tbody>
                                     </table>
