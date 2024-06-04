@@ -57,7 +57,7 @@
             </tr>
             <tr>
                 <th scope="row">8</th>
-                <th>Jai nehra</th>
+                <th>Jai Nehra</th>
             </tr>
             <tr>
                 <th scope="row">9</th>
@@ -114,7 +114,7 @@
             </tr>
             <tr>
                 <th scope="row">22</th>
-                <th>Preeti Sood</th>
+                <th>Ameer</th>
             </tr>
             <tr>
                 <th scope="row">23</th>

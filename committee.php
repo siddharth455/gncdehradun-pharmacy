@@ -13,7 +13,8 @@
         color: white;
         border-radius: 10px;
     }
-    .pdf-container{
+
+    .pdf-container {
         height: 600px;
     }
 </style>
@@ -30,10 +31,10 @@
 </div>
 <div class="container mt-5 mb-5">
     <div class="accordion" id="accordionExample">
-    <div class="accordion-item">
+        <div class="accordion-item">
             <h2 class="accordion-header" id="headingSix">
                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
-                Grievance &amp; Redressal Committee
+                    Grievance &amp; Redressal Committee
                 </button>
             </h2>
             <div id="collapseSix" class="accordion-collapse collapse" aria-labelledby="headingSix" data-bs-parent="#accordionExample">
@@ -72,18 +73,26 @@
                             </tr>
                         </tbody>
                     </table>
-                    <section class="container mt-5">
-    <div class="card mt-2 mb-2">
-        <div class="card-header  text-white" style="background-color: #00bcfb;">
-            <h2 style="text-align: center;">Grievance &amp; Redressal Committee</h2>
-        </div>
-        <div class="card-body">
-            <div class="pdf-container">
-                <embed src="assets/images/grivence.pdf#page=1" type="application/pdf" width="100%" height="100%">
-            </div>
-        </div>
-    </div>
-</section>
+                    <div class="container mt-3">
+                        <div class="accordion" id="accordionExample1">
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="headingSix">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-one" aria-expanded="false" aria-controls="collapse-one">
+                                        Recent MOM &amp; ATR
+                                    </button>
+                                </h2>
+                                <div id="collapse-one" class="accordion-collapse collapse" aria-labelledby="heading-one" data-bs-parent="#accordionExample1">
+                                    <div class="accordion-body" style="filter: drop-shadow(3px 3px 5px black);">
+                                        <div class="card-body">
+                                            <div class="pdf-container">
+                                                <embed src="assets/images/grivence.pdf#page=1" type="application/pdf" width="100%" height="100%">
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
@@ -129,18 +138,26 @@
                             </tr>
                         </tbody>
                     </table>
-                    <section class="container mt-5">
-    <div class="card mt-2 mb-2">
-        <div class="card-header  text-white" style="background-color: #00bcfb;">
-            <h2 style="text-align: center;">Internal Complaint Committee (ICC)</h2>
-        </div>
-        <div class="card-body">
-            <div class="pdf-container">
-                <embed src="assets/images/icc-comp.pdf#page=1" type="application/pdf" width="100%" height="100%">
-            </div>
-        </div>
-    </div>
-</section>
+                    <div class="container mt-3">
+                        <div class="accordion" id="accordionExample1">
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="headingSix">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-one" aria-expanded="false" aria-controls="collapse-one">
+                                        Recent MOM &amp; ATR
+                                    </button>
+                                </h2>
+                                <div id="collapse-one" class="accordion-collapse collapse" aria-labelledby="heading-one" data-bs-parent="#accordionExample1">
+                                    <div class="accordion-body" style="filter: drop-shadow(3px 3px 5px black);">
+                                        <div class="card-body">
+                                            <div class="pdf-container">
+                                                <embed src="assets/images/icc-comp.pdf#page=1" type="application/pdf" width="100%" height="100%">
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
@@ -186,18 +203,26 @@
                             </tr>
                         </tbody>
                     </table>
-                    <section class="container mt-5">
-    <div class="card mt-2 mb-2">
-        <div class="card-header  text-white" style="background-color: #00bcfb;">
-            <h2 style="text-align: center;">SC/ST Committee</h2>
-        </div>
-        <div class="card-body">
-            <div class="pdf-container">
-                <embed src="assets/images/sc.pdf#page=1" type="application/pdf" width="100%" height="100%">
-            </div>
-        </div>
-    </div>
-</section>
+                    <div class="container mt-3">
+                        <div class="accordion" id="accordionExample1">
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="headingSix">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-one" aria-expanded="false" aria-controls="collapse-one">
+                                        Recent MOM &amp; ATR
+                                    </button>
+                                </h2>
+                                <div id="collapse-one" class="accordion-collapse collapse" aria-labelledby="heading-one" data-bs-parent="#accordionExample1">
+                                    <div class="accordion-body" style="filter: drop-shadow(3px 3px 5px black);">
+                                        <div class="card-body">
+                                            <div class="pdf-container">
+                                                <embed src="assets/images/sc.pdf#page=1" type="application/pdf" width="100%" height="100%">
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
@@ -220,7 +245,7 @@
                             </tr>
                         </thead>
                         <tbody>
-                        <tr>
+                            <tr>
                                 <th scope="row">1</th>
                                 <td>Ms. Bhawna Bora </td>
                                 <td>Chairperson</td>
@@ -243,28 +268,36 @@
                             </tr>
                         </tbody>
                     </table>
-                    <section class="container mt-5">
-    <div class="card mt-2 mb-2">
-        <div class="card-header  text-white" style="background-color: #00bcfb;">
-            <h2 style="text-align: center;">OBC Cell</h2>
-        </div>
-        <div class="card-body">
-            <div class="pdf-container">
-                <embed src="assets/images/obc.pdf#page=1" type="application/pdf" width="100%" height="100%">
-            </div>
-        </div>
-    </div>
-</section>
+                    <div class="container mt-5">
+                        <div class="accordion" id="accordionExample1">
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="headingSix">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-one" aria-expanded="false" aria-controls="collapse-one">
+                                        Recent MOM &amp; ATR
+                                    </button>
+                                </h2>
+                                <div id="collapse-one" class="accordion-collapse collapse" aria-labelledby="heading-one" data-bs-parent="#accordionExample1">
+                                    <div class="accordion-body" style="filter: drop-shadow(3px 3px 5px black);">
+                                        <div class="card-body">
+                                            <div class="pdf-container">
+                                                <embed src="assets/images/obc.pdf#page=1" type="application/pdf" width="100%" height="100%">
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
         <div class="accordion-item">
-            <h2 class="accordion-header" id="headingFive">
-                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+            <h2 class="accordion-header" id="headingFive1">
+                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive1" aria-expanded="false" aria-controls="collapseFive1">
                     Anti Ragging Committee
                 </button>
             </h2>
-            <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#accordionExample">
+            <div id="collapseFive1" class="accordion-collapse collapse" aria-labelledby="headingFive1" data-bs-parent="#accordionExample">
                 <div class="accordion-body" style="filter: drop-shadow(3px 3px 5px black);">
                     <table class="table table-bordered">
                         <thead>
@@ -277,7 +310,7 @@
                             </tr>
                         </thead>
                         <tbody>
-                        <tr>
+                            <tr>
                                 <th scope="row">1</th>
                                 <td>Dr. Nidhi Chatterjee </td>
                                 <td>Chairperson</td>
@@ -300,18 +333,26 @@
                             </tr>
                         </tbody>
                     </table>
-                    <section class="container mt-5">
-    <div class="card mt-2 mb-2">
-        <div class="card-header  text-white" style="background-color: #00bcfb;">
-            <h2 style="text-align: center;">Anti Ragging</h2>
-        </div>
-        <div class="card-body">
-            <div class="pdf-container">
-                <embed src="assets/images/anti.pdf#page=1" type="application/pdf" width="100%" height="100%">
-            </div>
-        </div>
-    </div>
-</section>
+                    <div class="container mt-5">
+                        <div class="accordion" id="accordionExample1">
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="headingSix">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-one" aria-expanded="false" aria-controls="collapse-one">
+                                        Recent MOM &amp; ATR
+                                    </button>
+                                </h2>
+                                <div id="collapse-one" class="accordion-collapse collapse" aria-labelledby="heading-one" data-bs-parent="#accordionExample1">
+                                    <div class="accordion-body" style="filter: drop-shadow(3px 3px 5px black);">
+                                        <div class="card-body">
+                                            <div class="pdf-container">
+                                                <embed src="assets/images/anti.pdf#page=1" type="application/pdf" width="100%" height="100%">
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
@@ -334,7 +375,7 @@
                             </tr>
                         </thead>
                         <tbody>
-                        <tr>
+                            <tr>
                                 <th scope="row">1</th>
                                 <td>Mr. Saithjeet Arora</td>
                                 <td>Chairperson</td>
@@ -362,7 +403,7 @@
                                 <td>7300777721</td>
                                 <td>principal@gncdehradun.com</td>
                             </tr>
-                          
+
                             <tr>
                                 <th scope="row">5</th>
                                 <td>Mr. Ankur Jaiswal</td>
@@ -415,7 +456,7 @@
                             </tr>
                         </thead>
                         <tbody>
-                           
+
                             <tr>
                                 <th scope="row">1</th>
                                 <td>Dr. Vishal Kumar Deshwal</td>
@@ -456,7 +497,7 @@
                 </div>
             </div>
         </div>
-       
+
         <div class="accordion-item">
             <h2 class="accordion-header" id="headingSeven">
                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
@@ -476,7 +517,7 @@
                             </tr>
                         </thead>
                         <tbody>
-                            
+
                             <tr>
                                 <th scope="row">1</th>
                                 <td>Dr. Vishal Kumar Deshwal</td>
@@ -571,7 +612,7 @@
                                 <td>8445326799</td>
                                 <td>mamleshprasad@gncdehradun.com</td>
                             </tr>
-                           
+
                         </tbody>
                     </table>
                 </div>
@@ -596,7 +637,7 @@
                             </tr>
                         </thead>
                         <tbody>
-                        <tr>
+                            <tr>
                                 <th scope="row">1</th>
                                 <td>Dr. Vishal Kumar Deshwal</td>
                                 <td>Chairperson</td>
@@ -624,7 +665,7 @@
                                 <td>7300777721</td>
                                 <td>principal@gncdehradun.com</td>
                             </tr>
-                           
+
                             <tr>
                                 <th scope="row">5</th>
                                 <td>Dr. Nidhi Chatterjee</td>
@@ -696,7 +737,7 @@
                 </div>
             </div>
         </div>
-        
+
         <!-- <div class="accordion-item">
             <h2 class="accordion-header" id="headingTwelve">
                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwelve" aria-expanded="false" aria-controls="collapseTwelve">
@@ -753,7 +794,7 @@
         <div class="accordion-item">
             <h2 class="accordion-header" id="headingThirteen">
                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThirteen" aria-expanded="false" aria-controls="collapseThirteen">
-                    Student Council 
+                    Student Council
                 </button>
             </h2>
             <div id="collapseThirteen" class="accordion-collapse collapse" aria-labelledby="headingThirteen" data-bs-parent="#accordionExample">
@@ -769,7 +810,7 @@
                             </tr>
                         </thead>
                         <tbody>
-                        <tr>
+                            <tr>
                                 <th scope="row">1</th>
                                 <td>Dr. Vishal Kumar Deshwal</td>
                                 <td>Chairperson</td>
@@ -783,7 +824,7 @@
                                 <td>7300777721</td>
                                 <td>nidhichatterjee@gncdehradun.com</td>
                             </tr>
-                        <tr>
+                            <tr>
                                 <th scope="row">3</th>
                                 <td>Dr. Lalit Kumar</td>
                                 <td>Member</td>
@@ -797,8 +838,8 @@
                                 <td>7300777721</td>
                                 <td>principal@gncdehradun.com</td>
                             </tr>
-                           
-                           
+
+
                             <tr>
                                 <th scope="row">5</th>
                                 <td>Mrs. Priti Sood</td>
