@@ -53,28 +53,28 @@
                 <td>Dr. Vishal Kumar Deshwal</td>
                 <td>Chairperson</td>
                 <td>9897538555</td>
-                <td>vishaldeshwal@gnc.edu.in</td>
+                <td>vishaldeshwal@gncdehradun.com</td>
             </tr>
             <tr>
                 <th scope="row">2</th>
                 <td>Dr. Vishal Kamboj</td>
                 <td>Member Secretary</td>
                 <td>8295219491</td>
-                <td>vishalkamboj@gnc.edu.in</td>
+                <td>vishalkamboj@gncdehradun.com</td>
             </tr>
             <tr>
                 <th scope="row">3</th>
                 <td>Prof. (Dr.) Deepak Sharma</td>
                 <td>Member</td>
                 <td>7300777721</td>
-                <td>principalpharmacy@gnc.edu.in</td>
+                <td>principal@gncdehradun.com</td>
             </tr>
             <tr>
                 <th scope="row">4</th>
                 <td>Mrs. Kriti Dabral</td>
                 <td>Member</td>
                 <td>9467545933</td>
-                <td>kritidabral@gnc.edu.in</td>
+                <td>kritidabral@gncdehradun.com</td>
             </tr>
 
             <tr>
@@ -82,7 +82,7 @@
                 <td>Dr. Nidhi Chatterjee</td>
                 <td>Member</td>
                 <td>7300777701</td>
-                <td>nidhichatterjee@gnc.edu.in</td>
+                <td>nidhichatterjee@gncdehradun.com</td>
             </tr>
 
         </tbody>
