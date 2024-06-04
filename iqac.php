@@ -66,6 +66,7 @@
                 <button class="nav-link main" id="v-pills-settings-tab" data-bs-toggle="pill" data-bs-target="#v-pills-settings" type="button" role="tab" aria-controls="v-pills-settings" aria-selected="false">IQAC Initiatives</button>
                 <button class="nav-link main" id="v-pills-messages-tab" data-bs-toggle="pill" data-bs-target="#v-pills-messages" type="button" role="tab" aria-controls="v-pills-messages" aria-selected="false">Other Links</button>
                 <button class="nav-link main"><a href="feedback-form.php">Feedback</a></button>
+                <button class="nav-link main"><a href="assets/images/IIQA declaration.pdf">IIQA Declaration</a></button>
 
             </div>
         </div>
