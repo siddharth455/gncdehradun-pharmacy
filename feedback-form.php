@@ -117,7 +117,7 @@
                     </div>
                 </div>
                 <div class="tab-pane fade" id="v-pills-analysis" role="tabpanel" aria-labelledby="v-pills-analysis-tab" tabindex="0">
-                    <!-- Content for Minutes of Meeting Tab -->
+                    
                 </div>
                 <div class="tab-pane fade" id="v-pills-atr" role="tabpanel" aria-labelledby="v-pills-atr-tab" tabindex="0">
                     <!-- Content for Action Taken Report Tab -->

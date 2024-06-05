@@ -51,7 +51,7 @@ table td {
         <div class="d-table-cell">
             <div class="container">
                 <div class="page-title-content">
-                    <h2>Career Development</h2>
+                    <h1>Career Development</h1>
                 </div>
             </div>
         </div>
@@ -76,49 +76,56 @@ table td {
                                 <td>Dr. Vishal Kumar Deshwal</td>
                                 <td>Chairperson</td>
                                 <td>9897538555</td>
-                                <td>vishaldeshwal@gnc.edu.in</td>
+                                <td>vishaldeshwal@gncdehradun.com</td>
                             </tr>
                             <tr>
                                 <th scope="row">2</th>
                                 <td>Dr. Lalit Kumar</td>
                                 <td>Member Secretary</td>
                                 <td>9758900404</td>
-                                <td>registrar@gnc.edu.in</td>
+                                <td>registrar@ggncdehradun.com</td>
                             </tr>
                             <tr>
                                 <th scope="row">3</th>
                                 <td>Prof. (Dr.) Deepak Sharma</td>
                                 <td>Member</td>
                                 <td>7300777721</td>
-                                <td>principalpharmacy@gnc.edu.in</td>
+                                <td>principal@gncdehradun.com</td>
                             </tr>
                             <tr>
                                 <th scope="row">4</th>
                                 <td>Dr. Vishal kamboj</td>
                                 <td>Member</td>
                                 <td>8295219491</td>
-                                <td>vishalkamboj@gnc.edu.in</td>
+                                <td>vishalkamboj@gncdehradun.com</td>
                             </tr>
                             <tr>
                                 <th scope="row">5</th>
                                 <td>Mr. Ankur Jaiswal</td>
                                 <td>Member</td>
                                 <td>9997810817</td>
-                                <td>ankurjaiswal@gnc.edu.in</td>
+                                <td>ankurjaiswal@gncdehradun.com</td>
                             </tr>
                             <tr>
                                 <th scope="row">6</th>
                                 <td>Mrs. Kriti Dabral</td>
                                 <td>Member</td>
                                 <td>9467545933</td>
-                                <td>kritidabral@gnc.edu.in</td>
+                                <td>kritidabral@gncdehradun.com</td>
                             </tr>
                             <tr>
                                 <th scope="row">7</th>
                                 <td>Mr. Tarun Verma</td>
                                 <td>Member</td>
                                 <td>8979599993</td>
-                                <td>tarunverma@gnc.edu.in</td>
+                                <td>tarunverma@gncdehradun.com</td>
+                            </tr>
+                            <tr>
+                                <th scope="row">8</th>
+                                <td>Prof. (Dr.) C. Subramaniam</td>
+                                <td>Member</td>
+                                <td>8870249787</td>
+                                <td>csubramaniam@gncdehradun.com</td>
                             </tr>
                         </tbody>
         </table>

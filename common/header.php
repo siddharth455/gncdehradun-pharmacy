@@ -155,6 +155,9 @@
                                             <li class="nav-item">
                                                 <a href="research-journal.php" class="nav-link">Research Journal</a>
                                             </li>
+                                            <li class="nav-item">
+                                                <a href="library-books.php" class="nav-link">Books</a>
+                                            </li>
                                         </ul>
                                     </li>
                                     <li class="nav-item">
