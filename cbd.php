@@ -51,15 +51,15 @@
         </div>
     </div>
 </div>
-<div class="container pt-4 pb-5">
-    <div class="row">
+<div class="container pt-4 pb-5 ml-4">
+    <!-- <div class="row">
         <div class="col-lg-3 col-md-4 col-sm-5">
             <div class="nav flex-column nav-pills position-sticky" style="top: 150px" id="v-pills-tab" role="tablist" aria-orientation="vertical">
                 <button class="nav-link main active" id="v-pills-home-tab" data-bs-toggle="pill" data-bs-target="#v-pills-home" type="button" role="tab" aria-controls="v-pills-home" aria-selected="true">Overview</button>
                 <button class="nav-link main" id="v-pills-profile-tab" data-bs-toggle="pill" data-bs-target="#v-pills-profile" type="button" role="tab" aria-controls="v-pills-profile" aria-selected="false">Minutes of Meeting</button>
                 <button class="nav-link main" id="v-pills-disabled-tab" data-bs-toggle="pill" data-bs-target="#v-pills-disabled" type="button" role="tab" aria-controls="v-pills-disabled" aria-selected="false">Action Taken Report</button>
             </div>
-        </div>
+        </div> -->
         <div class="col-lg-9 col-md-8 col-sm-7">
             <div class="tab-content" id="v-pills-tabContent">
                 <div class="tab-pane fade show active" id="v-pills-home" role="tabpanel" aria-labelledby="v-pills-home-tab" tabindex="0">
@@ -101,6 +101,7 @@
                                     <div class="page-sub-heading mb-2">
                                         <h3 class="mb-3">Committee For Prevention Of Caste Based Discrimination</h3>
                                     </div>
+                                    <div style="overflow-x:auto;">
                                     <table class="table table-bordered" style="filter: drop-shadow(3px 3px 4px black);">
         <thead>
             <tr class="heading">
@@ -149,23 +150,24 @@
                             </tr>
                         </tbody>
                                     </table>
+                                    </div>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
-                <div class="tab-pane fade" id="v-pills-profile" role="tabpanel" aria-labelledby="v-pills-profile-tab" tabindex="0">
-                    <!-- Content for Minutes of Meeting Tab -->
+                <!-- <div class="tab-pane fade" id="v-pills-profile" role="tabpanel" aria-labelledby="v-pills-profile-tab" tabindex="0">
+                    Content for Minutes of Meeting Tab
                 </div>
                 <div class="tab-pane fade" id="v-pills-disabled" role="tabpanel" aria-labelledby="v-pills-disabled-tab" tabindex="0">
-                    <!-- Content for Action Taken Report Tab -->
+                    Content for Action Taken Report Tab
                 </div>
                 <div class="tab-pane fade" id="v-pills-messages" role="tabpanel" aria-labelledby="v-pills-messages-tab" tabindex="0">
-                    <!-- Content for Messages Tab -->
+                    Content for Messages Tab
                 </div>
                 <div class="tab-pane fade" id="v-pills-settings" role="tabpanel" aria-labelledby="v-pills-settings-tab" tabindex="0">
-                    <!-- Content for Settings Tab -->
-                </div>
+                    Content for Settings Tab
+                </div> -->
             </div>
         </div>
     </div>

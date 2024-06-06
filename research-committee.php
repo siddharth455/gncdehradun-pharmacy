@@ -36,6 +36,7 @@
 </section>
 <div class="container">
     <h4>Research Committee</h4>
+    <div style="overflow-x:auto;">
     <table class="table table-bordered" style="filter: drop-shadow(3px 3px 4px black);">
         <thead>
             <tr class="heading">
@@ -87,5 +88,6 @@
 
         </tbody>
     </table>
+    </div>
 </div>
 <?php require "common/footer.php" ?>

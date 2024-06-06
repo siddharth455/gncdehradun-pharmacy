@@ -13,17 +13,17 @@
     }
 
     /* Styles for Mobile */
-    @media (max-width: 480px) {
+    @media (max-width: 400px) {
         #chart-container {
-            max-width: 350px;
+            max-width: 250px;
             /* Add some padding to prevent the chart from touching the edges */
-          
+          margin: 5px 20px;
 
         }
 
         canvas {
-            height: 350px !important;
-            width: 400px !important;
+            height: 300px !important;
+            width: 350px !important;
         }
 
         .mobile-font-size .datalabels {
@@ -119,6 +119,7 @@
 </script>
 <section class="container">
     <h4>Research Papers</h4>
+    <div style="overflow-x:auto;">
     <table class="table table-bordered" style="filter: drop-shadow(3px 3px 4px black);">
         <thead>
             <tr class="heading">
@@ -569,6 +570,7 @@
             </tr>
         </tbody>
     </table>
+    </div>
 </section>
 
 <?php require "common/footer.php" ?>

@@ -14,7 +14,7 @@
         @media (max-width: 480px) {
             #chart-container {
                 max-width: 350px; /* Add some padding to prevent the chart from touching the edges */
-                margin: 0 50px ;
+                margin: 0 20px ;
                 
             }
 
@@ -119,6 +119,7 @@ window.addEventListener('resize', () => {
         <button class="tablink" onclick="openTab(event, 'Book2019')">2019</button>
     </div>
     <div id="GirlsHostel" class="tabcontent mt-5">
+    <div style="overflow-x:auto;">
         <table class="table table-bordered" style="filter: drop-shadow(3px 3px 4px black);">
             <thead>
                 <tr class="heading">
@@ -424,9 +425,11 @@ window.addEventListener('resize', () => {
             </tbody>
         </table>
     </div>
+    </div>
 </div>
 <div class="container mt-5">
 <div id="BoysHostel" class="tabcontent">
+<div style="overflow-x:auto;">
     <table class="table table-bordered">
         <thead>
             <tr class="heading">
@@ -720,10 +723,12 @@ window.addEventListener('resize', () => {
             </tr>
             <tbody>
         </table>
+</div>
     </div>
 </div>
 <div class="container mt-5">
     <div id="Book2021" class="tabcontent">
+    <div style="overflow-x:auto;">
         <table class="table table-bordered" style="filter: drop-shadow(3px 3px 4px black);">
             <thead>
                 <tr class="heading">
@@ -988,9 +993,11 @@ window.addEventListener('resize', () => {
             <tbody>
         </table>
     </div>
+    </div>
 </div>
 <div class="container mt-5">
     <div id="Book2020" class="tabcontent">
+    <div style="overflow-x:auto;">
         <table class="table table-bordered" style="filter: drop-shadow(3px 3px 4px black);">
             <thead>
                 <tr class="heading">
@@ -1249,9 +1256,11 @@ window.addEventListener('resize', () => {
             <tbody>
         </table>
     </div>
+    </div>
 </div>
 <div class="container mt-5">
     <div id="Book2019" class="tabcontent">
+    <div style="overflow-x:auto;">
         <table class="table table-bordered" style="filter: drop-shadow(3px 3px 4px black);">
             <thead>
                 <tr class="heading">
@@ -1479,6 +1488,7 @@ window.addEventListener('resize', () => {
 
             <tbody>
         </table>
+    </div>
     </div>
 </div>
 <?php require "common/footer.php" ?>

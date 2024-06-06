@@ -13,9 +13,9 @@
         /* Styles for Mobile */
         @media (max-width: 480px) {
             #chart-container {
-                max-width: 350px; /* Add some padding to prevent the chart from touching the edges */
-                margin: 0 50px ;
-                
+                max-width: 400px; /* Add some padding to prevent the chart from touching the edges */
+                margin: 0 20px ;
+                width: 100%;
             }
 
             canvas {
@@ -55,7 +55,7 @@
     <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2"></script>
     <script>
           function adjustFontSize(chart) {
-            const mobileFontSize = window.innerWidth <= 480 ? 10 : 24;
+            const mobileFontSize = window.innerWidth <= 480 ? 16 : 24;
             chart.options.plugins.datalabels.font.size = mobileFontSize;
             chart.update();
         }
@@ -66,7 +66,7 @@
                 labels: ['2018-19','2019-20', '2020-21', '2021-22', '2022-23'],
                 datasets: [{
                     label: 'Value Added Course',
-                    data: [2, 4, 6, 8, 10], // Replace these numbers with your actual data
+                    data: [2, 4, 6, 8, 10], 
                     backgroundColor: [
                         'rgba(255, 99, 132, 1)',
                         'rgba(54, 162, 235, 1)',
@@ -111,6 +111,7 @@ window.addEventListener('resize', () => {
 });
     </script>
 <section class="container mb-4" style="filter: drop-shadow(3px 3px 5px black);">
+<div style="overflow-x:auto;">
     <table class="table table-bordered">
         <thead>
             <tr class="heading">
@@ -334,5 +335,6 @@ window.addEventListener('resize', () => {
             </tr>
         </tbody>
     </table>
+</div>
 </section>
 <?php require "common/footer.php" ?>
