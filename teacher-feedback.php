@@ -84,10 +84,7 @@ th {
                             </tr>
                             <tr>
                                 <td>01</td>
-                                <td>The course material strikes a good
-                                    balance between theory and/or real-world
-                                    application and fieldwork training.
-                                </td>
+                                <td>The curriculum design and development</td>
                                 <td><input type="number" name="q1_course1" min="1" max="5"></td>
                                 <td><input type="number" name="q1_course2" min="1" max="5"></td>
                                 <td><input type="number" name="q1_course3" min="1" max="5"></td>
@@ -97,10 +94,7 @@ th {
                             </tr>
                             <tr>
                                 <td>02</td>
-                                <td>There are adequate elective courses
-                                    available for students to choose from in
-                                    this program.
-                                </td>
+                                <td>The curriculum has been updated from time to time as designed by industry and society</td>
                                 <td><input type="number" name="q2_course1" min="1" max="5"></td>
                                 <td><input type="number" name="q2_course2" min="1" max="5"></td>
                                 <td><input type="number" name="q2_course3" min="1" max="5"></td>
@@ -110,8 +104,7 @@ th {
                             </tr>
                             <tr>
                                 <td>03</td>
-                                <td>The course's contents align with the
-                                    objectives of the course.</td>
+                                <td>Emphasis of fundamentals and basic concepts of pharmacy knowledge is</td>
                                 <td><input type="number" name="q3_course1" min="1" max="5"></td>
                                 <td><input type="number" name="q3_course2" min="1" max="5"></td>
                                 <td><input type="number" name="q3_course3" min="1" max="5"></td>
@@ -121,9 +114,7 @@ th {
                             </tr>
                             <tr>
                                 <td>04</td>
-                                <td>The course materials have been arranged
-                                    from fundamental to advanced.
-                                </td>
+                                <td>Coverage of modern/advanced topics in syllabus is</td>
                                 <td><input type="number" name="q4_course1" min="1" max="5"></td>
                                 <td><input type="number" name="q4_course2" min="1" max="5"></td>
                                 <td><input type="number" name="q4_course3" min="1" max="5"></td>
@@ -133,9 +124,7 @@ th {
                             </tr>
                             <tr>
                                 <td>05</td>
-                                <td>The emphasis of the program is on
-                                    entrepreneurship, employability, and skill
-                                    development.</td>
+                                <td>Teachers got enough freedom to extend suggestion and ideas on curriculum design</td>
                                 <td><input type="number" name="q5_course1" min="1" max="5"></td>
                                 <td><input type="number" name="q5_course2" min="1" max="5"></td>
                                 <td><input type="number" name="q5_course3" min="1" max="5"></td>
@@ -145,8 +134,7 @@ th {
                             </tr>
                             <tr>
                                 <td>06</td>
-                                <td>The course material enhances students'
-                                    understanding of the field.</td>
+                                <td>How about your overall experience with this College</td>
                                 <td><input type="number" name="q6_course1" min="1" max="5"></td>
                                 <td><input type="number" name="q6_course2" min="1" max="5"></td>
                                 <td><input type="number" name="q6_course3" min="1" max="5"></td>
@@ -156,14 +144,33 @@ th {
                             </tr>
                             <tr>
                                 <td>07</td>
-                                <td>The curriculum of the courses needs to be
-                                    moderated.</td>
+                                <td>Greenery in the College campus </td>
                                 <td><input type="number" name="q7_course1" min="1" max="5"></td>
                                 <td><input type="number" name="q7_course2" min="1" max="5"></td>
                                 <td><input type="number" name="q7_course3" min="1" max="5"></td>
                                 <td><input type="number" name="q7_course4" min="1" max="5"></td>
                                 <td><input type="number" name="q7_course5" min="1" max="5"></td>
                                 <td><input type="number" name="q7_course6" min="1" max="5"></td>
+                            </tr>
+                            <tr>
+                                <td>08</td>
+                                <td>College website, wi-fi and internet facility</td>
+                                <td><input type="number" name="q8_course1" min="1" max="5"></td>
+                                <td><input type="number" name="q8_course2" min="1" max="5"></td>
+                                <td><input type="number" name="q8_course3" min="1" max="5"></td>
+                                <td><input type="number" name="q8_course4" min="1" max="5"></td>
+                                <td><input type="number" name="q8_course5" min="1" max="5"></td>
+                                <td><input type="number" name="q8_course6" min="1" max="5"></td>
+                            </tr>
+                            <tr>
+                                <td>09</td>
+                                <td>Amenities and assistance provided at the College sports ground</td>
+                                <td><input type="number" name="q9_course1" min="1" max="5"></td>
+                                <td><input type="number" name="q9_course2" min="1" max="5"></td>
+                                <td><input type="number" name="q9_course3" min="1" max="5"></td>
+                                <td><input type="number" name="q9_course4" min="1" max="5"></td>
+                                <td><input type="number" name="q9_course5" min="1" max="5"></td>
+                                <td><input type="number" name="q9_course6" min="1" max="5"></td>
                             </tr>
                         </table>
                     </div>

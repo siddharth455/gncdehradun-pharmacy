@@ -83,9 +83,7 @@
                             </tr>
                             <tr>
                                 <td>01</td>
-                                <td>Program content offers technical
-                                    expertise in line with industry
-                                    demands.</td>
+                                <td>Attitude </td>
                                 <td><input type="radio" name="q1" value="strongly_agree"></td>
                                 <td><input type="radio" name="q1" value="agree"></td>
                                 <td><input type="radio" name="q1" value="neutral"></td>
@@ -94,11 +92,7 @@
                             </tr>
                             <tr>
                                 <td>02</td>
-                                <td>gram courses that meet the
-                                    necessary competencies and
-                                    leadership requirements are included
-                                    in the curriculum.
-                                </td>
+                                <td>Communication skill</td>
                                 <td><input type="radio" name="q2" value="strongly_agree"></td>
                                 <td><input type="radio" name="q2" value="agree"></td>
                                 <td><input type="radio" name="q2" value="neutral"></td>
@@ -107,10 +101,7 @@
                             </tr>
                             <tr>
                                 <td>03</td>
-                                <td>Program objectives include achieving
-                                    gender equality, environmental
-                                    sustainability, and human and ethical
-                                    values.</td>
+                                <td>Professional exposure </td>
                                 <td><input type="radio" name="q3" value="strongly_agree"></td>
                                 <td><input type="radio" name="q3" value="agree"></td>
                                 <td><input type="radio" name="q3" value="neutral"></td>
@@ -119,8 +110,7 @@
                             </tr>
                             <tr>
                                 <td>04</td>
-                                <td>The curriculum effectively integrates
-                                    both soft skills and computer skills.</td>
+                                <td>Ability of understanding</td>
                                 <td><input type="radio" name="q4" value="strongly_agree"></td>
                                 <td><input type="radio" name="q4" value="agree"></td>
                                 <td><input type="radio" name="q4" value="neutral"></td>
@@ -129,9 +119,7 @@
                             </tr>
                             <tr>
                                 <td>05</td>
-                                <td>The curriculum helps students become
-                                    more analytical and capable of making
-                                    decisions.</td>
+                                <td>TAnalytical ability</td>
                                 <td><input type="radio" name="q5" value="strongly_agree"></td>
                                 <td><input type="radio" name="q5" value="agree"></td>
                                 <td><input type="radio" name="q5" value="neutral"></td>
@@ -140,9 +128,7 @@
                             </tr>
                             <tr>
                                 <td>06</td>
-                                <td>The program's curriculum aids in
-                                    bridging the knowledge gap between
-                                    industries and academia</td>
+                                <td>Problem solving ability</td>
                                 <td><input type="radio" name="q6" value="strongly_agree"></td>
                                 <td><input type="radio" name="q6" value="agree"></td>
                                 <td><input type="radio" name="q6" value="neutral"></td>
@@ -151,14 +137,30 @@
                             </tr>
                             <tr>
                                 <td>07</td>
-                                <td>Local, national and global
-                                    developmental requirements are met
-                                    by the program.</td>
+                                <td>Decision making</td>
                                 <td><input type="radio" name="q7" value="strongly_agree"></td>
                                 <td><input type="radio" name="q7" value="agree"></td>
                                 <td><input type="radio" name="q7" value="neutral"></td>
                                 <td><input type="radio" name="q7" value="disagree"></td>
                                 <td><input type="radio" name="q7" value="strongly_disagree"></td>
+                            </tr>
+                            <tr>
+                                <td>08</td>
+                                <td>Initiatives</td>
+                                <td><input type="radio" name="q8" value="strongly_agree"></td>
+                                <td><input type="radio" name="q8" value="agree"></td>
+                                <td><input type="radio" name="q8" value="neutral"></td>
+                                <td><input type="radio" name="q8" value="disagree"></td>
+                                <td><input type="radio" name="q8" value="strongly_disagree"></td>
+                            </tr>
+                            <tr>
+                                <td>09</td>
+                                <td>Group working and leadership </td>
+                                <td><input type="radio" name="q9" value="strongly_agree"></td>
+                                <td><input type="radio" name="q9" value="agree"></td>
+                                <td><input type="radio" name="q9" value="neutral"></td>
+                                <td><input type="radio" name="q9" value="disagree"></td>
+                                <td><input type="radio" name="q9" value="strongly_disagree"></td>
                             </tr>
 
                         </table>
