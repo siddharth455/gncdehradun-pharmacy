@@ -205,6 +205,7 @@
                         </div>
                         <div class="col-lg-8 col-md-7">
                             <div class="admission-content">
+                                <!-- <h2>Strat your Journey and sculpt the Future you envision</h2> -->
                                 <h2>Apply Now and Shape Your Future with Us</h2>
                                 <p>Your Gateway to Excellence Begins Here</p>
                                 <ul class="admission-list">
@@ -243,7 +244,7 @@
 <section class="home-special-course">
     <div class="container-fluid">
         <div class="section-tittle text-center">
-            <h2>Curricular and Extra Curricular Activities</h2>
+            <h2>Educational &amp; Recreational Involvements</h2>
             <p>
                 Empowering Minds, Igniting Passions!
             </p>
@@ -321,7 +322,7 @@
 <section class="home-news pb-4 pt-4">
     <div class="container">
         <div class="section-tittle text-center">
-            <h2>News &amp; Update</h2>
+            <h2>Current Events &amp; Updates</h2>
             <p>
                 Your Essential Source for What's Happening On Campus. Stay Informed, Stay Connected, Stay Ahead!
             </p>

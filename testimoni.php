@@ -88,7 +88,7 @@
 <section class="course-slider-area pb-3">
     <div class="container">
         <div class="section-tittle text-center mt-4 mb-4">
-            <h2>What our students say?</h2>
+            <h2>Perspectives of our Learners</h2>
             <p>
                 Discover What Our Students Have to Say About Their Journey.
             </p>
