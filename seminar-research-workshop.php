@@ -14,7 +14,7 @@
         @media (max-width: 480px) {
             #chart-container {
                 max-width: 350px; /* Add some padding to prevent the chart from touching the edges */
-                margin: 0 50px ;
+                margin: 0 20px ;
                 
             }
 
@@ -55,7 +55,7 @@
     <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2"></script>
     <script>
           function adjustFontSize(chart) {
-            const mobileFontSize = window.innerWidth <= 480 ? 10 : 24;
+            const mobileFontSize = window.innerWidth <= 400 ? 24 : 10;
             chart.options.plugins.datalabels.font.size = mobileFontSize;
             chart.update();
         }

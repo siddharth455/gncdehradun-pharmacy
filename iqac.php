@@ -413,7 +413,7 @@
                                 <td>Prof. (Dr.) C. Subramaniam</td>
                                 <td>Member</td>
                                 <td>8870249787</td>
-                                <td>csubramaniam@gncdehradun.in</td>
+                                <td>csubramaniam@gncdehradun.com</td>
                             </tr>
                         </tbody>
                     </table>

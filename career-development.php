@@ -19,6 +19,7 @@
     </div>
 </section>
 <section class="container mb-5">
+<div style="overflow-x:auto;">
     <table class="table table-bordered" style="filter: drop-shadow(3px 3px 4px black);">
         <thead>
           
@@ -257,5 +258,6 @@
             
         </tbody>
     </table>
+</div>
 </section
 <?php require "common/footer.php"?>
