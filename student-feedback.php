@@ -87,7 +87,7 @@ th {
                             </tr>
                             <tr>
                                 <td>01</td>
-                                <td>The course material is career-focused.</td>
+                                <td>Physical infrastructure of College like Class rooms, Library and Sports etc.</td>
                                 <td><input type="number" name="q1_course1" min="1" max="5"></td>
                                 <td><input type="number" name="q1_course2" min="1" max="5"></td>
                                 <td><input type="number" name="q1_course3" min="1" max="5"></td>
@@ -97,7 +97,7 @@ th {
                             </tr>
                             <tr>
                                 <td>02</td>
-                                <td>Course learning is oriented toward the growth of concepts, knowledge, skills, and analytical capacities.</td>
+                                <td>College website, Wi-Fi and Internet facility</td>
                                 <td><input type="number" name="q2_course1" min="1" max="5"></td>
                                 <td><input type="number" name="q2_course2" min="1" max="5"></td>
                                 <td><input type="number" name="q2_course3" min="1" max="5"></td>
@@ -107,7 +107,7 @@ th {
                             </tr>
                             <tr>
                                 <td>03</td>
-                                <td>The credits allotted are justified by the syllabus.</td>
+                                <td>What do you think about extracurricular activities</td>
                                 <td><input type="number" name="q3_course1" min="1" max="5"></td>
                                 <td><input type="number" name="q3_course2" min="1" max="5"></td>
                                 <td><input type="number" name="q3_course3" min="1" max="5"></td>
@@ -117,7 +117,7 @@ th {
                             </tr>
                             <tr>
                                 <td>04</td>
-                                <td>The most recent advances are covered in the course curriculum.</td>
+                                <td>Cleanliness and maintenance of College premises</td>
                                 <td><input type="number" name="q4_course1" min="1" max="5"></td>
                                 <td><input type="number" name="q4_course2" min="1" max="5"></td>
                                 <td><input type="number" name="q4_course3" min="1" max="5"></td>
@@ -127,7 +127,7 @@ th {
                             </tr>
                             <tr>
                                 <td>05</td>
-                                <td>The course curriculum includes a comprehensive multitude of activities/exercises.</td>
+                                <td>At what extent you think the faculty members were supportive</td>
                                 <td><input type="number" name="q5_course1" min="1" max="5"></td>
                                 <td><input type="number" name="q5_course2" min="1" max="5"></td>
                                 <td><input type="number" name="q5_course3" min="1" max="5"></td>
@@ -137,7 +137,7 @@ th {
                             </tr>
                             <tr>
                                 <td>06</td>
-                                <td>Opportunities for field trips and internships align with the curriculum.</td>
+                                <td>How will you rate and recommend College</td>
                                 <td><input type="number" name="q6_course1" min="1" max="5"></td>
                                 <td><input type="number" name="q6_course2" min="1" max="5"></td>
                                 <td><input type="number" name="q6_course3" min="1" max="5"></td>
@@ -147,7 +147,7 @@ th {
                             </tr>
                             <tr>
                                 <td>07</td>
-                                <td>ICT resources enhance the course offerings.</td>
+                                <td>How about your overall experience with College</td>
                                 <td><input type="number" name="q7_course1" min="1" max="5"></td>
                                 <td><input type="number" name="q7_course2" min="1" max="5"></td>
                                 <td><input type="number" name="q7_course3" min="1" max="5"></td>
@@ -157,7 +157,7 @@ th {
                             </tr>
                             <tr>
                                 <td>08</td>
-                                <td>The program addresses the employability component.</td>
+                                <td>At what extend you think cultural/academic events and activities are useful and add to the your all round development</td>
                                 <td><input type="number" name="q8_course1" min="1" max="5"></td>
                                 <td><input type="number" name="q8_course2" min="1" max="5"></td>
                                 <td><input type="number" name="q8_course3" min="1" max="5"></td>
@@ -165,6 +165,27 @@ th {
                                 <td><input type="number" name="q8_course5" min="1" max="5"></td>
                                 <td><input type="number" name="q8_course6" min="1" max="5"></td>
                             </tr>
+                            <tr>
+                                <td>09</td>
+                                <td>Facilities for differently able person like ramps, etc.</td>
+                                <td><input type="number" name="q9_course1" min="1" max="5"></td>
+                                <td><input type="number" name="q9_course2" min="1" max="5"></td>
+                                <td><input type="number" name="q9_course3" min="1" max="5"></td>
+                                <td><input type="number" name="q9_course4" min="1" max="5"></td>
+                                <td><input type="number" name="q9_course5" min="1" max="5"></td>
+                                <td><input type="number" name="q9_course6" min="1" max="5"></td>
+                            </tr>
+                            <tr>
+                                <td>10</td>
+                                <td>Please provide us with additional feedback on areas that need improvement</td>
+                                <td><input type="number" name="q10_course1" min="1" max="5"></td>
+                                <td><input type="number" name="q10_course2" min="1" max="5"></td>
+                                <td><input type="number" name="q10_course3" min="1" max="5"></td>
+                                <td><input type="number" name="q10_course4" min="1" max="5"></td>
+                                <td><input type="number" name="q10_course5" min="1" max="5"></td>
+                                <td><input type="number" name="q10_course6" min="1" max="5"></td>
+                            </tr>
+                            
                         </table>
                     </div>
                     <div class="mb-3 mt-3">

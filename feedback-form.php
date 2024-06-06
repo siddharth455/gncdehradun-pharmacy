@@ -43,6 +43,25 @@
     .table th {
         vertical-align: middle;
     }
+
+    .accordion-header button {
+        background-color: #00bcfb;
+        font-weight: bolder;
+        font-size: 18px;
+        color: white;
+        border-radius: 10px;
+    }
+
+    .accordion-button:not(.collapsed) {
+        background-color: #eb7a3d;
+        color: white;
+        border-radius: 10px;
+    }
+
+
+    .pdf-container {
+        height: 600px;
+    }
 </style>
 <div class="banner-area about" style="background-image: url(assets/images/iqac-head.webp); background-size: cover; background-position: center;">
     <div class="d-table">
@@ -60,9 +79,12 @@
         <div class="col-lg-3 col-md-4 col-sm-5">
             <div class="nav flex-column nav-pills position-sticky" style="top: 150px" id="v-pills-tab" role="tablist" aria-orientation="vertical">
                 <button class="nav-link main active" id="v-pills-home-tab" data-bs-toggle="pill" data-bs-target="#v-pills-home" type="button" role="tab" aria-controls="v-pills-home" aria-selected="true">Feedback Overview</button>
-                <button class="nav-link main" id="v-pills-analysis-tab" data-bs-toggle="pill" data-bs-target="#v-pills-analysis" type="button" role="tab" aria-controls="v-pills-analysis" aria-selected="false">Feedback Analysis</button>
-                <button class="nav-link main" id="v-pills-atr-tab" data-bs-toggle="pill" data-bs-target="#v-pills-atr" type="button" role="tab" aria-controls="v-pills-atr" aria-selected="false">Action Taken Report</button>
                 <button class="nav-link main"><a href="feedback.php">Feedback Form</a></button>
+                <!-- <button class="nav-link main" id="v-pills-analysis-tab" data-bs-toggle="pill" data-bs-target="#v-pills-analysis" type="button" role="tab" aria-controls="v-pills-analysis" aria-selected="false">Feedback Analysis &amp; ATR</button> -->
+
+                <!-- <button class="nav-link main" id="v-pills-atr-tab" data-bs-toggle="pill" data-bs-target="#v-pills-atr" type="button" role="tab" aria-controls="v-pills-atr" aria-selected="false">Action Taken Report</button> -->
+                 <button class="nav-link main"><a href="https://staff.gncdehradun.com/">Feedback Analysis &amp; ATR</a></button>
+               <!-- <button class="nav-link main"><a href="https://staff.gncdehradun.com/">Action Taken Report</a></button> -->
 
             </div>
         </div>
@@ -88,17 +110,6 @@
                                         <li>Provide students and stakeholders with opportunities to actively participate in the continual improvement of study programs through timely feedback collection.</li>
                                 </div>
                                 <hr>
-                                <div class="data-block">
-                                    <h3>Methodology:</h3>
-                                    <ul class="list-unstyled p-0 list-icon-4 ps-4 mt-3">
-                                        <li><b>Student Feedback:</b> Collected online via ERP, analyzed by AMC, and suggestions are incorporated by department heads.</li>
-                                        <li><b>Alumni Feedback:</b> Collected during alumni meetings and online, sent to AMC for further action and forwarded to higher authorities.</li>
-                                        <li><b>Teacher Feedback:</b> Collected via hard copy forms regarding the curriculum and teaching-learning process, analyzed, and reported to higher authorities.</li>
-                                        <li><b>Employer Feedback:</b> Collected in person or online, with actions discussed by the feedback committee and communicated to relevant departments and authorities for implementation.</li>
-                                    </ul>
-                                </div>
-
-                                <hr>
 
                                 <div class="data-block">
                                     <h3>IQAC will facilitate / contribute:</h3>
@@ -117,7 +128,266 @@
                     </div>
                 </div>
                 <div class="tab-pane fade" id="v-pills-analysis" role="tabpanel" aria-labelledby="v-pills-analysis-tab" tabindex="0">
-                    <!-- Content for Minutes of Meeting Tab -->
+                    <div class="container mt-2 mb-2">
+                        <div class="accordion" id="accordionExample">
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="headingSix">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
+                                        Students
+                                    </button>
+                                </h2>
+                                <div id="collapseSix" class="accordion-collapse collapse" aria-labelledby="headingSix" data-bs-parent="#accordionExample">
+                                    <div class="accordion-body" style="filter: drop-shadow(3px 3px 5px black);">
+                                        <div class="container mt-3">
+                                            <div class="accordion" id="accordionExample1">
+                                                <div class="accordion-item">
+                                                    <h2 class="accordion-header" id="headingSix">
+                                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-one" aria-expanded="false" aria-controls="collapse-one">
+                                                            2018-19
+                                                        </button>
+                                                    </h2>
+                                                    <div id="collapse-one" class="accordion-collapse collapse" aria-labelledby="heading-one" data-bs-parent="#accordionExample1">
+                                                        <div class="accordion-body" style="filter: drop-shadow(3px 3px 5px black);">
+                                                            <div class="card-body">
+                                                                <div class="pdf-container">
+                                                                    <embed src="assets/images/grivence.pdf#page=1" type="application/pdf" width="100%" height="100%">
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="accordion-item">
+                                                    <h2 class="accordion-header" id="headingSix">
+                                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-two" aria-expanded="false" aria-controls="collapse-two">
+                                                            2019-20
+                                                        </button>
+                                                    </h2>
+                                                    <div id="collapse-two" class="accordion-collapse collapse" aria-labelledby="heading-two" data-bs-parent="#accordionExample1">
+                                                        <div class="accordion-body" style="filter: drop-shadow(3px 3px 5px black);">
+                                                            <div class="card-body">
+                                                                <div class="pdf-container">
+                                                                    <embed src="assets/images/grivence.pdf#page=1" type="application/pdf" width="100%" height="100%">
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="accordion-item">
+                                                    <h2 class="accordion-header" id="headingSix">
+                                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-three" aria-expanded="false" aria-controls="collapse-three">
+                                                            2020-21
+                                                        </button>
+                                                    </h2>
+                                                    <div id="collapse-three" class="accordion-collapse collapse" aria-labelledby="heading-three" data-bs-parent="#accordionExample1">
+                                                        <div class="accordion-body" style="filter: drop-shadow(3px 3px 5px black);">
+                                                            <div class="card-body">
+                                                                <div class="pdf-container">
+                                                                    <embed src="assets/images/grivence.pdf#page=1" type="application/pdf" width="100%" height="100%">
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="accordion-item">
+                                                    <h2 class="accordion-header" id="headingSix">
+                                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-four" aria-expanded="false" aria-controls="collapse-four">
+                                                            2021-22
+                                                        </button>
+                                                    </h2>
+                                                    <div id="collapse-four" class="accordion-collapse collapse" aria-labelledby="heading-four" data-bs-parent="#accordionExample1">
+                                                        <div class="accordion-body" style="filter: drop-shadow(3px 3px 5px black);">
+                                                            <div class="card-body">
+                                                                <div class="pdf-container">
+                                                                    <embed src="assets/images/grivence.pdf#page=1" type="application/pdf" width="100%" height="100%">
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="accordion-item">
+                                                    <h2 class="accordion-header" id="headingSix">
+                                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-five" aria-expanded="false" aria-controls="collapse-five">
+                                                            2022-23
+                                                        </button>
+                                                    </h2>
+                                                    <div id="collapse-five" class="accordion-collapse collapse" aria-labelledby="heading-five" data-bs-parent="#accordionExample1">
+                                                        <div class="accordion-body" style="filter: drop-shadow(3px 3px 5px black);">
+                                                            <div class="card-body">
+                                                                <div class="pdf-container">
+                                                                    <embed src="assets/images/grivence.pdf#page=1" type="application/pdf" width="100%" height="100%">
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="headingEleven">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseEleven" aria-expanded="false" aria-controls="collapseEleven">
+                                        Employer
+                                    </button>
+                                </h2>
+                                <div id="collapseEleven" class="accordion-collapse collapse" aria-labelledby="headingEleven" data-bs-parent="#accordionExample">
+                                    <div class="accordion-body" style="filter: drop-shadow(3px 3px 5px black);">
+                                        <div class="container mt-3">
+                                            <div class="accordion" id="accordionExample1">
+                                                <div class="accordion-item">
+                                                    <h2 class="accordion-header" id="headingSix">
+                                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-five" aria-expanded="false" aria-controls="collapse-five">
+                                                            2022-23
+                                                        </button>
+                                                    </h2>
+                                                    <div id="collapse-five" class="accordion-collapse collapse" aria-labelledby="heading-five" data-bs-parent="#accordionExample1">
+                                                        <div class="accordion-body" style="filter: drop-shadow(3px 3px 5px black);">
+                                                            <div class="card-body">
+                                                                <div class="pdf-container">
+                                                                    <embed src="assets/images/grivence.pdf#page=1" type="application/pdf" width="100%" height="100%">
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="headingFour">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                                        Alumni
+                                    </button>
+                                </h2>
+                                <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordionExample">
+                                <div class="accordion-body" style="filter: drop-shadow(3px 3px 5px black);">
+                                        <div class="container mt-3">
+                                            <div class="accordion" id="accordionExample1">
+                                                <div class="accordion-item">
+                                                    <h2 class="accordion-header" id="headingSix">
+                                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-five" aria-expanded="false" aria-controls="collapse-five">
+                                                            2022-23
+                                                        </button>
+                                                    </h2>
+                                                    <div id="collapse-five" class="accordion-collapse collapse" aria-labelledby="heading-five" data-bs-parent="#accordionExample1">
+                                                        <div class="accordion-body" style="filter: drop-shadow(3px 3px 5px black);">
+                                                            <div class="card-body">
+                                                                <div class="pdf-container">
+                                                                    <embed src="assets/images/grivence.pdf#page=1" type="application/pdf" width="100%" height="100%">
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="headingFive">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+                                        Faculty Members
+                                    </button>
+                                </h2>
+                                <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#accordionExample">
+                                    <div class="accordion-body" style="filter: drop-shadow(3px 3px 5px black);">
+                                        <div class="container mt-3">
+                                            <div class="accordion" id="accordionExample1">
+                                                <div class="accordion-item">
+                                                    <h2 class="accordion-header" id="headingSix">
+                                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-one" aria-expanded="false" aria-controls="collapse-one">
+                                                            2018-19
+                                                        </button>
+                                                    </h2>
+                                                    <div id="collapse-one" class="accordion-collapse collapse" aria-labelledby="heading-one" data-bs-parent="#accordionExample1">
+                                                        <div class="accordion-body" style="filter: drop-shadow(3px 3px 5px black);">
+                                                            <div class="card-body">
+                                                                <div class="pdf-container">
+                                                                    <embed src="assets/images/grivence.pdf#page=1" type="application/pdf" width="100%" height="100%">
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="accordion-item">
+                                                    <h2 class="accordion-header" id="headingSix">
+                                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-two" aria-expanded="false" aria-controls="collapse-two">
+                                                            2019-20
+                                                        </button>
+                                                    </h2>
+                                                    <div id="collapse-two" class="accordion-collapse collapse" aria-labelledby="heading-two" data-bs-parent="#accordionExample1">
+                                                        <div class="accordion-body" style="filter: drop-shadow(3px 3px 5px black);">
+                                                            <div class="card-body">
+                                                                <div class="pdf-container">
+                                                                    <embed src="assets/images/grivence.pdf#page=1" type="application/pdf" width="100%" height="100%">
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="accordion-item">
+                                                    <h2 class="accordion-header" id="headingSix">
+                                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-three" aria-expanded="false" aria-controls="collapse-three">
+                                                            2020-21
+                                                        </button>
+                                                    </h2>
+                                                    <div id="collapse-three" class="accordion-collapse collapse" aria-labelledby="heading-three" data-bs-parent="#accordionExample1">
+                                                        <div class="accordion-body" style="filter: drop-shadow(3px 3px 5px black);">
+                                                            <div class="card-body">
+                                                                <div class="pdf-container">
+                                                                    <embed src="assets/images/grivence.pdf#page=1" type="application/pdf" width="100%" height="100%">
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="accordion-item">
+                                                    <h2 class="accordion-header" id="headingSix">
+                                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-four" aria-expanded="false" aria-controls="collapse-four">
+                                                            2021-22
+                                                        </button>
+                                                    </h2>
+                                                    <div id="collapse-four" class="accordion-collapse collapse" aria-labelledby="heading-four" data-bs-parent="#accordionExample1">
+                                                        <div class="accordion-body" style="filter: drop-shadow(3px 3px 5px black);">
+                                                            <div class="card-body">
+                                                                <div class="pdf-container">
+                                                                    <embed src="assets/images/grivence.pdf#page=1" type="application/pdf" width="100%" height="100%">
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="accordion-item">
+                                                    <h2 class="accordion-header" id="headingSix">
+                                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-five" aria-expanded="false" aria-controls="collapse-five">
+                                                            2022-23
+                                                        </button>
+                                                    </h2>
+                                                    <div id="collapse-five" class="accordion-collapse collapse" aria-labelledby="heading-five" data-bs-parent="#accordionExample1">
+                                                        <div class="accordion-body" style="filter: drop-shadow(3px 3px 5px black);">
+                                                            <div class="card-body">
+                                                                <div class="pdf-container">
+                                                                    <embed src="assets/images/grivence.pdf#page=1" type="application/pdf" width="100%" height="100%">
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
                 <div class="tab-pane fade" id="v-pills-atr" role="tabpanel" aria-labelledby="v-pills-atr-tab" tabindex="0">
                     <!-- Content for Action Taken Report Tab -->

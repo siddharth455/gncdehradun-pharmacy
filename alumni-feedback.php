@@ -102,8 +102,7 @@
                             </tr>
                             <tr>
                                 <td>01</td>
-                                <td>The program content was suitable for
-                                    advancing one's career.</td>
+                                <td>The overall learning experience at College including ambience</td>
                                 <td><input type="radio" name="q1" value="strongly_agree"></td>
                                 <td><input type="radio" name="q1" value="agree"></td>
                                 <td><input type="radio" name="q1" value="neutral"></td>
@@ -112,8 +111,7 @@
                             </tr>
                             <tr>
                                 <td>02</td>
-                                <td>Adequate instruction was given to
-                                    promote holistic growth.</td>
+                                <td>Availability of extracurricular/co-curricular activities in regular mode for holistic growth</td>
                                 <td><input type="radio" name="q2" value="strongly_agree"></td>
                                 <td><input type="radio" name="q2" value="agree"></td>
                                 <td><input type="radio" name="q2" value="neutral"></td>
@@ -122,8 +120,7 @@
                             </tr>
                             <tr>
                                 <td>03</td>
-                                <td>Experience learning was a component
-                                    of the curriculum</td>
+                                <td>Opportunities to express yourself and interact with the outside world</td>
                                 <td><input type="radio" name="q3" value="strongly_agree"></td>
                                 <td><input type="radio" name="q3" value="agree"></td>
                                 <td><input type="radio" name="q3" value="neutral"></td>
@@ -132,9 +129,7 @@
                             </tr>
                             <tr>
                                 <td>04</td>
-                                <td>The project work, research,
-                                    internships, and electives provided by
-                                    the curriculum were all beneficial.</td>
+                                <td>Efforts made by the institute to enhance your overall employability and development</td>
                                 <td><input type="radio" name="q4" value="strongly_agree"></td>
                                 <td><input type="radio" name="q4" value="agree"></td>
                                 <td><input type="radio" name="q4" value="neutral"></td>
@@ -143,10 +138,7 @@
                             </tr>
                             <tr>
                                 <td>05</td>
-                                <td>Throughout the program, a proper
-                                    industry-academia interaction was
-                                    upheld.
-                                </td>
+                                <td>Conduction of professional training like soft skills, interview skills, etc.</td>
                                 <td><input type="radio" name="q5" value="strongly_agree"></td>
                                 <td><input type="radio" name="q5" value="agree"></td>
                                 <td><input type="radio" name="q5" value="neutral"></td>
@@ -155,8 +147,7 @@
                             </tr>
                             <tr>
                                 <td>06</td>
-                                <td>Allocation of the faculty members
-                                    was in agreement with the courses.</td>
+                                <td>Teaching methodologies like ICT enabled tools </td>
                                 <td><input type="radio" name="q6" value="strongly_agree"></td>
                                 <td><input type="radio" name="q6" value="agree"></td>
                                 <td><input type="radio" name="q6" value="neutral"></td>
@@ -165,8 +156,7 @@
                             </tr>
                             <tr>
                                 <td>07</td>
-                                <td>Every academic procedure was
-                                    open and transparent</td>
+                                <td>The status of the current syllabus in terms of industry needs</td>
                                 <td><input type="radio" name="q7" value="strongly_agree"></td>
                                 <td><input type="radio" name="q7" value="agree"></td>
                                 <td><input type="radio" name="q7" value="neutral"></td>
@@ -174,14 +164,31 @@
                                 <td><input type="radio" name="q7" value="strongly_disagree"></td>
                             </tr>
                             <tr>
-                                <td>07</td>
-                                <td>College's academic offerings were
-                                    focused on the needs of the students.</td>
+                                <td>08</td>
+                                <td>Was the curriculum enhances the understanding of human values, ethics, and social responsibilities</td>
                                 <td><input type="radio" name="q8" value="strongly_agree"></td>
                                 <td><input type="radio" name="q8" value="agree"></td>
                                 <td><input type="radio" name="q8" value="neutral"></td>
                                 <td><input type="radio" name="q8" value="disagree"></td>
                                 <td><input type="radio" name="q8" value="strongly_disagree"></td>
+                            </tr>
+                            <tr>
+                                <td>09</td>
+                                <td>Placement opportunities in College</td>
+                                <td><input type="radio" name="q9" value="strongly_agree"></td>
+                                <td><input type="radio" name="q9" value="agree"></td>
+                                <td><input type="radio" name="q9" value="neutral"></td>
+                                <td><input type="radio" name="q9" value="disagree"></td>
+                                <td><input type="radio" name="q9" value="strongly_disagree"></td>
+                            </tr>
+                            <tr>
+                                <td>10</td>
+                                <td>Was the program’s objectives achieved </td>
+                                <td><input type="radio" name="q10" value="strongly_agree"></td>
+                                <td><input type="radio" name="q10" value="agree"></td>
+                                <td><input type="radio" name="q10" value="neutral"></td>
+                                <td><input type="radio" name="q10" value="disagree"></td>
+                                <td><input type="radio" name="q10" value="strongly_disagree"></td>
                             </tr>
 
                         </table>
