@@ -385,6 +385,17 @@
                 <div class="col-lg-3 col-sm-6">
                     <div class="single-home-teacher">
                         <div class="teacher-img">
+                            <img src="assets/images/Subramaniam.webp" alt="teacher" />
+                        </div>
+                        <div class="teachers-content">
+                            <h2>Prof. (Dr.) C. Subramaniam</h2>
+                            <p>Professor</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-sm-6">
+                    <div class="single-home-teacher">
+                        <div class="teacher-img">
                             <img src="assets/images/Vishal.webp" alt="teacher" />
                         </div>
                         <div class="teachers-content">

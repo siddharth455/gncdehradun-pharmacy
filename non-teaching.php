@@ -13,9 +13,9 @@
 <section class="know-about-section pt-5 pb-3 text-center">
     <div class="container">
         <div class="section-heading">
-            <h2 class="mb-3">Empowering Future Leaders</h2>
+            <h2 class="mb-3">Supporting Innovation, Sustaining Excellence</h2>
         </div>
-        <p class="" style="text-align: left;">The Faculty Members of Guru Nanak College of Pharmaceutical Sciences are dedicated to addressing emerging local and national priorities in pharmacy, biotechnology, and climate change. Our faculty's work focuses on driving pharmaceutical innovation and creating a dynamic and impactful academic environment.</p>
+        <p class="" style="text-align: left;">The Non-Teaching Staff of Guru Nanak College of Pharmaceutical Sciences are dedicated to supporting emerging local and national priorities in pharmacy, biotechnology, and climate change. Their efforts focus on fostering pharmaceutical innovation and maintaining a dynamic and impactful academic environment.</p>
     </div>
 </section>
 <section class="container">

@@ -80,9 +80,9 @@
                         <li>
                             <a href="grc.php"> Grievance Redressal</a>
                         </li>
-                        <li>
-                            <a href="cbd.php"> SC/ST Committee</a>
-                        </li>
+                        <!-- <li>
+                            <a href="cbd.php"> SC/ST/Minority Committee</a>
+                        </li> -->
                         <li>
                             <a href="feedback.php"> Feedback</a>
                         </li>

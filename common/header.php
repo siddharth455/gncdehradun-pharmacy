@@ -265,6 +265,9 @@
                                         <a href="seminar-research-workshop.php" class="nav-link">Research/Seminar/Workshop</a>
                                     </li>
                                     <li class="nav-item">
+                                        <a href="research-event.php" class="nav-link">Research Event</a>
+                                    </li>
+                                    <li class="nav-item">
                                         <a href="research-infrastructure.php" class="nav-link">Research Infrastructure</a>
                                     </li>
 
