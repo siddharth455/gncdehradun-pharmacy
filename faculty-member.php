@@ -82,7 +82,7 @@
             <tr>
                 <th scope="row">11</th>
                 <th>Ms. Nahid Parveen</th>
-                <td>Associate Professor</td>
+                <td>Assistant Professor</td>
             </tr>
             <tr>
                 <th scope="row">12</th>
@@ -148,7 +148,7 @@
             </tr>
             <tr>
                 <th scope="row">24</th>
-                <th>Ms. Prachi</th>
+                <th>Ms. Prachi Nahar</th>
                 <td>Assistant Professor</td>
             </tr>
             <tr>

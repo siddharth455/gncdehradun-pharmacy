@@ -127,22 +127,23 @@
 <section>
     <div class="container ">
         <div class="card mt-2 mb-2">
-           
+
             <div class="row card-body">
                 <div class="col-md-4 col-12 ">
                     <div class="nav flex-column nav-pills me-3" id="v-pills-tab" role="tablist" aria-orientation="vertical">
-                        <button class="nav-link approvals-link active" id="v-pills-home-tab" data-bs-toggle="pill" data-bs-target="#v-pills-home" type="button" role="tab" aria-controls="v-pills-home" aria-selected="true"> Syllabus &amp; CO - B.Pharm
-                        
-                        <button class="nav-link approvals-link" id="v-pills-MSME-tab" data-bs-toggle="pill" data-bs-target="#v-pills-MSME" type="button" role="tab" aria-controls="v-pills-MSME" aria-selected="false">
-                          PO - PSO - B.Pharm
-                        </button>
                         <button class="nav-link approvals-link" id="v-pills-UGC-tab" data-bs-toggle="pill" data-bs-target="#v-pills-UGC" type="button" role="tab" aria-controls="v-pills-UGC" aria-selected="false">
-                        Syllabus &amp; CO - D.Pharm
+                            Syllabus - D.Pharm
                         </button>
-                        <!-- <button class="nav-link approvals-link" id="v-pills-HNBGMU-tab" data-bs-toggle="pill" data-bs-target="#v-pills-HNBGMU" type="button" role="tab" aria-controls="v-pills-HNBGMU" aria-selected="false">
-                            Hemvati Nandan Bahuguna<br>Garhwal University
+                        <button class="nav-link approvals-link" id="v-pills-HNBGMU-tab" data-bs-toggle="pill" data-bs-target="#v-pills-HNBGMU" type="button" role="tab" aria-controls="v-pills-HNBGMU" aria-selected="false">
+                            CO - D.Pharm
                         </button>
-                        <button class="nav-link approvals-link" id="v-pills-PCI-tab" data-bs-toggle="pill" data-bs-target="#v-pills-PCI" type="button" role="tab" aria-controls="v-pills-PCI" aria-selected="false">
+                        <button class="nav-link approvals-link active" id="v-pills-home-tab" data-bs-toggle="pill" data-bs-target="#v-pills-home" type="button" role="tab" aria-controls="v-pills-home" aria-selected="true"> Syllabus - B.Pharm
+                        </button>
+                        <button class="nav-link approvals-link" id="v-pills-MSME-tab" data-bs-toggle="pill" data-bs-target="#v-pills-MSME" type="button" role="tab" aria-controls="v-pills-MSME" aria-selected="false">
+                            PSO, PO &amp; CO - B.Pharm
+                        </button>
+
+                        <!--  <button class="nav-link approvals-link" id="v-pills-PCI-tab" data-bs-toggle="pill" data-bs-target="#v-pills-PCI" type="button" role="tab" aria-controls="v-pills-PCI" aria-selected="false">
                             <img src="images/Pharmacy_Council_of_India Logo.webp" alt="PCI Icon" class="button-icon"> Pharmacy Council of India
                         </button>
                         <button class="nav-link approvals-link" id="v-pills-UBTER-tab" data-bs-toggle="pill" data-bs-target="#v-pills-UBTER" type="button" role="tab" aria-controls="v-pills-UBTER" aria-selected="false">
@@ -156,27 +157,27 @@
                 <div class="col-md-8 col-12">
                     <div class="tab-content" id="v-pills-tabContent">
                         <div class="tab-pane fade show active" id="v-pills-home" role="tabpanel" aria-labelledby="v-pills-home-tab" tabindex="0">
-                            <h2 style="text-align: center;">Syllabus &amp; CO - B.Pharm</h2>
+                            <h2 style="text-align: center;">Syllabus CO - B.Pharm</h2>
                             <div class="pdf-container">
                                 <embed src="assets/images/Syllabus_B_Pharm.pdf" type="application/pdf" width="100%" height="100%">
                             </div>
                         </div>
                         <div class="tab-pane fade show" id="v-pills-UGC" role="tabpanel" aria-labelledby="v-pills-UGC-tab" tabindex="0">
-                            <h4 style="text-align: center;">Syllabus &amp; CO - D.Pharm</h4>
+                            <h4 style="text-align: center;">Syllabus CO - D.Pharm</h4>
                             <div class="pdf-container">
                                 <embed src="assets/images/D-Pharm-Syllabus.pdf" type="application/pdf" width="100%" height="100%">
                             </div>
                         </div>
                         <div class="tab-pane fade show" id="v-pills-MSME" role="tabpanel" aria-labelledby="v-pills-MSME-tab" tabindex="0">
-                            <h4 style="text-align: center;">PO - PSO - B.Pharm</h4>
+                            <h4 style="text-align: center;">PSO, PO &amp; CO - B.Pharm</h4>
                             <div class="pdf-container">
-                                <embed src="assets/images/PO-PSO.pdf" type="application/pdf" width="100%" height="100%">
+                                <embed src="assets/images/bpo-pso-bphram.pdf" type="application/pdf" width="100%" height="100%">
                             </div>
                         </div>
                         <div class="tab-pane fade show" id="v-pills-HNBGMU" role="tabpanel" aria-labelledby="v-pills-HNBGMU-tab" tabindex="0">
-                            <h4 style="text-align: center;">Gurukul Kangri (Deemed University), Uttarakhand</h4>
+                            <h4 style="text-align: center;">CO - D.Pharm</h4>
                             <div class="pdf-container">
-                                <embed src="" type="application/pdf" width="100%" height="100%">
+                                <embed src="assets/images/co-dpharm.pdf" type="application/pdf" width="100%" height="100%">
                             </div>
                         </div>
                         <div class="tab-pane fade show" id="v-pills-PCI" role="tabpanel" aria-labelledby="v-pills-PCI-tab" tabindex="0">
