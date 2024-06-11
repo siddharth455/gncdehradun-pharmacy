@@ -1,6 +1,6 @@
 [
     {
-      "id": "04",
+      "id": "45",
       "name": "Research workshop on Systematic Approach to Pharmaceutical Care",
       "title": "Research workshop on Systematic Approach to Pharmaceutical Care",
       "about": "The Workshop on Systematic Approach to Pharmaceutical Care held at the Guru Nanak College of Pharmaceutical Sciences on July 25, 2023, was facilitated by Ms. Bhawna Bora for B.Pharm students. With over 80 participants, the workshop aimed to impart practical skills and insights into patient-centered pharmacy practice. Through structured sessions, case-based learning, role-playing exercises, and interactive discussions, students gained valuable knowledge and competencies essential for delivering effective pharmaceutical care. The workshop successfully achieved its objectives, providing a platform for professional development and preparing students for their future roles as competent pharmacists.",
@@ -10,7 +10,7 @@
       "eventdate": "25 July 2023"
     },
     {
-        "id": "04",
+        "id": "44",
         "name": "Research Seminar on How to Design Future Medicines",
         "title": "Research Seminar on How to Design Future Medicines",
         "about": "The Research Seminar on How to Design Future Medicines, conducted by Ms. Kriti Dabral on behalf of the Guru Nanak College of Pharmaceutical Sciences Dehradun (GNC), took place on July 8, 2023.",
@@ -20,7 +20,7 @@
         "eventdate": "8 July 2023"
     },
     {
-        "id": "04",
+        "id": "43",
         "name": "Research Seminar on Advances in Pharmaceutical Technology",
         "title": "Research Seminar on Advances in Pharmaceutical Technology",
         "about": "The seminar commenced with an opening address by Mrs. Yashika Uniyal, highlighting the significance of staying updated with the latest developments in pharmaceutical technology for aspiring pharmacists. This was followed by the keynote speech delivered by Kriti Dabral, wherein she shared her insights into emerging trends and future prospects in the field. Subsequent sessions featured presentations by faculty members and invited experts, each focusing on a specific aspect of pharmaceutical technology. The presentations were well-received, stimulating thought-provoking discussions among the attendees. In addition to the formal sessions, the seminar also included poster presentations by students, showcasing their research projects and findings. This provided a platform for students to exhibit their work and receive feedback from peers and faculty members.",
@@ -30,33 +30,423 @@
         "eventdate": "14 April 2023"
     },
     {
-        "id": "04",
-        "name": "PMBJP",
-        "title": "Seminar on Introducing Pradhan Mantri Bhartiya Janaushadhi Pariyojana (PMBJP) for Pharma Students",
-        "about": "Guru Nanak College of Pharmaceutical Sciences organized a seminar titled Introducing Pradhan Mantri Bhartiya Janaushadhi Pariyojana (PMBJP) for Pharma students on March 06, 2023. The seminar aimed to educate B.Pharm students about the PMBJP initiative and its significance in the healthcare sector.",
-        "image": "assets/images/Research/Research-5.webp",
-        "description": "The Seminar on Introducing Pradhan Mantri Bhartiya Janaushadhi Pariyojana (PMBJP) organized by Guru Nanak College of Pharmaceutical Sciences proved to be an informative and enlightening event for B.Pharm students. Dr. Vishal Deshwal's expertise and the interactive nature of the seminar facilitated a meaningful exchange of knowledge and insights. The seminar successfully raised awareness about the PMBJP initiative and its significance in addressing healthcare challenges, particularly in terms of medicine accessibility and affordability. Overall, the event served its purpose of empowering students with the knowledge and awareness to contribute positively to the healthcare sector, aligning with the objectives of the PMBJP program.",
-        "subtitle": "The Guru Nanak College of Pharmaceutical Sciences",
-        "eventdate": "06 March 2023"
-    },
+        "id":"42",
+        "name":"Seminar on Introducing Pradhan Mantri Bhartiya Janaushadhi Pariyojana (PMBJP) for Pharma Students",
+        "title":"Seminar on Introducing Pradhan Mantri Bhartiya Janaushadhi Pariyojana (PMBJP) for Pharma Students",
+        "about":"Guru Nanak College of Pharmaceutical Sciences organized a seminar titled Introducing Pradhan Mantri Bhartiya Janaushadhi Pariyojana (PMBJP) for Pharma students” on March 06, 2023. The seminar aimed to educate B.Pharm students about the PMBJP initiative and its significance in the healthcare sector.",
+        "image":"assets/images/Research/Research-4.webp",
+        "description":"The Seminar on Introducing Pradhan Mantri Bhartiya Janaushadhi Pariyojana (PMBJP) organized by Guru Nanak College of Pharmaceutical Sciences proved to be an informative and enlightening event for B. Pharm students. Dr. Vishal Deshwal's expertise and the interactive nature of the seminar facilitated a meaningful exchange of knowledge and insights.The seminar successfully raised awareness about the PMBJP initiative and its significance in addressing healthcare challenges, particularly in terms of medicine accessibility and affordability. Overall, the event served its purpose of empowering students with the knowledge and awareness to contribute positively to the healthcare sector, aligning with the objectives of the PMBJP program",
+        "subtitle":"Guru Nanak College of Pharmaceutical Sciences",
+        "eventdate":"06 March 2023" 
+       },
+       {
+        "id":"41",
+        "name":"Seminar on Introduction to Intellectual Property Rights (IPR)",
+        "title":"Seminar on Introduction to Intellectual Property Rights (IPR)",
+        "about":"The seminar commenced with an introduction by the organizing committee, highlighting the importance of intellectual property rights in the context of pharmaceutical innovation and entrepreneurship. ",
+        "image":"assets/images/Research/Research-5.webp",
+        "description":"In summary, the Seminar on Introduction to Intellectual Property Rights (IPR) proved to be a valuable learning experience for B.Pharm students, equipping them with essential knowledge and skills to navigate the complex landscape of intellectual property protection and management in the pharmaceutical sector. The event underscored the importance of fostering a culture of innovation, creativity, and ethical responsibility in pharmaceutical research and development, laying the foundation for future success and growth in the industry.",
+        "subtitle":"Guru Nanak College of Pharmaceutical Sciences",
+        "eventdate":"03 March 2023"  
+       },
     {
-        "id": "04",
-        "name": "IPR",
-        "title": "Seminar on Introduction to Intellectual Property Rights (IPR)",
-        "about": "The seminar commenced with an introduction by the organizing committee, highlighting the importance of intellectual property rights in the context of pharmaceutical innovation and entrepreneurship.",
-        "image": "assets/images/Research/Research-6.webp",
-        "description": "The presentations were informative and engaging, providing students with valuable insights into the legal, ethical, and practical aspects of intellectual property rights in the pharmaceutical domain. The speakers shared real-world examples and case studies to illustrate the significance of protecting intellectual property assets and leveraging them for competitive advantage. The event concluded with a closing remark, expressing gratitude to the speaker Mr. Ankur Jaiswal, organizers, and participants for their active involvement and contributions towards making the seminar a success. Participants were encouraged to further explore the field of intellectual property rights and leverage their knowledge to drive innovation and value creation in the pharmaceutical industry. In summary, the Seminar on Introduction to Intellectual Property Rights (IPR) proved to be a valuable learning experience for B.Pharm students, equipping them with essential knowledge and skills to navigate the complex landscape of intellectual property protection and management in the pharmaceutical sector. The event underscored the importance of fostering a culture of innovation, creativity, and ethical responsibility in pharmaceutical research and development, laying the foundation for future success and growth in the industry.",
-        "subtitle": "The Guru Nanak College of Pharmaceutical Sciences",
-        "eventdate": "03 March 2023"
-    },
-    {
-        "id": "04",
+        "id": "40",
         "name": "Seminar on Patent Filing System in Pharmacy",
         "title": "Seminar on Patent Filing System in Pharmacy",
         "about": "The seminar commenced with an introductory session wherein the significance of patents in the pharmaceutical industry was explained. The speakers Dr. C Subramanian highlighted the role of patents in incentivizing innovation, protecting inventions, and fostering growth in the pharmaceutical sector. Following the introduction, the seminar explored into various aspects of the patent filing system.",
-        "image": "assets/images/Research/Research-7.webp",
+        "image": "assets/images/Research/Research-6.webp",
         "description": "The presentations were delivered by experienced faculty members and invited expert Dr. C Subramanian with expertise in patent law and pharmaceutical sciences. Real-world examples and case studies were discussed to provide students with practical insights into the patent filing process and its implications for pharmaceutical research, development, and commercialization. The seminar provided a platform for students to learn from industry professionals, ask questions, and gain a deeper understanding of the practical implications of patent protection in pharmacy. The event concluded with a closing remark, expressing gratitude to the speakers, organizers, and participants for their active involvement and contributions towards making the seminar a success. Participants were encouraged to further explore the field of patent law and intellectual property rights, leveraging their knowledge to drive innovation and contribute to the advancement of the pharmaceutical industry. In summary, the Seminar on Patent Filing System in Pharmacy proved to be an enriching and informative experience for B.Pharm students, equipping them with essential knowledge and skills to navigate the patent filing process and protect their inventions in the pharmaceutical domain. The event underscored the importance of intellectual property protection in fostering innovation, driving growth, and ensuring competitiveness in the pharmaceutical sector.",
         "subtitle": "The Guru Nanak College of Pharmaceutical Sciences",
         "eventdate": "20 January 2023"
-    }
-]
+    },
+    {
+        "id":"39",
+        "name":"Seminar on Importance of Pharmaco-economics in Pharma research",
+        "title":"Seminar on Importance of Pharmaco-economics in Pharma research",
+        "about":"The Seminar on Importance of Pharmaco-economics in Pharma research, spearheaded by Dr. Mohit Gupta on behalf of the Guru Nanak College of Pharmaceutical Sciences, was held on January 17, 2023. The seminar focused on enlightening B. Pharm students about the crucial role of pharmaco-economics in shaping pharmaceutical research and healthcare policies.",
+        "image":"assets/images/Research/Research-7.webp",
+        "description":"The Seminar on Importance of Pharmaco-economics in Pharma research, organized by the Guru Nanak College of Pharmaceutical Sciences and led by Dr. Mohit Gupta, successfully achieved its objectives of educating B. Pharm students about the significance of pharmaco-economics. Through expert presentations, and interactive discussions students gained valuable insights into how economic principles influence pharmaceutical research and healthcare decision-making. The seminar served as a valuable platform for students to broaden their understanding and appreciation of the interdisciplinary nature of pharmaceutical sciences.",
+        "subtitle":"Guru Nanak College of Pharmaceutical Sciences",
+        "eventdate":"17 January 2023" 
+       },
+       {
+        "id":"38",
+        "name":"Research Methodology Workshop on Drug Discovery",
+        "title":"Research Methodology Workshop on Drug Discovery",
+        "about":"The Research Methodology Workshop on Drug Discovery was conducted by the Guru Nanak College of Pharmaceutical Sciences on January 16, 2023 led by Dr. Vishal Deshwal, the workshop aimed to enhance the research skills of B.Pharm students in the field of drug discovery. With a participation of over 100 students, the workshop provided valuable insights and practical knowledge on research methodologies pertinent to pharmaceutical science.",
+        "image":"assets/images/Research/Research-8.webp",
+        "description":"The Research Methodology Workshop on Drug Discovery, conducted by the Guru Nanak College of Pharmaceutical Sciences and led by Dr. Vishal Deshwal, was a resounding success. The workshop effectively fulfilled its objectives of enhancing the research skills and knowledge of B.Pharm students in the field of drug discovery. With its expert guidance, interactive sessions, practical demonstrations, and networking",
+        "subtitle":"Guru Nanak College of Pharmaceutical Sciences",
+        "eventdate":"16 January 2023" 
+       },
+       {
+        "id":"37",
+        "name":"Title of the event Seminar on Entrepreneurship Development",
+        "title":"Title of the event Seminar on Entrepreneurship Development",
+        "about":"The Seminar on Entrepreneurship Development commenced with an opening address by the organizing committee, emphasizing the importance of entrepreneurship in driving innovation, economic growth, and job creation in the pharmaceutical sector. The event featured a series of interactive sessions, presentations, and panel discussions led by Mr. Saithjeet Arora and faculty members, covering various aspects of entrepreneurship.",
+        "image":"assets/images/Research/Research-9.webp",
+        "description":"In summary, the Seminar on Entrepreneurship Development served as a platform for B.Pharm students to explore and embrace the entrepreneurial mindset, acquire essential skills and knowledge, and gain inspiration from industry leaders and successful entrepreneurs. The event provided a valuable learning experience and laid the groundwork for students to pursue entrepreneurial ventures and make meaningful contributions to the pharmaceutical industry.",
+        "subtitle":"Guru Nanak College of Pharmaceutical Sciences",
+        "eventdate":"16 December 2022"  
+       },
+       {
+        "id":"36",
+        "name":"Seminar on Research on Evidence-Based Medicine",
+        "title":"Seminar on Research on Evidence-Based Medicine",
+        "about":"The Seminar on Research on Evidence-Based Medicine, organized by the Guru Nanak College of Pharmaceutical Sciences, took place on December 1, 2022. The seminar focused on educating B.Pharm students about the significance of evidence-based medicine in healthcare and the role of research in generating reliable evidence to inform clinical practice.",
+        "image":"assets/images/Research/Research-10.webp",
+        "description":"The Seminar on Research on Evidence-Based Medicine, conducted by the Guru Nanak College of Pharmaceutical Sciences and led by Ms. Kriti Dabral, was highly successful in achieving its objectives. Through expert presentations, case studies, interactive discussions, and a large turnout of participants, the seminar provided B. Pharm students with valuable insights into the principles and practices of evidence-based medicine. It inspired students to recognize the importance of research in informing clinical decision-making and motivated them to actively engage in research activities to contribute to evidence-based healthcare.",
+        "subtitle":"Guru Nanak College of Pharmaceutical Sciences",
+        "eventdate":"01 December 2022"  
+       },
+       {
+        "id":"35",
+        "name":"Research Seminar on Advances in Biotechnology",
+        "title":"Research Seminar on Advances in Biotechnology",
+        "about":"The Research Seminar on Advances in Biotechnology commenced with an opening address by the organizing committee, highlighting the significance of biotechnology in advancing healthcare and pharmaceutical research. The event featured presentations, lectures, and interactive sessions led by renowned researchers, faculty members, and industry experts, covering various topics.",
+        "image":"assets/images/Research/Research-11.webp",
+        "description":"The sessions were designed to provide students with a comprehensive overview of the latest advancements and emerging trends in biotechnology, as well as to encourage critical thinking and discussion on the ethical and societal implications of biotechnological innovations. Students actively engaged in discussions, asked questions, and shared their insights and perspectives on the topics discussed.Moreover, the seminar provided networking opportunities for students to interact with speaker Dr. Vishal Deshwal, faculty members, and peers interested in biotechnology. Attendees had the chance to exchange ideas, collaborate on research projects, and explore potential career paths in the field of biotechnology.",
+        "subtitle":"Guru Nanak College of Pharmaceutical Sciences",
+        "eventdate":"19 November 2022"  
+       },
+       {
+        "id":"34",
+        "name":"Workshop on Patent Search and Analysis",
+        "title":"Workshop on Patent Search and Analysis",
+        "about":"The Workshop on Patent Search and Analysis commenced with an introductory session wherein the importance of patent searching and analysis in pharmaceutical sciences was emphasized. The event featured interactive presentations, demonstrations, and practical exercises led by experienced faculty members .",
+        "image":"assets/images/Research/Research-12.webp",
+        "description":"Students actively engaged in hands-on exercises, where they learned to use various search operators, filters, and analytical tools to retrieve and analyse patent documents relevant to their areas of interest. The workshop provided practical tips, best practices, and resources to enhance students' proficiency in patent searching and analysis, enabling them to extract valuable insights and make informed decisions in their academic and professional pursuits.Moreover, the workshop facilitated peer-to-peer learning and collaboration, allowing students to exchange ideas, share experiences, and discuss challenges encountered during patent searching and analysis. The event concluded with a closing remark, expressing gratitude to the speakers, organizers, and participants for their active involvement and contributions towards making the workshop a success.",
+        "subtitle":"Guru Nanak College of Pharmaceutical Sciences",
+        "eventdate":"07 October 2022" 
+       },
+       {
+        "id":"33",
+        "name":"Webinar on Applications of Research and Development in Agri-Pharma Field",
+        "title":"Webinar on Applications of Research and Development in Agri-Pharma Field",
+        "about":"The Webinar on Applications of Research and Development in Agri-Pharma Field was conducted by the Guru Nanak College of Pharmaceutical Sciences on September 30, 2022. Led by Dr. Subramanian Chandrodyam, the webinar aimed to explain the applications of research and development in the intersection of agriculture and pharmaceuticals. With a significant turnout of over 120 B. Pharm students, the webinar provided valuable insights into the innovative approaches shaping the Agri-Pharma sector.",
+        "image":"assets/images/Research/Research-13.webp",
+        "description":"The Webinar on Applications of Research and Development in Agri-Pharma Field, organized by the Guru Nanak College of Pharmaceutical Sciences and led by Dr. Subramanian Chandrodyam, was highly informative and engaging. Through expert insights, case studies, interactive discussions, and a large turnout of participants, the webinar provided B. Pharm students with valuable insights into the innovative approaches shaping the Agri-Pharma sector. It inspired students to consider the diverse career opportunities and research prospects available in this rapidly evolving field.",
+        "subtitle":"Guru Nanak College of Pharmaceutical Sciences",
+        "eventdate":"30 September 2022"  
+       },
+       {
+        "id":"32",
+        "name":"Workshop on the Use of Patent Information Systems for the Promotion of Innovation",
+        "title":"Workshop on the Use of Patent Information Systems for the Promotion of Innovation",
+        "about":"The Workshop on the “Use of Patent Information Systems for the Promotion of Innovation” commenced with an introductory session highlighting the role of patents as a catalyst for innovation in the pharmaceutical sector. The event featured interactive presentations, demonstrations, and practical exercises led by experienced faculty members and industry professionals .",
+        "image":"assets/images/Research/Research-14.webp",
+        "description":"In summary, the Workshop on the Use of Patent Information Systems for the Promotion of Innovation proved to be a valuable learning experience for B.Pharm students, equipping them with essential skills, knowledge, and resources to harness the power of patent information for driving innovation and making strategic decisions in the pharmaceutical sector. The event inspired students to embrace innovation, protect intellectual property, and contribute to the advancement of pharmaceutical sciences through cutting-edge research and development initiatives.",
+        "subtitle":"Guru Nanak College of Pharmaceutical Sciences",
+        "eventdate":"23 September 2022"
+       },
+       {
+        "id":"31",
+        "name":"Report on Seminar on Drug Research and Development Extracted from Plants",
+        "title":"Report on Seminar on Drug Research and Development Extracted from Plants",
+        "about":"Guru Nanak College of Pharmaceutical Sciences organized a seminar on Drug Research and Development Extracted from Plants on 20 August 2022. The seminar was conducted by Dr. R.B.P. Singh, an esteemed expert in the field. The event aimed to provide valuable insights into the significant role of plants in pharmaceutical research and development.",
+        "image":"assets/images/Research/Research-15.webp",
+        "description":"The Seminar on Drug Research and Development Extracted from Plants organized by Guru Nanak College of Pharmaceutical Sciences proved to be a highly informative and enriching experience for B.Pharm students. Dr. R.B.P. Singh's expertise and the interactive nature of the event contributed to its success. The seminar not only expanded participants' knowledge but also inspired them to explore the vast potential of plant-based medicine further.",
+        "subtitle":"Guru Nanak College of Pharmaceutical Sciences",
+        "eventdate":"20 August 2022"
+       },
+       {
+        "id":"30",
+        "name":"Seminar on Research Areas in Pharmacy Practice",
+        "title":"Seminar on Research Areas in Pharmacy Practice",
+        "about":"Guru Nanak College of Pharmaceutical Sciences organized a seminar on Research Areas in Pharmacy Practice on July 26, 2022. The seminar aimed to provide insights into various research opportunities and areas within the field of pharmacy practice, catering specifically to B.Pharm students.",
+        "image":"assets/images/Research/Research-16.webp",
+        "description":"The seminar successfully broadened students' understanding of research opportunities in pharmacy practice and equipped them with valuable insights to navigate their academic and professional journeys effectively. Overall, the event served as a platform for students to explore their interests, expand their horizons, and gain inspiration for future endeavours in the pharmaceutical field.",
+        "subtitle":"Guru Nanak College of Pharmaceutical Sciences",
+        "eventdate":"26 July 2022"
+       },
+       {
+        "id":"29",
+        "name":"Seminar on How to Start Own Retail Pharma Business",
+        "title":"Seminar on How to Start Own Retail Pharma Business",
+        "about":"The Seminar began with stimulating discussion on the expanding opportunities within the pharmaceutical retail sector. Engaging presentations and panel discussions were conducted by seasoned entrepreneurs and faculty members. The sessions covered pivotal topics such as legal and regulatory frameworks, strategic business planning, financial management essentials, effective inventory control, customer-centric approaches, and successful case studies within the retail pharmacy domain.",
+        "image":"assets/images/Research/Research-17.webp",
+        "description":"Throughout the seminar, students actively participated, posing appropriate questions and seeking clarifications on various facets of establishing and managing a retail pharmaceutical business.Moreover, the seminar fostered an environment conducive to networking, enabling students to forge connections with industry supporters and like-minded peers. This networking opportunity facilitated the exchange of ideas, experiences, and potential collaborations, further enriching the learning experience.",
+        "subtitle":"Guru Nanak College of Pharmaceutical Sciences",
+        "eventdate":"22 July 2022"  
+       },
+       {
+        "id":"28",
+        "name":"Seminar on National and International Intellectual Property Rights (IPR) Policies",
+        "title":"Seminar on National and International Intellectual Property Rights (IPR) Policies",
+        "about":"The Seminar on National and International Intellectual Property Rights (IPR) Policies commenced with an introductory session, where the significance of intellectual property protection in driving innovation and economic growth in the pharmaceutical sector was emphasized. The seminar featured presentations, panel discussions, and interactive sessions led by policy experts Dr. C Subramanian. ",
+        "image":"assets/images/Research/Research-18.webp",
+        "description":"In summary, the Seminar on National and International Intellectual Property Rights (IPR) Policies served as a platform for B. Pharm students to gain valuable insights, awareness, and practical guidance to understand and navigate intellectual property issues effectively within the pharmaceutical industry. The seminar empowered students to appreciate the importance of intellectual property protection, comply with relevant regulations, and leverage intellectual property rights strategically to drive innovation and competitiveness in the pharmaceutical sector.",
+        "subtitle":"Guru Nanak College of Pharmaceutical Sciences",
+        "eventdate":"08 July 2022" 
+       },
+       {
+        "id":"27",
+        "name":"Seminar on Research Opportunities in India & Abroad",
+        "title":"Seminar on Research Opportunities in India & Abroad",
+        "about":"The Seminar on Research Opportunities in India & Abroad commenced with an introductory session, where the importance of research in advancing pharmaceutical sciences and contributing to scientific knowledge and innovation was emphasized. The seminar featured presentations, panel discussions, and interactive sessions led by experienced researchers, faculty members, and industry experts. ",
+        "image":"assets/images/Research/Research-19.webp",
+        "description":"The event concluded with a closing remark, expressing gratitude to the speakers, organizers, and participants for their active involvement and contributions towards making the seminar a success. In summary, the Seminar on Research Opportunities in India & Abroad served as a platform for B. Pharm students to gain valuable insights, inspiration, and practical guidance to explore and pursue research opportunities effectively. The seminar encouraged students to consider research as a viable and rewarding career option and equipped them with the necessary information and resources to embark on their research journey.",
+        "subtitle":"Guru Nanak College of Pharmaceutical Sciences",
+        "eventdate":"20 May 2022"
+       },
+       {
+        "id":"26",
+        "name":"Seminar on Development of Entrepreneurial Skills in Pharmacy Students",
+        "title":"Seminar on Development of Entrepreneurial Skills in Pharmacy Students",
+        "about":"The Seminar on Development of Entrepreneurial Skills in Pharmacy Students commenced with an introductory session, where the significance of entrepreneurship in driving innovation, growth, and sustainability within the pharmaceutical industry was highlighted. The seminar featured presentations and interactive sessions led by experienced entrepreneurs and faculty members. ",
+        "image":"assets/images/Research/Research-20.webp",
+        "description":"The event concluded with a closing remark, expressing gratitude to the speakers, organizers, and participants for their active involvement and contributions towards making the seminar a success. In summary, the Seminar on Development of Entrepreneurial Skills in Pharmacy Students served as a platform for B. Pharm students to gain valuable insights, inspiration, and practical guidance to develop entrepreneurial skills and mindset within the pharmaceutical industry. The event fostered a culture of innovation, creativity, and entrepreneurship among students, empowering them to make meaningful contributions to the growth and advancement of the pharmaceutical sector. ",
+        "subtitle":"Guru Nanak College of Pharmaceutical Sciences",
+        "eventdate": "12 April 2022"
+       },
+       {
+        "id":"25",
+        "name":"Seminar on How to Publish Scientific Papers",
+        "title":"Seminar on How to Publish Scientific Papers",
+        "about":"The Seminar on How to Publish Scientific Papers commenced with an introductory session, where the importance of scientific publishing in advancing knowledge and contributing to the scientific community was emphasized. The seminar featured presentations and interactive discussions led by experienced researchers, faculty members, and publication experts. ",
+        "image":"assets/images/Research/Research-21.webp",
+        "description":"Students actively engaged in discussions, asked questions, and sought advice on various aspects of scientific writing and publication process. The seminar provided students with practical guidance, tips, and resources to enhance their writing skills and increase their chances of successful publication. Moreover, the seminar facilitated networking opportunities, allowing students to connect with experienced researchers, faculty members, and publication experts, as well as to share their experiences and learn from each other's insights and perspectives.The event concluded with a closing remark, expressing gratitude to the speakers, organizers, and participants for their active involvement and contributions towards making the seminar a success. ",
+        "subtitle":"Guru Nanak College of Pharmaceutical Sciences",
+        "eventdate":"09 March 2022"  
+       },
+       {
+        "id":"24",
+        "name":"Seminar on Entrepreneurship as career Opportunity in Pharma Sector",
+        "title":"Seminar on Entrepreneurship as career Opportunity in Pharma Sector",
+        "about":"The Seminar on Entrepreneurship as a Career Opportunity in the Pharma Sector commenced at 11:00 AM in the auditorium of Guru Nanak College of Pharmaceutical Sciences. The event began with an inaugural address by the college principal, highlighting the importance of entrepreneurship in driving innovation and growth within the pharmaceutical industry.",
+        "image":"assets/images/Research/Research-22.webp",
+        "description":"The seminar concluded with a panel discussion and Q&A session, allowing students to interact with the speakers, ask questions, and seek further clarification on various aspects of pharmaceutical entrepreneurship. Students expressed their appreciation for the valuable insights gained from the seminar, with many indicating newfound interest and motivation to explore entrepreneurship as a career option within the pharmaceutical sector.Overall, the Seminar on Entrepreneurship as a Career Opportunity in the Pharma Sector proved to be a success, achieving its objectives of educating, inspiring, and empowering B. Pharm students to consider entrepreneurship as a viable and rewarding career path. The event not only provided valuable knowledge and insights but also fostered a spirit of innovation, creativity, and entrepreneurial ambition among the next generation of pharmaceutical professionals.",
+        "subtitle":"Guru Nanak College of Pharmaceutical Sciences",
+        "eventdate":"22 November 2021"  
+       },
+       {
+        "id":"23",
+        "name":"Seminar on Research Methodology: Research Hypothesis & Research Proposal",
+        "title":"Seminar on Research Methodology: Research Hypothesis & Research Proposal",
+        "about":"The Seminar on Research Methodology: Research Hypothesis & Research Proposal commenced at 10:30 AM in the seminar hall of Guru Nanak College of Pharmaceutical Sciences. The event began with a brief introduction by the faculty coordinator, highlighting the significance of research methodology in advancing pharmaceutical sciences and fostering evidence-based practice.",
+        "image":"assets/images/Research/Research-23.webp",
+        "description":"Throughout the seminar, students actively participated in discussions, asked questions, and engaged in hands-on activities to apply the concepts learned. The seminar concluded with a practical exercise where students worked in groups to formulate research hypotheses and develop draft research proposals under the guidance of faculty mentors.",
+        "subtitle":"Guru Nanak College of Pharmaceutical Sciences",
+        "eventdate":"20 November 2021"  
+       },
+       {
+        "id":"22",
+        "name":"Seminar on developing Entrepreneurial Skills in Pharmacy Students",
+        "title":"Seminar on developing Entrepreneurial Skills in Pharmacy Students",
+        "about":"The Seminar on Developing Entrepreneurial Skills in Pharmacy Students commenced with an opening address highlighting the importance of entrepreneurship in driving innovation, economic growth, and job creation within the pharmaceutical sector. The seminar featured presentations, interactive sessions, and panel discussions led by experienced entrepreneurs, industry experts, and faculty members. ",
+        "image":"assets/images/Research/Research-24.webp",
+        "description":"The event concluded with a closing remark, expressing gratitude to the speakers, organizers, and participants for their active involvement and contributions towards making the seminar a success. In summary, the Seminar on Developing Entrepreneurial Skills in Pharmacy Students served as a platform for B. Pharm students to gain valuable insights, inspiration, and practical guidance to cultivate their entrepreneurial skills and mindset within the pharmaceutical industry. The seminar empowered students to embrace entrepreneurship, innovate, and create value, thereby contributing to the advancement and growth of the pharmaceutical sector.",
+        "subtitle":"Guru Nanak College of Pharmaceutical Sciences",
+        "eventdate":"19 November 2021" 
+       },
+       {
+        "id":"21",
+        "name":"Entrepreneurial Session on Communication Skill and Personality Development",
+        "title":"Entrepreneurial Session on Communication Skill and Personality Development",
+        "about":"The Entrepreneurial Session on Communication Skills and Personality Development took place at 11:00 AM in the seminar hall of Guru Nanak College of Pharmaceutical Sciences. The event commenced with an opening address by the faculty coordinator, emphasizing the significance of effective communication and personality development in the entrepreneurial context and highlighting the objectives of the session.",
+        "image":"assets/images/Research/Research-25.webp",
+        "description":"Throughout the session, students actively participated in group discussions, role-plays, and skill-building exercises, demonstrating enthusiasm and eagerness to learn. The session concluded with a Q&A session, allowing students to seek further clarification on specific topics and share their insights and experiences.Feedback from participants indicated a high level of satisfaction with the content and delivery of the session, with many expressing appreciations for the practical tips, actionable strategies, and motivational insights shared by the speakers. Overall, the Entrepreneurial Session on Communication Skills and Personality Development proved to be a valuable learning experience, empowering B. Pharm students to develop the communication skills and personal attributes necessary to thrive as entrepreneurs in the pharmaceutical industry.",
+        "subtitle":"Guru Nanak College of Pharmaceutical Sciences",
+        "eventdate":"18 November 2021"
+       },
+       {
+        "id":"20",
+        "name":"Seminar on Guidance on How to start Small Scale Enterprise",
+        "title":"Seminar on Guidance on How to start Small Scale Enterprise",
+        "about":"The Seminar on Guidance on How to Start Small Scale Enterprise commenced with an opening address highlighting the importance of entrepreneurship and small-scale enterprises in driving innovation, economic growth, and job creation. The seminar featured presentations, panel discussions, and interactive sessions led by Mr. Saithjeet Arora and faculty members. ",
+        "image":"assets/images/Research/Research-26.webp",
+        "description":"In summary, the Seminar on Guidance on How to Start Small Scale Enterprise served as an empowering platform for B. Pharm students to gain valuable insights, inspiration, and practical guidance to pursue entrepreneurial ventures within the pharmaceutical industry. The seminar equipped students with the knowledge, skills, and confidence to embark on their entrepreneurial journey and contribute to the growth and innovation of the pharmaceutical sector through small-scale enterprises.",
+        "subtitle":"Guru Nanak College of Pharmaceutical Sciences",
+        "eventdate":"16 September 2021"  
+       },
+       {
+        "id":"19",
+        "name":"Research seminar on Opportunities in Pharmaceutical Manufacturing",
+        "title":"Research seminar on Opportunities in Pharmaceutical Manufacturing",
+        "about":"Guru Nanak College of Pharmaceutical Sciences organized a seminar titled Opportunities in Pharmaceutical Manufacturing on August 7, 2021. The seminar aimed to enlighten B.Pharm students about the various research and career prospects available in the pharmaceutical manufacturing sector.",
+        "image":"assets/images/Research/Research-27.webp",
+        "description":"The Seminar on Opportunities in Pharmaceutical Manufacturing organized by Guru Nanak College of Pharmaceutical Sciences proved to be an enriching and informative event for B. Pharm students. Ms. Kriti Dabral’s expertise and the interactive nature of the seminar facilitated a meaningful exchange of knowledge and insights.The seminar successfully broadened students' understanding of career opportunities in pharmaceutical manufacturing and provided them with valuable insights to make informed decisions about their future career paths. Overall, the event served its purpose of empowering students with the knowledge and resources to pursue rewarding careers in the pharmaceutical manufacturing sector.",
+        "subtitle":"Guru Nanak College of Pharmaceutical Sciences",
+        "eventdate":"7 August 2021"  
+       },
+       {
+        "id":"18",
+        "name":"Research Session on Computer application in research Methodology",
+        "title":"Research Session on Computer application in research Methodology",
+        "about":"The Research Session on Computer Application in Research Methodology commenced with an introductory presentation outlining the importance of incorporating technology into research methodology and highlighting the various computer applications and software tools available for research purposes. The session featured practical demonstrations, interactive tutorials, and hands-on exercises facilitated by experienced faculty members and research experts.",
+        "image":"assets/images/Research/Research-28.webp",
+        "description":"Participants actively engaged in hands-on exercises, where they learned to use various computer applications and software tools to analyse research data, create visualizations, and manage references. The session provided students with practical skills, tips, and resources to enhance their research capabilities and efficiency using technology.In summary, the Research Session on Computer Application in Research Methodology served as a valuable learning experience for B. Pharm students, equipping them with practical skills and knowledge to leverage technology effectively in their research endeavours within the pharmaceutical sciences. The session empowered students to embrace technological advancements and enhance the quality and efficiency of their research projects.",
+        "subtitle":"Kukreja Institute of Pharmaceutical Sciences",
+        "eventdate":"23 June 2021"  
+       },
+       {
+        "id":"17",
+        "name":"Webinar on Importance of Regulatory Affairs in Pharmaceutical Career",
+        "title":"Webinar on Importance of Regulatory Affairs in Pharmaceutical Career",
+        "about":"Kukreja Institute of Pharmaceutical Sciences organized a webinar titled Importance of Regulatory Affairs in Pharmaceutical Career on February 8, 2021. The webinar aimed to provide B.Pharm students with insights into the crucial role of regulatory affairs in the pharmaceutical industry and its significance for aspiring professionals.",
+        "image":"assets/images/Research/Research-29.webp",
+        "description":"The webinar successfully highlighted the critical role of regulatory affairs in the pharmaceutical industry and its significance for aspiring professionals. It equipped students with valuable information about career opportunities in regulatory affairs and provided them with insights into the skills and competencies required",
+        "subtitle":"Kukreja Institute of Pharmaceutical Sciences",
+        "eventdate":"08 February 2021" 
+       },
+       {
+        "id":"16",
+        "name":"Webinar on Innovation & Research Methodology of Extracting Phytochemicals from Plants",
+        "title":"Webinar on Innovation & Research Methodology of Extracting Phytochemicals from Plants",
+        "about":"On December 30, 2020, Kukreja Institute of Pharmaceutical Sciences organized a webinar on Innovation & Research Methodology of Extracting Phytochemicals from Plants for B. Pharm students. The webinar, conducted by Dr. R.B.P Singh, was held online from 10:30 am to 1:00 pm. Despite being conducted virtually, the event witnessed active participation, with more than 50 students attending, demonstrating the students' interest in learning about phytochemical extraction techniques.",
+        "image":"assets/images/Research/Research-30.webp",
+        "description":"The webinar conducted by Dr. R.B.P Singh at Kukreja Institute of Pharmaceutical Sciences was a successful educational initiative. It served as a platform for B. Pharm students to learn about innovative techniques and research methodologies in phytochemical extraction and gain insights into the applications of phytochemicals in pharmaceutical science. The webinar demonstrated the college's commitment to providing quality education and preparing students for careers in pharmaceutical research and development.",
+        "subtitle":"Kukreja Institute of Pharmaceutical Sciences",
+        "eventdate":"30 December 2020" 
+       },
+       {
+        "id":"15",
+        "name":"Research Methodology Webinar on Drug Transformation",
+        "title":"Research Methodology Webinar on Drug Transformation",
+        "about":"On September 18, 2020, Guru Nanak College of Pharmaceutical Sciences hosted a Research Methodology Webinar on Drug Transformation for B.Pharm students. The webinar, conducted by Ms. Kriti Dabral, was held online from 10:30 am to 1:00 pm. Despite being conducted virtually, the event witnessed significant participation, with more than 60 students in attendance, demonstrating the students' interest in learning about research methodologies in pharmaceutical science.",
+        "image":"assets/images/Research/Research-31.webp",
+        "description":"The Research Methodology Webinar on Drug Transformation conducted by Ms. Yashika Uniyal at Kukreja Institute of Pharmaceutical Sciences was a successful educational initiative. Despite being conducted online, the webinar effectively engaged students and provided them with valuable knowledge and insights into research methodologies in pharmaceutical science. The webinar underscored the college's commitment to providing quality education and preparing students for careers in pharmaceutical research and development.",
+        "subtitle":"Kukreja Institute of Pharmaceutical Sciences",
+        "eventdate":"18 September 2020" 
+       },
+       {
+        "id":"14",
+        "name":"Seminar on Early Stage Entrepreneurship for Pharma Students",
+        "title":"Seminar on Early Stage Entrepreneurship for Pharma Students",
+        "about":"On April 27, 2020, Kukreja Institute of Pharmaceutical Sciences organized a Seminar on Early Stage Entrepreneurship for B.Pharm students. The seminar, conducted by Dr. Vishal Deshwal, commenced at 10:30 am and concluded at 1:00 pm. The event attracted a large audience, with over 100 students in attendance, indicating a significant interest among students in exploring entrepreneurial opportunities in the pharmaceutical industry.",
+        "image":"assets/images/Research/Research-32.webp",
+        "description":"The Seminar on Early-Stage Entrepreneurship conducted by Dr. Vishal Deshwal at Guru Nanak College of Pharmaceutical Sciences was a well-received and informative event. It served as a platform for B.Pharm students to learn about early-stage entrepreneurship in the pharmaceutical industry and inspired them to consider entrepreneurial careers. The seminar highlighted the college's commitment to nurturing entrepreneurship and innovation among its students.",
+        "subtitle":"Kukreja Institute of Pharmaceutical Sciences",
+        "eventdate": " 27 April 2020"
+       },
+       {
+        "id":"13",
+        "name":"Seminar for Pharmacy Students on Converting Innovation into Entrepreneurship",
+        "title":"Seminar for Pharmacy Students on Converting Innovation into Entrepreneurship",
+        "about":"On February 1, 2020, Kukreja Institute of Pharmaceutical Sciences hosted a Seminar for Pharmacy Students on Converting Innovation into Entrepreneurship, organized by Mr. Saithjeet Arora. The event commenced at 10:30 am in the college auditorium and lasted until 1:00 pm. It witnessed active participation from students, faculty members, and industry professionals alike.",
+        "image":"assets/images/Research/Research-33.webp",
+        "description":"The Seminar for Pharmacy Students on Converting Innovation into Entrepreneurship, systematized by Mr. Saithjeet Arora at Kukreja Institute of Pharmaceutical Sciences, was a resounding success. It provided a platform for students to learn from industry experts, gain practical knowledge, and explore entrepreneurial opportunities in the pharmaceutical sector. The event underscored the college's commitment to nurturing entrepreneurial talent and fostering innovation-driven initiatives among its students.",
+        "subtitle":"Kukreja Institute of Pharmaceutical Sciences",
+        "eventdate": "1 February 2020"
+       },
+       {
+        "id":"12",
+        "name":"Research Seminar on Pharmacy Career in Regulatory Affairs",
+        "title":"Research Seminar on Pharmacy Career in Regulatory Affairs",
+        "about":"The Research Seminar on Pharmacy Career in Regulatory Affairs commenced at 11:00 AM in the seminar hall of Kukreja Institute of Pharmaceutical Sciences. The event began with an introductory address by the faculty coordinator, outlining the objectives of the seminar and highlighting the significance of regulatory affairs in the pharmaceutical sector",
+        "image":"assets/images/Research/Research-34.webp",
+        "description":"The seminar concluded with a panel discussion and Q&A session, allowing students to interact with the speakers and seek further clarification on various aspects of regulatory affairs careers. Students expressed their appreciation for the valuable insights gained from the seminar, with many indicating interest in pursuing careers in regulatory affairs and exploring opportunities in this dynamic and vital sector of the pharmaceutical industry.",
+        "subtitle":"Kukreja Institute of Pharmaceutical Sciences",
+        "eventdate":"09 November 2019"  
+       },
+       {
+        "id":"11",
+        "name":"Research Seminar on Advances in Pharmaceutical Analysis",
+        "title":"Research Seminar on Advances in Pharmaceutical Analysis",
+        "about":"The Research Seminar on Advances in Pharmaceutical Analysis commenced at 11:30 AM in the seminar hall of Kukreja Institute of Pharmaceutical Sciences. The event began with an opening address by the faculty coordinator, outlining the objectives of the seminar and highlighting the importance of pharmaceutical analysis in ensuring the safety, efficiency, and quality of pharmaceutical products.",
+        "image":"assets/images/Research/Research-35.webp",
+        "description":"The seminar concluded with a panel discussion and interactive Q&A session, allowing students to engage with the speakers, ask questions, and discuss key insights and challenges in pharmaceutical analysis. Attendees expressed their appreciation for the valuable knowledge and insights gained from the seminar, with many indicating interest in pursuing further studies or careers in pharmaceutical analysis and research.",
+        "subtitle":"Kukreja Institute of Pharmaceutical Sciences",
+        "eventdate":"08 November 2019"
+       },
+       {
+        "id":"10",
+        "name":"Seminar on Medical research and writing",
+        "title":"Seminar on Medical research and writing",
+        "about":"The Seminar on Medical Research and Writing commenced at 11:00 AM in the seminar hall of Kukreja Institute of Pharmaceutical Sciences. The event began with an introductory address by the faculty coordinator, outlining the objectives of the seminar and emphasizing the importance of medical research and scientific writing in advancing pharmaceutical sciences and healthcare.",
+        "image":"assets/images/Research/Research-36.webp",
+        "description":"The seminar concluded with a hands-on workshop on medical writing, where students had the opportunity to practice writing abstracts, research articles, and other scientific documents under the guidance of experienced mentors. Attendees actively participated in discussions, asked questions, and engaged in interactive exercises throughout the seminar.",
+        "subtitle":"Kukreja Institute of Pharmaceutical Sciences",
+        "eventdate":"07 November 2019"
+       },
+       {
+        "id":"09",
+        "name":"Seminar on proficiency in Scientific Writing",
+        "title":"Seminar on proficiency in Scientific Writing",
+        "about":"The Seminar on Proficiency in Scientific Writing commenced at 11:30 AM in the seminar hall of Kukreja Institute of Pharmaceutical Sciences. The event began with an opening address by the faculty coordinator, highlighting the objectives of the seminar and emphasizing the importance of scientific writing skills in academic and professional settings.",
+        "image":"assets/images/Research/Research-37.webp",
+        "description":"The seminar concluded with a hands-on workshop on scientific writing, where students had the opportunity to practice writing abstracts and research articles under the guidance of experienced mentors. Students actively participated in discussions, asked questions, and engaged in interactive exercises throughout the seminar.",
+        "subtitle":"Kukreja Institute of Pharmaceutical Sciences",
+        "eventdate":"12 August 2019"  
+       },
+       {
+        "id":"08",
+        "name":"Pharma Seminar on IPR and Patent Laws",
+        "title":"Pharma Seminar on IPR and Patent Laws",
+        "about":"On August 10, 2019, Kukreja Institute of Pharmaceutical Sciences organized a Seminar on Intellectual Property Rights (IPR) and Patent Laws for B. Pharm students. The event was conducted by Mr. Ankur Jaiswal and took place from 11:30 am to 1:00 pm. Over 60 students attended the seminar, demonstrating significant interest in the subject matter.",
+        "image":"assets/images/Research/Research-38.webp",
+        "description":"The Seminar on Intellectual Property Rights (IPR) and Patent Laws conducted by Mr. Ankur Jaiswal at Kukreja Institute of Pharmaceutical Sciences was a valuable educational initiative for B. Pharm students. It served as a platform for students to enhance their understanding of IPR fundamentals and patent laws, thereby preparing them to contribute effectively to the innovation-driven pharmaceutical sector.",
+        "subtitle":"Kukreja Institute of Pharmaceutical Sciences",
+        "eventdate":"10 August 2019"  
+       },
+       {
+        "id":"07",
+        "name":"Seminar on Literature review and protocol preparation",
+        "title":"Seminar on Literature review and protocol preparation",
+        "about":"The Seminar on Literature Review and Protocol Preparation commenced at 11:00 AM in the seminar hall of Kukreja Institute of Pharmaceutical Sciences. The event began with an introductory address by the faculty coordinator, outlining the objectives of the seminar and emphasizing the importance of literature review and protocol preparation in research methodology.",
+        "image":"assets/images/Research/Research-39.webp",
+        "description":"The seminar concluded with a Q&A session, allowing students to seek further clarification on specific topics and share their insights and experiences. Feedback from participants indicated a high level of satisfaction with the content and delivery of the seminar, with many expressing appreciations for the practical insights, actionable tips, and real-world examples shared by the speakers.",
+        "subtitle":"Kukreja Institute of Pharmaceutical Sciences",
+        "eventdate":"18 July 2019" 
+       },
+       {
+        "id":"06",
+        "name":"Seminar on IPR and patent filing",
+        "title":"Seminar on IPR and patent filing",
+        "about":"The Seminar on IPR and Patent Filing commenced at 11:30 AM in the seminar hall of Kukreja Institute of Pharmaceutical Sciences. The event began with an introductory address by the faculty coordinator, highlighting the objectives of the seminar and emphasizing the importance of intellectual property protection for pharmaceutical innovations.",
+        "image":"assets/images/Research/Research-40.webp",
+        "description":"The seminar concluded with a Q&A session, allowing students to seek further clarification on specific topics and share their insights and experiences. Feedback from participants indicated a high level of satisfaction with the content and delivery of the seminar, with many expressing appreciations for the practical insights, actionable tips, and real-world examples shared by the speakers.",
+        "subtitle":"Kukreja Institute of Pharmaceutical Sciences",
+        "eventdate":"02 March 2019"  
+       },
+       {
+        "id":"05",
+        "name":"Research workshop on Leadership and Confidence Building",
+        "title":"Research workshop on Leadership and Confidence Building",
+        "about":"On January 8, 2019, Kukreja Institute of Pharmaceutical Sciences organized a Workshop on Leadership and Confidence Building for B.Pharm students. The workshop, conducted by Dr. Nidhi, commenced at 12:30 pm and concluded at 2:00 pm. It attracted a significant turnout, with more than 50 students in attendance, reflecting the keen interest of the student body in developing their leadership abilities.",
+        "image":"assets/images/Research/Research-41.webp",
+        "description":"The Workshop on Leadership and Confidence Building conducted by Dr. Nidhi at Kukreja Institute of Pharmaceutical Sciences was a resounding success. It provided a platform for B.Pharm students to enhance their leadership abilities and develop the confidence required to excel in their academic and professional endeavours. The workshop underscored the college's commitment to holistic student development and preparing students for leadership roles in the pharmaceutical industry and beyond.",
+        "subtitle":"Kukreja Institute of Pharmaceutical Sciences",
+        "eventdate":"8 January 2019"  
+       },
+       {
+        "id":"04",
+        "name":"Entrepreneurship Orientation Seminar for Pharmacy Students",
+        "title":"Entrepreneurship Orientation Seminar for Pharmacy Students",
+        "about":"On December 14, 2018, Kukreja Institute of Pharmaceutical Sciences organized an Entrepreneurship Orientation Seminar for B.Pharm students. The seminar, conducted by Dr. Vishal Deshwal, commenced at 10:30 am and concluded at 1:00 pm. Despite being close to the end of the semester, the event saw enthusiastic participation, with more than 40 students in attendance.",
+        "image":"assets/images/Research/Research-42.webp",
+        "description":"The Entrepreneurship Orientation Seminar conducted by Mr. Saithjeet Arora at Kukreja Institute of Pharmaceutical Sciences was a valuable initiative to foster entrepreneurship among B.Pharm students. It provided students with a foundational understanding of entrepreneurship in the pharmaceutical industry and inspired them to consider entrepreneurship as a viable career option. The seminar reflected the college's commitment to holistic student development and preparing students for diverse career pathways in the pharmaceutical sector.",
+        "subtitle":"Kukreja Institute of Pharmaceutical Sciences",
+        "eventdate":"14 December 2018"  
+       },
+       {
+        "id":"03",
+        "name":"Seminar on Pharma Innovation and Research Development Program",
+        "title":"Seminar on Pharma Innovation and Research Development Program",
+        "about":"On August 4, 2018, Kukreja Institute of Pharmaceutical Sciences hosted a Seminar on Pharma Innovation and Research Development Program for B.Pharm students. The seminar, conducted by Dr. Nidhi Chatterjee, commenced at 10:30 am and concluded at 1:00 pm. The event attracted a significant turnout, with more than 40 students in attendance, reflecting the interest and enthusiasm of the student body in pharmaceutical research and innovation.",
+        "image":"assets/images/Research/Research-43.webp",
+        "description":"The Seminar on Pharma Innovation and Research Development Program conducted by Dr. Vishal Deshwal at Kukreja Institute of Pharmaceutical Sciences was a resounding success. It served as a platform for B.Pharm students to enhance their understanding of pharmaceutical research and innovation and explore career opportunities in the field. The seminar reflected the college's commitment to providing students with holistic education and preparing them for fulfilling careers in the pharmaceutical industry.",
+        "subtitle":"Kukreja Institute of Pharmaceutical Sciences",
+        "eventdate":"04 August 2018" 
+       },
+       {
+        "id":"02",
+        "name":"Research workshop on Pharmacy: Opportunities & Challenges",
+        "title":"Research workshop on Pharmacy: Opportunities & Challenges",
+        "about":"On August 1, 2018, Kukreja Institute of Pharmaceutical Sciences organized a Workshop on Pharmacy: Opportunities & Challenges for B. Pharm students. The workshop, conducted by Dr. Vishal Deshwal, commenced at 11:30 am and concluded at 1:00 pm. The event garnered significant interest, with more than 50 students in attendance, reflecting the students' eagerness to learn about the pharmacy profession.",
+        "image":"assets/images/Research/Research-44.webp",
+        "description":"The Workshop on Pharmacy: Opportunities & Challenges conducted by Dr. Vishal Deshwal at Kukreja Institute of Pharmaceutical Sciences was a valuable initiative to guide B. Pharm students in exploring career options in the pharmacy profession. The workshop reflected the college's commitment to providing holistic education and preparing students for successful careers in the pharmaceutical industry and healthcare sector.",
+        "subtitle":"Kukreja Institute of Pharmaceutical Sciences",
+        "eventdate":"1 August 2018" 
+       },
+       {
+        "id":"01",
+        "name":"Seminar on Research Design execution and publication",
+        "title":"Seminar on Research Design execution and publication",
+        "about":"The Seminar on Research Design, Execution, and Publication commenced at 11:00 AM in the seminar hall of Kukreja Institute of Pharmaceutical Sciences. The event began with an opening address by the faculty coordinator, outlining the objectives of the seminar and emphasizing the importance of research skills in the academic and professional development of pharmacy students.",
+        "image":"assets/images/Research/Research-45.webp",
+        "description":"The seminar concluded with a Q&A session, allowing students to seek further clarification on specific topics and share their insights and experiences. Feedback from participants indicated a high level of satisfaction with the content and delivery of the seminar, with many expressing appreciations for the practical insights, actionable tips, and real-world examples shared by the speakers.",
+        "subtitle":"Kukreja Institute of Pharmaceutical Sciences",
+        "eventdate":"02 June 2018"  
+       } 
+    ]
