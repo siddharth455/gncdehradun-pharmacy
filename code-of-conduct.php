@@ -1,16 +1,5 @@
 <style>
-.code-container {
-    width: 80%;
-    margin: 0 auto;
-}
 
-h1 {
-    color: #333;
-    margin-bottom: 20px;
-    background-color: #F8D19E;
-    padding: 10px;
-    border-radius: 5px;
-}
 
 .tabs {
     display: flex;
@@ -64,16 +53,16 @@ h1 {
         <div class="d-table-cell">
             <div class="container">
                 <div class="page-title-content">
-                    <h1>Career Development</h1>
+                    <h1>Code of Conduct</h1>
                 </div>
             </div>
         </div>
     </div>
 </div>
 
-<div class="code-container">
-        <h1>Code of Conduct</h1>
-        <div class="tabs"> 
+<div class="container">
+        
+        <div class="tabs mt-4"> 
             <button class="tablink" onclick="openTab(event, 'GirlsHostel')">CODE OF CONDUCT OF GIRLS HOSTEL</button>
             <button class="tablink" onclick="openTab(event, 'BoysHostel')">CODE OF CONDUCT OF BOYS HOSTEL</button>
         </div>
@@ -96,6 +85,7 @@ h1 {
                     </tr>
                     <tr>
                         <td>2</td>
+                        <td>Misbehave with Faculty</td>
                         <td>
                             <p>1st Time: Penalty of Rs.500/-</p>
                             <p>On Repetition: Penalty of Rs.500/- + No priority in Hostel Room Counseling</p>
