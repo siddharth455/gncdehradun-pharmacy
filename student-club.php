@@ -227,6 +227,45 @@
                 </div>
             </div>
         </div>
+        <div class="accordion-item">
+            <h2 class="accordion-header" id="headingSix">
+                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
+                Electoral Literacy Club
+                </button>
+            </h2>
+            <div id="collapseSix" class="accordion-collapse collapse" aria-labelledby="headingSix" data-bs-parent="#accordionExample">
+                <div class="accordion-body">
+                    <p>The Electoral Literacy Club at Guru Nanak College of Pharmaceutical Sciences is dedicated to promoting awareness and understanding of the electoral process among students. This club provides a platform for students to engage in discussions about democracy, voting rights, and civic responsibilities, as well as to collaborate with faculty members and community leaders. Through workshops, seminars, mock elections, and outreach programs, the Electoral Literacy Club aims to develop students' knowledge of the electoral system, critical thinking abilities, and sense of civic duty. Join us to explore the principles of democracy, make meaningful contributions to your community, and prepare for an informed and active role in the democratic process.</p>
+                    <table class="table table-bordered" style="filter: drop-shadow(3px 3px 4px black);">
+                        <thead>
+                            <tr class="heading">
+                                <th scope="col"><b>S.No.</b></th>
+                                <th scope="col"><b>Name</b></th>
+                                <th scope="col"><b>Designation</b></th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <th scope="row">1</th>
+                                <td>Mrs. Kriti Dabral</td>
+                                <td>Coordinator</td>
+                            </tr>
+                            <tr>
+                                <th scope="row">2</th>
+                                <td>Mr. Tarun Verma</td>
+                                <td>Member Secretary</td>
+                            </tr>
+                            <tr>
+                                <th scope="row">3</th>
+                                <td>Mr. Abhishek Awasthi</td>
+                                <td>Student Member</td>
+                            </tr>
+                           
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
     </div>
 </section>
 <?php require "common/footer.php" ?>
