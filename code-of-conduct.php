@@ -91,7 +91,7 @@ h1 {
                         <td>1</td>
                         <td>Entering Campus Gate/ Hostel Block Gate without ID Card</td>
                         <td>
-                            <p>Penalty of Rs.100/-</p>
+                            <p>Penalty of Rs.200/-</p>
                         </td>
                     </tr>
                     <tr>
