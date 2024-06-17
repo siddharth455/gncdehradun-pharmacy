@@ -3,13 +3,16 @@
 <div id="carouselExampleFade" class="carousel slide carousel-fade" data-bs-ride="carousel" data-bs-interval="3000">
     <div class="carousel-inner">
         <div class="carousel-item active">
-            <img src="assets/images/new banner-01.webp" class="d-block w-100" alt="..." style="filter: drop-shadow(5px 6px 5px black);">
+            <img src="assets/images/new-banner-01.webp" class="d-block w-100" alt="..." style="filter: drop-shadow(5px 6px 5px black);">
+        </div>
+        <div class="carousel-item">
+            <img src="assets/images/new-banner-02.webp" class="d-block w-100" alt="..." style="filter: drop-shadow(5px 6px 5px black);">
         </div>
         <div class="carousel-item">
             <img src="assets/images/new banner-03.webp" class="d-block w-100" alt="..." style="filter: drop-shadow(5px 6px 5px black);">
         </div>
         <div class="carousel-item">
-            <img src="assets/images/new banner-04.webp" class="d-block w-100" alt="..." style="filter: drop-shadow(5px 6px 5px black);">
+            <img src="assets/images/new-banner-03.webp" class="d-block w-100" alt="..." style="filter: drop-shadow(5px 6px 5px black);">
         </div>
     </div>
     <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleFade" data-bs-slide="prev">
@@ -393,7 +396,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-3 col-sm-6">
+                <!-- <div class="col-lg-3 col-sm-6">
                     <div class="single-home-teacher">
                         <div class="teacher-img">
                             <img src="assets/images/Vishal.webp" alt="teacher" />
@@ -403,7 +406,7 @@
                             <p>Professor</p>
                         </div>
                     </div>
-                </div>
+                </div> -->
                 <div class="col-lg-3 col-sm-6">
                     <div class="single-home-teacher">
                         <div class="teacher-img">

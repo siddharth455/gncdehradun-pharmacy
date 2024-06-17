@@ -43,11 +43,11 @@
                 <th>Dr. Vishal kamboj</th>
                 <td>Assistant Professor</td>
             </tr>
-            <tr>
+            <!-- <tr>
                 <th scope="row">4</th>
                 <th>Dr. Vishal Kumar Deshwal</th>
                 <td>Professor</td>
-            </tr>
+            </tr> -->
             <tr>
                 <th scope="row">5</th>
                 <th>Dr. R.D. Saklani</th>
@@ -60,7 +60,7 @@
             </tr>
             <tr>
                 <th scope="row">7</th>
-                <th>Dr. Mohit</th>
+                <th>Dr. Mohit Gupta</th>
                 <td>Professor</td>
             </tr>
             <tr>

@@ -67,7 +67,7 @@
                 <button class="nav-link main" id="v-pills-messages-tab" data-bs-toggle="pill" data-bs-target="#v-pills-messages" type="button" role="tab" aria-controls="v-pills-messages" aria-selected="false">Other Links</button>
                 <button class="nav-link main"><a href="feedback-form.php">Feedback</a></button>
                 <button class="nav-link main"><a href="assets/images/IIQA declaration.pdf" target="_blank">IIQA Declaration</a></button>
-
+                <button class="nav-link main"><a href="sustainability.php">Sustainability</a></button>
             </div>
         </div>
         <div class="col-lg-9 col-md-8 col-sm-7">

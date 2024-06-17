@@ -83,8 +83,8 @@
                 <!-- <button class="nav-link main" id="v-pills-analysis-tab" data-bs-toggle="pill" data-bs-target="#v-pills-analysis" type="button" role="tab" aria-controls="v-pills-analysis" aria-selected="false">Feedback Analysis &amp; ATR</button> -->
 
                 <!-- <button class="nav-link main" id="v-pills-atr-tab" data-bs-toggle="pill" data-bs-target="#v-pills-atr" type="button" role="tab" aria-controls="v-pills-atr" aria-selected="false">Action Taken Report</button> -->
-                 <button class="nav-link main"><a href="https://staff.gncdehradun.com/">Feedback Analysis &amp; ATR</a></button>
-               <!-- <button class="nav-link main"><a href="https://staff.gncdehradun.com/">Action Taken Report</a></button> -->
+                <button class="nav-link main"><a href="https://staff.gncdehradun.com/">Feedback Analysis &amp; ATR</a></button>
+                <!-- <button class="nav-link main"><a href="https://staff.gncdehradun.com/">Action Taken Report</a></button> -->
 
             </div>
         </div>
@@ -124,6 +124,8 @@
                                 </div>
 
                             </div>
+                            
+
                         </div>
                     </div>
                 </div>
@@ -265,7 +267,7 @@
                                     </button>
                                 </h2>
                                 <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordionExample">
-                                <div class="accordion-body" style="filter: drop-shadow(3px 3px 5px black);">
+                                    <div class="accordion-body" style="filter: drop-shadow(3px 3px 5px black);">
                                         <div class="container mt-3">
                                             <div class="accordion" id="accordionExample1">
                                                 <div class="accordion-item">
