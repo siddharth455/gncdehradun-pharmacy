@@ -1710,3 +1710,8 @@ ul.accordion-list>li.active .answer {
 .owl-nav [class*='owl-']:hover {
     background-color: #0056b3;
 }
+@media (max-width: 768px) {
+    #carouselExampleFade {
+        top: 60px; /* Adjust as needed */
+    }
+}

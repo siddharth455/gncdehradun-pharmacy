@@ -133,7 +133,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-3 col-sm-6">
+                <!-- <div class="col-lg-3 col-sm-6">
                     <div class="single-home-teacher">
                         <div class="teacher-img">
                             <img src="assets/images/Vishal.webp" alt="teacher" />
@@ -143,7 +143,7 @@
                             <p>Professor</p>
                         </div>
                     </div>
-                </div>
+                </div> -->
                 <div class="col-lg-3 col-sm-6">
                     <div class="single-home-teacher">
                         <div class="teacher-img">

@@ -60,103 +60,103 @@
                 <button class="nav-link main" id="v-pills-disabled-tab" data-bs-toggle="pill" data-bs-target="#v-pills-disabled" type="button" role="tab" aria-controls="v-pills-disabled" aria-selected="false">Action Taken Report</button>
             </div>
         </div> -->
-        <div class="col-lg-9 col-md-8 col-sm-7">
-            <div class="tab-content" id="v-pills-tabContent">
-                <div class="tab-pane fade show active" id="v-pills-home" role="tabpanel" aria-labelledby="v-pills-home-tab" tabindex="0">
-                    <div class="programmeStructure-section pt-2 pb-2">
-                        <div class="container">
-                            <div class="row">
-                                <div class="col-lg-12">
-                                    <ul class="list-unstyled p-0 list-icon-4 ps-4">
-                                        <li>The University is committed to creating and maintaining a community in which students and employees can work together in an environment free of violence, harassment, exploitation, intimidation and stress. This includes all forms of gender violence, sexual harassment and discrimination on the basis of the sex/gender or amongst the same sex members. To keep a close watch on the issue, an Internal Complaint Committee at Faculty and University level is fully functional to take care of any complaint.</li>
-                                        <li>Any student aggrieved of any action of his/her fellow student or any other member may approach the appropriate committee for timely assistance and redressal of the grievance. If a student is not satisfied with the decision of the designated committee, he/she may appeal within a week to the Disciplinary Appellate Board of the University.</li>
-                                        <li>A student found guilty of any of the violation of the student's code of conduct is liable to be inflicted with any or more of the following penalties.</li>
-                                    </ul>
-                                    <div class="alert alert-danger">
-                                        <div class="page-sub-heading mb-2">
-                                            <h3 class="mb-3">Warning</h3>
-                                        </div>
-                                        <ul class="list-unstyled p-0 list-icon-3 ps-4">
-                                            <li>Asking for written apology
-                                            </li>
-                                            <li>Bond of good behaviour
-                                            </li>
-                                            <li>Withholding or cancellation of results
-                                            </li>
-                                            <li>Suspension from the class/hostel for a specific period
-                                            </li>
-                                            <li>Debarring entry into a hostel/campus (permanent or specific period)
-                                            </li>
-                                            <li>Denial of re-admission (permanent or stated period)
-                                            </li>
-                                            <li>Rustication</li>
-                                            <li>Expulsion (permanent or stated period)
-                                            </li>
-                                            <li>Penalty of a specified amount of money with or without any other disciplinary action
-                                            </li>
-                                            <li>Any other reformatory action
-                                            </li>
-                                        </ul>
-                                    </div>
+    <!-- <div class="col-lg-9 col-md-8 col-sm-7"> -->
+        <div class="tab-content" id="v-pills-tabContent">
+            <div class="tab-pane fade show active" id="v-pills-home" role="tabpanel" aria-labelledby="v-pills-home-tab" tabindex="0">
+                <div class="programmeStructure-section pt-2 pb-2">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-lg-12">
+                                <ul class="list-unstyled p-0 list-icon-4 ps-4">
+                                    <li>The University is committed to creating and maintaining a community in which students and employees can work together in an environment free of violence, harassment, exploitation, intimidation and stress. This includes all forms of gender violence, sexual harassment and discrimination on the basis of the sex/gender or amongst the same sex members. To keep a close watch on the issue, an Internal Complaint Committee at Faculty and University level is fully functional to take care of any complaint.</li>
+                                    <li>Any student aggrieved of any action of his/her fellow student or any other member may approach the appropriate committee for timely assistance and redressal of the grievance. If a student is not satisfied with the decision of the designated committee, he/she may appeal within a week to the Disciplinary Appellate Board of the University.</li>
+                                    <li>A student found guilty of any of the violation of the student's code of conduct is liable to be inflicted with any or more of the following penalties.</li>
+                                </ul>
+                                <div class="alert alert-danger">
                                     <div class="page-sub-heading mb-2">
-                                        <h3 class="mb-3">Committee For Prevention Of Caste Based Discrimination</h3>
+                                        <h3 class="mb-3">Warning</h3>
                                     </div>
-                                    <div style="overflow-x:auto;">
+                                    <ul class="list-unstyled p-0 list-icon-3 ps-4">
+                                        <li>Asking for written apology
+                                        </li>
+                                        <li>Bond of good behaviour
+                                        </li>
+                                        <li>Withholding or cancellation of results
+                                        </li>
+                                        <li>Suspension from the class/hostel for a specific period
+                                        </li>
+                                        <li>Debarring entry into a hostel/campus (permanent or specific period)
+                                        </li>
+                                        <li>Denial of re-admission (permanent or stated period)
+                                        </li>
+                                        <li>Rustication</li>
+                                        <li>Expulsion (permanent or stated period)
+                                        </li>
+                                        <li>Penalty of a specified amount of money with or without any other disciplinary action
+                                        </li>
+                                        <li>Any other reformatory action
+                                        </li>
+                                    </ul>
+                                </div>
+                                <div class="page-sub-heading mb-2">
+                                    <h3 class="mb-3">Committee For Prevention Of Caste Based Discrimination</h3>
+                                </div>
+                                <div style="overflow-x:auto;">
                                     <table class="table table-bordered" style="filter: drop-shadow(3px 3px 4px black);">
-        <thead>
-            <tr class="heading">
-                <th scope="col"><b>S.No.</b></th>
-                <th scope="col"><b>Title of Paper</b></th>
-                <th scope="col"><b>Name of the Author/s</b></th>
-                <th scope="col"><b>Article Link </b></th> 
-                <th scope="col"><b>Mail ID </b></th> 
-            </tr>
-        </thead>
-        <tbody>
-                            <tr>
-                                <th scope="row">1</th>
-                                <td>Dr. Lalit Kumar</td>
-                                <td>Chairperson</td>
-                                <td>9758900404</td>
-                                <td>registrar@gncdehradun.com</td>
-                            </tr>
-                            <tr>
-                                <th scope="row">2</th>
-                                <td>Dr. Nidhi Chatterjee</td>
-                                <td>Member Secretary</td>
-                                <td>7300777701</td>
-                                <td>nidhichatterjee@gncdehradun.com</td>
-                            </tr>
-                            <tr>
-                                <th scope="row">3</th>
-                                <td>Prof. (Dr.) Deepak Sharma</td>
-                                <td>Member</td>
-                                <td>7300777721</td>
-                                <td>principal@gncdehradun.com</td>
-                            </tr>
-                            <tr>
-                                <th scope="row">4</th>
-                                <td>Dr. Vishal Kumar Deshwal</td>
-                                <td>Member</td>
-                                <td>9897538555</td>
-                                <td>vishaldeshwal@gncdehradun.com</td>
-                            </tr>
-                            <tr>
-                                <th scope="row">5</th>
-                                <td>Dr. R.D. Saklani</td>
-                                <td>Member</td>
-                                <td>7456000110</td>
-                                <td>rdsaklani@gncdehradun.com</td>
-                            </tr>
-                        </tbody>
+                                        <thead>
+                                            <tr class="heading">
+                                                <th scope="col"><b>S.No.</b></th>
+                                                <th scope="col"><b>Title of Paper</b></th>
+                                                <th scope="col"><b>Name of the Author/s</b></th>
+                                                <th scope="col"><b>Article Link </b></th>
+                                                <th scope="col"><b>Mail ID </b></th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            <tr>
+                                                <th scope="row">1</th>
+                                                <td>Dr. Lalit Kumar</td>
+                                                <td>Chairperson</td>
+                                                <td>9758900404</td>
+                                                <td>registrar@gncdehradun.com</td>
+                                            </tr>
+                                            <tr>
+                                                <th scope="row">2</th>
+                                                <td>Dr. Nidhi Chatterjee</td>
+                                                <td>Member Secretary</td>
+                                                <td>7300777701</td>
+                                                <td>nidhichatterjee@gncdehradun.com</td>
+                                            </tr>
+                                            <tr>
+                                                <th scope="row">3</th>
+                                                <td>Prof. (Dr.) Deepak Sharma</td>
+                                                <td>Member</td>
+                                                <td>7300777721</td>
+                                                <td>principal@gncdehradun.com</td>
+                                            </tr>
+                                            <!-- <tr>
+                                                <th scope="row">4</th>
+                                                <td>Dr. Vishal Kumar Deshwal</td>
+                                                <td>Member</td>
+                                                <td>9897538555</td>
+                                                <td>vishaldeshwal@gncdehradun.com</td>
+                                            </tr> -->
+                                            <tr>
+                                                <th scope="row">5</th>
+                                                <td>Dr. R.D. Saklani</td>
+                                                <td>Member</td>
+                                                <td>7456000110</td>
+                                                <td>rdsaklani@gncdehradun.com</td>
+                                            </tr>
+                                        </tbody>
                                     </table>
-                                    </div>
                                 </div>
                             </div>
                         </div>
                     </div>
-                </div>
-                <!-- <div class="tab-pane fade" id="v-pills-profile" role="tabpanel" aria-labelledby="v-pills-profile-tab" tabindex="0">
+                <!-- </div> -->
+            </div>
+            <!-- <div class="tab-pane fade" id="v-pills-profile" role="tabpanel" aria-labelledby="v-pills-profile-tab" tabindex="0">
                     Content for Minutes of Meeting Tab
                 </div>
                 <div class="tab-pane fade" id="v-pills-disabled" role="tabpanel" aria-labelledby="v-pills-disabled-tab" tabindex="0">
@@ -168,8 +168,8 @@
                 <div class="tab-pane fade" id="v-pills-settings" role="tabpanel" aria-labelledby="v-pills-settings-tab" tabindex="0">
                     Content for Settings Tab
                 </div> -->
-            </div>
         </div>
     </div>
+</div>
 </div>
 <?php require "common/footer.php" ?>

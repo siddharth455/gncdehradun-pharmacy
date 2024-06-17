@@ -5524,3 +5524,7 @@ margin: 20px 0;
   margin-bottom: 10px;
   border-radius: 10px;
 }
+.images-sus img{
+  margin: 5px ;
+  border-radius: 5px;
+}
