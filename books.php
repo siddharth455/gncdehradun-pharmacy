@@ -20,7 +20,7 @@
 
             canvas {
                 height: 350px !important;
-                width: 400px !important;
+                width: 350px !important;
             }
             .mobile-font-size .datalabels {
             font-size: 10px !important;
@@ -55,7 +55,7 @@
     <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2"></script>
     <script>
          function adjustFontSize(chart) {
-            const mobileFontSize = window.innerWidth <= 480 ? 10 : 24;
+            const mobileFontSize = window.innerWidth <= 480 ? 16 : 24;
             chart.options.plugins.datalabels.font.size = mobileFontSize;
             chart.update();
         }
@@ -1530,7 +1530,7 @@ window.addEventListener('resize', () => {
         padding: 10px 20px;
         cursor: pointer;
         font-size: 16px;
-        margin: 0 5px;
+        margin: 5px;
     }
 
     .tablink:hover {
@@ -1560,5 +1560,13 @@ window.addEventListener('resize', () => {
 
     .tabcontent th {
         background-color: #f2f2f2;
+    }
+
+    @media (max-width: 480px) {
+        .tabs {
+        display: block;
+        justify-content: center;
+        margin-bottom: 20px;
+    }
     }
 </style>

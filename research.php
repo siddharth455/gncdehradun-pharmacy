@@ -22,7 +22,7 @@
         }
 
         canvas {
-            height: 300px !important;
+            height: 350px !important;
             width: 350px !important;
         }
 
@@ -59,7 +59,7 @@
 <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2"></script>
 <script>
     function adjustFontSize(chart) {
-        const mobileFontSize = window.innerWidth <= 480 ? 10 : 24;
+        const mobileFontSize = window.innerWidth <= 480 ? 16 : 24;
         chart.options.plugins.datalabels.font.size = mobileFontSize;
         chart.update();
     }

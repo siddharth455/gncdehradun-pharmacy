@@ -152,7 +152,7 @@
                                                                 <div class="pdf-container">
                                                                     <embed src="assets/images/grivence.pdf#page=1" type="application/pdf" width="100%" height="100%">
                                                                 </div>
-                                                            </div>
+                                                            </div> 
                                                         </div>
                                                     </div>
                                                 </div>

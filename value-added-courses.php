@@ -13,14 +13,14 @@
         /* Styles for Mobile */
         @media (max-width: 480px) {
             #chart-container {
-                max-width: 400px; /* Add some padding to prevent the chart from touching the edges */
+                max-width: 350px; /* Add some padding to prevent the chart from touching the edges */
                 margin: 0 20px ;
                 width: 100%;
             }
 
             canvas {
                 height: 350px !important;
-                width: 400px !important;
+                width: 350px !important;
             }
             .mobile-font-size .datalabels {
             font-size: 10px !important;
@@ -63,10 +63,10 @@
         const bookChaptersChart = new Chart(ctx, {
             type: 'pie',
             data: {
-                labels: ['2018-19','2019-20', '2020-21', '2021-22', '2022-23'],
+                labels: ['2019-20', '2020-21', '2021-22', '2022-23', '2023-24'],
                 datasets: [{
                     label: 'Value Added Course',
-                    data: [2, 4, 6, 8, 10], 
+                    data: [4, 6, 8, 10, 2], 
                     backgroundColor: [
                         'rgba(255, 99, 132, 1)',
                         'rgba(54, 162, 235, 1)',
