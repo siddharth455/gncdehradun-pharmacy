@@ -1,6 +1,5 @@
 <style>
         #chart-container {
-            width: 50%;
             height: 50%;
             margin: 20px 40% ;
         }
@@ -13,14 +12,14 @@
         /* Styles for Mobile */
         @media (max-width: 480px) {
             #chart-container {
-                max-width: 350px; /* Add some padding to prevent the chart from touching the edges */
+                 /* Add some padding to prevent the chart from touching the edges */
                 margin: 0 20px ;
                 
             }
 
             canvas {
                 height: 350px !important;
-                width: 400px !important;
+                width: 350px !important;
             }
             .mobile-font-size .datalabels {
             font-size: 10px !important;
@@ -39,7 +38,7 @@
             </div>
         </div>
     </div>
-</div>
+</div> 
 <section class="know-about-section pt-5 pb-3 text-center">
     <div class="container">
         <div class="section-heading">
@@ -49,67 +48,70 @@
     </div>
 </section>
 <div id="chart-container">
-        <canvas id="bookChaptersChart"></canvas>
-    </div>
-    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2"></script>
-    <script>
-          function adjustFontSize(chart) {
-            const mobileFontSize = window.innerWidth <= 400 ? 24 : 10;
+    <canvas id="bookChaptersChart"></canvas>
+</div>
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2"></script>
+<script>
+    function adjustFontSize(chart) {
+            const mobileFontSize = window.innerWidth <= 480 ? 16 : 24;
             chart.options.plugins.datalabels.font.size = mobileFontSize;
             chart.update();
         }
-        const ctx = document.getElementById('bookChaptersChart').getContext('2d');
-        const bookChaptersChart = new Chart(ctx, {
-            type: 'pie',
-            data: {
-                labels: ['2018-19','2019-20', '2020-21', '2021-22', '2022-23'],
-                datasets: [{
-                    label: 'Research/Seminar',
-                    data: [6, 8, 3, 13, 15], // Replace these numbers with your actual data
-                    backgroundColor: [
-                        'rgba(255, 99, 132, 1)',
-                        'rgba(54, 162, 235, 1)',
-                        'rgba(255, 206, 86, 1)',
-                        'rgba(75, 192, 192, 1)',
-                        'rgba(153, 102, 23, 1)',
-                    ],
-                    borderColor: [
-                        'rgb(0, 0, 0)',
-                        'rgb(0, 0, 0)',
-                        'rgb(0, 0, 0)',
-                        'rgb(0, 0, 0)',
-                        'rgb(0, 0, 0)',
-                    ],
-                    borderWidth: 1
-                }]
-            },
-            options: {
-                responsive: true,
-                plugins: {
-                    legend: {
-                        position: 'top',
-                    },
-                    datalabels: {
-                        color: '#000',
-                        anchor: 'end',
-                        align: 'start',
-                        formatter: (value, context) => value,
-                        font: {
-                            weight: 'bold',
-                            size: 24
-                        }
+
+    const ctx = document.getElementById('bookChaptersChart').getContext('2d');
+    const bookChaptersChart = new Chart(ctx, {
+        type: 'pie',
+        data: {
+            labels: ['2018-19', '2019-20', '2020-21', '2021-22', '2022-23'],
+            datasets: [{
+                label: 'Research/Seminar',
+                data: [6, 8, 3, 13, 15], // Replace these numbers with your actual data
+                backgroundColor: [
+                    'rgba(255, 99, 132, 1)',
+                    'rgba(54, 162, 235, 1)',
+                    'rgba(255, 206, 86, 1)',
+                    'rgba(75, 192, 192, 1)',
+                    'rgba(153, 102, 23, 1)',
+                ],
+                borderColor: [
+                    'rgb(0, 0, 0)',
+                    'rgb(0, 0, 0)',
+                    'rgb(0, 0, 0)',
+                    'rgb(0, 0, 0)',
+                    'rgb(0, 0, 0)',
+                ],
+                borderWidth: 1
+            }]
+        },
+        options: {
+            responsive: true,
+            plugins: {
+                legend: {
+                    position: 'top',
+                },
+                datalabels: {
+                    color: '#000',
+                    anchor: 'end',
+                    align: 'start',
+                    formatter: (value, context) => value,
+                    font: {
+                        weight: 'bold',
+                        size: 24 // Default size for desktop view
                     }
                 }
-            },
-            plugins: [ChartDataLabels]
-        });
-        adjustFontSize(bookChaptersChart);
+            }
+        },
+        plugins: [ChartDataLabels]
+    });
 
-window.addEventListener('resize', () => {
     adjustFontSize(bookChaptersChart);
-});
-    </script>
+
+    window.addEventListener('resize', () => {
+        adjustFontSize(bookChaptersChart);
+    });
+</script>
+
 <div class="container mb-5">
     <table class="table table-bordered" style="filter: drop-shadow(3px 3px 4px black);">
         <thead>
