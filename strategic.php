@@ -4,7 +4,7 @@
 vertical-align: middle;
     }
 </style>
-<div class="banner-area about" style="background-image: url(assets/images/reserch.webp);">
+<div class="banner-area about" style="background-image: url(assets/images/banner/7.webp);">
     <div class="d-table">
         <div class="d-table-cell">
             <div class="container">

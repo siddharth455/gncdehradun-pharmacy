@@ -1,5 +1,5 @@
 <?php require "common/header.php" ?>
-<div class="banner-area about" style="background-image: url(assets/images/test-banner.png);">
+<div class="banner-area about" style="background-image: url(assets/images/banner/1.webp);">
     <div class="d-table">
         <div class="d-table-cell">
             <div class="container">

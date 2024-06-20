@@ -35,7 +35,7 @@ $events = json_decode($jsonData, true);
         color: grey;
     }
 </style>
-<div class="banner-area about" style="background-image: url(assets/images/news-update-head.webp);">
+<div class="banner-area about" style="background-image: url(assets/images/banner/41.webp);">
     <div class="d-table">
         <div class="d-table-cell">
             <div class="container">

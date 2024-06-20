@@ -1,5 +1,5 @@
 <?php require "common/header.php" ?>
-<div class="banner-area about" style="background-image: url(assets/images/iqac-head.webp); background-size: cover; background-position: center;">
+<div class="banner-area about" style="background-image: url(assets/images/banner/22.webp); background-size: cover; background-position: center;">
     <div class="d-table">
         <div class="d-table-cell">
             <div class="container">

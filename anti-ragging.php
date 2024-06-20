@@ -41,7 +41,7 @@
         cursor: not-allowed;
     }
 </style>
-<div class="banner-area about" style="background-image: url(assets/images/anti-ragging.webp);">
+<div class="banner-area about" style="background-image: url(assets/images/banner/52.webp);">
     <div class="d-table">
         <div class="d-table-cell">
             <div class="container">

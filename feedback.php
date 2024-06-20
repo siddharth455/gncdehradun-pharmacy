@@ -61,7 +61,7 @@
         text-align: center;
     }
 </style>
-<div class="banner-area about" style="background-image: url(assets/images/feedback-head.webp); background-size: cover; background-position: center;">
+<div class="banner-area about" style="background-image: url(assets/images/banner/45.webp); background-size: cover; background-position: center;">
     <div class="d-table">
         <div class="d-table-cell">
             <div class="container">

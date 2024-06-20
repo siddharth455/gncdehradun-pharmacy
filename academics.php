@@ -163,7 +163,7 @@
 
     }
 </style>
-<div class="banner-area about" style="background-image:url(assets/images/Academic-overview-head.webp)">
+<div class="banner-area about" style="background-image:url(assets/images/banner/9.webp)">
     <div class="d-table">
         <div class="d-table-cell">
             <div class="container">

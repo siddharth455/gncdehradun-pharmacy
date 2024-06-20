@@ -44,7 +44,7 @@
         vertical-align: middle;
     }
 </style>
-<div class="banner-area about" style="background-image: url(assets/images/iqac-head.webp); background-size: cover; background-position: center;">
+<div class="banner-area about" style="background-image: url(assets/images/banner/46.webp); background-size: cover; background-position: center;">
     <div class="d-table">
         <div class="d-table-cell">
             <div class="container">
