@@ -37,57 +37,56 @@
 <div class="container">
     <h4>Research Committee</h4>
     <div style="overflow-x:auto;">
-    <table class="table table-bordered" style="filter: drop-shadow(3px 3px 4px black);">
-        <thead>
-            <tr class="heading">
-                <th scope="col"><b>S.No.</b></th>
-                <th scope="col"><b>Name</b></th>
-                <th scope="col"><b>Designation</b></th>
-                <th scope="col"><b>Contact</b></th>
-                <th scope="col"><b>Email</b></th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-            <tr>
-                <th scope="row">1</th>
-                <td>Dr. Vishal Kumar Deshwal</td>
-                <td>Chairperson</td>
-                <td>9897538555</td>
-                <td>vishaldeshwal@gncdehradun.com</td>
-            </tr>
-            <tr>
-                <th scope="row">2</th>
-                <td>Dr. Vishal Kamboj</td>
-                <td>Member Secretary</td>
-                <td>8295219491</td>
-                <td>vishalkamboj@gncdehradun.com</td>
-            </tr>
-            <tr>
-                <th scope="row">3</th>
-                <td>Prof. (Dr.) Deepak Sharma</td>
-                <td>Member</td>
-                <td>7300777721</td>
-                <td>principal@gncdehradun.com</td>
-            </tr>
-            <tr>
-                <th scope="row">4</th>
-                <td>Mrs. Kriti Dabral</td>
-                <td>Member</td>
-                <td>9467545933</td>
-                <td>kritidabral@gncdehradun.com</td>
-            </tr>
+        <table class="table table-bordered" style="filter: drop-shadow(3px 3px 4px black);">
+            <thead>
+                <tr class="heading">
+                    <th scope="col"><b>S.No.</b></th>
+                    <th scope="col"><b>Name</b></th>
+                    <th scope="col"><b>Designation</b></th>
+                    <th scope="col"><b>Contact</b></th>
+                    <th scope="col"><b>Email</b></th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <th scope="row">1</th>
+                    <td>Prof. (Dr.) C. Subramaniam</td>
+                    <td>Chairperson</td>
+                    <td>8870249787</td>
+                    <td>csubramaniam@gncdehradun.com</td>
+                </tr>
+                <tr>
+                    <th scope="row">2</th>
+                    <td>Dr. Vishal Kamboj</td>
+                    <td>Member Secretary</td>
+                    <td>8295219491</td>
+                    <td>vishalkamboj@gncdehradun.com</td>
+                </tr>
+                <tr>
+                    <th scope="row">3</th>
+                    <td>Prof. (Dr.) Deepak Sharma</td>
+                    <td>Member</td>
+                    <td>7300777721</td>
+                    <td>principal@gncdehradun.com</td>
+                </tr>
+                <tr>
+                    <th scope="row">4</th>
+                    <td>Mrs. Kriti Dabral</td>
+                    <td>Member</td>
+                    <td>9467545933</td>
+                    <td>kritidabral@gncdehradun.com</td>
+                </tr>
 
-            <tr>
-                <th scope="row">5</th>
-                <td>Dr. Nidhi Chatterjee</td>
-                <td>Member</td>
-                <td>7300777701</td>
-                <td>nidhichatterjee@gncdehradun.com</td>
-            </tr>
+                <tr>
+                    <th scope="row">5</th>
+                    <td>Dr. Nidhi Chatterjee</td>
+                    <td>Member</td>
+                    <td>7300777701</td>
+                    <td>nidhichatterjee@gncdehradun.com</td>
+                </tr>
 
-        </tbody>
-    </table>
+            </tbody>
+        </table>
     </div>
 </div>
 <?php require "common/footer.php" ?>

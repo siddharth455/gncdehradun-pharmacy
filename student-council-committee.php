@@ -30,40 +30,27 @@
             </tr>
         </thead>
         <tbody>
-            <tr>
-                <th scope="row">1</th>
-                <td>Dr. Vishal Kumar Deshwal</td>
-                <td>Chairperson</td>
-                <td>9897538555</td>
-                <td>vishaldeshwal@gncdehradun.com</td>
-            </tr>
-            <tr>
-                <th scope="row">2</th>
-                <td>Dr. Nidhi Chatterjee</td>
-                <td>Member Secretary</td>
-                <td>7300777721</td>
-                <td>nidhichatterjee@gncdehradun.com</td>
-            </tr>
-            <tr>
-                <th scope="row">3</th>
-                <td>Dr. Lalit Kumar</td>
-                <td>Member</td>
-                <td>7300777713</td>
-                <td>registrar@gncdehradun.com</td>
-            </tr>
-            <tr>
-                <th scope="row">4</th>
-                <td>Prof. (Dr.) Deepak Sharma</td>
-                <td>Member</td>
-                <td>7300777721</td>
-                <td>principal@gncdehradun.com</td>
-            <tr>
-                <th scope="row">5</th>
-                <td>Mrs. Priti Sood</td>
-                <td>Member</td>
-                <td>7300777713</td>
-                <td>pritisood@gncdehradun.com</td>
-            </tr>
+        <tr>
+                                    <th scope="row">1</th>
+                                    <td>Dr. Nidhi Chatterjee</td>
+                                    <td>Chairperson</td>
+                                    <td>7300777721</td>
+                                    <td>nidhichatterjee@gncdehradun.com</td>
+                                </tr>
+                                <tr>
+                                    <th scope="row">2</th>
+                                    <td>Mrs. Bhawna Bora</td>
+                                    <td>Member Secretary</td>
+                                    <td>7310678760</td>
+                                    <td>bhawanabora@gncdehradun.com</td>
+                                </tr>
+                                <tr>
+                                    <th scope="row">3</th>
+                                    <td>Ms. Rohita</td>
+                                    <td>Member</td>
+                                    <td>9467545933</td>
+                                    <td>rohita@gncdehradun.com</td>
+                                </tr>
         </tbody>
     </table>
 </section>

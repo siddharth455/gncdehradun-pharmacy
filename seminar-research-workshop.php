@@ -1,7 +1,8 @@
 <style>
         #chart-container {
+            width: 100%;
             height: 50%;
-            margin: 20px 40% ;
+            margin: 20px 37% ;
         }
         @media (max-width: 768px) {
             #chart-container {
@@ -20,6 +21,7 @@
             canvas {
                 height: 350px !important;
                 width: 350px !important;
+                margin-left: 10px;
             }
             .mobile-font-size .datalabels {
             font-size: 10px !important;
@@ -33,7 +35,7 @@
         <div class="d-table-cell">
             <div class="container">
                 <div class="page-title-content">
-                    <h1>Research/Workshop/Seminar</h1>
+                    <h1>Research<br>/Workshop<br>/Seminar</h1>
                 </div>
             </div>
         </div>

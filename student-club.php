@@ -161,7 +161,7 @@
                         <tbody>
                             <tr>
                                 <th scope="row">1</th>
-                                <td>Mr. Vishal Kumar Deshwal</td>
+                                <td>Dr. Nidhi Chatterjee</td>
                                 <td>Faculty Coordinator</td>
                             </tr>
                             <tr>
@@ -176,7 +176,7 @@
                             </tr>
                             <tr>
                                 <th scope="row">4</th>
-                                <td>Mrs. Kaniska</td>
+                                <td>Ms. Kaniska</td>
                                 <td>Member</td>
                             </tr>
                         </tbody>

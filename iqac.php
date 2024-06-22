@@ -358,63 +358,27 @@
                             </tr>
                         </thead>
                         <tbody>
-                            <tr>
-                                <th scope="row">1</th>
-                                <td>Mr. Saithjeet Arora</td>
-                                <td>Chairperson</td>
-                                <td>9980085072</td>
-                                <td>Saithjeet@gncdehradun.com</td>
-                            </tr>
-                            <tr>
-                                <th scope="row">2</th>
-                                <td>Mrs. Kriti Dabral</td>
-                                <td>Member Secretary</td>
-                                <td>9467545933</td>
-                                <td>kritidabral@gncdehradun.com</td>
-                            </tr>
-                            <tr>
-                                <th scope="row">3</th>
-                                <td>Dr. Lalit Kumar</td>
-                                <td>Member</td>
-                                <td>9758900404</td>
-                                <td>registrar@gncdehradun.com</td>
-                            </tr>
-                            <tr>
-                                <th scope="row">4</th>
-                                <td>Prof. (Dr.) Deepak Sharma</td>
-                                <td>Member</td>
-                                <td>7300777721</td>
-                                <td>principal@gncdehradun.com</td>
-                            </tr>
-                            <tr>
-                                <th scope="row">5</th>
-                                <td>Dr. Vishal kamboj</td>
-                                <td>Member</td>
-                                <td>8295219491</td>
-                                <td>vishalkamboj@gncdehradun.com</td>
-                            </tr>
-                            <tr>
-                                <th scope="row">6</th>
-                                <td>Mr. Ankur Jaiswal</td>
-                                <td>Member</td>
-                                <td>9997810817</td>
-                                <td>ankurjaiswal@gncdehradun.com</td>
-                            </tr>
-
-                            <tr>
-                                <th scope="row">7</th>
-                                <td>Mr. Tarun Verma</td>
-                                <td>Member</td>
-                                <td>8979599993</td>
-                                <td>tarunverma@gncdehradun.com</td>
-                            </tr>
-                            <tr>
-                                <th scope="row">8</th>
-                                <td>Prof. (Dr.) C. Subramaniam</td>
-                                <td>Member</td>
-                                <td>8870249787</td>
-                                <td>csubramaniam@gncdehradun.com</td>
-                            </tr>
+                        <tr>
+                                    <th scope="row">1</th>
+                                    <td>Prof. (Dr.) C. Subramaniam</td>
+                                    <td>Chairperson</td>
+                                    <td>8870249787</td>
+                                    <td>csubramaniam@gncdehradun.com</td>
+                                </tr>
+                                <tr>
+                                    <th scope="row">2</th>
+                                    <td>Mrs. Kriti Dabral</td>
+                                    <td>Member Secretary</td>
+                                    <td>9467545933</td>
+                                    <td>kritidabral@gncdehradun.com</td>
+                                </tr>
+                                <tr>
+                                    <th scope="row">3</th>
+                                    <td>Ms. Rohita</td>
+                                    <td>Member</td>
+                                    <td>9467545933</td>
+                                    <td>rohita@gncdehradun.com</td>
+                                </tr>
                         </tbody>
                     </table>
                 </div>

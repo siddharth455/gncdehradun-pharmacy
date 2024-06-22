@@ -78,7 +78,7 @@
                             <a href="women-cell.php"> Women Cell</a>
                         </li>
                         <li>
-                            <a href="grc.php"> Grievance Redressal</a>
+                            <a href="grc.php"> Grievance Redressal Committee</a>
                         </li>
                         <!-- <li>
                             <a href="cbd.php"> SC/ST/Minority Committee</a>
