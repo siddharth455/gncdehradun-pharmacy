@@ -1,10 +1,7 @@
 a.meanmenu-reveal {
     display: none;
 }
-
-
 /* when under viewport size, .mean-container is added to body */
-
 .mean-container .mean-bar {
     float: left;
     width: 100%;
@@ -15,7 +12,6 @@ a.meanmenu-reveal {
     border-bottom: 1px solid rgba(0, 0, 0, 0.03);
     height: 55px;
 }
-
 .mean-container a.meanmenu-reveal {
     width: 35px;
     height: 30px;
@@ -32,7 +28,6 @@ a.meanmenu-reveal {
     display: block;
     font-weight: 700;
 }
-
 .mean-container a.meanmenu-reveal span {
     display: block;
     background: #00b7ff;
@@ -40,14 +35,12 @@ a.meanmenu-reveal {
     margin-top: 3px;
     border-radius: 3px;
 }
-
 .mean-container .mean-nav {
     float: left;
     width: 100%;
     background: #ffffff;
     margin-top: 55px;
 }
-
 .mean-container .mean-nav ul {
     padding: 0;
     margin: 0;
@@ -55,13 +48,11 @@ a.meanmenu-reveal {
     border: none;
     list-style-type: none;
 }
-
 .mean-container .mean-nav ul li {
     position: relative;
     float: left;
     width: 100%;
 }
-
 .mean-container .mean-nav ul li a {
     display: block;
     float: left;

@@ -10,7 +10,7 @@ if ($id !== null) {
 
     // Determine whether to display one image or three images
     $totalItems = count($newsData);
-    $displaySingleImage = $id >= $totalItems - 5;
+    $displaySingleImage = $id >= $totalItems - 47;
 
 ?>
     <div class="banner-area about" style="background-image: url(assets/images/news-update-head.webp);">
