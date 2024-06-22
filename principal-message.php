@@ -17,7 +17,7 @@
                 <div class="card shadow-lg border-0">
                     <img src="assets/images/ceo sir.webp" alt="Prof. (Dr.) Deepak Sharma">
                     <div class="card-body">
-                        <h5 class="card-title">Mr.Bhupendar Singh Arora</h5>
+                        <h5 class="card-title">Mr. Bhupinder Singh Arora</h5>
                         <h6 class="card-text">CEO</h6>
                     </div>
                 </div>
