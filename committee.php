@@ -68,10 +68,10 @@
                                 </tr>
                                 <tr>
                                     <th scope="row">3</th>
-                                    <td>Mrs. Bhawna Bora</td>
+                                    <td>Dr. Vishal Kamboj</td>
                                     <td>Member</td>
-                                    <td>7310678760</td>
-                                    <td>bhawanabora@gncdehradun.com</td>
+                                    <td>8295219491</td>
+                                    <td>vishalkamboj@gncdehradun.com</td>
                                 </tr>
                             </tbody>
                         </table>
@@ -128,17 +128,17 @@
                                 </tr>
                                 <tr>
                                     <th scope="row">2</th>
-                                    <td>Ms. Rohita</td>
+                                    <td>Dr. Vishal Kamboj</td>
                                     <td>Member Secretary</td>
-                                    <td>7300777701</td>
-                                    <td>rohita@gncdehradun.in</td>
+                                    <td>8295219491</td>
+                                    <td>vishalkamboj@gncdehradun.com</td>
                                 </tr>
                                 <tr>
                                     <th scope="row">3</th>
-                                    <td>Mrs. Bhawna Bora</td>
+                                    <td>Mrs. Preeti Sood</td>
                                     <td>Member</td>
-                                    <td>7310678760</td>
-                                    <td>bhawanabora@gncdehradun.com</td>
+                                    <td>7300777713</td>
+                                    <td>pritisood@gncdehradun.com</td>
                                 </tr>
                             </tbody>
                         </table>
@@ -195,10 +195,10 @@
                                 </tr>
                                 <tr>
                                     <th scope="row">2</th>
-                                    <td>Mrs. Bhawna Bora</td>
-                                    <td>Member</td>
-                                    <td>7310678760</td>
-                                    <td>bhawanabora@gncdehradun.com</td>
+                                    <td>Mr. Mamlesh Prasad Semwal</td>
+                                    <td>Member Secretary</td>
+                                    <td>8445326799</td>
+                                    <td>mamleshprasad@gncdehradun.com</td>
                                 </tr>
                                 <tr>
                                     <th scope="row">3</th>
@@ -253,19 +253,19 @@
                                 </tr>
                             </thead>
                             <tbody>
-                                <tr>
+                            <tr>
                                     <th scope="row">1</th>
-                                    <td>Ms. Bhawna Bora </td>
+                                    <td>Dr. R.D Saklani</td>
                                     <td>Chairperson</td>
-                                    <td>7310678760</td>
-                                    <td>bhawanabora@gncdehradun.com</td>
+                                    <td>7456000110</td>
+                                    <td>rdsaklani@gncdehradun.com</td>
                                 </tr>
                                 <tr>
                                     <th scope="row">2</th>
-                                    <td>Ms. Rohita</td>
+                                    <td>Mrs. Preeti Sood</td>
                                     <td>Member Secretary</td>
-                                    <td>9467545933</td>
-                                    <td>rohita@gncdehradun.com</td>
+                                    <td>7300777713</td>
+                                    <td>pritisood@gncdehradun.com</td>
                                 </tr>
                                 <tr>
                                     <th scope="row">3</th>
@@ -336,10 +336,10 @@
                                 </tr>
                                 <tr>
                                     <th scope="row">3</th>
-                                    <td>Mrs. Bhawna Bora</td>
+                                    <td>Dr. R.D Saklani</td>
                                     <td>Member</td>
-                                    <td>7310678760</td>
-                                    <td>bhawanabora@gncdehradun.com</td>
+                                    <td>7456000110</td>
+                                    <td>rdsaklani@gncdehradun.com</td>
                                 </tr>
                             </tbody>
                         </table>
@@ -403,10 +403,10 @@
                                 </tr>
                                 <tr>
                                     <th scope="row">3</th>
-                                    <td>Ms. Rohita</td>
+                                    <td>Mr. Mamlesh Prasad Semwal</td>
                                     <td>Member</td>
-                                    <td>9467545933</td>
-                                    <td>rohita@gncdehradun.com</td>
+                                    <td>8445326799</td>
+                                    <td>mamleshprasad@gncdehradun.com</td>
                                 </tr>
                             </tbody>
                         </table>
@@ -450,10 +450,10 @@
                                 </tr>
                                 <tr>
                                     <th scope="row">3</th>
-                                    <td>Mrs. Bhawana Bora</td>
+                                    <td>Dr. Vishal Kamboj</td>
                                     <td>Member</td>
-                                    <td>7310678760</td>
-                                    <td>bhawanabora@gncdehradun.com</td>
+                                    <td>8295219491</td>
+                                    <td>vishalkamboj@gncdehradun.com</td>
                                 </tr>
                             </tbody>
                         </table>
@@ -492,17 +492,17 @@
                                 </tr>
                                 <tr>
                                     <th scope="row">2</th>
-                                    <td>Ms. Rohita</td>
+                                    <td>Mr. Mamlesh Prasad Semwal</td>
                                     <td>Member Secretary</td>
-                                    <td>9467545933</td>
-                                    <td>rohita@gncdehradun.com</td>
+                                    <td>8445326799</td>
+                                    <td>mamleshprasad@gncdehradun.com</td>
                                 </tr>
                                 <tr>
                                     <th scope="row">3</th>
-                                    <td>Mrs. Bhawana Bora</td>
+                                    <td>Dr. Vishal Kamboj</td>
                                     <td>Member</td>
-                                    <td>7310678760</td>
-                                    <td>bhawanabora@gncdehradun.com</td>
+                                    <td>8295219491</td>
+                                    <td>vishalkamboj@gncdehradun.com</td>
                                 </tr>
                             </tbody>
                         </table>
@@ -586,17 +586,17 @@
                                 </tr>
                                 <tr>
                                     <th scope="row">2</th>
-                                    <td>Ms. Rohita</td>
+                                    <td>Dr. Nidhi Chatterjee</td>
                                     <td>Member Secretary</td>
-                                    <td>9467545933</td>
-                                    <td>rohita@gncdehradun.com</td>
+                                    <td>7300777721</td>
+                                    <td>nidhichatterjee@gncdehradun.com</td>
                                 </tr>
                                 <tr>
                                     <th scope="row">3</th>
-                                    <td>Mrs. Bhawana Bora</td>
+                                    <td>Dr. Vishal Kamboj</td>
                                     <td>Member</td>
-                                    <td>7310678760</td>
-                                    <td>bhawanabora@gncdehradun.com</td>
+                                    <td>8295219491</td>
+                                    <td>vishalkamboj@gncdehradun.com</td>
                                 </tr>
                             </tbody>
                         </table>
@@ -639,11 +639,11 @@
                                     <td>nidhichatterjee@gncdehradun.com</td>
                                 </tr>
                                 <tr>
-                                    <th scope="row">3</th>
-                                    <td>Ms. Rohita</td>
+                                    <th scope="row">2</th>
+                                    <td>Mr. Mamlesh Prasad Semwal</td>
                                     <td>Member</td>
-                                    <td>9467545933</td>
-                                    <td>rohita@gncdehradun.com</td>
+                                    <td>8445326799</td>
+                                    <td>mamleshprasad@gncdehradun.com</td>
                                 </tr>
                             </tbody>
                         </table>
@@ -733,18 +733,18 @@
                                     <td>nidhichatterjee@gncdehradun.com</td>
                                 </tr>
                                 <tr>
-                                    <th scope="row">2</th>
-                                    <td>Mrs. Bhawna Bora</td>
+                                    <th scope="row">1</th>
+                                    <td>Ms. Kriti Dabral </td>
                                     <td>Member Secretary</td>
-                                    <td>7310678760</td>
-                                    <td>bhawanabora@gncdehradun.com</td>
+                                    <td>9467545933</td>
+                                    <td>kritidabral@gncdehradun.com</td>
                                 </tr>
                                 <tr>
-                                    <th scope="row">3</th>
-                                    <td>Ms. Rohita</td>
+                                    <th scope="row">1</th>
+                                    <td>Dr. R.D. Saklani</td>
                                     <td>Member</td>
-                                    <td>9467545933</td>
-                                    <td>rohita@gncdehradun.com</td>
+                                    <td>7456000110</td>
+                                    <td>rdsaklani@gncdehradun.com</td>
                                 </tr>
                             </tbody>
                         </table>

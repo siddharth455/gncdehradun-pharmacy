@@ -374,10 +374,10 @@
                                 </tr>
                                 <tr>
                                     <th scope="row">3</th>
-                                    <td>Ms. Rohita</td>
+                                    <td>Mr. Mamlesh Prasad Semwal</td>
                                     <td>Member</td>
-                                    <td>9467545933</td>
-                                    <td>rohita@gncdehradun.com</td>
+                                    <td>8445326799</td>
+                                    <td>mamleshprasad@gncdehradun.com</td>
                                 </tr>
                         </tbody>
                     </table>

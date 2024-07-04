@@ -70,7 +70,7 @@
             labels: ['2018', '2019', '2020', '2021', '2022', '2023', '2024'],
             datasets: [{
                 label: 'Research Paper',
-                data: [3, 3, 9, 3, 21, 35, 4], // Replace these numbers with your actual data
+                data: [3, 3, 9, 3, 21, 35, 4], // Replace these numbers with your actual data 
                 backgroundColor: [
                     'rgba(255, 99, 132, 1)',
                     'rgba(54, 162, 235, 1)',

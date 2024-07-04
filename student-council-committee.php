@@ -38,18 +38,18 @@
                                     <td>nidhichatterjee@gncdehradun.com</td>
                                 </tr>
                                 <tr>
-                                    <th scope="row">2</th>
-                                    <td>Mrs. Bhawna Bora</td>
+                                    <th scope="row">1</th>
+                                    <td>Ms. Kriti Dabral </td>
                                     <td>Member Secretary</td>
-                                    <td>7310678760</td>
-                                    <td>bhawanabora@gncdehradun.com</td>
+                                    <td>9467545933</td>
+                                    <td>kritidabral@gncdehradun.com</td>
                                 </tr>
                                 <tr>
-                                    <th scope="row">3</th>
-                                    <td>Ms. Rohita</td>
+                                    <th scope="row">1</th>
+                                    <td>Dr. R.D. Saklani</td>
                                     <td>Member</td>
-                                    <td>9467545933</td>
-                                    <td>rohita@gncdehradun.com</td>
+                                    <td>7456000110</td>
+                                    <td>rdsaklani@gncdehradun.com</td>
                                 </tr>
         </tbody>
     </table>

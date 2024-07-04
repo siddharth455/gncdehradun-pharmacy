@@ -118,7 +118,7 @@
                         <tbody>
                             <tr>
                                 <th scope="row">1</th>
-                                <td>Mrs. Bhawna Bora</td>
+                                <td>Mrs. Preeti Sood</td>
                                 <td>Faculty Coordinator</td>
                             </tr>
                             <tr>
