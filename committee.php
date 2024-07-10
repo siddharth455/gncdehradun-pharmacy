@@ -76,7 +76,7 @@
                             </tbody>
                         </table>
                     </div>
-                    <div class="container mt-3">
+                    <!-- <div class="container mt-3">
                         <div class="accordion" id="accordionExample1">
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingSix">
@@ -95,7 +95,7 @@
                                 </div>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
                 </div>
             </div>
         </div>
@@ -143,7 +143,7 @@
                             </tbody>
                         </table>
                     </div>
-                    <div class="container mt-3">
+                    <!-- <div class="container mt-3">
                         <div class="accordion" id="accordionExample1">
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingSix">
@@ -162,7 +162,7 @@
                                 </div>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
                 </div>
             </div>
         </div>
@@ -210,7 +210,7 @@
                             </tbody>
                         </table>
                     </div>
-                    <div class="container mt-3">
+                    <!-- <div class="container mt-3">
                         <div class="accordion" id="accordionExample1">
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingSix">
@@ -229,7 +229,7 @@
                                 </div>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
                 </div>
             </div>
         </div>
@@ -277,7 +277,7 @@
                             </tbody>
                         </table>
                     </div>
-                    <div class="container mt-5">
+                    <!-- <div class="container mt-5">
                         <div class="accordion" id="accordionExample1">
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingSix">
@@ -296,7 +296,7 @@
                                 </div>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
                 </div>
             </div>
         </div>
@@ -344,7 +344,7 @@
                             </tbody>
                         </table>
                     </div>
-                    <div class="container mt-5">
+                    <!-- <div class="container mt-5">
                         <div class="accordion" id="accordionExample1">
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingSix">
@@ -363,7 +363,7 @@
                                 </div>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
                 </div>
             </div>
         </div>
