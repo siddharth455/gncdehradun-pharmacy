@@ -49,11 +49,11 @@
             </thead>
             <tbody>
                 <tr>
-                    <th scope="row">1</th>
-                    <td>Prof. (Dr.) C. Subramaniam</td>
-                    <td>Chairperson</td>
-                    <td>8870249787</td>
-                    <td>csubramaniam@gncdehradun.com</td>
+                <th scope="row">1</th>
+                <td>Dr. Praveen Kumar Ashok</td>
+                <td>Chairperson</td>
+                <td>7300777721</td>
+                <td>principal@gncdehradun.com</td>
                 </tr>
                 <tr>
                     <th scope="row">2</th>
@@ -64,13 +64,6 @@
                 </tr>
                 <tr>
                     <th scope="row">3</th>
-                    <td>Prof. (Dr.) Deepak Sharma</td>
-                    <td>Member</td>
-                    <td>7300777721</td>
-                    <td>principal@gncdehradun.com</td>
-                </tr>
-                <tr>
-                    <th scope="row">4</th>
                     <td>Mrs. Kriti Dabral</td>
                     <td>Member</td>
                     <td>9467545933</td>
@@ -78,7 +71,7 @@
                 </tr>
 
                 <tr>
-                    <th scope="row">5</th>
+                    <th scope="row">4</th>
                     <td>Dr. Nidhi Chatterjee</td>
                     <td>Member</td>
                     <td>7300777701</td>

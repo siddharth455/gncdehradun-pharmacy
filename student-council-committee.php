@@ -31,6 +31,7 @@
         </thead>
         <tbody>
         <tr>
+        <tr>
                                     <th scope="row">1</th>
                                     <td>Dr. Nidhi Chatterjee</td>
                                     <td>Chairperson</td>
@@ -38,18 +39,18 @@
                                     <td>nidhichatterjee@gncdehradun.com</td>
                                 </tr>
                                 <tr>
-                                    <th scope="row">1</th>
-                                    <td>Ms. Kriti Dabral </td>
+                                    <th scope="row">2</th>
+                                    <td>Mr. Kashif Hussain</td>
                                     <td>Member Secretary</td>
-                                    <td>9467545933</td>
-                                    <td>kritidabral@gncdehradun.com</td>
+                                    <td>9634416993</td>
+                                    <td>kashif@gncdehradun.com</td>
                                 </tr>
                                 <tr>
-                                    <th scope="row">1</th>
-                                    <td>Dr. R.D. Saklani</td>
+                                    <th scope="row">3</th>
+                                    <td>Mr. Brajesh Kumar Rajak</td>
                                     <td>Member</td>
-                                    <td>7456000110</td>
-                                    <td>rdsaklani@gncdehradun.com</td>
+                                    <td>9179081952</td>
+                                    <td>brajesh@gncdehradun.com</td>
                                 </tr>
         </tbody>
     </table>

@@ -56,7 +56,7 @@
     </div>
 
 </section>
-<div class="container mt-5 mb-5" style="filter: drop-shadow(4px 3px 5px black);">
+<!-- <div class="container mt-5 mb-5" style="filter: drop-shadow(4px 3px 5px black);">
     <h2>Library Committee</h2>
     <table class="table table-bordered">
         <thead>
@@ -71,7 +71,7 @@
         <tbody>
             <tr>
                 <th scope="row">1</th>
-                <td>Prof. (Dr.) Deepak Sharma</td>
+                <td>Dr. Praveen Kumar Ashok</td>
                 <td>Principal</td>
                 <td>7300777721</td>
                 <td>principal@gncdehradun.com</td>
@@ -99,12 +99,12 @@
             </tr>
             <tr>
                 <th scope="row">5</th>
-                <td>Mrs. Kriti Dabral</td>
+                <td>Dr. R D Saklani</td>
                 <td>Assistant Professor</td>
-                <td>9467545933</td>
-                <td>kritidabral@gncdehradun.com</td>
+                <td>7456000110</td>
+                <td>rdsaklani@gncdehradun.com</td>
             </tr>
         </tbody>
     </table>
-</div>
+</div> -->
 <?php require "common/footer.php" ?>

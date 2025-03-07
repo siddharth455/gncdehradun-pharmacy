@@ -360,9 +360,9 @@
                         <tbody>
                         <tr>
                                     <th scope="row">1</th>
-                                    <td>Prof. (Dr.) C. Subramaniam</td>
+                                    <td>Mr. Saithjeet Arora</td>
                                     <td>Chairperson</td>
-                                    <td>8870249787</td>
+                                    <td>9980085072</td>
                                     <td>csubramaniam@gncdehradun.com</td>
                                 </tr>
                                 <tr>

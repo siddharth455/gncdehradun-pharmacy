@@ -307,8 +307,8 @@
                                 <div class=" col-lg-5 paddinggnc1">
                                     <div class="applynow">
                                         <div class="login-content">
-                                            <span id="ee-form-1">
-                                                <script src="https://eeconfigstaticfiles.blob.core.windows.net/staticfiles/gncdun/ee-form-widget/form-1/widget.js "></script>
+                                        <span id="ee-form-6">
+                                                <script src="https://eeconfigstaticfiles.blob.core.windows.net/staticfiles/applycbc/ee-form-widget/form-6/widget.js"></script>
                                             </span>
                                         </div>
                                     </div>

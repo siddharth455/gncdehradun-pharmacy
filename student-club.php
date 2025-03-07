@@ -123,12 +123,12 @@
                             </tr>
                             <tr>
                                 <th scope="row">2</th>
-                                <td>Mrs. Sameeksha Chandra</td>
+                                <td>Ms. Rekha Pal</td>
                                 <td>Member</td>
                             </tr>
                             <tr>
                                 <th scope="row">3</th>
-                                <td>Mr. Sunil Jamita</td>
+                                <td>Ms. Bharti</td>
                                 <td>Member</td>
                             </tr>
                             <tr>
@@ -176,7 +176,7 @@
                             </tr>
                             <tr>
                                 <th scope="row">4</th>
-                                <td>Ms. Kaniska</td>
+                                <td>Ms. Kashish Papneja</td>
                                 <td>Member</td>
                             </tr>
                         </tbody>
@@ -204,7 +204,7 @@
                         <tbody>
                             <tr>
                                 <th scope="row">1</th>
-                                <td>Prof. (Dr.) Deepak Sharma</td>
+                                <td>Dr. Praveen Kumar Ashok</td>
                                 <td>Faculty Coordinator</td>
                             </tr>
                             <tr>
@@ -214,12 +214,12 @@
                             </tr>
                             <tr>
                                 <th scope="row">3</th>
-                                <td>Mrs. Aastha Singh</td>
+                                <td>Ms. Bharti</td>
                                 <td>Member</td>
                             </tr>
                             <tr>
                                 <th scope="row">4</th>
-                                <td>Mrs. Hemanti Bist</td>
+                                <td>Mr. Avinash Kumar</td>
                                 <td>Member</td>
                             </tr>
                         </tbody>

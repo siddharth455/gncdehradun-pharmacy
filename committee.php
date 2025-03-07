@@ -68,10 +68,10 @@
                                 </tr>
                                 <tr>
                                     <th scope="row">3</th>
-                                    <td>Dr. Vishal Kamboj</td>
+                                    <td>Ms. Prachi Nahar</td>
                                     <td>Member</td>
-                                    <td>8295219491</td>
-                                    <td>vishalkamboj@gncdehradun.com</td>
+                                    <td>6397576647</td>
+                                    <td>prachi@gncdehradun.com</td>
                                 </tr>
                             </tbody>
                         </table>
@@ -135,10 +135,10 @@
                                 </tr>
                                 <tr>
                                     <th scope="row">3</th>
-                                    <td>Mrs. Preeti Sood</td>
+                                    <td>Ms.Yashika Uniyal</td>
                                     <td>Member</td>
-                                    <td>7300777713</td>
-                                    <td>pritisood@gncdehradun.com</td>
+                                    <td>7830948831</td>
+                                    <td>yashikauniyal@gncdehradun.com</td>
                                 </tr>
                             </tbody>
                         </table>
@@ -329,17 +329,17 @@
                                 </tr>
                                 <tr>
                                     <th scope="row">3</th>
-                                    <td>Ms. Kriti Dabral</td>
-                                    <td>Member</td>
-                                    <td>9467545933</td>
-                                    <td>kritidabral@gncdehradun.com</td>
+                                    <td>Mr. Danish Ahmad</td>
+                                    <td>Member Secretary</td>
+                                    <td>7055532334</td>
+                                    <td>danish@gncdehradun.com</td>
                                 </tr>
                                 <tr>
                                     <th scope="row">3</th>
-                                    <td>Dr. R.D Saklani</td>
+                                    <td>Ms. Nandini chaturvedi</td>
                                     <td>Member</td>
-                                    <td>7456000110</td>
-                                    <td>rdsaklani@gncdehradun.com</td>
+                                    <td>8319387669</td>
+                                    <td>nandini@gncdehradun.com</td>
                                 </tr>
                             </tbody>
                         </table>
@@ -389,9 +389,9 @@
                             <tbody>
                             <tr>
                                     <th scope="row">1</th>
-                                    <td>Prof. (Dr.) C. Subramaniam</td>
+                                    <td>Mr. Saithjeet Arora</td>
                                     <td>Chairperson</td>
-                                    <td>8870249787</td>
+                                    <td>9980085072</td>
                                     <td>csubramaniam@gncdehradun.com</td>
                                 </tr>
                                 <tr>
@@ -437,7 +437,7 @@
                             <tr>
                                     <th scope="row">1</th>
                                     <td>Dr. Nidhi Chatterjee</td>
-                                    <td>Member Secretary</td>
+                                    <td>ChairPerson</td>
                                     <td>7300777721</td>
                                     <td>nidhichatterjee@gncdehradun.com</td>
                                 </tr>
@@ -539,17 +539,17 @@
                                 </tr>
                                 <tr>
                                     <th scope="row">2</th>
-                                    <td>Mr. Mamlesh Prasad Semwal</td>
+                                    <td>Mr. Chetan Singh</td>
                                     <td>Member Secretary</td>
-                                    <td>8445326799</td>
-                                    <td>mamleshprasad@gncdehradun.com</td>
+                                    <td>9557009822</td>
+                                    <td>chetan@gncdehradun.com</td>
                                 </tr>
                                 <tr>
                                     <th scope="row">3</th>
-                                    <td>Mrs. Kriti Dabral</td>
+                                    <td>Mr. Kashif Hussain</td>
                                     <td>Member</td>
-                                    <td>9467545933</td>
-                                    <td>kritidabral@gncdehradun.com</td>
+                                    <td>9634416993</td>
+                                    <td>kashif@gncdehradun.com</td>
                                 </tr>
                             </tbody>
                         </table>
@@ -593,10 +593,10 @@
                                 </tr>
                                 <tr>
                                     <th scope="row">3</th>
-                                    <td>Dr. Vishal Kamboj</td>
+                                    <td>Dr. Sunil Kumar Suman</td>
                                     <td>Member</td>
-                                    <td>8295219491</td>
-                                    <td>vishalkamboj@gncdehradun.com</td>
+                                    <td>8210204638</td>
+                                    <td>sunil@gncdehradun.com</td>
                                 </tr>
                             </tbody>
                         </table>
@@ -626,24 +626,24 @@
                             <tbody>
                             <tr>
                                     <th scope="row">1</th>
-                                    <td>Prof. (Dr.) C. Subramaniam</td>
+                                    <td>Mr. Himanshu Kumar</td>
                                     <td>Chairperson</td>
-                                    <td>8870249787</td>
-                                    <td>csubramaniam@gncdehradun.com</td>
+                                    <td>9084730510</td>
+                                    <td>himanshu@gncdehradun.com</td>
                                 </tr>
                                 <tr>
                                     <th scope="row">2</th>
-                                    <td>Dr. Nidhi Chatterjee</td>
+                                    <td>Mr. Danish Ahmad</td>
                                     <td>Member Secretary</td>
-                                    <td>7300777721</td>
-                                    <td>nidhichatterjee@gncdehradun.com</td>
+                                    <td>7055532334</td>
+                                    <td>danish@gncdehradun.com</td>
                                 </tr>
                                 <tr>
-                                    <th scope="row">2</th>
-                                    <td>Mr. Mamlesh Prasad Semwal</td>
+                                    <th scope="row">3</th>
+                                    <td>Ms. Prachi Nahar</td>
                                     <td>Member</td>
-                                    <td>8445326799</td>
-                                    <td>mamleshprasad@gncdehradun.com</td>
+                                    <td>6397576647</td>
+                                    <td>prachi@gncdehradun.com</td>
                                 </tr>
                             </tbody>
                         </table>
@@ -733,18 +733,18 @@
                                     <td>nidhichatterjee@gncdehradun.com</td>
                                 </tr>
                                 <tr>
-                                    <th scope="row">1</th>
-                                    <td>Ms. Kriti Dabral </td>
+                                    <th scope="row">2</th>
+                                    <td>Mr. Kashif Hussain</td>
                                     <td>Member Secretary</td>
-                                    <td>9467545933</td>
-                                    <td>kritidabral@gncdehradun.com</td>
+                                    <td>9634416993</td>
+                                    <td>kashif@gncdehradun.com</td>
                                 </tr>
                                 <tr>
-                                    <th scope="row">1</th>
-                                    <td>Dr. R.D. Saklani</td>
+                                    <th scope="row">3</th>
+                                    <td>Mr. Brajesh Kumar Rajak</td>
                                     <td>Member</td>
-                                    <td>7456000110</td>
-                                    <td>rdsaklani@gncdehradun.com</td>
+                                    <td>9179081952</td>
+                                    <td>brajesh@gncdehradun.com</td>
                                 </tr>
                             </tbody>
                         </table>
