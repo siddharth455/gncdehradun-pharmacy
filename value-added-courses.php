@@ -45,7 +45,8 @@
         <div class="section-heading">
             <h2 class="mb-3">Enhancing Skills with Value Added Courses</h2>
         </div>
-        <p class="mb-2" style="text-align: left;">At Guru Nanak College of Pharmaceutical Sciences, we offer a range of value-added courses designed to enhance our students' knowledge and skills beyond the standard curriculum. Our value-added courses aim to equip students with the latest industry knowledge, improve their employability, and prepare them to tackle real-world challenges effectively. Join us to gain a competitive edge and stay ahead in your professional journey.</p>
+        <p class="mb-2" style="text-align: left;">Guru Nanak College of Pharmaceutical Sciences (GNC) stands out with its unique integration of participatory, experiential, and problem-solving learning in its Value Added Courses (VACs). This student-focused approach is a key differentiator. The VACs promote active engagement through modular assessments like group discussions and simulations, fostering dynamic interaction and feedback. Experiential learning is emphasized with industry visits and ICT tools, providing practical, real-world skills. This interactive, hands-on learning is a distinctive GNC feature.</p>
+        <p class="mb-2" style="text-align: left;">Furthermore, VACs incorporate problem-solving via case studies and continuous evaluation, addressing student needs effectively. This has demonstrably improved engagement, skills, and analytical abilities. Positive student and faculty feedback confirms the success of these methods. This consistent application of these methodologies across its VACs is a defining characteristic of GNC, making it a leader in pharmaceutical sciences education.</p>
     </div>
 </section>
 <div id="chart-container">

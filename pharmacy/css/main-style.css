@@ -292,7 +292,7 @@ li::marker {
   text-align: left;
   padding: 20px;
   width: 400px;
-  background: rgba(3, 196, 250, 0.765);
+  background: rgba(158, 202, 218, 0.683);
   border: 2px solid rgba(255, 255, 255, 0.5);
   -webkit-backdrop-filter: blur(11px);
   backdrop-filter: blur(11px);
@@ -303,7 +303,7 @@ li::marker {
 }
 @media (max-width: 768px) {
   .applynow {
-    height: 508px;
+    height: 565px;
   }
 }
 @keyframes scroll {
@@ -1069,7 +1069,7 @@ body div#ee-form-6-modal-swapper {
   cursor: pointer;
 } */
 .ee-form-heading {
-  color: rgb(255, 255, 255) !important;
+ color: rgb(0, 0, 0) !important;
   font-size: 20px !important;
   font-weight: bolder !important;
 }

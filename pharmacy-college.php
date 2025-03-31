@@ -360,7 +360,7 @@
                                                     <tbody>
                                                         <tr>
                                                             <td>Fee</td>
-                                                            <td>85,000</td>
+                                                            <td>85,000 /- (Included Power Degree Fee)</td>
                                                         </tr>
                                                     </tbody>
                                                 </table>
@@ -387,7 +387,7 @@
                                                     <tbody>
                                                         <tr>
                                                             <td>Fee</td>
-                                                            <td>85,000</td>
+                                                            <td>85,000 /- (Included Power Degree Fee)</td>
                                                         </tr>
                                                     </tbody>
                                                 </table>
@@ -414,7 +414,7 @@
                                                     <tbody>
                                                         <tr>
                                                             <td>Fee</td>
-                                                            <td>65,000</td>
+                                                            <td>65,000 /- (Included Power Degree Fee)</td>
                                                         </tr>
                                                     </tbody>
                                                 </table>
