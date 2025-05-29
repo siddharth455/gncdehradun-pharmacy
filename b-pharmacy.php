@@ -1,15 +1,31 @@
 <?php require "common/header.php" ?>
-<div class="banner-area about" style="background-image: url(assets/images/banner/10.webp);">
-    <div class="d-table">
-        <div class="d-table-cell">
-            <div class="container">
-                <div class="page-title-content">
-                    <h1>Bachelor in Pharmacy</h1>
-                </div>
-            </div>
-        </div>
-    </div>
+<div class="clean-banner" style="background-image: url(assets/images/banner/10.webp);">
+  <div class="clean-banner-content">
+    <h1>Bachelor in Pharmacy</h1>
+  </div>
+
+  <!-- Form Placeholder (for desktop) -->
+  <div class="clean-form" id="form-container-desktop">
+    <span id="ee-form-6">
+      <script src="https://eeconfigstaticfiles.blob.core.windows.net/staticfiles/applycbc/ee-form-widget/form-6/widget.js"></script>
+    </span>
+  </div>
 </div>
+
+<!-- Form Placeholder (for mobile) -->
+<div id="form-container-mobile" class="clean-form mobile-only"></div>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    if (window.innerWidth <= 768) {
+      const mobileFormContainer = document.getElementById("form-container-mobile");
+      const desktopForm = document.getElementById("form-container-desktop");
+      if (mobileFormContainer && desktopForm) {
+        mobileFormContainer.appendChild(desktopForm.querySelector("#ee-form-6"));
+      }
+    }
+  });
+</script>
 <section class="aboutProgram-section pt-5 pb-5">
     <div class="container">
         <div class="row">

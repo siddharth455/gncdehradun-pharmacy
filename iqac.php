@@ -1,4 +1,7 @@
-<?php require "common/header.php" ?>
+<?php
+require "common/header.php";
+?>
+
 <style>
     .nav-pills {
         background-color: #cfd3d9;
@@ -68,6 +71,7 @@
                 <button class="nav-link main"><a href="feedback-form.php">Feedback</a></button>
                 <button class="nav-link main"><a href="assets/images/IIQA declaration.pdf" target="_blank">IIQA Declaration</a></button>
                 <button class="nav-link main"><a href="sustainability.php">Sustainability</a></button>
+
             </div>
         </div>
         <div class="col-lg-9 col-md-8 col-sm-7">
@@ -127,6 +131,9 @@
                         </div>
                     </div>
                 </div>
+                
+    
+
                 <div class="tab-pane fade" id="v-pills-profile" role="tabpanel" aria-labelledby="v-pills-profile-tab" tabindex="0">
                     <!-- Content for Minutes of Meeting Tab -->
                 </div>
@@ -386,4 +393,6 @@
         </div>
     </div>
 </div>
+
+
 <?php require "common/footer.php" ?>

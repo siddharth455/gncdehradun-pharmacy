@@ -1,5 +1,72 @@
 @import url("https://fonts.googleapis.com/css?family=Playfair+Display:500,700,800,900|Poppins:400,500,600,700,800&display=swap");
 
+.clean-banner {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-size: cover;
+  background-position: center;
+  padding: 60px 80px; /* ✅ adds spacing from left/right in desktop */
+  color: #fff;
+  flex-wrap: wrap;
+  min-height: 450px; /* ✅ ensures banner is not too small on desktop */
+  box-sizing: border-box;
+}
+
+.clean-banner-content {
+  flex: 1 1 60%;
+}
+
+.clean-banner-content h1 {
+  font-size: 3rem;
+  margin: 0;
+  text-shadow: 1px 1px 6px rgba(0, 0, 0, 0.5);
+}
+
+.clean-form {
+  flex: 1 1 35%;
+  max-width: 400px;
+  background: #fff;
+  color: #000;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+/* For mobile container */
+#form-container-mobile {
+  margin: 30px auto;
+  max-width: 600px;
+  padding: 0 15px;
+}
+
+.mobile-only {
+  display: none;
+}
+
+/* ✅ MOBILE FIXES */
+@media (max-width: 768px) {
+  .clean-banner {
+    flex-direction: column;
+    padding: 20px 20px;
+    min-height: 350px; /* ✅ ensures full height on mobile */
+    text-align: center;
+  }
+
+  .clean-banner-content h1 {
+    font-size: 2rem;
+    margin-top: 155px;
+  }
+
+  #form-container-desktop {
+    display: none;
+  }
+
+  .mobile-only {
+    display: block;
+  }
+}
+
 body {
   font-family: "Poppins", sans-serif;
 }

@@ -15,6 +15,7 @@
     <link href="assets/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="assets/css/fontawesome.min.css" />
     <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.css">
+    
     <title>GNC Dehradun</title>
     <link rel="icon" type="image/png" href="assets/images/gnc_black-logo.svg">
 </head>
@@ -36,17 +37,17 @@
     <div class="navbar-area">
         <div class="social-links vh-40">
             <ul class="list-unstyled mb-0 button">
-                <li>
-                    <a href="https://web.whatsapp.com/send?phone=+api.whatsapp.com/send?phone=+917300900900&text=Hi" target="_blank"><i class="fab fa-whatsapp" aria-hidden="true"></i>
-                        <span>Whatsapp</span>
-                    </a>
+            <li>
+                <a href="https://wa.me/917300900900?text=Hi GNC" target="_blank"><i class="fab fa-whatsapp" aria-hidden="true"></i>
+                    <span>Whatsapp</span>
+                </a>
                 </li>
                 <li>
-                    <a href="tel:+917300900900" aria-label="Give a miss call"><i class="fa fa-phone" aria-hidden="true"></i>
+                <a href="tel:+917300900900" aria-label="Give a miss call"><i class="fa fa-phone" aria-hidden="true"></i>
 
-                        <span>Call&nbsp;Us</span>
-                    </a>
-                </li>
+                    <span>Call&nbsp;Us</span>
+                </a>
+            </li>
                 <li>
                     <a href="https://maps.app.goo.gl/WWNhKqccPRahyEya9" target="_blank"><i class="fa fa-location-arrow" aria-hidden="true"></i>
                         <span>Contact</span>
