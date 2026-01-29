@@ -343,16 +343,13 @@
                 <?php foreach ($news_array as $index => $news_item) { ?>
                     <div class="col-lg-4 col-md-6">
                         <div class="single-home-news">
-                            <a href="news-page.php?id=<?php echo $index; ?>">
+                            <a href="news.php">
                                 <img src="<?php echo $news_item['image']; ?>" alt="news" style="filter: drop-shadow(5px 6px 5px black);" />
                             </a>
 
                             <div class="single-home-content">
                                 <h2><?php echo $news_item['title']; ?></h2>
-                                <p class="calender">
-                                    <i class="flaticon-calendar"></i> <?php echo $news_item['eventdate']; ?>
-                                </p>
-                                <a href="news-page.php?id=<?php echo $index; ?>" class="line-bnt">Read More <i class="flaticon-next"></i></a> <!-- Pass news ID via URL -->
+                                <a href="news.php" class="line-bnt">Read More <i class="flaticon-next"></i></a> <!-- Pass news ID via URL -->
                             </div>
                         </div>
                     </div>
@@ -362,7 +359,29 @@
     </div>
 </section>
 <!-- End News Area -->
+<style>
+    /* Ensure equal height cards */
+.single-home-news {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
 
+/* Fix image height */
+.single-home-news img {
+    width: 100%;
+    height: 220px;              /* SAME HEIGHT FOR ALL */
+    object-fit: contain;          /* crop nicely */
+    border-radius: 6px;
+}
+
+/* Content stays aligned */
+.single-home-content {
+    flex-grow: 1;
+    padding-top: 12px;
+    text-align: center;
+}
+    </style>
 <!-- Teachers Area -->
 <section class="home-teachers-area">
     <div class="container">
@@ -377,11 +396,11 @@
                 <div class="col-lg-3 col-sm-6">
                     <div class="single-home-teacher">
                         <div class="teacher-img">
-                            <img src="assets/images/princpal.webp" alt="teacher" />
+                            <img src="assets/images/db.jpeg" alt="teacher" />
                         </div>
                         <div class="teachers-content">
-                            <h2>Prof. (Dr.) Deepak Sharma</h2>
-                            <p>Principal</p>
+                            <h2>Prof. (Dr.) S.Duraivel</h2>
+                            <p>Director</p>
                         </div>
                     </div>
                 </div>
@@ -421,10 +440,10 @@
                 <div class="col-lg-3 col-sm-6">
                     <div class="single-home-teacher">
                         <div class="teacher-img">
-                            <img src="assets/images/mohit.webp" alt="teacher" />
+                            <img src="assets/images/pankhuri.jpeg" alt="teacher" />
                         </div>
                         <div class="teachers-content">
-                            <h2>Dr. Mohit Gupta</h2>
+                            <h2>Pankhuri Hans Rahija</h2>
                             <p>Professor</p>
                         </div>
                     </div>

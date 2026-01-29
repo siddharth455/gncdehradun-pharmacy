@@ -25,7 +25,6 @@ if ($id !== null) {
     <div class="container mt-5 mb-5">
   <div class="news-content">
     <h1><?= htmlspecialchars($selectedNewsItem['title']) ?></h1>
-    <h3><?= htmlspecialchars($selectedNewsItem['eventdate']) ?></h3>
     <p><?= htmlspecialchars($selectedNewsItem['about']) ?></p>
     <div class="row">
       <div class="col-lg-12 col-12">

@@ -20,7 +20,7 @@
                             <div class="row">
                                 <div class="col-8">
                                     <h2 data-orig-font="56px" style="font-size: 56px;">Vision</h2>
-                                    <h6>Reach for our dreams</h6>
+                                    <h6>To emerge as a Centre for Excellence in Pharmacy Education and Research</h6>
                                 </div>
                                 <div class="col-4">
                                     <!-- <img src="images/vision.png" alt="Vision of BFIT"> -->
@@ -28,7 +28,9 @@
                             </div>
                         </div>
                         <ul>
-                            <li>At Guru Nanak College Of Pharmaceutical Sciences, the vision is to create a learning environment that goes beyond traditional education. Inspired by Guru Nanak Dev Ji’s teachings, the college focuses on 'Learning by Doing,' providing practical, hands-on experiences that equip students with real-world skills. The college endeavors to keep education affordable and promote an international culture, ensuring quality education is accessible to everyone, regardless of caste, creed, or gender. An inclusive community that values diversity and encourages lifelong learning is central to our vision.</li>
+                            <li>
+
+Guru Nanak College of Pharmaceutical Sciences, Dehradun is committed to promote quality education in the field of pharmacy to produce skilled and knowledgeable pharmacists to manage the pharmaceutical industry and to cater the needs of health services, aimed to meet the challenges to the pharmacy profession.</li>
                         </ul>
                     </div>
 
@@ -37,7 +39,7 @@
                             <div class="row">
                                 <div class="col-8">
                                     <h2 data-orig-font="56px" style="font-size: 56px;">Mission</h2>
-                                    <h6>Achievements along the way</h6>
+                                   
                                 </div>
                                 <div class="col-4">
                                     <!-- <img src="images/mission.png" alt="Mission of BFIT"> -->
@@ -46,12 +48,10 @@
                         </div>
                         <div class="mission-listing">
                             <ul>
-                                <li>To combine digital knowledge with academic excellence by incorporating modern technology into the curriculum and ensuring students gain practical, hands-on experiences that develop real-world skills through <b>'Learning by Doing'</b>.</li>
-                                <li>To support female students by encouraging entrepreneurial ventures and develop innovation, while providing resources and support services for physically challenged students, promoting independence and self-sufficiency.</li>
-                                <li>To maintain a faculty of experienced teachers, researchers, scientists, and professionals, and include industry experts in the management team for enriching students' learning experiences with corporate insights and expertise.</li>
-                                <li>To uplift defense wards, athletes, meritorious students, girls, and economically weaker sections by offering scholarships, and to support nearby villages by providing free education. This includes inspiring higher education, lifelong learning, and empowering students with educational guidance, medical assistance, and skills for a sustainable livelihood.</li>
-                                <li>To offer clear guidance on career paths, including jobs, research, entrepreneurship, and further studies in India and abroad.</li>
-                                <li>To support our students in researching and developing affordable generic medicines, via our advanced research resources and expert guidance ensuring accessible healthcare solutions for all with a no-profit-no-loss approach.</li>
+                                <li>To impart holistic and multidisciplinary pharmacy education that integrates Indian Knowledge Systems, ethical research practices, and global best standards, fostering innovation and lifelong learning.</li>
+                                <li>To promote inclusive, equitable, and industry-responsive academic programs that empower students with 21st-century skills, digital competencies, and sustainable healthcare solutions.</li>
+                                <li>To cultivate a research-driven ecosystem that advances pharmaceutical sciences through interdisciplinary collaboration, regulatory compliance, and community engagement.</li>
+                                <li>To nurture ethical leadership and social responsibility among pharmacy professionals by embedding sustainability, gender equity, and environmental stewardship into institutional practices.</li>
                             </ul>
                         </div>
                     </div>

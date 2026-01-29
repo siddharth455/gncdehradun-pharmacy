@@ -30,148 +30,101 @@
         <tbody>
             <tr>
                 <th scope="row">1</th>
-                <th>Prof. (Dr.) Deepak Sharma</th>
-                <td>Principal</td>
+                <th>Dr. S. Duraivel</th>
+                <td>Professor</td>
             </tr>
             <tr>
                 <th scope="row">2</th>
-                <th>Dr. Nidhi Chatterjee</th>
+                <th>Dr. Gudipudi Hrushikesh</th>
                 <td>Professor</td>
             </tr>
             <tr>
                 <th scope="row">3</th>
-                <th>Dr. Vishal kamboj</th>
+                <th>Dr. Gajam Srikanth</th>
                 <td>Assistant Professor</td>
             </tr>
             <tr>
                 <th scope="row">4</th>
-                <th>Dr. Vishal Kumar Deshwal</th>
+                <th>Dr. Bandameedi Ramu</th>
                 <td>Professor</td>
             </tr> 
             <tr>
                 <th scope="row">5</th>
-                <th>Dr. R.D. Saklani</th>
-                <td>Professor</td>
+                <th>Kriti Dabral</th>
+                <td>Associate Professor</td>
             </tr>
             <tr>
                 <th scope="row">6</th>
-                <th>Dr. Sunil Kumar Suman</th>
-                <td>Assistant Professor</td>
+                <th>Kashif Hussain</th>
+                <td>Associate Professor</td>
             </tr>
             <tr>
                 <th scope="row">7</th>
-                <th>Dr. Mohit Gupta</th>
-                <td>Professor</td>
+                <th>Archana Rautela</th>
+                <td>Associate Professor</td>
             </tr>
             <tr>
                 <th scope="row">8</th>
-                <th>Ms. Kriti Dabral</th>
-                <td>Assistant Professor</td>
+                <th>Gulfsha Parveen</th>
+                <td>Associate Professor</td>
             </tr>
             <tr>
                 <th scope="row">9</th>
-                <th>Mr. Mamlesh Prasad Semwal</th>
+                <th>REKHA PAL</th>
                 <td>Assistant Professor</td>
             </tr>
 
              <tr>
                 <th scope="row">10</th>
-                <th>Ms. Bhawana Bora</th>
+                <th>Anisha arya</th>
                 <td>Assistant Professor</td>
             </tr>
             <tr>
                 <th scope="row">11</th>
-                <th>Ms. Nahid Parveen</th>
+                <th>CHETAN SINGH</th>
                 <td>Assistant Professor</td>
             </tr>
             <tr>
                 <th scope="row">12</th>
-                <th>Ms. Rohita</th>
+                <th>SONU</th>
                 <td>Assistant Professor</td>
             </tr>
             <tr>
                 <th scope="row">13</th>
-                <th>Mr. Kashif Hussain</th>
-                <td>Associate Professor</td>
+                <th>Prashant Kumar</th>
+                <td>Assistant Professor</td>
             </tr>
             <tr>
                 <th scope="row">14</th>
-                <th>Mr. Danish Ahmed</th>
-                <td>Assistant Professor</td>
+                <th>Dr. Pankhuri Hans</th>
+                <td>Professor</td>
             </tr>
             <tr>
                 <th scope="row">15</th>
-                <th>Mr. Chetan Singh</th>
-                <td>Assistant Professor</td>
+                <th>RamKishor Kushwaha</th>
+                <td>Associate Professor</td>
             </tr>
             <tr>
                 <th scope="row">16</th>
-                <th>Mr. Anil Kumar</th>
-                <td>Assistant Professor</td>
+                <th>Sunil Datt Belwal</th>
+                <td>Associate Professor</td>
             </tr>
             <tr>
                 <th scope="row">17</th>
-                <th>Mr. Dhundhup Gyaltsen</th>
+                <th>Durgesh Kumar Dubey</th>
                 <td>Assistant Professor </td>
             </tr>
             <tr>
                 <th scope="row">18</th>
-                <th>Ms. Nandani</th>
-                <td>Assistant Professor</td>
+                <th>Manoj Singh</th>
+                <td>Associate Professor</td>
             </tr>
             <tr>
                 <th scope="row">19</th>
-                <th>Mrs. Priti Sood</th>
-                <td>Assistant Professor</td>
+                <th>Saurabh Pant</th>
+                <td>Associate Professor</td>
                 
             </tr>
-            <tr>
-                <th scope="row">20</th>
-                <th>Mr. Abhishek Bharti</th>
-                <td>Assistant Professor</td>
-               
-            </tr>
-            <tr>
-                <th scope="row">21</th>
-                <th>Ms. Bhawana Belwal</th>
-                <td>Assistant Professor</td>
-            </tr>
-            <tr>
-                <th scope="row">22</th>
-                <th>Mrs. Yashika Uniyal</th>
-                <td>Assistant Professor</td>
-            </tr>
-            <tr>
-                <th scope="row">23</th>
-                <th>Mrs. Rohini Kunwar</th>
-                <td>Assistant Professor</td>
-            </tr>
-            <tr>
-                <th scope="row">24</th>
-                <th>Ms. Prachi Nahar</th>
-                <td>Assistant Professor</td>
-            </tr>
-            <tr>
-                <th scope="row">25</th>
-                <th>Ms. Babita</th>
-                <td>Lecturer</td>
-            </tr>
-            <tr>
-                <th scope="row">26</th>
-                <th>Mr. Prashant</th>
-                <td>Lecturer</td>
-            </tr>
-            <tr>
-                <th scope="row">27</th>
-                <th>Mr. Gufran</th>
-                <td>Lecturer</td>
-            </tr>
-            <tr>
-                <th scope="row">28</th>
-                <th>Mr. Mohd Shoaib</th>
-                <td>Lecturer</td>
-            </tr>
-            
         </tbody>
     </table>
 </section>

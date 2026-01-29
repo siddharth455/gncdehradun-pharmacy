@@ -1,63 +1,63 @@
 <?php
-// Assuming you have a JSON file named 'news-data.json' in the same directory as your PHP script.
 $jsonData = file_get_contents('news-data.json');
 $events = json_decode($jsonData, true);
 ?>
+
 <?php require "common/header.php" ?>
+
 <style>
-    .event {
-        width: 400px;
-        border: 1px solid black;
-        padding: 5PX !important;
-        margin:1rem 0 0 1rem;
-        /* Add space between the rows */
-        border-radius: 10px;
-        height: 100%;
-    }
     .event-container {
         display: flex;
         flex-wrap: wrap;
-        gap: 30px;
+        row-gap: 30px;
+    }
+
+    .event {
+        border: 1px solid #ccc;
+        border-radius: 10px;
+        background: #fff;
+        width: 100%;
+        cursor: pointer;
     }
 
     .event img {
         width: 100%;
-        height: auto;
-        border-top-left-radius: 10PX;
+        height: 220px;
+        object-fit: contain;
+        background: #f5f5f5;
+        border-top-left-radius: 10px;
         border-top-right-radius: 10px;
     }
 
+    .event .content {
+        padding: 15px;
+        text-align: center;
+    }
+
     .event .title {
-        font-weight: bold;
+        font-weight: 600;
+        margin-bottom: 6px;
     }
 
-    .event .date {
-        color: grey;
-    }
-    @media (max-width: 992px) {
-        .event {
-            width: 100%; /* Adjust width for tablet view */
-        }
-        .col-12 label{
-            display: inline-block;
-            margin: 5px;
-        }
+    .event .subtitle {
+        font-size: 14px;
+        color: #666;
     }
 
-    /* Media query for mobile view */
-    @media (max-width: 576px) {
-        .event {
-            width: 80%; /* Full width for mobile view */
-        }
-        .event-container{
-            margin-left:3rem ;
-        }
-        .col-12 label{
-            display: inline-block;
-            margin: 5px;
-        }
+    /* Remove banner overlay */
+    .banner-area::before {
+        display: none !important;
+    }
+
+    /* Modal image fits screen */
+    .modal-body img {
+        max-height: 90vh;
+        max-width: 100%;
+        object-fit: contain;
     }
 </style>
+
+<!-- Banner -->
 <div class="banner-area about" style="background-image: url(assets/images/news-update-head.webp);">
     <div class="d-table">
         <div class="d-table-cell">
@@ -69,93 +69,49 @@ $events = json_decode($jsonData, true);
         </div>
     </div>
 </div>
- 
 
+<!-- News Cards -->
 <div class="container mt-5 mb-5">
-    <div class="row">
-        <div class= "col-12">
-            <label for="category-filter">Filter by Category:</label>
-            <select id="category-filter">
-                <option value="all">All</option>
-                <option value="Educational">Educational Visit</option>
-                <option value="training">Training & Placement</option>
-                <option value="Sports">Sports</option>
-                <option value="cultural">Cultural</option>
-            </select>
-            <label for="month-filter">Filter by Month:</label>
-            <select id="month-filter">
-                <option value="all">All</option>
-                <option value="01">January</option>
-                <option value="02">February</option>
-                <option value="03">March</option>
-                <option value="04">April</option>
-                <option value="05">May</option>
-                <option value="06">June</option>
-                <option value="07">July</option>
-                <option value="08">August</option>
-                <option value="09">September</option>
-                <option value="10">October</option>
-                <option value="11">November</option>
-                <option value="12">December</option>
-            </select>
-            <label for="year-filter">Filter by Year:</label>
-            <input type="number" id="year-filter" placeholder="YYYY">
-        </div>
-    </div>
     <div class="row event-container">
-        <?php $counter = 1;?>
-        <?php foreach ($events as $index => $event) :?>
-            <div class="col-lg-4 col-12 event" data-category="<?= $event['category']?>" data-date="<?= date('Y-m-d', strtotime($event['date']))?>">
-                <div class="event-news">
-                    <a href="news-page.php?id=<?= $counter - 1?>" class="news-link">
-                        <img src="<?= htmlspecialchars($event['image'])?>" alt="<?= htmlspecialchars($event['title'])?>">
-                        <div class="title"><?= htmlspecialchars($event['title'])?></div>
-                        <?php if (!empty($event['subtitle'])) :?>
-                            <div class="subtitle"><?= htmlspecialchars($event['subtitle'])?></div>
-                        <?php endif;?>
-                        <div class="date"><?= htmlspecialchars($event['eventdate'])?></div>
-                    </a>
+        <?php foreach ($events as $index => $event) : ?>
+            <!-- 3 cards per row -->
+            <div class="col-lg-4 col-md-6 col-12 d-flex">
+                <div class="event"
+                     data-bs-toggle="modal"
+                     data-bs-target="#newsModal<?= $index ?>">
+
+                    <img src="<?= htmlspecialchars($event['image']) ?>"
+                         alt="<?= htmlspecialchars($event['title']) ?>">
+
+                    <div class="content">
+                        <div class="title">
+                            <?= htmlspecialchars($event['title']) ?>
+                        </div>
+
+                       
+                    </div>
                 </div>
             </div>
-            <?php $counter++;?>
-        <?php endforeach;?>
+
+            <!-- Modal -->
+            <div class="modal fade" id="newsModal<?= $index ?>" tabindex="-1">
+                <div class="modal-dialog modal-dialog-centered modal-lg">
+                    <div class="modal-content border-0">
+                        <div class="modal-body text-center position-relative">
+                            <button type="button"
+                                    class="btn-close position-absolute top-0 end-0 m-3"
+                                    data-bs-dismiss="modal"></button>
+
+                            <img src="<?= htmlspecialchars($event['image']) ?>"
+                                 alt="<?= htmlspecialchars($event['title']) ?>"
+                                 class="img-fluid rounded">
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        <?php endforeach; ?>
     </div>
 </div>
-
-<script>
-    document.addEventListener('DOMContentLoaded', function() {
-        const categoryFilter = document.getElementById('category-filter');
-        const monthFilter = document.getElementById('month-filter');
-        const yearFilter = document.getElementById('year-filter');
-        const events = document.querySelectorAll('.event');
-
-        const filterEvents = function() {
-            const selectedCategory = categoryFilter.value;
-            const selectedMonth = monthFilter.value;
-            const selectedYear = yearFilter.value;
-
-            events.forEach((event, index) => {
-                const eventCategory = event.getAttribute('data-category');
-                const eventDate = event.getAttribute('data-date');
-                const eventYear = eventDate.split('-')[0];
-
-                const matchesCategory = (selectedCategory === 'all' || selectedCategory === eventCategory);
-                const matchesMonth = (selectedMonth === 'all' || selectedMonth === eventDate.split('-')[1]);
-                const matchesYear = (selectedYear === '' || selectedYear === eventYear);
-
-                if (matchesCategory && matchesMonth && matchesYear) {
-                    event.style.display = 'block';
-                } else {
-                    event.style.display = 'none';
-                }
-            });
-        };
-
-        categoryFilter.addEventListener('change', filterEvents);
-        monthFilter.addEventListener('change', filterEvents);
-        yearFilter.addEventListener('input', filterEvents);
-    });
-</script>
-
 
 <?php require "common/footer.php" ?>

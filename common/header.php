@@ -15,7 +15,7 @@
     <link href="assets/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="assets/css/fontawesome.min.css" />
     <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.css">
-    
+
     <title>GNC Dehradun</title>
     <link rel="icon" type="image/png" href="assets/images/gnc_black-logo.svg">
 </head>
@@ -37,17 +37,17 @@
     <div class="navbar-area">
         <div class="social-links vh-40">
             <ul class="list-unstyled mb-0 button">
-            <li>
-                <a href="https://wa.me/917300900900?text=Hi GNC" target="_blank"><i class="fab fa-whatsapp" aria-hidden="true"></i>
-                    <span>Whatsapp</span>
-                </a>
+                <li>
+                    <a href="https://wa.me/917300900900?text=Hi GNC" target="_blank"><i class="fab fa-whatsapp" aria-hidden="true"></i>
+                        <span>Whatsapp</span>
+                    </a>
                 </li>
                 <li>
-                <a href="tel:+917300900900" aria-label="Give a miss call"><i class="fa fa-phone" aria-hidden="true"></i>
+                    <a href="tel:+917300900900" aria-label="Give a miss call"><i class="fa fa-phone" aria-hidden="true"></i>
 
-                    <span>Call&nbsp;Us</span>
-                </a>
-            </li>
+                        <span>Call&nbsp;Us</span>
+                    </a>
+                </li>
                 <li>
                     <a href="https://maps.app.goo.gl/WWNhKqccPRahyEya9" target="_blank"><i class="fa fa-location-arrow" aria-hidden="true"></i>
                         <span>Contact</span>
@@ -64,8 +64,13 @@
                     <div class="header__top--links">
                         <ul class="d-flex justify-content-center list-unstyled m-0 p-0">
                             <li class="menu-item kingster-normal-menu"><a href="https://student.gncdehradun.com/" target="_blank">Student ERP Login</a></li>
-                            <li class="menu-item kingster-normal-menu"><a href="https://staff.gncdehradun.com/" target="_blank">Staff ERP Login</a></li>
+                            <li class="menu-item kingster-normal-menu"><a href="https://staff.gncdehradun.com/AccSoft_GNC/Login.aspx" target="_blank">Staff ERP Login</a></li>
                             <li><a href="alumni.php">Alumni</a></li>
+                            <li>
+                                <a href="assets/images/SIF.pdf" target="_blank">
+                                    SIF
+                                </a>
+                            </li>
                         </ul>
                     </div>
                 </div>
@@ -110,9 +115,7 @@
                                     <li class="nav-item">
                                         <a href="committee.php" class="nav-link">committees</a>
                                     </li>
-                                    <li class="nav-item">
-                                        <a href="strategic.php" class="nav-link">Strategic Plan</a>
-                                    </li>
+                                    
                                     <li class="nav-item">
                                         <a href="awards-appreciation.php" class="nav-link">Awards &amp; Appreciation</a>
                                     </li>
@@ -171,15 +174,19 @@
                                         <a href="#" class="nav-link dropdown-toggle">Staff Members</a>
                                         <ul class="dropdown-menu">
                                             <li class="nav-item">
-                                            <a href="faculty-member.php" class="nav-link">Teaching Staff</a>
+                                                <a href="faculty-member.php" class="nav-link">Teaching Staff</a>
                                             </li>
                                             <li class="nav-item">
                                                 <a href="non-teaching.php" class="nav-link">Non-Teaching Staff</a>
                                             </li>
                                         </ul>
                                     </li>
+                                    <li class="nav-item">
+                                        <a href="lms.php" class="nav-link">LMS</a>
+                                    </li>
                                 </ul>
                             </li>
+
                             <li class="nav-item">
                                 <a href="#" class="nav-link dropdown-toggle">Admission</a>
                                 <ul class="dropdown-menu">
@@ -199,7 +206,7 @@
                                     <li class="nav-item">
                                         <a href="scholarship-section.php" class="nav-link">Scholarship</a>
                                     </li>
-                                    
+
                                     <!-- <li class="nav-item">
                         <a href="b-pharmacy-le.php" class="nav-link">B.Pharm (LE)</a>
                     </li> -->

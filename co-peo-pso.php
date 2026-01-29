@@ -135,12 +135,15 @@
                             Syllabus - D.Pharm
                         </button>
                         <button class="nav-link approvals-link" id="v-pills-HNBGMU-tab" data-bs-toggle="pill" data-bs-target="#v-pills-HNBGMU" type="button" role="tab" aria-controls="v-pills-HNBGMU" aria-selected="false">
-                            CO - D.Pharm
+                            COs
                         </button>
                         <button class="nav-link approvals-link " id="v-pills-home-tab" data-bs-toggle="pill" data-bs-target="#v-pills-home" type="button" role="tab" aria-controls="v-pills-home" aria-selected="true"> Syllabus - B.Pharm
                         </button>
                         <button class="nav-link approvals-link" id="v-pills-MSME-tab" data-bs-toggle="pill" data-bs-target="#v-pills-MSME" type="button" role="tab" aria-controls="v-pills-MSME" aria-selected="false">
-                            PSO, PO &amp; CO - B.Pharm
+                           Program Educational Objectives (PEOs)
+                        </button>
+                         <button class="nav-link approvals-link" id="v-pills-PO-tab" data-bs-toggle="pill" data-bs-target="#v-pills-PO" type="button" role="tab" aria-controls="v-pills-PO" aria-selected="false">
+                           PROGRAM OUTCOMES (POs)
                         </button>
 
                         <!--  <button class="nav-link approvals-link" id="v-pills-PCI-tab" data-bs-toggle="pill" data-bs-target="#v-pills-PCI" type="button" role="tab" aria-controls="v-pills-PCI" aria-selected="false">
@@ -162,42 +165,56 @@
                                 <embed src="assets/images/Syllabus_B_Pharm.pdf" type="application/pdf" width="100%" height="100%">
                             </div>
                         </div>
-                        <div class="tab-pane fade show" id="v-pills-UGC" role="tabpanel" aria-labelledby="v-pills-UGC-tab" tabindex="0">
+                        <div class="tab-pane fade " id="v-pills-UGC" role="tabpanel" aria-labelledby="v-pills-UGC-tab" tabindex="0">
                             <h4 style="text-align: center;">Syllabus CO - D.Pharm</h4>
                             <div class="pdf-container">
                                 <embed src="assets/images/D-Pharm-Syllabus.pdf" type="application/pdf" width="100%" height="100%">
                             </div>
                         </div>
-                        <div class="tab-pane fade show" id="v-pills-MSME" role="tabpanel" aria-labelledby="v-pills-MSME-tab" tabindex="0">
-                            <h4 style="text-align: center;">PSO, PO &amp; CO - B.Pharm</h4>
-                            <div class="pdf-container">
-                                <embed src="assets/images/bpo-pso-bphram.pdf" type="application/pdf" width="100%" height="100%">
+                        <div class="tab-pane fade " id="v-pills-MSME" role="tabpanel" aria-labelledby="v-pills-MSME-tab" tabindex="0">
+                           
+                          <div class="container">
+                            <div class="iqac-data">
+                                <div class="data-block">
+                                    <h3>Program Educational Objectives (PEOs) </h3>
+                                    <p>PEO 1: Graduates will demonstrate comprehensive knowledge in pharmaceutical sciences, integrating multidisciplinary learning, Indian Knowledge Systems, and ethical practices to address contemporary healthcare challenges.</p>
+                                        <p>PEO 2: Graduates will engage in advanced research, innovation, and collaborative projects that contribute to sustainable drug development, regulatory compliance, and translational healthcare solutions.</p>
+                                        <p>PEO 3: Graduates will be equipped with 21st-century skills, digital fluency, and entrepreneurial mindset to thrive in diverse pharmaceutical sectors including industry, academia, and public health.</p>
+                                        <p>PEO 4: Graduates will uphold values of equity, sustainability, and community engagement, contributing to responsible healthcare practices and environmental stewardship.</p>
+                                        <p>PEO 5: Graduates will evolve as ethical leaders and lifelong learners, committed to continuous professional development, policy advocacy, and global best practices in pharmacy.</p>
+                                    
+                                </div>
                             </div>
+                        </div>
+                        </div>
+                         <div class="tab-pane fade " id="v-pills-PO" role="tabpanel" aria-labelledby="v-pills-PO-tab" tabindex="0">
+                           
+                          <div class="container">
+                            <div class="iqac-data">
+                                <div class="data-block">
+                                    <h3>PROGRAM OUTCOMES (POs):</h3>
+                                    <p>Pharmacy Knowledge: Possess knowledge and comprehension of the core and basic knowledge associated with the profession of pharmacy, including biomedical sciences; pharmaceutical sciences; behavioral, social, and administrative pharmacy sciences; and manufacturing practices.<p>
+                                        <p>Planning Abilities: Demonstrate effective planning abilities including time management, resource management, delegation skills and organizational skills. Develop and implement plans and organize work to meet deadlines.</p>
+                                        <p>Problem analysis: Utilize the principles of scientific enquiry, thinking analytically, clearly and critically, while solving problems and making decisions during daily practice. Find, analyze, evaluate and apply information systematically and shall make defensible decisions.</p>
+                                        <p>Modern tool usage: Learn, select, and apply appropriate methods and procedures, resources, and modern pharmacy-related computing tools with an understanding of the limitations.</p>
+                                        <p>Leadership skills: Understand and consider the human reaction to change, motivation issues, leadership and team-building when planning changes required for fulfillment of practice, professional and societal responsibilities. Assume participatory roles as responsible citizens or leadership roles when appropriate to facilitate improvement in health and well- being.</p>
+                                   <p>Professional Identity: Understand, analyze and communicate the value of their professional roles in society (e.g. health care professionals, promoters of health, educators, managers, employers, employees).</p>
+                                   <p>Pharmaceutical Ethics: Honour personal values and apply ethical principles in professional and social contexts. Demonstrate behavior that recognizes cultural and personal variability in values, communication and lifestyles. Use ethical frameworks; apply ethical principles while making decisions and take responsibility for the outcomes associated with the decisions.</p>
+                                   <p>Communication: Communicate effectively with the pharmacy community and with society at large, such as, being able to comprehend and write effective reports, make effective presentations and documentation, and give and receive clear instructions.</p>
+                                   <p>The Pharmacist and society: Apply reasoning informed by the contextual knowledge to assess societal, health, safety and legal issues and the consequent responsibilities relevant to the professional pharmacy practice.</p>
+                                   <p>Environment and sustainability: Understand the impact of the professional pharmacy solutions in societal and environmental contexts, and demonstrate the knowledge of, and need for sustainable development.</p>
+                                   <p>Life-long learning: Recognize the need for, and have the preparation and ability to engage in independent and life-long learning in the broadest context of technological change. Self- assess and use feedback effectively from others to identify learning needs and to satisfy these needs on an ongoing basis.</p>
+                                </div>
+                            </div>
+                        </div>
                         </div>
                         <div class="tab-pane fade show" id="v-pills-HNBGMU" role="tabpanel" aria-labelledby="v-pills-HNBGMU-tab" tabindex="0">
-                            <h4 style="text-align: center;">CO - D.Pharm</h4>
+                            <h4 style="text-align: center;">COs</h4>
                             <div class="pdf-container">
-                                <embed src="assets/images/co-dpharm.pdf" type="application/pdf" width="100%" height="100%">
+                                <embed src="assets/images/GNC-cos.pdf" type="application/pdf" width="100%" height="100%">
                             </div>
                         </div>
-                        <div class="tab-pane fade show" id="v-pills-PCI" role="tabpanel" aria-labelledby="v-pills-PCI-tab" tabindex="0">
-                            <h4 style="text-align: center;">Gurukul Kangri (Deemed University), Uttarakhand</h4>
-                            <div class="pdf-container">
-                                <embed src="" type="application/pdf" width="100%" height="100%">
-                            </div>
-                        </div>
-                        <div class="tab-pane fade show" id="v-pills-UBTER" role="tabpanel" aria-labelledby="v-pills-UBTER-tab" tabindex="0">
-                            <h4 style="text-align: center;">Gurukul Kangri (Deemed University), Uttarakhand</h4>
-                            <div class="pdf-container">
-                                <embed src="" type="application/pdf" width="100%" height="100%">
-                            </div>
-                        </div>
-                        <div class="tab-pane fade show" id="v-pills-UTU" role="tabpanel" aria-labelledby="v-pills-UTU-tab" tabindex="0">
-                            <h4 style="text-align: center;">Gurukul Kangri (Deemed University), Uttarakhand</h4>
-                            <div class="pdf-container">
-                                <embed src="" type="application/pdf" width="100%" height="100%">
-                            </div>
-                        </div>
+                       
                     </div>
                 </div>
             </div>

@@ -1,40 +1,62 @@
 <?php
-// Assuming you have a JSON file named 'news-data.json' in the same directory as your PHP script.
+// Load JSON data
 $jsonData = file_get_contents('research-event.json');
 $events = json_decode($jsonData, true);
 ?>
+
 <?php require "common/header.php" ?>
+
 <style>
-    .event {
-        width: 400px;
-        border: 1px solid black;
-        padding: 5PX !important;
-        margin:1rem 0 0 1rem;
-        /* Add space between the rows */
-        border-radius: 10px;
-        height: 100%;
-    }
     .event-container {
         display: flex;
         flex-wrap: wrap;
-        gap: 30px;
+        row-gap: 30px;
     }
 
+    .event {
+        border: 1px solid #ccc;
+        border-radius: 10px;
+        background: #fff;
+        width: 100%;
+        height: 100%;
+        display: flex;
+    }
+
+    .event-news {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        height: 100%;
+    }
+
+    /* Image fully visible – no zoom */
     .event img {
         width: 100%;
-        height: auto;
-        border-top-left-radius: 10PX;
+        height: 220px;
+        object-fit: contain; /* key change */
+        background: #f5f5f5; /* fills empty space nicely */
+        border-top-left-radius: 10px;
         border-top-right-radius: 10px;
     }
 
-    .event .title {
-        font-weight: bold;
+    .event .content {
+        padding: 15px;
+        flex-grow: 1;
+        text-align: center;
     }
 
-    .event .date {
-        color: grey;
+    .event .title {
+        font-weight: 600;
+        font-size: 16px;
+        margin-bottom: 6px;
+    }
+
+    .event .subtitle {
+        font-size: 14px;
+        color: #666;
     }
 </style>
+
 <div class="banner-area about" style="background-image: url(assets/images/banner/41.webp);">
     <div class="d-table">
         <div class="d-table-cell">
@@ -46,28 +68,33 @@ $events = json_decode($jsonData, true);
         </div>
     </div>
 </div>
- 
 
 <div class="container mt-5 mb-5">
     <div class="row event-container">
-        <?php $counter = 1;?>
-        <?php foreach ($events as $index => $event) :?>
-            <div class="col-lg-4 col-12 event">
-                <div class="event-news">
-                    <a href="research-event-page.php?id=<?= $counter - 1?>" class="news-link">
-                        <img src="<?= htmlspecialchars($event['image'])?>" alt="<?= htmlspecialchars($event['title'])?>">
-                        <div class="title"><?= htmlspecialchars($event['title'])?></div>
-                        <?php if (!empty($event['subtitle'])) :?>
-                            <div class="subtitle"><?= htmlspecialchars($event['subtitle'])?></div>
-                        <?php endif;?>
-                        <div class="date"><?= htmlspecialchars($event['eventdate'])?></div>
-                    </a>
+        <?php foreach ($events as $event) : ?>
+            <!-- 3 cards per row -->
+            <div class="col-lg-4 col-md-6 col-12 d-flex">
+                <div class="event">
+                    <div class="event-news">
+                        <img src="<?= htmlspecialchars($event['image']) ?>"
+                             alt="<?= htmlspecialchars($event['title']) ?>">
+
+                        <div class="content">
+                            <div class="title">
+                                <?= htmlspecialchars($event['title']) ?>
+                            </div>
+
+                            <?php if (!empty($event['subtitle'])) : ?>
+                                <div class="subtitle">
+                                    <?= htmlspecialchars($event['subtitle']) ?>
+                                </div>
+                            <?php endif; ?>
+                        </div>
+                    </div>
                 </div>
             </div>
-            <?php $counter++;?>
-        <?php endforeach;?>
+        <?php endforeach; ?>
     </div>
 </div>
-
 
 <?php require "common/footer.php" ?>
