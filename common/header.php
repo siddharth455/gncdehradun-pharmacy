@@ -63,7 +63,7 @@
                     </div>
                     <div class="header__top--links">
                         <ul class="d-flex justify-content-center list-unstyled m-0 p-0">
-                            <li class="menu-item kingster-normal-menu"><a href="https://student.gncdehradun.com/" target="_blank">Student ERP Login</a></li>
+                            <li class="menu-item kingster-normal-menu"><a href="https://student.gncdehradun.com/AccSoft_GNC/" target="_blank">Student ERP Login</a></li>
                             <li class="menu-item kingster-normal-menu"><a href="https://staff.gncdehradun.com/AccSoft_GNC/Login.aspx" target="_blank">Staff ERP Login</a></li>
                             <li><a href="alumni.php">Alumni</a></li>
                             <li>
