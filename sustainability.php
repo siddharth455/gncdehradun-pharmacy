@@ -107,198 +107,102 @@
                                     <p>By focusing on sustainability & innovation the Guru Nanak College of Pharmaceutical Sciences aims to produce competent, socially responsible, and innovative professionals who can make a positive impact in the pharmaceutical industry and society at large.</p>
                                 </div>
                                 <div class="row images-sus">
+                                     <div class="col-md-6 col-sm-12">
+                                        <div class="card">
+                                            <img src="assets/images/Research/Research-69.jpeg" alt="">
+                                        </div>
+                                    </div>
+                                    <div class="col-md-6 col-sm-12">
+                                        <div class="card">
+                                            <img src="assets/images/Research/Research-79.jpeg" alt="">
+                                        </div>
+                                    </div>
                                     <div class="col-md-6 col-sm-12">
                                         <div class="card">
                                             <img src="assets/images/sustainability/sustainability-8.webp" alt="">
-                                            <div class="card-body">
-                                                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                                            </div>
                                         </div>
                                     </div>
                                     <div class="col-md-6 col-sm-12">
                                         <div class="card">
                                             <img src="assets/images/sustainability/sustainability-10.webp" alt="">
-                                            <div class="card-body">
-                                                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                                            </div>
                                         </div>
                                     </div>
                                     <div class="col-md-6 col-sm-12">
                                         <div class="card">
                                             <img src="assets/images/sustainability/sustainability-12.webp" alt="">
-                                            <div class="card-body">
-                                                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                                            </div>
                                         </div>
                                     </div>
                                     <div class="col-md-6 col-sm-12">
                                         <div class="card">
                                             <img src="assets/images/sustainability/sustainability-15.webp" alt="">
-                                            <div class="card-body">
-                                                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                                            </div>
                                         </div>
                                     </div>
                                     <div class="col-md-6 col-sm-12">
                                         <div class="card">
                                             <img src="assets/images/sustainability/sustainability-19.webp" alt="">
-                                            <div class="card-body">
-                                                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                                            </div>
                                         </div>
                                     </div>
                                     <div class="col-md-6 col-sm-12">
                                         <div class="card">
                                             <img src="assets/images/sustainability/sustainability-26.webp" alt="">
-                                            <div class="card-body">
-                                                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                                            </div>
                                         </div>
                                     </div>
                                     <div class="col-md-6 col-sm-12">
                                         <div class="card">
                                             <img src="assets/images/sustainability/sustainability-27.webp" alt="">
-                                            <div class="card-body">
-                                                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                                            </div>
                                         </div>
                                     </div>
                                     <div class="col-md-6 col-sm-12">
                                         <div class="card">
                                             <img src="assets/images/sustainability/sustainability-29.webp" alt="">
-                                            <div class="card-body">
-                                                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                                            </div>
                                         </div>
                                     </div>
                                     <div class="col-md-6 col-sm-12">
                                         <div class="card">
                                             <img src="assets/images/sustainability/sustainability-30.webp" alt="">
-                                            <div class="card-body">
-                                                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                                            </div>
                                         </div>
                                     </div>
                                     <div class="col-md-6 col-sm-12">
                                         <div class="card">
                                             <img src="assets/images/sustainability/sustainability-31.webp" alt="">
-                                            <div class="card-body">
-                                                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                                            </div>
                                         </div>
                                     </div>
                                     <div class="col-md-6 col-sm-12">
                                         <div class="card">
                                             <img src="assets/images/events/3.webp" alt="">
-                                            <div class="card-body">
-                                                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                                            </div>
                                         </div>
                                     </div>
                                     <div class="col-md-6 col-sm-12">
                                         <div class="card">
                                             <img src="assets/images/events/4.webp" alt="">
-                                            <div class="card-body">
-                                                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                                            </div>
                                         </div>
                                     </div>
                                     <div class="col-md-6 col-sm-12">
                                         <div class="card">
                                             <img src="assets/images/events/5.webp" alt="">
-                                            <div class="card-body">
-                                                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                                            </div>
                                         </div>
                                     </div>
                                     <div class="col-md-6 col-sm-12">
                                         <div class="card">
                                             <img src="assets/images/events/9.webp" alt="">
-                                            <div class="card-body">
-                                                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                                            </div>
                                         </div>
                                     </div>
                                     <div class="col-md-6 col-sm-12">
                                         <div class="card">
                                             <img src="assets/images/events/10.webp" alt="">
-                                            <div class="card-body">
-                                                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                                            </div>
                                         </div>
                                     </div>
                                     <div class="col-md-6 col-sm-12">
                                         <div class="card">
                                             <img src="assets/images/events/13.webp" alt="">
-                                            <div class="card-body">
-                                                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                                            </div>
                                         </div>
                                     </div>
                                     <div class="col-md-6 col-sm-12">
                                         <div class="card">
                                             <img src="assets/images/events/16.webp" alt="">
-                                            <div class="card-body">
-                                                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                                            </div>
                                         </div>
                                     </div>
-                                    <div class="col-md-6 col-sm-12">
-                                        <div class="card">
-                                            <img src="assets/images/events/23.webp" alt="">
-                                            <div class="card-body">
-                                                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-6 col-sm-12">
-                                        <div class="card">
-                                            <img src="assets/images/events/24.webp" alt="">
-                                            <div class="card-body">
-                                                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-6 col-sm-12">
-                                        <div class="card">
-                                            <img src="assets/images/events/30.webp" alt="">
-                                            <div class="card-body">
-                                                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-6 col-sm-12">
-                                        <div class="card">
-                                            <img src="assets/images/events/35.webp" alt="">
-                                            <div class="card-body">
-                                                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-6 col-sm-12">
-                                        <div class="card">
-                                            <img src="assets/images/events/40.webp" alt="">
-                                            <div class="card-body">
-                                                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-6 col-sm-12">
-                                        <div class="card">
-                                            <img src="assets/images/events/44.webp" alt="">
-                                            <div class="card-body">
-                                                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-6 col-sm-12">
-                                        <div class="card">
-                                            <img src="assets/images/events/45.webp" alt="">
-                                            <div class="card-body">
-                                                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                                            </div>
-                                        </div>
-                                    </div>
+                                  
                                 </div>
                             </div>
                         </div>
@@ -643,33 +547,45 @@
                                 </div>
                             </div>
                             <div class="row images-sus">
+                                 <div class="col-md-4 col-sm-12">
+                                    <img src="assets/images/Research/Research-82.jpeg" alt="">
+                                </div>
+                                 <div class="col-md-4 col-sm-12">
+                                    <img src="assets/images/Research/Research-85.jpeg" alt="">
+                                </div>
+                                 <div class="col-md-4 col-sm-12">
+                                    <img src="assets/images/Research/Research-88.jpeg" alt="">
+                                </div>
                                 <div class="col-md-4 col-sm-12">
-                                    <img src="assets/images/events/1.png" alt="">
+                                    <img src="assets/images/Research/Research-55.jpeg" alt="">
+                                </div>
+                                <div class="col-md-4 col-sm-12">
+                                    <img src="assets/images/Research/Research-56.jpeg" alt="">
 
                                 </div>
                                 <div class="col-md-4 col-sm-12">
-                                    <img src="assets/images/events/2.png" alt="">
+                                    <img src="assets/images/Research/Research-58.jpeg" alt="">
 
                                 </div>
                                 <div class="col-md-4 col-sm-12">
-                                    <img src="assets/images/events/6.png" alt="">
-                                </div>
-                                <div class="col-md-4 col-sm-12">
-                                    <img src="assets/images/events/12.png" alt="">
+                                    <img src="assets/images/Research/Research-60.jpeg" alt="">
 
                                 </div>
                                 <div class="col-md-4 col-sm-12">
-                                    <img src="assets/images/events/14.png" alt="">
-
+                                    <img src="assets/images/Research/Research-61.jpeg" alt="">
                                 </div>
-                                <div class="col-md-4 col-sm-12">
-                                    <img src="assets/images/events/22.png" alt="">
+ <div class="col-md-4 col-sm-12">
+                                    <img src="assets/images/Research/Research-62.jpeg" alt="">
                                 </div>
-                                <div class="col-md-4 col-sm-12">
-                                    <img src="assets/images/events/25.png" alt="">
-
+                                 <div class="col-md-4 col-sm-12">
+                                    <img src="assets/images/Research/Research-75.jpeg" alt="">
                                 </div>
-
+                                 <div class="col-md-4 col-sm-12">
+                                    <img src="assets/images/Research/Research-77.jpeg" alt="">
+                                </div>
+                                 <div class="col-md-4 col-sm-12">
+                                    <img src="assets/images/Research/Research-78.jpeg" alt="">
+                                </div>
                             </div>
                         </div>
                     </div>

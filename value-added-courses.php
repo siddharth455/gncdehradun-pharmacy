@@ -49,68 +49,7 @@
         <p class="mb-2" style="text-align: left;">Furthermore, VACs incorporate problem-solving via case studies and continuous evaluation, addressing student needs effectively. This has demonstrably improved engagement, skills, and analytical abilities. Positive student and faculty feedback confirms the success of these methods. This consistent application of these methodologies across its VACs is a defining characteristic of GNC, making it a leader in pharmaceutical sciences education.</p>
     </div>
 </section>
-<div id="chart-container">
-        <canvas id="bookChaptersChart"></canvas>
-    </div>
-    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2"></script>
-    <script>
-          function adjustFontSize(chart) {
-            const mobileFontSize = window.innerWidth <= 480 ? 16 : 24;
-            chart.options.plugins.datalabels.font.size = mobileFontSize;
-            chart.update();
-        }
-        const ctx = document.getElementById('bookChaptersChart').getContext('2d');
-        const bookChaptersChart = new Chart(ctx, {
-            type: 'pie',
-            data: {
-                labels: ['2019-20', '2020-21', '2021-22', '2022-23', '2023-24'],
-                datasets: [{
-                    label: 'Value Added Course',
-                    data: [4, 6, 8, 10, 2], 
-                    backgroundColor: [
-                        'rgba(255, 99, 132, 1)',
-                        'rgba(54, 162, 235, 1)',
-                        'rgba(255, 206, 86, 1)',
-                        'rgba(75, 192, 192, 1)',
-                        'rgba(153, 102, 23, 1)',
-                    ],
-                    borderColor: [
-                        'rgb(0, 0, 0)',
-                        'rgb(0, 0, 0)',
-                        'rgb(0, 0, 0)',
-                        'rgb(0, 0, 0)',
-                        'rgb(0, 0, 0)',
-                    ],
-                    borderWidth: 1
-                }]
-            },
-            options: {
-                responsive: true,
-                plugins: {
-                    legend: {
-                        position: 'top',
-                    },
-                    datalabels: {
-                        color: '#000',
-                        anchor: 'end',
-                        align: 'start',
-                        formatter: (value, context) => value,
-                        font: {
-                            weight: 'bold',
-                            size: 24
-                        }
-                    }
-                }
-            },
-            plugins: [ChartDataLabels]
-        });
-        adjustFontSize(bookChaptersChart);
 
-window.addEventListener('resize', () => {
-    adjustFontSize(bookChaptersChart);
-});
-    </script>
 <section class="container mb-4" style="filter: drop-shadow(3px 3px 5px black);">
 <div style="overflow-x:auto;">
     <table class="table table-bordered">

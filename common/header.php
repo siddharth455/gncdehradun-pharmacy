@@ -138,9 +138,11 @@
                                             </li>
                                         </ul>
                                     </li>
-                                    <li class="nav-item">
-                                        <a href="calendar.php" class="nav-link">Academics Calendar</a>
-                                    </li>
+                                     <li>
+                                <a href="assets/images/academic-calendar.php" target="_blank">
+                                    Academic Calendar
+                                </a>
+                            </li>
                                     <!-- <li class="nav-item">
                                         <a href="https://student.gncdehradun.com/" class="nav-link">Student-ERP Login</a>
                                     </li>
