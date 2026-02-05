@@ -100,9 +100,9 @@
                                     <li class="nav-item">
                                         <a href="principal-message.php" class="nav-link">Our Leadership</a>
                                     </li>
-                                    <li class="nav-item">
+                                    <!-- <li class="nav-item">
                                         <a href="404.php" class="nav-link">Organogram</a>
-                                    </li>
+                                    </li> -->
                                     <li class="nav-item">
                                         <a href="approvals.php" class="nav-link">Approvals &amp; Accreditation</a>
                                     </li>
@@ -139,7 +139,7 @@
                                         </ul>
                                     </li>
                                      <li>
-                                <a href="assets/images/academic-calendar.php" target="_blank">
+                                <a href="assets/images/academic-calendar.pdf" target="_blank">
                                     Academic Calendar
                                 </a>
                             </li>
@@ -180,6 +180,9 @@
                                             </li>
                                             <li class="nav-item">
                                                 <a href="non-teaching.php" class="nav-link">Non-Teaching Staff</a>
+                                            </li>
+                                             <li class="nav-item">
+                                                <a href="technical-staff.php" class="nav-link">Technical Supporting Staff</a>
                                             </li>
                                         </ul>
                                     </li>

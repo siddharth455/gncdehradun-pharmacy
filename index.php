@@ -429,6 +429,28 @@
                 <div class="col-lg-3 col-sm-6">
                     <div class="single-home-teacher">
                         <div class="teacher-img">
+                            <img src="assets/images/archana.png" alt="teacher" style="background-color: rgb(244,245,235);">
+                        </div>
+                        <div class="teachers-content">
+                            <h2>Archana Rautela</h2>
+                            <p>Associate Professor</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-sm-6">
+                    <div class="single-home-teacher">
+                        <div class="teacher-img">
+                            <img src="assets/images/Ramkishore.png" alt="teacher" style="background-color: rgb(244,245,235);">
+                        </div>
+                        <div class="teachers-content">
+                            <h2>RamKishor Kushwaha</h2>
+                            <p>Associate Professor</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-sm-6">
+                    <div class="single-home-teacher">
+                        <div class="teacher-img">
                             <img src="assets/images/bhoopendra.jpg" alt="teacher" />
                         </div>
                         <div class="teachers-content">

@@ -100,50 +100,82 @@
         </div>
     </div>
 </section>
-<section class="home-teachers-area mt-5">
+<section class="home-teachers-area">
     <div class="container">
         <div class="section-tittle text-center">
-            <h2>Honorable Teachers</h2>
+            <h2>Honorable Faculty Members</h2>
             <p>
-                A college course is a class offered by a college or university. These courses are usually part of a program leading.
+                Where Professors Lead with Honor and Excellence.
             </p>
         </div>
-
         <div class="row">
             <div class="slick-carousel-teachers">
                 <div class="col-lg-3 col-sm-6">
                     <div class="single-home-teacher">
                         <div class="teacher-img">
-                            <img src="assets/images/princpal.webp" alt="teacher" />
+                            <img src="assets/images/db.jpeg" alt="teacher" />
                         </div>
                         <div class="teachers-content">
-                            <h2>Prof. (Dr.) Deepak Sharma</h2>
-                            <p>Principal</p>
+                            <h2>Prof. (Dr.) S.Duraivel</h2>
+                            <p>Director</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-3 col-sm-6">
                     <div class="single-home-teacher">
                         <div class="teacher-img">
-                            <img src="assets/images/Subramaniam.webp" alt="teacher" />
+                            <img src="assets/images/rekha.jpg" alt="teacher" />
                         </div>
                         <div class="teachers-content">
-                            <h2>Prof. (Dr.) C. Subramaniam</h2>
+                            <h2>Rekha Pal</h2>
                             <p>Professor</p>
                         </div>
                     </div>
                 </div>
-                <!-- <div class="col-lg-3 col-sm-6">
+                 <div class="col-lg-3 col-sm-6">
                     <div class="single-home-teacher">
                         <div class="teacher-img">
-                            <img src="assets/images/Vishal.webp" alt="teacher" />
+                            <img src="assets/images/gulafsha.jpg" alt="teacher" />
                         </div>
                         <div class="teachers-content">
-                            <h2>Dr. Vishal Deshwal</h2>
+                            <h2>Gulafsha Parveen</h2>
+                            <p>Associate Professor</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-sm-6">
+                    <div class="single-home-teacher">
+                        <div class="teacher-img">
+                            <img src="assets/images/archana.png" alt="teacher" style="background-color: rgb(244,245,235);">
+                        </div>
+                        <div class="teachers-content">
+                            <h2>Archana Rautela</h2>
+                            <p>Associate Professor</p>
+                        </div>
+                    </div>
+                </div>
+                 <div class="col-lg-3 col-sm-6">
+                    <div class="single-home-teacher">
+                        <div class="teacher-img">
+                            <img src="assets/images/Ramkishor.png" alt="teacher" style="background-color: rgb(244,245,235);">
+                        </div>
+                        <div class="teachers-content">
+                            <h2>RamKishor Kushwaha</h2>
+                            <p>Associate Professor</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-sm-6">
+                    <div class="single-home-teacher">
+                        <div class="teacher-img">
+                            <img src="assets/images/bhoopendra.jpg" alt="teacher" />
+                        </div>
+                        <div class="teachers-content">
+                            <h2>Dr. Bhoopendra Bharti</h2>
                             <p>Professor</p>
                         </div>
                     </div>
-                </div> -->
+                </div>
                 <div class="col-lg-3 col-sm-6">
                     <div class="single-home-teacher">
                         <div class="teacher-img">
@@ -158,10 +190,10 @@
                 <div class="col-lg-3 col-sm-6">
                     <div class="single-home-teacher">
                         <div class="teacher-img">
-                            <img src="assets/images/mohit.webp" alt="teacher" />
+                            <img src="assets/images/pankhuri.jpeg" alt="teacher" />
                         </div>
                         <div class="teachers-content">
-                            <h2>Dr. Mohit Gupta</h2>
+                            <h2>Pankhuri Hans Rahija</h2>
                             <p>Professor</p>
                         </div>
                     </div>
