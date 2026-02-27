@@ -344,7 +344,7 @@
                     <div class="col-lg-4 col-md-6">
                         <div class="single-home-news">
                             <a href="news.php">
-                                <img src="<?php echo $news_item['image']; ?>" alt="news" style="filter: drop-shadow(5px 6px 5px black);" />
+                                <img src="<?php echo $news_item['bannerImage']; ?>" alt="news" style="filter: drop-shadow(5px 6px 5px black);" />
                             </a>
 
                             <div class="single-home-content">
@@ -489,6 +489,28 @@
                         <div class="teachers-content">
                             <h2>Kriti Dabral</h2>
                             <p>Assistant Professor</p>
+                        </div>
+                    </div>
+                </div>
+                 <div class="col-lg-3 col-sm-6">
+                    <div class="single-home-teacher">
+                        <div class="teacher-img">
+                            <img src="assets/images/ramu.jpg" alt="teacher" />
+                        </div>
+                        <div class="teachers-content">
+                            <h2>Dr. Bandameedi Ramu</h2>
+                            <p>Professor</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-sm-6">
+                    <div class="single-home-teacher">
+                        <div class="teacher-img">
+                            <img src="assets/images/shrikant.jpeg" alt="teacher" />
+                        </div>
+                        <div class="teachers-content">
+                            <h2>Dr. Gajam Srikanth</h2>
+                            <p>Professor</p>
                         </div>
                     </div>
                 </div>

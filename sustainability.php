@@ -43,7 +43,8 @@
     .table th {
         vertical-align: middle;
     }
-    .card{
+
+    .card {
         margin-bottom: 10px;
     }
 </style>
@@ -71,6 +72,15 @@
                 <button class="nav-link main" id="v-pills-friendly-tab" data-bs-toggle="pill" data-bs-target="#v-pills-friendly" type="button" role="tab" aria-controls="v-pills-friendly" aria-selected="false">Disabled Friendly environment</button>
                 <button class="nav-link main" id="v-pills-social-tab" data-bs-toggle="pill" data-bs-target="#v-pills-social" type="button" role="tab" aria-controls="v-pills-social" aria-selected="false">Social Responsibility and Harmony</button>
                 <button class="nav-link main" id="v-pills-celebration-tab" data-bs-toggle="pill" data-bs-target="#v-pills-celebration" type="button" role="tab" aria-controls="v-pills-celebration" aria-selected="false">Celebration of commemorative days</button>
+                <button class="nav-link main" onclick="window.open('https:gncdehradun.com/documents/criterion-6/6.5.2/iso-9001.pdf', '_blank')">
+                    ISO 9001
+                </button>
+                <button class="nav-link main" onclick="window.open('https:gncdehradun.com/documents/criterion-6/6.5.2/iso-14001.pdf', '_blank')">
+                    ISO 14001
+                </button>
+                <button class="nav-link main" onclick="window.open('https:gncdehradun.com/documents/criterion-6/6.5.2/iso-50001.pdf', '_blank')">
+                    ISO 50001
+                </button>
                 <button class="nav-link main"><a href="industry-collaboration.php">Best Practices</a></button>
                 <button class="nav-link main"><a href="#">Code of Conduct</a></button>
 
@@ -107,7 +117,7 @@
                                     <p>By focusing on sustainability & innovation the Guru Nanak College of Pharmaceutical Sciences aims to produce competent, socially responsible, and innovative professionals who can make a positive impact in the pharmaceutical industry and society at large.</p>
                                 </div>
                                 <div class="row images-sus">
-                                     <div class="col-md-6 col-sm-12">
+                                    <div class="col-md-6 col-sm-12">
                                         <div class="card">
                                             <img src="assets/images/Research/Research-69.jpeg" alt="">
                                         </div>
@@ -202,7 +212,7 @@
                                             <img src="assets/images/events/16.webp" alt="">
                                         </div>
                                     </div>
-                                  
+
                                 </div>
                             </div>
                         </div>
@@ -547,13 +557,13 @@
                                 </div>
                             </div>
                             <div class="row images-sus">
-                                 <div class="col-md-4 col-sm-12">
+                                <div class="col-md-4 col-sm-12">
                                     <img src="assets/images/Research/Research-82.jpeg" alt="">
                                 </div>
-                                 <div class="col-md-4 col-sm-12">
+                                <div class="col-md-4 col-sm-12">
                                     <img src="assets/images/Research/Research-85.jpeg" alt="">
                                 </div>
-                                 <div class="col-md-4 col-sm-12">
+                                <div class="col-md-4 col-sm-12">
                                     <img src="assets/images/Research/Research-88.jpeg" alt="">
                                 </div>
                                 <div class="col-md-4 col-sm-12">
@@ -574,16 +584,16 @@
                                 <div class="col-md-4 col-sm-12">
                                     <img src="assets/images/Research/Research-61.jpeg" alt="">
                                 </div>
- <div class="col-md-4 col-sm-12">
+                                <div class="col-md-4 col-sm-12">
                                     <img src="assets/images/Research/Research-62.jpeg" alt="">
                                 </div>
-                                 <div class="col-md-4 col-sm-12">
+                                <div class="col-md-4 col-sm-12">
                                     <img src="assets/images/Research/Research-75.jpeg" alt="">
                                 </div>
-                                 <div class="col-md-4 col-sm-12">
+                                <div class="col-md-4 col-sm-12">
                                     <img src="assets/images/Research/Research-77.jpeg" alt="">
                                 </div>
-                                 <div class="col-md-4 col-sm-12">
+                                <div class="col-md-4 col-sm-12">
                                     <img src="assets/images/Research/Research-78.jpeg" alt="">
                                 </div>
                             </div>

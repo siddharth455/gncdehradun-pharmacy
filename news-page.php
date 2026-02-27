@@ -1,66 +1,196 @@
 <?php
 require "common/header.php";
 
-$id = isset($_GET['id']) ? $_GET['id'] : null; // Fetch the ID from the URL
-if ($id !== null) {
-  $newsData = json_decode(file_get_contents('news-data.json'), true);
-  // Check if the ID is valid
-  if ($id >= 0 && $id < count($newsData)) {
-    $selectedNewsItem = $newsData[$id]; // Get the news item by ID
+/* -------------------------
+   GET EVENT ID
+-------------------------- */
+$id = isset($_GET['id']) ? (int)$_GET['id'] : 0;
 
-    // Determine whether to display one image or three images
-    $totalItems = count($newsData);
-    $displaySingleImage = $id >= $totalItems - 47;
-
-?>
-    <div class="banner-area about" style="background-image: url(assets/images/news-update-head.webp);">
-      <div class="d-table">
-        <div class="d-table-cell">
-          <div class="page-title-content">
-            <h1><?= htmlspecialchars($selectedNewsItem['name']) ?></h1>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="container mt-5 mb-5">
-      <div class="news-content">
-        <h1><?= htmlspecialchars($selectedNewsItem['title']) ?></h1>
-        <h3><?= htmlspecialchars($selectedNewsItem['eventdate']) ?></h3>
-        <p><?= htmlspecialchars($selectedNewsItem['about']) ?></p>
-        <?php if ($displaySingleImage) { ?>
-          <div class="row">
-            <div class="col-lg-12 col-12">
-              <img src="<?= htmlspecialchars($selectedNewsItem['image']) ?>" alt="Image">
-            </div>
-          </div>
-        <?php } else { ?>
-          <div class="row">
-            <div class="col-lg-8 col-12">
-              <img src="<?= htmlspecialchars($selectedNewsItem['image']) ?>" alt="Image 1">
-            </div>
-            <div class="col-lg-4 col-12">
-              <div class="row">
-                <div class="col-lg-12 col-12">
-                  <img src="<?= htmlspecialchars($selectedNewsItem['image3']) ?>" alt="Image 3">
-                </div>
-                <div class="col-lg-12 col-12">
-                  <img src="<?= htmlspecialchars($selectedNewsItem['image2']) ?>" alt="Image 2">
-                </div>
-              </div>
-            </div>
-          </div>
-        <?php } ?>
-        <h2><?= htmlspecialchars($selectedNewsItem['subtitle']) ?></h2>
-        <p><?= htmlspecialchars($selectedNewsItem['description']) ?></p>
-      </div>
-    </div>
-<?php
-  } else {
-    echo "News item not found.";
-  }
-} else {
-  echo "Invalid request.";
+if ($id <= 0) {
+    echo "<p class='text-center mt-5'>Invalid request.</p>";
+    require "common/footer.php";
+    exit;
 }
 
-require "common/footer.php";
+/* -------------------------
+   LOAD JSON DATA
+-------------------------- */
+$dataFile = __DIR__ . '/news-data.json';
+
+if (!file_exists($dataFile)) {
+    echo "<p class='text-center mt-5'>Data file not found.</p>";
+    require "common/footer.php";
+    exit;
+}
+
+$newsData = json_decode(file_get_contents($dataFile), true);
+
+/* -------------------------
+   FIND EVENT BY ID
+-------------------------- */
+$event = null;
+foreach ($newsData as $item) {
+    if ((int)$item['id'] === $id) {
+        $event = $item;
+        break;
+    }
+}
+
+if (!$event) {
+    echo "<p class='text-center mt-5'>Event not found.</p>";
+    require "common/footer.php";
+    exit;
+}
 ?>
+
+<style>
+/* =========================
+   PAGE STYLES
+========================= */
+.event-banner {
+    width: 780px;
+    height: 520px;
+    margin: 10px auto;
+    object-fit: contain;
+    border-radius: 16px;
+    box-shadow: 0 15px 40px rgba(0,0,0,0.15);
+}
+
+.event-banner img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    align-items: center;
+    align-self: center;
+    align-content: center;
+}
+
+.news-content {
+    max-width: 1050px;
+    margin: auto;
+    font-size: 17px;
+    line-height: 1.8;
+    color: #333;
+}
+
+.news-content h1 {
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+
+.gallery-title {
+    font-weight: 600;
+    margin-bottom: 25px;
+}
+
+.gallery-card {
+    height: 340px;
+    border-radius: 14px;
+    overflow: hidden;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.12);
+    transition: transform 0.4s ease, box-shadow 0.4s ease;
+}
+
+.gallery-card img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.gallery-card:hover {
+    transform: translateY(-8px);
+    box-shadow: 0 18px 45px rgba(0,0,0,0.18);
+}
+
+/* =========================
+   ANIMATIONS
+========================= */
+.fade-up {
+    opacity: 0;
+    transform: translateY(30px);
+    transition: all 0.8s ease;
+}
+
+.fade-up.show {
+    opacity: 1;
+    transform: translateY(0);
+}
+ @media (max-width: 768px) {
+           .event-banner {
+    width: 100%;
+    height: 280px;
+    margin: 10px auto;
+    object-fit: contain;
+    border-radius: 16px;
+    box-shadow: 0 15px 40px rgba(0,0,0,0.15);
+}
+        }
+</style>
+
+<!-- =======================
+     TITLE
+======================= -->
+<div class="container mt-5 fade-up">
+    <div class="news-content text-center">
+        <h1><?= htmlspecialchars($event['title']) ?></h1>
+    </div>
+</div>
+
+<!-- =======================
+     BANNER IMAGE
+======================= -->
+<div class="container mt-4 mb-5 fade-up">
+    <div class="event-banner">
+        <img src="<?= htmlspecialchars($event['bannerImage']) ?>"
+             alt="<?= htmlspecialchars($event['title']) ?>">
+    </div>
+</div>
+
+<!-- =======================
+     CONTENT
+======================= -->
+<div class="container mb-5 fade-up">
+    <div class="news-content">
+        <p><?= nl2br(htmlspecialchars($event['content'])) ?></p>
+    </div>
+</div>
+
+<!-- =======================
+     IMAGE GALLERY
+======================= -->
+<?php if (!empty($event['images']) && count($event['images']) > 1): ?>
+<div class="container mb-5 fade-up">
+    <h3 class="gallery-title text-center">Event Gallery</h3>
+    <div class="row">
+        <?php foreach ($event['images'] as $img): ?>
+            <?php if ($img === $event['bannerImage']) continue; ?>
+            <div class="col-lg-4 col-md-6 col-12 mb-4">
+                <div class="gallery-card">
+                    <img src="<?= htmlspecialchars($img) ?>" alt="Event Image">
+                </div>
+            </div>
+        <?php endforeach; ?>
+    </div>
+</div>
+<?php endif; ?>
+
+<!-- =======================
+     SCROLL ANIMATION SCRIPT
+======================= -->
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+    const elements = document.querySelectorAll(".fade-up");
+
+    const observer = new IntersectionObserver(entries => {
+        entries.forEach(entry => {
+            if (entry.isIntersecting) {
+                entry.target.classList.add("show");
+            }
+        });
+    }, { threshold: 0.2 });
+
+    elements.forEach(el => observer.observe(el));
+});
+</script>
+
+<?php require "common/footer.php"; ?>

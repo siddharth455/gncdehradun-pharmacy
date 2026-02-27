@@ -115,7 +115,9 @@
                                     <li class="nav-item">
                                         <a href="committee.php" class="nav-link">committees</a>
                                     </li>
-                                    
+                                    <li class="nav-item">
+                                        <a href="strategic.php" class="nav-link">Strategic Plan</a>
+                                    </li>
                                     <li class="nav-item">
                                         <a href="awards-appreciation.php" class="nav-link">Awards &amp; Appreciation</a>
                                     </li>
