@@ -161,7 +161,7 @@
         "id": 239,
         "title": "Computer Skill for Pharmacy Student",
         "bannerImage": "assets/images/Research/Research-301.jpeg",
-        "content": "The Diwali Celebration was organized for students to promote cultural values, unity, and festive spirit within the institution. Students actively participated in cultural and festive activities, fostering joy, positivity, and mutual bonding. The celebration provided a refreshing break from academic routines and encouraged social interaction among students. It also highlighted the importance of celebrating festivals together while promoting harmony and cultural traditions.",
+        "content": "The Computer Skill Program for Pharmacy Students was organized to enhance digital proficiency and technical competencies essential in the pharmaceutical field. Students actively participated in hands-on training sessions covering basic computing, MS Office applications, data management, and pharmacy-related software. The program helped strengthen their ability to manage digital records, analyze data, and utilize technology effectively in academic and professional settings. It also emphasized the importance of computer literacy in modern pharmacy practice and healthcare management.",
         "images": [
             "assets/uploads/extra/295.jpeg",
             "assets/uploads/extra/296.jpeg"
@@ -180,6 +180,16 @@
         ]
     },
     {
+        "id": 241,
+        "title": "Pharmacovigilance & Regulatory Affairs Workshop",
+        "bannerImage": "assets/images/Research/Research-302.jpeg",
+        "content": "The Pharmacovigilance & Regulatory Affairs Workshop was organized by Guru Nanak College of Pharmaceutical Sciences to enhance students’ knowledge of drug safety monitoring and regulatory compliance in the pharmaceutical sector. The workshop focused on developing essential skills such as adverse drug reaction (ADR) reporting, safety data analysis, regulatory documentation, risk assessment, and understanding national and international regulatory guidelines. Eminent industry experts and regulatory professionals shared practical insights and real-world experiences to guide students on pharmacovigilance processes, post-marketing surveillance, and regulatory submissions. Interactive sessions, case discussions, and hands-on activities strengthened participants’ analytical abilities and professional competence. The program successfully encouraged students to understand their responsibility in ensuring drug safety, maintaining regulatory standards, and contributing to public health.",
+        "images": [
+  "assets/uploads/extra/297.jpg",
+  "assets/uploads/extra/298.jpg"
+]
+    },
+    {
         "id": 177,
         "title": "Seminar on Entrepreneurship as Career Opportunity in Pharma Sector",
         "bannerImage": "assets/images/Research/Research-159.jpg",
@@ -190,6 +200,16 @@
             "assets/uploads/8.6.b/15.jpg",
             "assets/uploads/8.6.b/16.jpg"
         ]
+    },
+    {
+        "id": 243,
+        "title": "Community Pharmacy & Environmental Outreach Drive",
+        "bannerImage": "assets/images/Research/Research-304.jpeg",
+        "content": "The Community Pharmacy & Environmental Outreach Drive was organized by Guru Nanak College of Pharmaceutical Sciences to promote public health awareness and environmental responsibility among students and the local community. The initiative focused on developing essential skills such as patient counseling, rational use of medicines, health education, teamwork, community engagement, and environmental stewardship. Faculty members and healthcare professionals guided students in conducting health awareness activities, medication safety campaigns, and environmental cleanliness initiatives. Through interactive sessions, public interaction, awareness rallies, and eco-friendly activities, participants enhanced their communication skills, social responsibility, and practical understanding of community pharmacy services. The program successfully encouraged students to contribute positively to society by promoting health, sustainability, and responsible community practices.",
+        "images": [
+  "assets/uploads/extra/301.jpg",
+  "assets/uploads/extra/302.jpg"
+]
     },
     {
         "id": 176,
@@ -406,6 +426,17 @@
             "assets/uploads/extra/48.jpg"
         ]
     },
+    
+    {
+        "id": 242,
+        "title": "Advanced Academic Research & Report Writing Workshop",
+        "bannerImage": "assets/images/Research/Research-303.jpeg",
+        "content": "The Advanced Academic Research & Report Writing Workshop was organized by Guru Nanak College of Pharmaceutical Sciences to strengthen students’ research aptitude and scientific writing skills. The workshop focused on developing essential competencies such as research design, literature review techniques, data collection and analysis, referencing styles, plagiarism awareness, and structured report preparation. Experienced academicians and research experts shared valuable insights on identifying research gaps, formulating hypotheses, organizing findings, and presenting data effectively in accordance with academic standards. Interactive sessions, practical exercises, and guided writing activities enhanced participants’ critical thinking, analytical abilities, and academic confidence. The program successfully empowered students to conduct quality research and prepare well-structured, ethical, and impactful academic reports.",
+        "images": [
+  "assets/uploads/extra/299.jpg",
+  "assets/uploads/extra/300.jpg"
+]
+    },
     {
         "id": 157,
         "title": "Jashen-e-Guru On The Ocassion of Teachers Day",
@@ -611,6 +642,16 @@
             "assets/uploads/extra/29.jpg",
             "assets/uploads/extra/30.jpg"
         ]
+    },
+    {
+        "id": 245,
+        "title": "Simulation & Software Lab Sessions",
+        "bannerImage": "assets/images/Research/Research-306.jpeg",
+        "content": "The Simulation & Software Lab Sessions were organized by Guru Nanak College of Pharmaceutical Sciences to enhance students’ technical proficiency and practical understanding of modern pharmaceutical tools and technologies. The sessions focused on developing essential skills such as software-based data analysis, simulation modeling, experimental design, interpretation of results, and digital documentation. Experienced faculty members provided hands-on training in specialized pharmaceutical and research software, enabling students to apply theoretical concepts in a virtual laboratory environment. Interactive practical exercises and guided demonstrations strengthened participants’ analytical abilities, problem-solving skills, and technical confidence. The program successfully prepared students to effectively utilize simulation tools and software applications for academic research, industrial practices, and professional advancement.",
+        "images": [
+  "assets/uploads/extra/305.jpg",
+  "assets/uploads/extra/306.jpg"
+]
     },
     {
         "id": 140,
@@ -926,6 +967,16 @@
         ]
     },
     {
+        "id": 255,
+        "title": "Awareness Program on Environmental Sustainability in Pharmacy Practices",
+        "bannerImage": "assets/images/Research/Research-315.jpeg",
+        "content": "The Awareness Program on Environmental Sustainability in Pharmacy Practices was organized by Guru Nanak College of Pharmaceutical Sciences to promote eco-friendly practices and responsible resource management in the pharmaceutical field. The program focused on developing essential awareness regarding proper biomedical waste disposal, rational use of resources, green pharmacy principles, safe medication disposal, and minimizing environmental impact in healthcare settings. Experts and faculty members shared valuable insights on sustainable manufacturing, eco-conscious pharmacy operations, and regulatory guidelines related to environmental protection. Interactive sessions, discussions, and awareness activities enhanced participants’ understanding of the pharmacist’s role in supporting environmental conservation. The program successfully encouraged students to adopt sustainable practices and contribute toward a greener, healthier future through responsible pharmacy practices.",
+        "images": [
+  "assets/uploads/extra/323.jpg",
+  "assets/uploads/extra/324.jpg"
+]
+    },
+    {
         "id": 113,
         "title": "Happy Republic Day",
         "bannerImage": "assets/images/Research/Research-118.jpg",
@@ -974,6 +1025,16 @@
         "images": [
   "assets/uploads/ankur-2/19.jpg",
   "assets/uploads/ankur-2/20.jpg"
+]
+    },
+    {
+        "id": 254,
+        "title": "Workshop on Self Learning and Continuous Professional Development",
+        "bannerImage": "assets/images/Research/Research-314.jpeg",
+        "content": "The Workshop on Self Learning and Continuous Professional Development was organized by Guru Nanak College of Pharmaceutical Sciences to encourage students to cultivate lifelong learning habits and professional growth. The workshop focused on developing essential skills such as independent learning strategies, goal setting, critical thinking, reflective practice, professional networking, and staying updated with advancements in pharmaceutical sciences. Experienced academicians and industry professionals shared valuable insights on utilizing digital resources, research databases, professional certifications, and continuing education programs to enhance career prospects. Interactive discussions, self-assessment activities, and action-planning exercises motivated participants to take responsibility for their academic and professional development. The program successfully inspired pharmacy students to embrace continuous learning as a key component of personal excellence and long-term career success.",
+        "images": [
+  "assets/uploads/extra/321.jpg",
+  "assets/uploads/extra/322.jpg"
 ]
     },
     {
@@ -1057,6 +1118,16 @@
         ]
     },
     {
+        "id": 256,
+        "title": "Seminar on Role of Pharmacist in Public Health and Society",
+        "bannerImage": "assets/images/Research/Research-316.jpeg",
+        "content": "The Seminar on Role of Pharmacist in Public Health and Society was organized by Guru Nanak College of Pharmaceutical Sciences to highlight the vital contributions of pharmacists in promoting community health and social well-being. The seminar focused on developing awareness about key responsibilities such as patient counseling, disease prevention, medication safety, health promotion, vaccination support, and participation in public health initiatives. Eminent healthcare professionals and academicians shared valuable insights into the expanding role of pharmacists in community outreach, chronic disease management, pharmacovigilance, and health education programs. Interactive discussions and case-based examples enhanced participants’ understanding of ethical practice, professional accountability, and social responsibility. The seminar successfully inspired students to recognize their integral role in strengthening healthcare systems and serving society with dedication, competence, and compassion.",
+        "images": [
+  "assets/uploads/extra/325.jpg",
+  "assets/uploads/extra/326.jpg"
+]
+    },
+    {
         "id": 204,
         "title": "Strength Training for Pharmacy Profession",
         "bannerImage": "assets/images/Research/Research-231.jpg",
@@ -1127,6 +1198,16 @@
         ]
     },
     {
+        "id": 251,
+        "title": "Fitness and Wellness Program for Pharmacy Students",
+        "bannerImage": "assets/images/Research/Research-312.jpeg",
+        "content": "The Fitness and Wellness Program for Pharmacy Students was organized by Guru Nanak College of Pharmaceutical Sciences to promote physical health, mental well-being, and a balanced lifestyle among students. The program focused on developing essential habits such as regular physical activity, healthy nutrition, stress management, posture awareness, and preventive healthcare practices. Fitness trainers and wellness experts provided guidance on exercise routines, stretching techniques, dietary awareness, and lifestyle modifications suitable for students managing academic responsibilities. Interactive fitness sessions, wellness talks, and practical demonstrations encouraged active participation and self-discipline. The program successfully motivated pharmacy students to prioritize their health, maintain overall well-being, and adopt sustainable fitness practices alongside their academic pursuits.",
+        "images": [
+  "assets/uploads/extra/317.jpg",
+  "assets/uploads/extra/318.jpg"
+]
+    },
+    {
         "id": 99,
         "title": "Research Day Poster",
         "bannerImage": "assets/images/Research/Research-188.jpg",
@@ -1136,6 +1217,16 @@
             "assets/uploads/extra/115.jpg",
             "assets/uploads/extra/116.jpg"
         ]
+    },
+    {
+        "id": 250,
+        "title": "Time Management and Effective Planning Workshop",
+        "bannerImage": "assets/images/Research/Research-311.jpeg",
+        "content": "The Time Management and Effective Planning Workshop was organized by Guru Nanak College of Pharmaceutical Sciences to help students enhance their productivity and organizational skills. The workshop focused on developing essential competencies such as goal setting, prioritization, scheduling techniques, strategic planning, task delegation, and balancing academic and personal responsibilities. Experienced trainers shared practical strategies and proven methods to overcome procrastination, manage deadlines efficiently, and optimize daily routines. Interactive activities, planning exercises, and group discussions enabled participants to assess their time utilization patterns and adopt structured planning approaches. The program successfully empowered students to manage their time effectively, improve academic performance, and cultivate disciplined habits for personal and professional success.",
+        "images": [
+  "assets/uploads/extra/315.jpg",
+  "assets/uploads/extra/316.jpg"
+]
     },
     {
         "id": 98,
@@ -1156,6 +1247,16 @@
         "images": [
   "assets/uploads/extra/231.jpg",
   "assets/uploads/extra/232.jpg"
+]
+    },
+    {
+        "id": 249,
+        "title": "Hands on Workshop on Digital Tools for Pharmacy Practice",
+        "bannerImage": "assets/images/Research/Research-310.jpeg",
+        "content": "The Hands-on Workshop on Digital Tools for Pharmacy Practice was organized by Guru Nanak College of Pharmaceutical Sciences to equip students with practical knowledge of emerging digital technologies in the pharmaceutical field. The workshop focused on developing essential skills such as electronic prescription management, pharmacy management software usage, data analysis, digital documentation, telepharmacy practices, and health information systems. Experienced faculty members and industry professionals provided live demonstrations and guided training sessions to familiarize participants with commonly used digital platforms and tools in modern pharmacy practice. Interactive practical exercises and real-time simulations enhanced students’ technical proficiency, accuracy, and confidence in handling digital workflows. The program successfully prepared participants to adapt to technological advancements and effectively integrate digital tools into professional pharmacy practice.",
+        "images": [
+  "assets/uploads/extra/313.jpg",
+  "assets/uploads/extra/314.jpg"
 ]
     },
     {
@@ -1212,6 +1313,16 @@
         ]
     },
     {
+        "id": 253,
+        "title": "Patient Counseling Skills Development Workshop",
+        "bannerImage": "assets/images/Research/Research-313.jpeg",
+        "content": "The Patient Counseling Skills Development Workshop was organized by Guru Nanak College of Pharmaceutical Sciences to enhance students’ ability to provide effective and compassionate patient care. The workshop focused on developing essential skills such as clear communication, active listening, medication guidance, adherence counseling, empathy, confidentiality, and patient education. Experienced faculty members and healthcare professionals shared practical strategies for counseling patients on proper drug usage, dosage instructions, potential side effects, lifestyle modifications, and safe medication practices. Interactive role-plays, case-based discussions, and simulated counseling sessions strengthened participants’ confidence, clarity, and professional demeanor. The program successfully empowered pharmacy students to deliver patient-centered care with accuracy, empathy, and a strong sense of professional responsibility.",
+        "images": [
+  "assets/uploads/extra/319.jpg",
+  "assets/uploads/extra/320.jpg"
+]
+    },
+    {
         "id": 223,
         "title": "Seminar on Reference management",
         "bannerImage": "assets/images/Research/Research-300.jpeg",
@@ -1252,6 +1363,16 @@
             "assets/uploads/8.5.a/39.jpg",
             "assets/uploads/8.5.a/40.jpg"
         ]
+    },
+    {
+        "id": 247,
+        "title": "Seminar on Pharmaceutical Ethics and Professional Responsibility",
+        "bannerImage": "assets/images/Research/Research-308.jpeg",
+        "content": "The Seminar on Pharmaceutical Ethics and Professional Responsibility was organized by Guru Nanak College of Pharmaceutical Sciences to strengthen students’ understanding of ethical practices and professional standards in the pharmaceutical field. The seminar focused on developing essential competencies such as ethical decision-making, patient confidentiality, regulatory compliance, professional integrity, and accountability in healthcare services. Eminent speakers and industry professionals shared valuable insights into ethical dilemmas in pharmacy practice, clinical research conduct, and the importance of maintaining transparency and trust in pharmaceutical operations. Interactive discussions and case-based learning enhanced participants’ critical thinking and moral reasoning abilities. The seminar successfully encouraged students to uphold ethical principles and demonstrate professionalism in their academic pursuits and future roles as responsible healthcare professionals.",
+        "images": [
+  "assets/uploads/extra/309.jpg",
+  "assets/uploads/extra/310.jpg"
+]
     },
     {
         "id": 90,
@@ -1325,6 +1446,16 @@
 ]
     },
     {
+        "id": 246,
+        "title": "Leadership and Team-Building Skills for Pharmacy Students",
+        "bannerImage": "assets/images/Research/Research-307.jpeg",
+        "content": "The Leadership and Team-Building Skills for Pharmacy Students program was organized by Guru Nanak College of Pharmaceutical Sciences to cultivate leadership qualities and strengthen collaborative abilities among students. The program focused on developing essential skills such as effective communication, decision-making, conflict resolution, time management, delegation, and strategic thinking. Experienced trainers and faculty members shared practical insights and motivational guidance to help students understand the importance of teamwork and responsible leadership in the healthcare and pharmaceutical sectors. Interactive activities, group discussions, role-plays, and team-based tasks enhanced participants’ confidence, coordination, and interpersonal skills. The program successfully encouraged pharmacy students to embrace leadership roles with professionalism, accountability, and a commitment to excellence in their academic and professional careers.",
+        "images": [
+  "assets/uploads/extra/307.jpg",
+  "assets/uploads/extra/308.jpg"
+]
+    },
+    {
         "id": 85,
         "title": "Innovation Ideathon",
         "bannerImage": "assets/images/Research/Research-186.jpg",
@@ -1354,6 +1485,16 @@
             "assets/uploads/8.5.f/6.jpg",
             "assets/uploads/8.5.f/7.jpg"
         ]
+    },
+    {
+        "id": 248,
+        "title": "Workshop on Professional Communication Skills for Pharmacists",
+        "bannerImage": "assets/images/Research/Research-309.jpeg",
+        "content": "The Workshop on Professional Communication Skills for Pharmacists was organized by Guru Nanak College of Pharmaceutical Sciences to enhance students’ interpersonal and professional communication abilities in healthcare settings. The workshop focused on developing essential skills such as patient counseling, active listening, verbal and non-verbal communication, presentation skills, documentation practices, and professional etiquette. Experienced trainers and faculty members shared practical strategies to improve clarity, empathy, and confidence while interacting with patients, healthcare professionals, and regulatory authorities. Interactive role-plays, group discussions, and real-life scenario-based activities strengthened participants’ communication competence and professional demeanor. The program successfully empowered pharmacy students to communicate effectively, build trust with patients, and maintain professionalism in diverse clinical and pharmaceutical environments.",
+        "images": [
+  "assets/uploads/extra/311.jpg",
+  "assets/uploads/extra/312.jpg"
+]
     },
     {
         "id": 82,
@@ -1391,6 +1532,16 @@
             "assets/uploads/4.8.1.b/152.jpg",
             "assets/uploads/4.8.1.b/153.jpg"
         ]
+    },
+    {
+        "id": 244,
+        "title": "Yoga and Mindfulness for Academic Stress management",
+        "bannerImage": "assets/images/Research/Research-305.jpeg",
+        "content": "The Yoga and Mindfulness for Academic Stress Management program was organized by Guru Nanak College of Pharmaceutical Sciences to promote mental well-being and emotional balance among students. The session focused on developing essential skills such as stress management, concentration, self-awareness, emotional regulation, and healthy lifestyle practices. Experienced yoga instructors and wellness experts guided participants through breathing techniques, meditation practices, and simple yoga postures designed to reduce academic pressure and enhance mental clarity. Interactive sessions and practical demonstrations helped students understand the importance of mindfulness in maintaining physical and psychological health. The program successfully encouraged students to adopt yoga and mindfulness practices as effective tools for managing academic stress and improving overall well-being.",
+        "images": [
+  "assets/uploads/extra/303.jpg",
+  "assets/uploads/extra/304.jpg"
+]
     },
     {
         "id": 79,
