@@ -65,62 +65,31 @@
             </tr>
             <tr>
                 <th scope="row">8</th>
-                <th>Dakshveer Pal</th>
-                <th>Male</th>
-            </tr>
-            <tr>
-                <th scope="row">9</th>
-                <th>Mohd. Aasif</th>
-                <th>Male</th>
-            </tr>
-
-             <tr>
-                <th scope="row">10</th>
-                <th>Nabi Ahmad</th>
-                <th>Male</th>
-            </tr>
-            <tr>
-                <th scope="row">11</th>
                 <th>Raunak Chahal</th>
                 <th>Male</th>
             </tr>
             <tr>
-                <th scope="row">12</th>
+                <th scope="row">9</th>
                 <th>Deepak Kumar</th>
                 <th>Male</th>
             </tr>
             <tr>
-                <th scope="row">13</th>
-                <th>Pakhi Sharma</th>
-                <th>Female</th>
-            </tr>
-            <tr>
-                <th scope="row">14</th>
+                <th scope="row">10</th>
                 <th>Garima Chand</th>
                 <th>Male</th>
             </tr>
             <tr>
-                <th scope="row">15</th>
+                <th scope="row">11</th>
                 <th>Syed Imran Hussain</th>
                 <th>Male</th>
             </tr>
             <tr>
-                <th scope="row">16</th>
+                <th scope="row">12</th>
                 <th>Dr. Lalit Kumar</th>
                 <th>Male</th>
             </tr>
             <tr>
-                <th scope="row">17</th>
-                <th>Dr. Nidhi Chaterjee</th>
-                <th>Female</th>
-            </tr>
-            <tr>
-                <th scope="row">18</th>
-                <th>Tarun Kumar Verma</th>
-                <th>Male</th>
-            </tr>
-            <tr>
-                <th scope="row">19</th>
+                <th scope="row">13</th>
                 <th>Ankur Jaiswal</th>
                 <th>Male</th>
             </tr>

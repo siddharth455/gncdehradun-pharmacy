@@ -190,7 +190,7 @@
                     <div class="row">
                         <div class="col-lg-4 col-md-5">
                             <div class="admission-circle" style="filter: drop-shadow(5px 6px 5px black);">
-                                <h2 style="text-align: center;">Admission Open for<span>2024-25</span></h2>
+                                <h2 style="text-align: center;">Admission Open for<span>2026-27</span></h2>
 
                                 <div class="admission-shape1">
                                     <img src="assets/images/admission/shape1.png" alt="shape" />
@@ -407,18 +407,18 @@
                 <div class="col-lg-3 col-sm-6">
                     <div class="single-home-teacher">
                         <div class="teacher-img">
-                            <img src="assets/images/rekha.jpg" alt="teacher" />
+                            <img src="assets/images/rekha.jpeg" alt="teacher" />
                         </div>
                         <div class="teachers-content">
                             <h2>Rekha Pal</h2>
-                            <p>Professor</p>
+                            <p>Assistant Professor</p>
                         </div>
                     </div>
                 </div>
                  <div class="col-lg-3 col-sm-6">
                     <div class="single-home-teacher">
                         <div class="teacher-img">
-                            <img src="assets/images/gulafsha.jpg" alt="teacher" />
+                            <img src="assets/images/gulafsha.jpeg" alt="teacher" />
                         </div>
                         <div class="teachers-content">
                             <h2>Gulafsha Parveen</h2>

@@ -35,48 +35,27 @@
             </tr>
             <tr>
                 <th scope="row">2</th>
-                <th>Dakshveer Pal</th>
-                <th>Lab Technician</th>
-            </tr>
-            <tr>
-                <th scope="row">3</th>
-                <th>Mohd. Aasif</th>
-                <th>Lab Technician</th>
-            </tr>
-
-             <tr>
-                <th scope="row">4</th>
-                <th>Nabi Ahmad</th>
-                <th>Lab Technician</th>
-            </tr>
-            <tr>
-                <th scope="row">5</th>
                 <th>Raunak Chahal</th>
                 <th>Lab Technician</th>
             </tr>
             <tr>
-                <th scope="row">6</th>
+                <th scope="row">3</th>
                 <th>Deepak Kumar</th>
                 <th>Lab Technician</th>
             </tr>
             <tr>
-                <th scope="row">7</th>
-                <th>Pakhi Sharma</th>
-                <th>Lab Technician</th>
-            </tr>
-            <tr>
-                <th scope="row">8</th>
+                <th scope="row">4</th>
                 <th>Garima Chand</th>
                 <th>Lab Technician</th>
             </tr>
             <tr>
-                <th scope="row">9</th>
+                <th scope="row">5</th>
                 <th>Syed Imran Hussain</th>
                 <th>Lab Technician</th>
             </tr>
             <tr>
-                <th scope="row">10</th>
-                <th>Astha Singh</th>
+                <th scope="row">6</th>
+                <th>Akshay Kandwal</th>
                 <th>Lab Technician</th>
             </tr>
         </tbody>

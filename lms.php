@@ -758,6 +758,29 @@ require "common/header.php";
                             <small>Guru Nanak College</small>
                         </div>
                     </a>
+
+                    <a class="video-item" target="_blank" href="https://www.youtube.com/watch?v=X5nEaPfzTqk&t=7s">
+                        <img src="https://img.youtube.com/vi/X5nEaPfzTqk/mqdefault.jpg">
+                        <div>
+                            <h6>Gastro Intestinal Disorder Explained</h6>
+                            <small>Guru Nanak College</small>
+                        </div>
+                    </a>
+
+                     <a class="video-item" target="_blank" href="https://www.youtube.com/watch?v=Z-alsVOjPPo&t=3s">
+                        <img src="https://img.youtube.com/vi/Z-alsVOjPPo/mqdefault.jpg">
+                        <div>
+                            <h6>Homogeneous vs Heterogeneous Mixtures</h6>
+                            <small>Guru Nanak College</small>
+                        </div>
+                    </a>
+                    <a class="video-item" target="_blank" href="https://www.youtube.com/watch?v=9LmlQE8woks&t=5s">
+                        <img src="https://img.youtube.com/vi/9LmlQE8woks/mqdefault.jpg">
+                        <div>
+                            <h6>How Does the Heart Generate Impulses?</h6>
+                            <small>Guru Nanak College</small>
+                        </div>
+                    </a>
                 </div>
 
             </div>
