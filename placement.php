@@ -114,17 +114,12 @@
             </tr>
             <tr>
                 <th scope="row">2</th>
-                <td>Mr. Anupam</td>
-                <td>Placement Cell Head</b></td>
-            </tr>
-            <tr>
-                <th scope="row">3</th>
                 <td>Dr. Nidhi Chatterjee</td>
                 <td>Placement Executives</b></td>
             </tr>
             <tr>
-                <th scope="row">4</th>
-                <td>Mr. Kashif Hussain</td>
+                <th scope="row">3</th>
+                <td>Dr. Kashif Hussain</td>
                 <td>Faculty In-charge</b></td>
             </tr>
         </tbody>

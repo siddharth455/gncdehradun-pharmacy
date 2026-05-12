@@ -213,7 +213,6 @@
                                     <li class="nav-item">
                                         <a href="scholarship-section.php" class="nav-link">Scholarship</a>
                                     </li>
-
                                     <!-- <li class="nav-item">
                         <a href="b-pharmacy-le.php" class="nav-link">B.Pharm (LE)</a>
                     </li> -->
@@ -247,9 +246,9 @@
                                     <li class="nav-item">
                                         <a href="sports.php" class="nav-link">Sports Infrastructure</a>
                                     </li>
-                                    <!-- <li class="nav-item">
-                                        <a href="alumni.php" class="nav-link">Alumni</a>
-                                    </li> -->
+                                    <li class="nav-item">
+                                        <a href="magazine-news-letter.php" class="nav-link">Magazine & News Letter</a>
+                                    </li>
                                     <li class="nav-item">
                                         <a href="nss.php" class="nav-link">NSS</a>
                                     </li>
